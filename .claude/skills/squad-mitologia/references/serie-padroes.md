@@ -3,7 +3,10 @@
 A coleção é o produto: um leitor que compra o segundo livro deve reconhecer o primeiro.
 
 ## Editorial
-- Nome da série: `[a definir]` (proposta no primeiro run, aprovada no checkpoint).
+- Nome da série: **"Era Uma Vez um Mito"** (aprovado pelo humano no checkpoint da Fase 0 do
+  livro grego, 2026-08-30). Livro 1: *Era Uma Vez um Mito — Grécia*.
+- Disclosure de IA (ficha técnica, todos os livros): "Ilustrações criadas com auxílio de
+  inteligência artificial generativa, sob direção de arte e curadoria humanas."
 - Estrutura fixa de livro: ver `pipeline-impressao.md` §Estrutura.
 - Capítulo específico: ~600–1.000 palavras · capítulo geral: ~1.200–2.000 (ver
   `adequacao-etaria.md`).

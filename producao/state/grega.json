@@ -1,18 +1,68 @@
 {
   "livro": "grega",
   "mitologia": "grega",
-  "fase_atual": "fundacao",
+  "fase_atual": "pesquisa",
   "capitulos": [
-    {"slug": "zeus-baucis-e-filemon", "ordem_leitura": 1, "ordem_producao": "P1", "status": "planejado"},
-    {"slug": "atena-disputa-por-atenas", "ordem_leitura": 2, "ordem_producao": "P2", "status": "planejado"},
-    {"slug": "artemis-e-apolo-nascimento-em-delos", "ordem_leitura": 3, "ordem_producao": "P1", "status": "planejado"},
-    {"slug": "hermes-o-gado-e-a-lira", "ordem_leitura": 4, "ordem_producao": "P2", "status": "planejado"},
-    {"slug": "hefesto-o-trono-de-ouro", "ordem_leitura": 5, "ordem_producao": "P1", "status": "planejado"},
-    {"slug": "demeter-e-persefone", "ordem_leitura": 6, "ordem_producao": "P2", "status": "planejado"},
-    {"slug": "perseu-e-a-medusa", "ordem_leitura": 7, "ordem_producao": "P3", "status": "planejado"},
-    {"slug": "teseu-e-o-minotauro", "ordem_leitura": 8, "ordem_producao": "P3", "status": "planejado"},
-    {"slug": "midas-o-toque-de-ouro", "ordem_leitura": 9, "ordem_producao": "P3", "status": "planejado"},
-    {"slug": "do-caos-ao-olimpo", "ordem_leitura": 10, "ordem_producao": "P0", "status": "planejado"}
+    {
+      "slug": "zeus-baucis-e-filemon",
+      "ordem_leitura": 1,
+      "ordem_producao": "P1",
+      "status": "planejado"
+    },
+    {
+      "slug": "atena-disputa-por-atenas",
+      "ordem_leitura": 2,
+      "ordem_producao": "P2",
+      "status": "planejado"
+    },
+    {
+      "slug": "artemis-e-apolo-nascimento-em-delos",
+      "ordem_leitura": 3,
+      "ordem_producao": "P1",
+      "status": "planejado"
+    },
+    {
+      "slug": "hermes-o-gado-e-a-lira",
+      "ordem_leitura": 4,
+      "ordem_producao": "P2",
+      "status": "planejado"
+    },
+    {
+      "slug": "hefesto-o-trono-de-ouro",
+      "ordem_leitura": 5,
+      "ordem_producao": "P1",
+      "status": "planejado"
+    },
+    {
+      "slug": "demeter-e-persefone",
+      "ordem_leitura": 6,
+      "ordem_producao": "P2",
+      "status": "planejado"
+    },
+    {
+      "slug": "perseu-e-a-medusa",
+      "ordem_leitura": 7,
+      "ordem_producao": "P3",
+      "status": "planejado"
+    },
+    {
+      "slug": "teseu-e-o-minotauro",
+      "ordem_leitura": 8,
+      "ordem_producao": "P3",
+      "status": "planejado"
+    },
+    {
+      "slug": "midas-o-toque-de-ouro",
+      "ordem_leitura": 9,
+      "ordem_producao": "P3",
+      "status": "planejado"
+    },
+    {
+      "slug": "do-caos-ao-olimpo",
+      "ordem_leitura": 10,
+      "ordem_producao": "P0",
+      "status": "planejado"
+    }
   ],
   "pendencias": [
     "URLs de fontes (Theoi/WHE) e referências do Met não verificadas — proxy de rede bloqueou os domínios nesta sessão",
@@ -25,6 +75,13 @@
     "Nome da série, tipografia serial e disclosure de IA — decisão do humano no checkpoint",
     "Perfil ICC / gráfica-alvo — aberta até a Fase 5"
   ],
-  "gates": {},
-  "checkpoint": "aguardando humano"
+  "gates": {
+    "fundacao": "aprovado"
+  },
+  "checkpoint": null,
+  "decisoes": {
+    "serie_nome": "Era Uma Vez um Mito",
+    "heracles": "fora do sumario (candidato a edicao ampliada)",
+    "disclosure_ia": "Ilustrações criadas com auxílio de inteligência artificial generativa, sob direção de arte e curadoria humanas."
+  }
 }
