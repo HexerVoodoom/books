@@ -1,6 +1,6 @@
 # Capítulo 04 — Hermes, o gado e a lira
 
-> Tipo: específico · Dossiê: dossies/dossie-hermes-o-gado-e-a-lira.md · Palavras-alvo: 500–600 (livro-spec Rev. 3, X1) · Contagem do texto corrido: **588 palavras** · Box: **61 palavras** (teto 80)
+> Tipo: específico · Dossiê: dossies/dossie-hermes-o-gado-e-a-lira.md · Palavras-alvo: 500–600 (livro-spec Rev. 3, X1) · Contagem do texto corrido: **587 palavras** · Box: **57 palavras** (teto 80)
 
 ## Texto
 
@@ -12,7 +12,7 @@ Saiu do berço.
 
 Na porta da caverna havia uma tartaruga pastando na grama. Hermes olhou para ela e viu outra coisa. Viu música.
 
-Do casco liso ele fez a caixa. De duas canas, os braços. De um pedacinho de pau atravessado, a travessa. Esticou sete fios de ponta a ponta, um ao lado do outro, e passou o dedo por eles.
+Do casco liso ele fez a caixa. De duas canas, os braços. De um pedacinho de pau atravessado, a travessa. Esticou sete fios, um ao lado do outro, e passou o dedo por eles.
 
 A caverna inteira soou.
 
@@ -22,7 +22,7 @@ De tarde, Hermes ficou com fome. E foi então que ele fez a coisa errada: desceu
 
 Roubou mesmo. Não pegou emprestado.
 
-E, como era esperto, tocou as vacas para trás, de modo que os cascos deixassem pegadas apontando para o lado contrário. Quem viesse atrás da pista ia caminhar para bem longe delas. Depois trançou umas sandálias de vime, largas e desengonçadas, para que nem os próprios pés dissessem por onde tinha andado.
+E, como era esperto, tocou as vacas para trás, de modo que os cascos deixassem pegadas apontando para o lado contrário. Quem seguisse a pista ia caminhar para bem longe delas. Depois trançou sandálias de vime, largas e desengonçadas, para que nem os próprios pés dissessem por onde tinha andado.
 
 Escondeu as vacas numa gruta à beira do rio. E ali, junto da água, acendeu o primeiro fogo que já se acendeu no mundo. O que aconteceu naquela noite ao lado do fogo, a história não conta.
 
@@ -38,11 +38,11 @@ Apolo chegou pouco depois, e chegou furioso. Olhou dentro do berço.
 
 — Que vacas? — disse o bebê. — Eu nasci ontem. Meus pés são macios e o chão lá fora é áspero. Eu gosto é de leite, de banho quente e desta coberta.
 
-Apolo pegou o bebê no colo e o carregou até o Olimpo, para a frente de Zeus.
+Apolo pegou o bebê no colo e o carregou até o Olimpo, diante de Zeus.
 
 Apolo acusou. Hermes repetiu tudo, palavra por palavra: pés macios, leite, banho quente.
 
-E Zeus riu. Riu alto, riu até as nuvens sacudirem, porque em toda a história do mundo ninguém tinha mentido tão bem com um dia de idade. Quando parou de rir, não castigou ninguém. Disse só:
+E Zeus riu. Riu alto, riu até as nuvens sacudirem, porque ninguém no mundo tinha mentido tão bem com um dia de idade. Quando parou de rir, não castigou ninguém. Disse só:
 
 — Vão os dois. E tu vais na frente, mostrando onde é.
 
@@ -93,7 +93,7 @@ Momento: à beira do rio Alfeu, com a briga recém-terminada — o gesto da entr
 
 ## Notas de execução (para o editor e o loop adversarial)
 
-- **Batidas 1–10 do orçamento do dossiê: todas presentes, na ordem.** Contagem 588 (orçamento previa 585).
+- **Batidas 1–10 do orçamento do dossiê: todas presentes, na ordem.** Contagem 587 (orçamento previa 585).
 - **X9 / B26 cumprida na primeira linha**, com a redação do dossiê praticamente literal ("Naquele tempo, Hermes ainda não tinha o bastão de ouro"), 21 palavras na abertura.
 - **Intocáveis:** B2 — a lira é inventada **antes** do roubo, e o texto marca a ordem pelo relógio do dia ("de manhã" / "meio dia de idade" / "de tarde"). B3 — o verbo **"roubou"** aparece, e o parágrafo curto "Roubou mesmo. Não pegou emprestado." fecha qualquer leitura de mal-entendido. B8 — **Zeus ri**, alto, e **não castiga**: a sentença é "vão os dois". A7/B9 — a lira é entregue **e** as cinquenta vacas voltam ao dono, numa frase explícita e antes da entrega, para que o presente não pareça pagamento do produto do furto. A8/B10 — o bastão é **presente de Apolo**, e fecha o capítulo.
 - **A5 (cap. 3) honrada e transformada em virada:** Apolo já tinha declarado, ao nascer, que a lira seria sempre dele — o texto diz isso e acrescenta "só que ninguém no mundo tinha feito uma ainda". Ele não descobre a música; ele encontra **o instrumento** que reivindicou. O leitor do cap. 3 recebe o pagamento da promessa.
