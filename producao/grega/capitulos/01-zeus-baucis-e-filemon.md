@@ -24,7 +24,7 @@ Baucis e Filêmon tinham envelhecido ali, debaixo do mesmo teto. Eram pobres, sa
 
 Baucis soprou as brasas de ontem até acordarem, alimentou o fogo com casca e folha seca e pendurou o caldeirão. Filêmon arrancou um repolho da horta. Do madeiro do teto desceu um pedaço de carne curada, e dele se cortou uma fatia fina — fina, mas foi.
 
-A mesa tinha três pés, e um deles era curto. Baucis procurou no chão, achou um caco de telha e enfiou embaixo. A mesa parou de balançar. Depois ela esfregou o tampo com hortelã fresca, para ficar cheirando bem.
+A mesa tinha três pés, e um deles era curto. Baucis procurou no chão, achou um caco de telha e enfiou embaixo. A mesa parou de balançar. Depois ela esfregou o tampo com hortelã fresca.
 
 Vieram azeitonas, rabanete, queijo, ovos assados na cinza morna. Vieram nozes, figos, ameixas, uvas. No meio de tudo, um favo de mel branco. Os copos eram de madeira de faia, untados de cera amarela.
 
@@ -32,7 +32,11 @@ Foi então que Baucis viu.
 
 A jarra de vinho ficou vazia — e se encheu sozinha. Esvaziou de novo, e de novo se encheu, sem que ninguém a tocasse.
 
-Os dois velhos ergueram as mãos, com medo, e pediram desculpas pelo jantar pobre. Depois pensaram no ganso branco que tomava conta da casa, a única coisa de valor que tinham. Queriam preparar o ganso para os hóspedes.
+Os dois velhos ergueram as mãos, com medo.
+
+— Perdoem a mesa — disse Baucis. — Não temos mais nada para pôr nela.
+
+Depois pensaram no ganso branco que tomava conta da casa, a única coisa de valor que tinham. Queriam preparar o ganso para os hóspedes.
 
 O ganso tinha outros planos.
 
@@ -42,19 +46,19 @@ Correu para a esquerda, correu para a direita, passou debaixo do banco e saiu pe
 
 Eram Zeus e Hermes. Tinham batido em mil portas, e uma só abriu.
 
-— Venham conosco. Subam o monte, e não olhem para trás.
+— Venham conosco. Subam o monte.
 
 Baucis e Filêmon subiram devagar, de mãos dadas, do jeito que dois velhos sobem um monte. Lá em cima, olharam.
 
 O vale inteiro tinha virado um lago calmo, cheio de aves. De todas as casas do lugar, só a deles ainda estava de pé.
 
-E, atrás deles, a casa começou a mudar. Os esteios de madeira se esticaram e viraram colunas. O telhado de junco foi ficando amarelo até virar ouro. Apareceram portas lavradas, e o chão de terra batida virou mármore. A choupana pequena demais para dois era agora um templo.
+E, atrás deles, a casa começou a mudar. Os paus de madeira que seguravam o teto se esticaram e viraram colunas. O telhado de junco foi ficando amarelo até virar ouro. Apareceram portas lavradas, e o chão de terra batida virou mármore. A choupana pequena demais para dois era agora um templo.
 
 — Peçam o que quiserem — disse Zeus.
 
 Filêmon conversou baixinho com Baucis. Depois se virou.
 
-— Deixe que a gente cuide deste templo. E, já que vivemos tantos anos juntos, que a mesma hora leve nós dois. Que eu nunca veja o túmulo dela, nem ela tenha de enterrar a mim.
+— Deixe que a gente cuide deste templo. E, já que vivemos tantos anos juntos, que a mesma hora leve nós dois. Que nenhum de nós dois fique aqui sozinho.
 
 Foi o que aconteceu. Cuidaram do templo enquanto a vida durou. E um dia, já muito velhos, de pé nos degraus, contando a história daquele lugar, cada um viu no rosto do outro brotarem folhas.
 
@@ -64,7 +68,7 @@ Ainda deu tempo de se despedirem.
 
 — Adeus, meu companheiro.
 
-E a casca fechou as duas bocas ao mesmo tempo.
+E a casca subiu e fechou por cima dos dois ao mesmo tempo.
 
 Quem passa hoje pelas colinas da Frígia vê um carvalho e uma tília lado a lado, nascidos do mesmo chão. Nos galhos, ainda penduram grinaldas.
 
@@ -91,17 +95,25 @@ viajantes de terras distantes, só para ver como as pessoas se comportam.
 Enquadramento vertical de página inteira, full-bleed, um só momento, capturado **no meio da
 transformação**.
 
-- **Centro-baixo:** **Baucis e Filêmon de mãos dadas**, muito velhos, de costas de três quartos
-  para o leitor e rostos voltados para cima, em espanto — rostos frontais/três-quartos,
+> **Correção de continuidade (cético P1, O3):** a cena anterior punha o casal *à porta* e a
+> casa *acima e atrás* — impossível, porque no texto os dois **sobem o monte** e a
+> metamorfose acontece **atrás e abaixo** deles. O ponto de vista correto é **meia encosta**:
+> três planos em profundidade — casal no primeiro plano (alto), casa logo abaixo/atrás em
+> metamorfose, vale-lago ao fundo.
+
+- **Primeiro plano, alto (meia encosta):** **Baucis e Filêmon de mãos dadas**, muito velhos,
+  parados no caminho do monte, o corpo de três quartos e os rostos **voltados para baixo e
+  para trás**, em espanto — rostos frontais/três-quartos,
   expressivos e legíveis (hierarquia X5: **Mucha atua**). Velhice **digna e ativa**, jamais
   decrépita ou cômica. O par é **simétrico e da mesma altura**; a idade se lê no rosto e na mão,
-  nunca em caricatura. Roupa rústica, pés no degrau que **de um lado ainda é terra batida e do
-  outro já é mármore**. **Nunca separar os dois em nenhum quadro do capítulo.**
-- **Acima e atrás:** a choupana **em metamorfose**, lida da esquerda para a direita — esteios de
-  madeira alongando-se em colunas, colmo de junco amarelecendo até virar ouro na cumeeira,
-  portas lavradas surgindo. É a única ilustração do livro em que **um objeto está em dois
-  estados ao mesmo tempo**.
-- **À direita, um degrau acima:** **Zeus e Hermes revelados em luz**. Zeus barbado, cabelo denso
+  nunca em caricatura. Roupa rústica, pés descalços na trilha de pedra da encosta. **Nunca
+  separar os dois em nenhum quadro do capítulo.**
+- **Plano médio, logo abaixo e atrás deles:** a choupana **em metamorfose**, lida da esquerda
+  para a direita — paus de madeira alongando-se em colunas, colmo de junco amarelecendo até
+  virar ouro na cumeeira, portas lavradas surgindo, e **o degrau da entrada de um lado ainda
+  terra batida e do outro já mármore**. É a única ilustração do livro em que **um objeto está
+  em dois estados ao mesmo tempo**.
+- **À direita, um passo acima na encosta:** **Zeus e Hermes revelados em luz**. Zeus barbado, cabelo denso
   e ondulado, manto de viajante **caindo do ombro**, raio **apenas insinuado como luz**, nunca
   empunhado — é o **mesmo rosto do cap. 10** (primeira aparição de Zeus no livro). Hermes
   **jovem e imberbe**, clâmide curta, pétaso, **caduceu** na mão e **sem asas nos pés** (Ovídio:
@@ -109,15 +121,18 @@ transformação**.
   dos dois olha para o leitor: olham para o casal.
 - **Canto inferior:** **o ganso branco vivo**, encostado na perna de um dos deuses — o detalhe
   que a criança procura em toda releitura.
-- **Fundo, ao longe e pequeno:** o **vale já virado lago calmo**, com aves aquáticas e **nenhuma
+- **Terceiro plano, ao fundo e embaixo:** o **vale já virado lago calmo**, com aves aquáticas e **nenhuma
   casa**. Resolve a inundação sem uma única imagem de destruição. **Proibido: corpos, ruínas,
   fogo, rostos de vizinhos.**
-- **Semente do fim, discreta:** **um carvalho e uma tília jovens** brotando junto do muro baixo,
-  à esquerda.
 - **Hora/luz:** fim de tarde; a luz dos deuses é a fonte quente da cena.
 - **Moldura e paleta:** meandro (chave grega) e palmetas; terracota / negro de verniz /
   ocre-creme, com o **ouro do telhado como único acento quente forte** e azul-egeu no lago.
+- **Teto de figuras nítidas (livro-spec Rev. 4): 5.** Contagem: Baucis, Filêmon, Zeus, Hermes
+  e o ganso = **5 ✔**. Nenhuma outra figura humana no quadro (vizinhos continuam proibidos).
 - **Viñeta de fim de capítulo (opcional, pequena):** as duas árvores lado a lado com grinaldas.
+  **É aqui — e só aqui — que as duas árvores aparecem**; a "semente do fim" na cena principal
+  foi cortada (cético P1, O3), porque antecipar as árvores jovens entrega a metamorfose final
+  três páginas antes de o texto chegar nela.
 
 ## Termos para o glossário
 
@@ -132,6 +147,8 @@ transformação**.
   nenhum.** Baucis virou tília.
 - **carvalho** — árvore grande e de madeira dura, **a árvore sagrada de Zeus**. Filêmon virou
   carvalho.
+- **vime** — vara fina e flexível, tirada de certos arbustos, com que se tecem cestos, cercas
+  e paredes de casa simples. As paredes da casa de Baucis e Filêmon eram de vime.
 - **choupana** — casa muito simples, feita de materiais do mato, como varas e palha.
 - **faia** — árvore de madeira clara; dela se faziam copos e tigelas escavados.
 - **Frígia** — região de colinas onde hoje fica a Turquia.

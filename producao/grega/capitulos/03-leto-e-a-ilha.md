@@ -6,27 +6,27 @@
 
 Leto andava.
 
-Os filhos que ela esperava eram filhos de Zeus, e ainda não tinham nascido, e já não havia lugar no mundo para eles. Leto chegava a uma terra e pedia um pedaço de chão. A terra tremia e dizia não. Chegava a outra, e a outra tremia e dizia não. Nenhuma ousava recebê-la.
+Leto ia ter dois filhos de Zeus. Precisava de um chão firme para eles nascerem. Mas nenhuma terra queria. Leto chegava a uma terra e pedia um pedaço de chão. A terra tremia e dizia não. Chegava a outra, e a outra tremia e dizia não. Nenhuma ousava recebê-la.
 
-Andou por ilhas grandes, de trigo e de vinha. Andou por ilhas altas, de montanha e de pinheiro. Passou por praias, por portos, por costas inteiras, e em todas foi a mesma coisa: a porta que não abre.
+Andou por ilhas grandes, de trigo e de vinha. Andou por ilhas altas, de montanha e de pinheiro. Passou por praias, por portos, por costas inteiras, e em todas a mesma resposta: não.
 
 Foi então que ela viu uma pedra no mar.
 
 A pedra não estava parada. Não estava presa em lugar nenhum: boiava, ia, voltava, deixava-se levar. Era dura, era rochosa, não tinha vaca nem ovelha nem uma videira, e os marinheiros falavam mal dela quando falavam — que era quase nunca. O nome dela era Astéria, e ninguém sabia onde encontrá-la.
 
-— Ilha — disse Leto. — Quero pedir uma coisa, e quero dizer a verdade antes. Se meu filho nascer aqui, tu não vais ficar rica. Teu chão vai continuar duro. Mas as pessoas vão vir de todos os mares para te procurar, e nunca mais vais ficar vazia.
+— Ilha — disse Leto. — Quero pedir uma coisa, e quero dizer a verdade antes. Se meu filho nascer aqui, você não vai ficar rica. Seu chão vai continuar duro. Mas as pessoas vão vir de todos os mares para procurar você, e nunca mais você vai ficar vazia.
 
 A ilha demorou a responder.
 
 — Eu queria — disse ela, baixinho. — Eu queria tanto. Mas eu tenho medo. E se ele abrir os olhos, olhar para mim e não gostar? Eu só tenho pedra. Sou pequena demais, sou dura demais. E se ele for embora?
 
-— Então pede o que quiseres — disse Leto.
+— Então peça o que você quiser — disse Leto.
 
 E a ilha pediu. Pediu uma coisa só, e pediu certo:
 
 — Que seja aqui. Que seja aqui que ele vá falar com as pessoas. Que seja para cá que elas venham perguntar.
 
-Leto jurou. Não prometeu como se promete um doce: jurou uma promessa que nenhum deus pode desfazer, nem depois, nem nunca.
+Leto jurou — e há juramentos que nenhum deus pode desfazer, nem depois, nem nunca.
 
 A ilha estava com medo. E, mesmo com medo, disse sim.
 
@@ -34,13 +34,15 @@ Leto atravessou o prado, ajoelhou-se e pôs os braços em volta de uma palmeira.
 
 Ártemis nasceu primeiro. E, sendo quem era, não ficou esperando: virou-se para a mãe e ajudou. Foi assim que Apolo chegou ao mundo — pelas mãos da irmã, que tinha uns minutos de idade e já era a dona de todas as florestas.
 
-Enrolaram o menino numa faixa dourada. A faixa não segurou. As pontas se desfizeram sozinhas, ele se pôs de pé no primeiro dia da própria vida e disse:
+Enrolaram o menino numa faixa dourada. A faixa não segurou. As pontas se desfizeram sozinhas, e ele se pôs de pé no primeiro dia da própria vida.
+
+Apolo abriu os olhos. A primeira coisa que viu foi a pedra que tinha dito sim — e gostou do que viu. Depois falou:
 
 — A lira e o arco serão sempre meus. E é aqui que eu vou dizer às pessoas a vontade de Zeus.
 
-Foi exatamente o que a ilha tinha pedido.
+Foi o que a ilha tinha pedido.
 
-Então a pedra parou de boiar. Lá embaixo, no escuro da água, os pés da ilha soltaram raízes e agarraram o fundo do mar, e ela ficou. A luz do menino correu pela rocha e a rocha ficou dourada; a grama riu por baixo dos joelhos de Leto e se abriu em flores do mato, como um cume de montanha na primavera.
+Então a pedra parou de boiar. Lá embaixo, no escuro da água, os pés da ilha soltaram raízes e agarraram o fundo do mar, e ela ficou. A luz do menino correu pela rocha como o sol corre pela manhã, e passou, e a rocha continuou dura como sempre foi; mas a grama riu por baixo dos joelhos de Leto e se abriu em flores do mato, como um cume de montanha na primavera.
 
 E os marinheiros, que antes não a achavam, passaram a enxergá-la de longe. Deram-lhe outro nome. Chamaram-na Delos: a que se vê.
 
