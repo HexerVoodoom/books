@@ -1,5 +1,11 @@
 # Pareceres consolidados — onda P1 (caps. 1, 3, 5) · Fase 2
 
+> ✅ **TODAS as correções deste parecer foram aplicadas pelo `mito-editor` em 2026-08-30**,
+> junto com as objeções O1–O3/O5 do `mito-cetico` P1 e as três arbitragens abaixo. Registro
+> por capítulo: seção "Edição da Fase 2 — onda P1" no fim de cada arquivo de capítulo.
+> Gate da onda: `escrita/gate-onda-p1.md`. Regras novas: `livro-spec.md` Rev. 4 (R4.1–R4.4).
+> Sobrevivem apenas as pendências que dependem das **pp. 51–53**, ainda inexistentes.
+
 ## Fidelidade (verificação independente)
 - **Cap. 1** APROVADO C/ RESSALVAS: cortar "e não olhem para trás" (INVENÇÃO — não está em Ovídio VIII.692–694, e o texto descumpre o interdito 3 linhas depois); condição 2.1 (declaração da fonte latina) segue aberta até as pp. 51–52 existirem.
 - **Cap. 3** APROVADO C/ RESSALVAS: linha nas pp. 51–52 sobre Delfos (o "aqui" da fala de Apolo é coerente com a parte délia, mas o oráculo famoso é Delfos); correção 4.2 na p. 53 obrigatória. Têmis elidida = legítimo.
