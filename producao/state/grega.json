@@ -1,0 +1,26 @@
+{
+  "livro": "grega",
+  "mitologia": "grega",
+  "fase_atual": "fundacao",
+  "capitulos": [
+    {"slug": "zeus", "status": "planejado"},
+    {"slug": "atena", "status": "planejado"},
+    {"slug": "hermes", "status": "planejado"},
+    {"slug": "hefesto", "status": "planejado"},
+    {"slug": "artemis-e-apolo", "status": "planejado"},
+    {"slug": "demeter-e-persefone", "status": "planejado"},
+    {"slug": "perseu", "status": "planejado"},
+    {"slug": "teseu", "status": "planejado"},
+    {"slug": "midas", "status": "planejado"},
+    {"slug": "do-caos-ao-olimpo", "status": "planejado"}
+  ],
+  "pendencias": [
+    "URLs de fontes (Theoi/WHE) e referências do Met não verificadas — proxy de rede bloqueou os domínios nesta sessão",
+    "Héracles fora do sumário — confirmar com o humano",
+    "Variante do mito de Midas e finais tristes de Teseu — decidir nos dossiês (Fase 1)",
+    "Nome da série, tipografia serial e disclosure de IA — decisão do humano no checkpoint",
+    "Perfil ICC / gráfica-alvo — aberta até a Fase 5"
+  ],
+  "gates": {},
+  "checkpoint": "aguardando humano"
+}
