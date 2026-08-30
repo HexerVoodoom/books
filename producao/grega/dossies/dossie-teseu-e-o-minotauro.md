@@ -1,7 +1,8 @@
 # Dossiê — Teseu e o Minotauro: o fio no labirinto
 
 > **Capítulo 8 (específico) · onda de produção P3 · livro `grega`**
-> Extensão-alvo do capítulo: **550–650 palavras** (livro-spec, F3 — limite rígido).
+> Extensão-alvo do capítulo: **500–600 palavras** de texto corrido (livro-spec Rev. 3, X1 —
+> limite rígido) · **1 box "Você sabia?", máx. 80 palavras**.
 > Este dossiê **reutiliza** o cânon de personagens fixado em
 > `dossies/dossie-do-caos-ao-olimpo.md` (P0) e **acrescenta** as descrições canônicas de
 > Teseu, Ariadne, Minos e o Minotauro. Onde Posêidon é citado, a descrição é **verbatim do
@@ -33,7 +34,8 @@ Fontes-espinha: **Plutarco, *Vida de Teseu* 15–23** (c. 100 d.C.) e **Apolodor
 devastada, e os rios secaram". O oráculo mandou que os atenienses se reconciliassem com
 Minos, e o acordo firmado foi **enviar a Creta, a cada nove anos, um tributo de sete rapazes
 e sete moças** — **Plutarco, *Teseu* 15** [verif. por trecho]. Apolodoro dá o mesmo tributo
-com periodicidade variante (ver Variantes) — **Epítome 1.7** [verif. por trecho].
+com periodicidade divergente — **tributo ANUAL**, **Epítome 1.7** [verif. por trecho]
+(correção T2: **não** "anual/trienal"; ver Variantes).
 
 **O que acontecia com eles.** Plutarco registra a versão mais dura e a mais branda no mesmo
 parágrafo: "a versão mais trágica da história declara que esses jovens, levados a Creta,
@@ -92,10 +94,44 @@ tradução Evelyn-White (domínio público) [verif. por trecho].
 os jovens a dança que os délios chamam **a Grua** (*géranos*), "uma imitação das passagens
 circulares do Labirinto" — **Plutarco, *Teseu* 21** [verif. por trecho]. Ao aproximar-se da
 Ática, "**Teseu esqueceu, e o piloto esqueceu**, tal era a alegria e a exultação, de içar a
-vela que seria o sinal da salvação para Egeu, que então, em desespero, atirou-se do rochedo
-e se despedaçou" — **Plutarco, *Teseu* 22** [verif. por trecho]. A tradição posterior liga o
-nome do **mar Egeu** a essa morte [tradição antiga tardia — **não verificada nesta sessão**;
-`mito-fidelidade` deve confirmar antes de o livro afirmar a etimologia].
+vela que seria o sinal da salvação para Egeu — que então, em desespero, **atirou-se do
+rochedo**" — **Plutarco, *Teseu* 22** [verif. por trecho].
+
+### ✅ CORREÇÃO T1 do `mito-fidelidade` — a etimologia está resolvida, e a decisão é (a)
+
+A pendência que **bloqueava a frase de fecho** do capítulo está fechada. O quadro real das
+fontes é este, e ele é mais simples do que o dossiê supunha:
+
+| Fonte | Onde ele cai | Dá o nome do mar? |
+|---|---|---|
+| **Plutarco, *Teseu* 22** | **do rochedo** | **NÃO** — Plutarco narra a queda e **não** nomeia o mar |
+| **Higino, *Fábulas* 43** | **NO MAR** — Egeu se lança ao mar | **SIM** — e é daí que o mar se chama Egeu |
+
+**Decisão adotada: opção (a) — Higino inteiro na batida.** O capítulo segue **Higino, *Fáb.*
+43**, do gesto ao nome: **Egeu se atira no mar, e o mar passa a ter o nome dele.** Não se
+mistura o rochedo de Plutarco com a etimologia de Higino — essa costura é que era infiel, e era
+o que a pendência anterior estava prestes a imprimir.
+
+**Por que (a) e não "declarar a divergência na p. 53":**
+1. **A etimologia deixa de ser uma afirmação sem fonte.** Ela passa a ter **uma fonte antiga
+   nomeada**, que é exatamente o que faltava.
+2. **A elipse fica melhor, não pior.** Cair **no mar** e o **mar ganhar o nome** é uma única
+   imagem contínua: o desaparecimento e o memorial são o mesmo gesto. Com o rochedo, eram dois
+   fatos costurados. Para 4–7 anos, a versão de Higino é **mais suave e mais inteira**.
+3. **Custa menos palavras** num capítulo apertado, e o dossiê já orçava 60 para o bloco.
+
+⚠️ **Consequências vinculantes:**
+- **Sai do texto o "rochedo"** como lugar da queda — a redação anterior sugerida pela Decisão 2
+  (*"Lá do alto do rochedo, Egeu olhava o mar todo dia"*) deve ser ajustada: Egeu pode
+  **olhar o mar do alto**, mas **não é do rochedo que ele cai**. Redação corrigida sugerida:
+  *"Egeu olhava o mar todo dia. Quando o navio apareceu, a vela ainda era negra — e Egeu foi
+  ao encontro do mar. Contam que foi por isso que aquele mar ganhou o nome dele."*
+- **A p. 53 registra a divergência** em uma linha: *"Cap. 8 — Plutarco diz rochedo; seguimos
+  Higino, que diz o mar."*
+- **As pp. 51–52** atribuem a etimologia a **Higino, *Fábulas* 43**.
+- **Permanece intacta** a regra da Decisão 2: **nunca escrever que Egeu morreu de determinada
+  maneira, e nunca escrever que ele não morreu.** A palavra "suicídio" e o corpo despedaçado de
+  Plutarco continuam fora do livro, sem exceção.
 
 ---
 
@@ -103,13 +139,13 @@ nome do **mar Egeu** a essa morte [tradição antiga tardia — **não verificad
 
 | Ponto | Variantes e fontes | Decisão da série |
 |---|---|---|
-| **Periodicidade do tributo** | Plutarco: **a cada nove anos** (*Teseu* 15) [verif.]. Apolodoro: tradição de tributo anual/trienal (Epítome 1.7) [parc. verif.]. | **Não numerar no texto corrido.** "De tempos em tempos, o navio de vela negra voltava a Atenas" — evita fixar uma variante e poupa palavras num teto de 650. Registrar Plutarco (nove anos) na página de fontes. |
+| **Periodicidade do tributo** | Plutarco: **a cada nove anos** (*Teseu* 15) [verif.]. Apolodoro: **tributo ANUAL** (Epítome 1.7) [verif.] — ⚠️ **correção T2 do `mito-fidelidade`: NÃO "anual/trienal"**, como constava; Apolodoro diz **anual**, e a alternativa trienal era um acréscimo sem lastro deste dossiê. | **Não numerar no texto corrido.** "De tempos em tempos, o navio de vela negra voltava a Atenas" — evita fixar uma variante e poupa palavras. **A divergência é real e vai às pp. 51–52**, agora corretamente formulada: *"Plutarco diz que o tributo era de nove em nove anos; Apolodoro diz que era todo ano."* Não é detalhe: nove anos fazem do tributo uma sombra que atravessa uma geração; um ano fazem dele um horror rotineiro. Registrar as duas, sem escolher. |
 | **Teseu sorteado ou voluntário** | Apolodoro dá as duas (Epítome 1.7) [verif.]; Plutarco é enfático no voluntário (*Teseu* 17) [verif.]. | **Adotamos o voluntário**, com Plutarco. É a decisão que torna Teseu protagonista e não vítima, e sustenta a mensagem. |
 | **A arma** | Apolodoro: **punhos** (Epítome 1.9) [verif.]. Iconografia ática e recontos: espada (frequentemente dada por Ariadne junto com o fio). | **Adotamos Apolodoro: sem espada.** Ganho triplo — é a fonte, resolve a adaptação etária (não há lâmina nem sangue a desenhar) e libera a mão de Teseu para segurar **o fio**, que é o objeto-tema do capítulo. Ver Cena central. |
 | **O que acontecia aos jovens** | Plutarco 15 dá duas: devorados pelo Minotauro **ou** perdidos para sempre no labirinto [verif.]. Filócoro (em Plutarco 16) racionaliza: o labirinto era uma prisão e os jovens eram prêmio de jogos vencidos pelo general Tauro [parc. verif.]. | **Adotamos a segunda de Plutarco — "ninguém que entrava conseguia sair"** — que é canônica, não é suavização inventada, e mantém o perigo intacto. Filócoro **não entra** (racionalização helenística que desmonta o mito). |
 | **Ariadne em Naxos** | Apolodoro: **Dioniso se apaixona e a leva** (Epítome 1.9) [verif.]. Plutarco 19–20: Teseu a deixa adormecida; e ainda o suicídio, Enaro sacerdote de Dioniso, duas Ariadnes na versão náxia, e a versão de **Péon de Amatunte** (morte de parto em Chipre) [verif. por trecho]. Homero, *Od.* XI.321–325: Ártemis a mata em Dia [URL não verificada]. | **Adotamos Apolodoro + Hesíodo** (ver Decisão 1). Plutarco é a fonte que autoriza a escolha ao dizer que as histórias "não concordam em nada". |
 | **Cor da vela de salvação** | Plutarco 22: **branca**; mas **Simônides** dizia ser "uma vela escarlate tingida com a flor tenra do carvalho viçoso" [verif. por trecho]. | **Adotamos branca** (Plutarco). Contraste visual com a negra é legível para 4 anos; escarlate contra negro não é. |
-| **Paternidade de Teseu** | Egeu (Plutarco 3) e/ou **Posêidon** (Plutarco 6; Baquílides, *Ditirambo* 17) [URL não verificada]. | **Fora do capítulo.** O teto de 650 palavras não comporta a dupla paternidade sem roubar espaço do labirinto, e o capítulo precisa de **Egeu pai** inteiro para a promessa da vela funcionar. Se `mito-diretor-arte` quiser um eco de Posêidon (mar, tridente ao longe), usar a descrição-cânon verbatim abaixo. |
+| **Paternidade de Teseu** | Egeu (Plutarco 3) e/ou **Posêidon** (Plutarco 6; Baquílides, *Ditirambo* 17) [URL não verificada]. | **Fora do capítulo.** O teto de 600 palavras não comporta a dupla paternidade sem roubar espaço do labirinto, e o capítulo precisa de **Egeu pai** inteiro para a promessa da vela funcionar. Se `mito-diretor-arte` quiser um eco de Posêidon (mar, tridente ao longe), usar a descrição-cânon verbatim abaixo. |
 
 ---
 
@@ -196,7 +232,7 @@ mas **não porque foi deixada**: porque é ali que **Dioniso se apaixona por ela
    Ariadne, e elas não concordam em nada" [verif. por trecho]. **Adotar Apolodoro + Hesíodo é
    seguir a fonte principal do capítulo, não fugir dela.**
 2. **A alternativa é pior nos dois sentidos.** Contar o abandono exige, para 4–7 anos, ou uma
-   explicação psicológica que não cabe em 650 palavras, ou um "Teseu era assim mesmo" que
+   explicação psicológica que não cabe em 600 palavras, ou um "Teseu era assim mesmo" que
    destrói o protagonista no último parágrafo — depois de o livro inteiro ter dito que ele
    cumpre o que promete. E **apagar Ariadne** ("voltaram todos para Atenas") é a pior de
    todas: rouba dela o único final que uma fonte arcaica lhe dá.
@@ -245,15 +281,71 @@ A objeção óbvia é o suicídio. Mas o que a mensagem do capítulo precisa **n
   esperou para ver mais nada. Contam que foi por isso que aquele mar ganhou o nome dele."*
 - **A etimologia do mar Egeu faz o trabalho da elipse**: nomeia a perda, dá dignidade e
   transforma a morte em geografia — a criança pequena lê "o mar tem nome de avô", a criança
-  de 7 e o adulto leem o que aconteceu. ⚠️ **A etimologia é tradição antiga tardia, NÃO
-  verificada nesta sessão** (Plutarco 22 dá a queda, não o nome do mar). `mito-fidelidade`
-  **deve** confirmá-la em fonte antiga antes de a frase entrar; se não confirmar, o
-  substituto é fechar em *"e Egeu não esperou para ver mais nada"*, sem a etimologia.
+  de 7 e o adulto leem o que aconteceu. ✅ **PENDÊNCIA FECHADA (correção T1): a etimologia tem
+  fonte antiga nomeada — Higino, *Fábulas* 43**, em que Egeu se lança **no mar** e o mar passa
+  a ter o nome dele. **A frase de fecho está liberada** e o substituto de contingência não é
+  mais necessário. Ver o quadro T1 acima: o capítulo adota **Higino inteiro** nesta batida, e
+  o rochedo de Plutarco sai do texto (fica na p. 53 como divergência declarada).
 - Alternativa recusada e por quê: **fazer Teseu lembrar da vela**. Seria o único desfecho
   alegre possível, e é falsificação pura — inverte o fato central e mata a mensagem.
 
 **Custo de palavras estimado:** set-up 20 + desfecho 40 ≈ **60 palavras** das 650. Cabe, desde
 que o labirinto seja contado com economia.
+
+---
+
+## ⚠️ X7 — nota de diferenciação: este capítulo × o cap. 7 (Perseu)
+
+Os caps. 7 e 8 são **estruturalmente gêmeos** e são lidos em sequência: jovem herói, lugar
+terrível, monstro, objeto emprestado que resolve, morte em elipse, página escura. A tabela
+completa da diferenciação está no dossiê do cap. 7; aqui ficam as **obrigações deste
+capítulo**:
+
+| | **Cap. 7 — Perseu** | **Cap. 8 — Teseu (este)** |
+|---|---|---|
+| Assunto | preparação e devolução | **promessa e memória** |
+| Estrutura | uma **lista** de seis ajudas que cresce e se desfaz | **um fio único** que se estende e se recolhe |
+| Tom | missão silenciosa | **labirinto e fio** — voltas, espera, ansiedade de quem fica de fora |
+| Fecho | devolve os objetos, um a um | **termina na dança da Grua, em Delos** |
+
+**Obrigações de execução (vinculantes para o `mito-escritor` do cap. 8):**
+- **Um objeto, não uma lista.** O fio é o único doado e atravessa o capítulo inteiro: entregue,
+  preso à porta, desenrolado, recolhido. **Proibido** acrescentar ajudas ou equipamentos — é
+  justamente a acumulação que pertence ao cap. 7.
+- **Vocabulário separado:** este capítulo **não usa "emprestado" nem "devolveu"** para o fio ou
+  para coisa alguma (são as palavras-tema do cap. 7). O fio é **dado**, e é **recolhido**.
+- **A ansiedade é de quem espera.** O cap. 7 é sussurro; este é **espera** — Egeu olhando o mar,
+  Ariadne do lado de fora do labirinto, o tempo passando enquanto o fio corre. Essa é a emoção
+  que o cap. 7 não tem e que diferencia os dois.
+- **A luz da ilustração é uma linha**, não um ponto (o fio em ocre-claro atravessando o escuro),
+  contra o ponto quente do escudo do cap. 7.
+
+### ✅ O fecho: a dança da Grua, em Delos (aproveitando o RUÍDO 1 do cético)
+
+O cético registrou como **ruído** o fato de **Delos reaparecer neste capítulo** — na volta de
+Creta, Teseu para justamente na ilha do cap. 3. **Não é ruído: é o melhor presente serial do
+livro, e este dossiê o promove a fecho do capítulo.**
+
+**Instrução:** depois do labirinto e **antes** do bloco da vela, o navio para em **Delos**, e
+Teseu e os jovens dançam a **Grua** (*géranos*) — a dança de voltas e desvoltas que **imita os
+corredores do Labirinto** (Plutarco, *Teseu* 21, [verif. por trecho]).
+
+**Por que isto resolve três problemas de uma vez:**
+1. **Diferencia o cap. 8 do cap. 7 (X7).** O cap. 7 fecha devolvendo objetos em Sérifos; o cap.
+   8 fecha **dançando numa ilha**. Nenhuma memória os confunde.
+2. **Fecha o eco de longa distância com o cap. 3.** É **a mesma ilha** que parou de vagar
+   quando acolheu alguém — e agora ela acolhe outra vez, um navio de crianças que voltou viva.
+   O leitor de 6 anos reconhece o nome; o adulto sente a rima. **Não explicar o eco**: basta
+   nomear a ilha. Uma linha do tipo *"o navio parou em Delos — aquela mesma ilha"* é o
+   **máximo** de aceno permitido.
+3. **Dá ao capítulo a única alegria que ele tem**, e essa alegria é **funcional**: em Plutarco,
+   **é a alegria que causa o esquecimento da vela**. A dança não é enfeite — é a causa narrativa
+   do desfecho. Dançar em Delos e esquecer a vela é o mesmo movimento.
+
+⚠️ **Consequência de ordem:** a parada em Naxos (Ariadne) vem **antes** de Delos, e o bloco da
+vela vem **depois**. Sequência fixa: labirinto → Naxos → **Delos e a dança** → a vela → Egeu.
+⚠️ **O box do fato 2 (a dança da Grua) fica ainda mais forte**, mas o box **não substitui** a
+batida: a dança tem de estar no texto corrido, porque é a causa do esquecimento.
 
 ---
 
@@ -289,7 +381,36 @@ rígido de figura negra (regra de fusão do livro-spec).
 
 ## Material para "Você sabia?"
 
-*(Escolher 2 das 3 na diagramação — box curto.)*
+⚠️ **Instrução Rev. 3 (X1): 1 box por capítulo, máx. 80 palavras** — não 2. Vai ao livro **o
+fato 2** (a dança da Grua, que os délios ainda dançavam séculos depois): é o que **paga o novo
+fecho do capítulo** (X7) e prova, com um costume real, que a dança do texto existiu. Os fatos
+**1 e 3** migram para as pp. 51–52 — o **fato 1 (Cnossos e Arthur Evans) é obrigatório ali**,
+porque é o lastro arqueológico do traje minoico de Ariadne e do palácio, que a ilustração usa
+como extensão documentada.
+
+---
+
+## Orçamento de batidas (X4) — fechando em 500–600 palavras
+
+| # | Batida | Palavras |
+|---|---|---|
+| 1 | Creta, o palácio, e **debaixo dele o Labirinto**; o Minotauro já preso (elipse de Pasífae) | 60 |
+| 2 | O tributo: os jovens levados de tempos em tempos; **ninguém que entra encontra a volta** | 65 |
+| 3 | 🔒 **Teseu se oferece** (as queixas dos pais; ele escolhe ir) | 55 |
+| 4 | 🔒 **A promessa das duas velas** — set-up | 45 |
+| 5 | Ariadne; **o fio, que foi ideia de Dédalo**; a ponta presa à porta | 70 |
+| 6 | 🔒 **O labirinto e a elipse** ("só o Labirinto viu. Teseu saiu de lá"); o fio recolhido | 70 |
+| 7 | Naxos: Ariadne fica, e Dioniso a faz sua esposa para sempre (Decisão 1) | 45 |
+| 8 | 🔒 **Delos e a dança da Grua** — a alegria que faz esquecer (X7) | 45 |
+| 9 | 🔒 **A vela ainda negra; Egeu vai ao encontro do mar; o mar ganha o nome dele** (T1) | 55 |
+| | **Total** | **510** ✔ |
+
+**Intocáveis** (ver `pesquisa/batidas-intocaveis.md`): **3** (ele **escolhe** ir — sem isso é
+vítima e a mensagem cai); **4 e 9** (a vela é set-up e pagamento: cortar uma das duas deixa
+objeto plantado sem colheita, e o `mito-editor` derruba); **6** (a elipse do confronto — e o
+**recolher do fio**, que é o objeto-tema); **8** (o fecho em Delos, que diferencia do cap. 7 e
+é a causa narrativa do esquecimento). A batida **2** é a que pode ceder palavras; a **1** pode
+cair a duas frases.
 
 1. **O Labirinto tem um endereço de verdade.** Em Creta existe mesmo um palácio enorme, o de
    **Cnossos**, com centenas de cômodos e corredores que se cruzam. Quem o desenterrou, em
@@ -344,8 +465,13 @@ rígido de figura negra (regra de fusão do livro-spec).
 
 **Pendências para `mito-fidelidade`:**
 1. Conferir linha a linha todas as passagens marcadas **[URL não verificada]** quando a rede
-   permitir.
-2. **Confirmar em fonte antiga a etimologia do mar Egeu** — condição para a frase de fecho da
-   Decisão 2.
-3. Confirmar a periodicidade do tributo em Apolodoro, Epít. 1.7 (divergência com os nove anos
-   de Plutarco), caso o `mito-escritor` decida numerar.
+   permitir — incluindo **Higino, *Fábulas* 43**, que a correção T1 promoveu a fonte de enredo
+   deste capítulo e que ainda está [verif. por trecho, via Theoi], não por acesso direto.
+2. ✅ **FECHADA (T1):** a etimologia do mar Egeu tem fonte antiga — **Higino, *Fáb.* 43**. A
+   frase de fecho está liberada. Verificar apenas que o texto **não** mistura o rochedo de
+   Plutarco com o nome do mar.
+3. ✅ **FECHADA (T2):** Apolodoro, Epít. 1.7 = tributo **anual**. Verificar que nenhuma página
+   do livro repete "anual/trienal" e que as pp. 51–52 registram a divergência **nove anos
+   (Plutarco) × todo ano (Apolodoro)**.
+4. Verificar que o **fecho na dança da Grua, em Delos** (X7) está presente e que o cap. 8 **não
+   termina em Atenas** — é o que o diferencia do cap. 7.

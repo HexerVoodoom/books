@@ -5,8 +5,8 @@
 > **Atena** aqui reproduzidas são **verbatim** do cânon e não podem ser reescritas.
 > Este dossiê **acrescenta** ao cânon as descrições de **Perseu, Dânae, Medusa/Górgonas,
 > Greias, Polidectes, Díctis e Pégaso** — que passam a ser vinculantes na mesma condição.
-> Extensão-alvo do capítulo: **550–650 palavras** (livro-spec, F3). 4 pp (31–34), 1 ilustração
-> full-bleed.
+> Extensão-alvo do capítulo: **500–600 palavras** de texto corrido (livro-spec Rev. 3, X1) ·
+> **1 box "Você sabia?", máx. 80 palavras**. 4 pp (31–34), 1 ilustração full-bleed.
 
 ## ⚠️ Nota de verificação de fontes (obrigatória)
 
@@ -88,8 +88,8 @@ esse detalhe, e só ele, que explica **por que a missão é a Medusa** e não um
 **O escudo-espelho.** "**Enquanto Atena lhe guiava a mão** e ele olhava, com o rosto desviado,
 **um escudo de bronze no qual via a imagem da Górgona**, ele a decapitou" — **Apolodoro 2.4.3**
 [verificada por trecho]. **Nota de fato:** em Apolodoro o espelho é **um escudo de bronze**
-(*aspís khalkê*), sem dizer de quem; a tradição figurada e Ovídio (*Met.* IV) firmam o escudo de
-Atena. Em nenhuma fonte antiga Perseu luta com a Medusa: ela **dorme**, e o feito é de
+(*aspís khalkê*), **sem dizer de quem**; é a **tradição figurada** que firma o escudo como sendo
+de Atena (correção P1: **não creditar a Ovídio**). Em nenhuma fonte antiga Perseu luta com a Medusa: ela **dorme**, e o feito é de
 **precisão**, não de força.
 
 **Pégaso.** "Cortada a cabeça, saltaram da Górgona o cavalo alado **Pégaso** (*Pḗgasos*) e
@@ -129,7 +129,7 @@ jogos de Larissa, cumprindo o oráculo. Ver Variantes e omissões.
 |---|---|---|
 | **A chuva de ouro.** Apolodoro dá **duas** versões da concepção lado a lado: "alguns dizem" Preto (estupro/sedução, origem da rixa fraterna); "alguns dizem" Zeus como **corrente de ouro pelo teto**. | Apolodoro 2.4.1 [verif. por trecho] · iconografia: Dânae recebendo a chuva de ouro é tema recorrente na cerâmica ática de figuras vermelhas (cratera do Pintor de Trípptolemo, séc. V a.C.) [URL não verif.] | **ELIPSE TOTAL da concepção — no texto E na ilustração.** O livro afirma o **fato** que a própria fonte trata como verdadeiro ("o pai de Perseu era Zeus") e **não narra o meio**. A variante-Preto está fora de discussão. A chuva de ouro é bela e canônica, mas narrá-la a 4–7 anos exige ou (a) explicar concepção, ou (b) inventar um "Zeus visitou Dânae em forma de luz dourada" que soa mágico e **desloca o eixo do capítulo** para uma cena que não é dele. Nem o meio-termo visual: **proibida a chuva de ouro na ilustração**, porque a imagem convida à pergunta que o texto não responde. Registrar na p. 53 ("Nota sobre as adaptações"): *"Os antigos contavam que Zeus chegou até Dânae como uma chuva de ouro. Neste livro, a história começa depois."* |
 | **A Medusa punida por Atena.** Medusa teria sido uma jovem de beleza célebre — "de todas as suas belezas, o cabelo era a mais bela" —; Netuno a violentou **no templo de Minerva**; a deusa "desviou o rosto e escondeu os olhos castos atrás da égide" e **transformou os cabelos da Górgona em serpentes**. | **Ovídio, *Metamorfoses* IV.790–803** [verificada por trecho, tradução Miller/Loeb 1916] | **REGISTRADA E NÃO USADA — recomendação forte do pesquisador contra o uso com 4–7 anos.** Três motivos, em ordem de peso: **(1)** o núcleo da variante é **violência sexual**, e o que se seguiria seria a **punição da vítima** — não há elipse que preserve a variante sem preservar isso, porque *é* isso; suavizar para "Atena ficou brava com ela" **falsifica**, e é exatamente o anti-padrão da coleção. **(2)** Ela **destrói a Atena do livro**: Atena é protagonista do cap. 2 (a deusa cujo presente mais útil ganha a cidade) e é quem **guia a mão de Perseu** neste capítulo — não pode, quarenta páginas depois, ser quem transformou a vítima em monstro. Uma criança não reconcilia isso; um adulto tampouco. **(3)** É **tardia e romana** (Ovídio, ~8 d.C.), enquanto Hesíodo (séc. VIII–VII a.C.) e Apolodoro têm as Górgonas **nascidas assim**, filhas de Forco e Ceto, monstruosas desde sempre — a versão grega arcaica não tem antes-e-depois. **Registrar** a existência da variante na p. 51–52 (fontes para o adulto), com uma linha honesta: *"O poeta romano Ovídio contou a Medusa de outro jeito — como alguém que um dia não foi monstro. É uma história de adultos, e não cabia aqui."* Isso protege o livro da acusação de ter ignorado a versão mais discutida hoje. |
-| **De quem é o escudo.** Apolodoro diz apenas "um escudo de bronze". Ovídio e a tradição figurada dão o escudo (ou o espelho) **de Atena**. | Apolodoro 2.4.3 [verif. por trecho] · Ovídio, *Met.* IV.782–783 [URL não verif.] | **Adotamos "o escudo de Atena"**, com nota. É a variante majoritária, é a que fecha o circuito da ajuda (a deusa dá o objeto **e** guia a mão) e não contradiz Apolodoro — que só não diz de quem era. Marcar nas fontes. |
+| **De quem é o escudo.** Apolodoro diz apenas "um escudo de bronze" (*aspís khalkê*), **sem dono**. A atribuição a Atena vem da **tradição figurada** (vasos e relevos em que a deusa segura ou aponta o escudo/espelho). | Apolodoro 2.4.3 [verif. por trecho] · tradição figurada arcaica e clássica | **Adotamos "o escudo de Atena"**, com nota — é a leitura majoritária, fecha o circuito da ajuda (a deusa dá o objeto **e** guia a mão, o que Apolodoro **diz**) e não contradiz a fonte, que só não nomeia o dono. ⚠️ **CORREÇÃO P1 do `mito-fidelidade`: NÃO creditar a Ovídio, *Met.* IV.782–783.** A versão anterior deste dossiê dava esses versos como a fonte do "escudo de Atena" — **atribuição incorreta**, e teria posto uma referência falsa na página de fontes de um livro que se apresenta como cuidadoso com fontes. A procedência honesta é: **Apolodoro = escudo de bronze, sem dono · tradição figurada = o escudo é de Atena · o livro adota a segunda e declara a primeira.** **Redação para as pp. 51–52:** *"Apolodoro diz apenas 'um escudo de bronze'; foram os pintores de vasos que fizeram dele o escudo de Atena. Seguimos os pintores."* |
 | **Quem dá o quê.** Em Apolodoro o equipamento vem das **ninfas** (sandálias, kibisis, elmo) e a foice vem de **Hermes**. Recontos modernos costumam entregar tudo a Atena e Hermes. | Apolodoro 2.4.2 [verif. por trecho] | **Adotamos Apolodoro, com compressão declarada.** As ninfas são um elenco a mais e um degrau a mais (Greias → ninfas → Górgonas) num capítulo de 600 palavras. **Solução que não falsifica:** o texto diz que as Greias mostram **onde estavam guardadas** as três coisas e que Perseu foi buscá-las, **sem nomear as ninfas como personagens com fala**; a foice continua sendo **de Hermes**, explicitamente. Registrar na nota de adaptações. **Proibido** dizer que Atena ou Hermes deram as sandálias/kibisis/elmo. |
 | **Onde ficam as Górgonas.** Hesíodo: "além do glorioso Oceano, na terra fronteiriça em direção à Noite, onde estão as Hespérides de voz clara". Apolodoro: Perseu "voou até o Oceano". | *Teog.* 274–275 [verif. por trecho] · Apolodoro 2.4.3 [verif. por trecho] | **Convergem o suficiente.** Usar "no fim do mundo, do outro lado do mar" — fiel e legível. **Proibido** localizar na Líbia (variante tardia, Ésquilo/Heródoto), que ancoraria numa geografia real sem ganho. |
 | **Andrômeda.** Na volta, Perseu salva Andrômeda de um monstro marinho e a toma por esposa. | Apolodoro 2.4.3 [verif. por trecho] · Ovídio, *Met.* IV.663–764 | **FORA DO CAPÍTULO.** É um segundo episódio completo, com sacrifício humano de uma jovem acorrentada a um rochedo — outra adaptação cara — e o livro-spec fecha o cap. 7 em "Perseu e a Medusa · o escudo-espelho" (episódio narrativo único, regra F1). Registrar como omissão na p. 53 e como candidata natural a edição ampliada. |
@@ -305,10 +305,58 @@ três Greias passando o olho de mão em mão, e a mão de Perseu chegando no mei
    choravam pela irmã. Ou seja: um instrumento musical inteiro nasceu, segundo os gregos, do fim
    desta história. — Píndaro, *Pítica* 12 [verif. por trecho].
 
-*(Três fornecidos; o livro usa 2–3 conforme a caixa. Prioridade: **1 e 2** — o mais concreto e o
-mais surpreendente. O fato 3 é o de maior valor para o adulto leitor. ⚠️ O fato 3 alude ao
-desfecho pelo avesso ("choravam pela irmã") — se o `mito-critico-tom` julgar que isso reabre a
-elipse na mesma página, ele cai para a p. 51–52.)*
+⚠️ **Instrução Rev. 3 (X1): 1 box por capítulo, máx. 80 palavras.** Vai ao livro **o fato 1**
+(Pégaso nasceu nesta história, e o nome quer dizer "das fontes"): é o mais concreto, e é o que
+**paga a elipse** — a criança que não viu o corte recebe, no box, a maravilha que nasceu no
+lugar dele. Os fatos **2 e 3** migram para as pp. 51–52. ⚠️ O **fato 3 (o *aulos* imitando o
+lamento das Górgonas) fica resolvido pela mudança**: ele aludia ao desfecho pelo avesso
+("choravam pela irmã") e arriscava reabrir a elipse na mesma página da criança — fora do box,
+o risco desaparece.
+
+---
+
+## ⚠️ X7 — nota de diferenciação: este capítulo × o cap. 8 (Teseu)
+
+Objeção do cético, procedente: **os caps. 7 e 8 são estruturalmente gêmeos** e são lidos em
+sequência. Um jovem herói vai a um lugar terrível matar um monstro, sobrevive porque **alguém
+lhe dá um objeto**, e o objeto — não a força — é o que resolve. As duas mortes ficam em elipse,
+as duas ilustrações são escuras, os dois heróis são "quase grandes". Sem diferenciação
+deliberada, o leitor sente que leu o mesmo capítulo duas vezes.
+
+**São diferentes de verdade, e a diferença precisa estar na superfície do texto:**
+
+| | **Cap. 7 — Perseu** | **Cap. 8 — Teseu** |
+|---|---|---|
+| **Assunto** | **Preparação e devolução** | **Promessa e memória** |
+| Estrutura | uma **lista que cresce** (seis ajudas acumuladas) e depois **se desfaz** na ordem inversa | um **fio único** que se estende e se **recolhe** — uma linha, não uma pilha |
+| Tom | **missão silenciosa** — sussurro, contenção, respiração presa | **labirinto e fio** — voltas, espera, ansiedade de quem espera do lado de fora |
+| Quantidade de gente | **muita**: Díctis, Atena, Hermes, as Greias, as ninfas | **pouca**: Ariadne, Dédalo por trás, Egeu ao longe |
+| O que o herói aprende a fazer | **aceitar** e **devolver** | **prometer** e **lembrar** — e ele falha na segunda |
+| **Fecho** | **devolve os objetos**, um a um, a quem os emprestou; fica só com a história | **termina na dança da Grua, em Delos** (ver abaixo) |
+| Emoção final | alívio contido, quase quieto | doçura com sombra — a alegria que faz esquecer |
+
+**Instruções de execução para os dois escritores:**
+- **Cap. 7 = ritmo de acumulação.** Cada ajuda entra como um item novo, na mesma construção
+  sintática, e o leitor sente a pilha crescer. **O fecho é a devolução**, e ela deve ser
+  narrada com a mesma cadência da acumulação, ao contrário. **Não** terminar em vitória.
+- **Cap. 8 = ritmo de linha.** Um único objeto atravessa o capítulo inteiro (entregue, preso,
+  desenrolado, recolhido). **Sem lista de ajudas.** O único doador é Ariadne, e a autoria da
+  ideia é de Dédalo.
+- **Vocabulário separado, vinculante:** o cap. 7 não usa "fio", "linha", "novelo" nem "voltas"
+  em nenhuma acepção; o cap. 8 não usa "emprestado" nem "devolveu" para os objetos. As duas
+  palavras-tema não podem se cruzar.
+- **Diferenciação de luz na ilustração:** cap. 7 = a luz **nasce de um objeto** (o bronze do
+  escudo, ponto quente num quadro quase preto). Cap. 8 = a luz **é uma linha** que atravessa a
+  página (o fio em ocre-claro). Diferentes o bastante para não se confundirem na memória.
+
+**Aproveitamento do RUÍDO 1 do cético — a rima com o cap. 3 (recomendação ao cap. 8).** O
+cético notou, como ruído, que **Delos reaparece no cap. 8**: na volta de Creta, Teseu para
+justamente na ilha do cap. 3 e ali dança a Grua. **Isso não é ruído, é um presente serial**, e
+resolve o problema X7 de uma vez: fechando o cap. 8 na dança em Delos, o capítulo ganha um
+fecho que o cap. 7 **não pode ter** (o 7 fecha em Sérifos, devolvendo objetos), e o livro ganha
+um eco de longa distância — a ilha que parou de vagar no cap. 3 é a mesma em que, cinco
+capítulos depois, alguém dança de alegria por ter voltado. **A instrução detalhada está no
+dossiê do cap. 8.**
 
 ---
 
@@ -330,19 +378,29 @@ elipse na mesma página, ele cai para a p. 51–52.)*
 - **Posêidon** é pai de Pégaso (Apolodoro 2.4.3). **Recomendação: não citar** no texto — exigiria
   explicar a relação com a Medusa, que é justamente a variante que não entra.
 
-## Estrutura sugerida ao escritor (dentro do teto de 550–650 palavras)
+## Orçamento de batidas — **recalculado para o teto 500–600** (X1)
 
-Não é redação; é distribuição de caixa, para que a elipse não seja espremida.
+O orçamento anterior fechava em ~610 contra um teto que ainda não descontava o box.
+Redistribuição, protegendo a elipse e a devolução:
 
-| Batida | Conteúdo | ~palavras |
-|---|---|---|
-| 1 | O baú no mar, Díctis, Perseu crescendo em Sérifos (com a linha do oráculo e a linha de Zeus) | ~110 |
-| 2 | Polidectes, o banquete, a bravata, a ordem | ~90 |
-| 3 | Atena e Hermes; as Greias e o olho; as três coisas guardadas; a foice | ~150 |
-| 4 | **O escudo-espelho — a elipse — Pégaso** | ~110 |
-| 5 | A fuga com o elmo; a volta; Polidectes de estátua | ~90 |
-| 6 | A devolução (sandálias, alforje, elmo a Hermes; a cabeça a Atena; Díctis rei) | ~60 |
-| | **Total** | **~610** |
+| # | Batida | Antes | **Agora** |
+|---|---|---|---|
+| 1 | O baú no mar, Díctis, Perseu crescendo em Sérifos (linha do oráculo + linha de Zeus) | 110 | **85** |
+| 2 | Polidectes, o banquete, a bravata, a ordem | 90 | **75** |
+| 3 | Atena e Hermes; **as Greias e o olho**; as três coisas guardadas; a foice | 150 | **120** |
+| 4 | 🔒 **O escudo-espelho — a elipse — Pégaso** | 110 | **110** |
+| 5 | A fuga com o elmo; a volta; Polidectes de estátua | 90 | **75** |
+| 6 | 🔒 **A devolução** (sandálias, alforje, elmo a Hermes; a cabeça a Atena; Díctis rei) | 60 | **60** |
+| | **Total** | ~610 | **525** ✔ |
+
+**Onde os ~85 saíram:** batida 1 (o oráculo em uma frase, sem cena de Argos: *"o pai de Perseu
+era Zeus; o avô era um rei que tinha medo"*); batida 3 (as Greias mantidas como **cena**, mas as
+"três coisas guardadas" ditas em bloco, sem inventário item a item — o inventário já está na
+batida 6, onde é a mensagem). **Intocáveis** (ver `pesquisa/batidas-intocaveis.md`): a batida
+**4** — a elipse **precisa de espaço para não ser espremida**; comprimi-la é exatamente o que a
+transformaria em corte abrupto, e a sequência gesto→silêncio→Pégaso só funciona com ar; e a
+batida **6** — a devolução **é** a mensagem e é o fecho que diferencia este capítulo do cap. 8
+(X7). A batida **3** não pode perder as **Greias**: é o único lance que é de Perseu sozinho.
 
 ---
 
@@ -362,8 +420,10 @@ Não é redação; é distribuição de caixa, para que a elipse não seja espre
   Tradução de domínio público: **Evelyn-White (Loeb, 1914)** [verificada por trecho]. Grafias
   brasileiras: **Jaa Torrano, *Teogonia*, Iluminuras** (livro-spec, R2).
 - **Ovídio, *Metamorfoses* IV.663–803** — variante da Medusa punida (790–803) [verificada por
-  trecho, tradução Miller/Loeb 1916]; Andrômeda (663–764) e o escudo de Atena (782–783) [URL não
-  verif.]. **Registrada, não adotada.**
+  trecho, tradução Miller/Loeb 1916]; Andrômeda (663–764) [URL não verif.]. **Registrada, não
+  adotada.** ⚠️ **Correção P1: os versos 782–783 NÃO são a fonte do "escudo de Atena"** e foram
+  retirados desta linha — a atribuição do escudo à deusa é da **tradição figurada**, não de
+  Ovídio.
 - **Píndaro, *Pítica* 12** — Atena inventa o *aulos* imitando o lamento das Górgonas [verificada
   por trecho].
 - **Simonides, fr. 543 PMG ("o lamento de Dânae")** — Dânae acordada no baú e o filho dormindo
@@ -381,15 +441,23 @@ Não é redação; é distribuição de caixa, para que a elipse não seja espre
   LCL 042), não acessada (paywall).
 
 **Pendências para `mito-fidelidade` (Fase 2):**
-1. Conferir linha a linha toda numeração marcada **[URL não verificada]** — em especial Ovídio
-   *Met.* IV.782–783 (o escudo de Atena) e Apolodoro 2.4.4.
+1. Conferir linha a linha toda numeração marcada **[URL não verificada]** — em especial
+   Apolodoro 2.4.4. (⚠️ A conferência de Ovídio *Met.* IV.782–783 **saiu desta lista**: a
+   correção P1 removeu a atribuição, e não há mais nada a conferir ali.)
 2. Confirmar a referência iconográfica do "Você sabia?" nº 2 (gorgoneia em Siracusa/Corinto,
    escudos de Olímpia) com um acervo citável — tarefa compartilhada com `mito-historiador-arte`.
 3. Confirmar que a página de fontes do livro atribui **a descrição das Górgonas e todo o enredo a
    Apolodoro**, **a mortalidade da Medusa e Pégaso a Hesíodo**, e registra **Ovídio como variante
    não usada**.
-4. **Decisão pendente do `mito-editor-chefe` no gate da Fase 1:** a recomendação de **não usar** a
-   variante ovidiana da Medusa. O dossiê recomenda; a decisão é do gate.
+4. ✅ **DECIDIDO NO GATE DA FASE 1 (X14): a variante ovidiana da Medusa está FORA.** A
+   recomendação do pesquisador foi acolhida integralmente, pelos três argumentos do dossiê (o
+   núcleo é violência sexual seguida de punição da vítima, e não há elipse que preserve a
+   variante sem preservar isso; destruiria a Atena dos caps. 2 e 7; é tardia e romana contra
+   Hesíodo e Apolodoro, em que as Górgonas nascem assim). **Obrigação que a decisão cria:** a
+   exclusão **tem de ser declarada** nas pp. 51–52, na redação já proposta pelo dossiê — *"O
+   poeta romano Ovídio contou a Medusa de outro jeito — como alguém que um dia não foi monstro.
+   É uma história de adultos, e não cabia aqui."* Omitir a variante **em silêncio** seria a
+   única forma de errar aqui. `mito-fidelidade` verifica a presença da declaração na Fase 2.
 5. Grafias a fechar com `mito-revisor`: **Greias** (vs. "Graias"/"Fórcides"), **kibisis** (manter
    em itálico e no glossário, ou trocar por "alforje" no corpo do texto — recomendação do
    pesquisador: **"alforje" no corpo, "kibisis" no glossário**), **harpē** (recomendação:

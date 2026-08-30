@@ -1,7 +1,8 @@
 # Dossiê — O Rei Midas · **O toque de ouro**
 
 > **Capítulo 9** (pp. 39–42) · tipo: **específico** / lenda de advertência · onda de produção **P3**
-> Teto de extensão: **550–650 palavras** (livro-spec, F3) · 1 ilustração full-bleed (p. 42)
+> Teto de extensão: **500–600 palavras** de texto corrido (livro-spec Rev. 3, X1) ·
+> **1 box "Você sabia?", máx. 80 palavras** · 1 ilustração full-bleed (p. 42)
 >
 > **Fonte principal fixada no gate: Ovídio, *Metamorfoses* XI.85–145 — a versão SEM a filha.**
 > A filha dourada é invenção de Nathaniel Hawthorne (1851/1852) e **não entra**: confirmação
@@ -20,8 +21,11 @@
 Sem adaptação etária. Nomes na forma grega da série; onde Ovídio escreve em latim, a forma
 latina vem entre colchetes.
 
-Dioniso [Baco] deixa a Trácia e leva seu cortejo de sátiros e bacantes para as vinhas do monte
-Tmolo e para as margens do rio **Pactolo** — que, diz Ovídio expressamente, **ainda não era um
+Dioniso [Baco] **volta do monte Tmolo** com seu cortejo de sátiros e bacantes, às vinhas e às
+margens do rio **Pactolo** ⚠️ (**correção M3 do `mito-fidelidade`: NÃO "deixa a Trácia"** — a
+Trácia é o cenário do **episódio de Orfeu**, que precede este no livro XI e é outra história.
+Escrever que Dioniso "deixa a Trácia" importava para o capítulo de Midas uma geografia que não
+é dele. O movimento correto é o retorno do Tmolo, a montanha das vinhas da Lídia) — que, diz Ovídio expressamente, **ainda não era um
 rio dourado, nem invejado por suas areias preciosas** [Ov. *Met.* XI.85–88, verif. por trecho].
 Falta no cortejo um único companheiro: **Sileno**, o velho tutor do deus. Camponeses frígios o
 encontraram cambaleando, pesado de anos e de vinho, **amarraram-no com guirlandas** e o levaram
@@ -85,7 +89,7 @@ etiologia do Pactolo e o fecho do arco de Midas). O que vem depois é outra hist
 |---|---|---|---|
 | **V1** | **A filha que vira estátua de ouro.** Midas abraça a filha e ela endurece em ouro; o clímax emocional é o abraço, e o fim é a menina restituída. | **Nathaniel Hawthorne, "The Golden Touch", em *A Wonder-Book for Girls and Boys*** (impresso em nov. 1851, folha de rosto 1852) — Wikipedia/Gutenberg/Internet Archive [URL não verificada] | **FORA. Recontagem moderna, não é o mito.** E a prova é do próprio Hawthorne, que **admite a invenção dentro do texto**: escreve que Midas *"tinha uma filhinha, de quem ninguém além de mim jamais ouviu falar, e cujo nome eu ou nunca soube ou esqueci por completo. Então, como gosto de nomes esquisitos para meninas, escolho chamá-la Marygold."* [Hawthorne, *The Golden Touch*, verif. por trecho]. Hawthorne também **suprime as orelhas de burro** e dá um final inteiramente feliz com Midas regenerado. **Confirmação do gate (X6) cumprida.** Registrar na p. 53 (Nota sobre as adaptações) e na p. 51–52 (Fontes): *a menina de ouro que muita gente lembra não é da Grécia — é de um escritor norte-americano do século XIX.* ⚠️ **Regra de direitos:** nada de redação derivada de Hawthorne nem de recontos modernos em copyright. |
 | **V2** | **Midas captura Sileno com uma armadilha.** Numa tradição grega mais antiga que Ovídio, é o próprio Midas quem pega o sátiro, **misturando vinho à água de uma fonte** para embriagá-lo. Heródoto situa a captura nos "jardins de Midas" na Macedônia, onde nascem rosas de sessenta pétalas; Xenofonte cita "a fonte de Midas", onde ele teria capturado o sátiro misturando vinho à água. | Heródoto VIII.138 · Xenofonte, *Anábase* I.2.13 [ambas URL não verificada, texto obtido por busca] | **Não usar — mas registrar, porque muda o sentido.** Em Ovídio **Midas não prende ninguém**: são os camponeses que amarram Sileno, e Midas é quem **desamarra e hospeda**. Isso torna o dom uma **retribuição de hospitalidade**, e não pagamento por um refém. É a leitura que sustenta o capítulo e que **rima com o cap. 1 (Baucis e Filêmon)** — ver alerta de eco abaixo. |
-| **V3** | **Epílogo das orelhas de burro** (*Met.* XI.146–193): Midas, agora avesso à riqueza, segue Pã; Pã desafia Apolo na música e o monte **Tmolo** arbitra; Tmolo dá a vitória a Apolo, **só Midas discorda**, e Apolo lhe estica as orelhas em **orelhas de burro**. Midas as esconde sob um turbante; só o barbeiro sabe, não aguenta o segredo, **cava um buraco no chão e sussurra nele**, e cobre; ali crescem caniços que, ao vento, repetem o segredo. | Ovídio, *Met.* XI.146–193 [parc. verif.] | **RECOMENDAÇÃO DO PESQUISADOR: NÃO narrar no capítulo — usar como "Você sabia?" (fato 3).** Três razões técnicas, não de pudor: (a) é **outro episódio**, com outro elenco (Pã, Apolo, Tmolo, o barbeiro) e **outra cena-clímax** — narrá-lo quebra a regra F1 do livro-spec ("um episódio, uma cena numa única ilustração") e estoura o teto de 650 palavras; (b) tem **outra mensagem** (teimar contra o juízo alheio / segredo que não se segura), que competiria com a do capítulo; (c) exigiria apresentar Apolo num papel de **punidor humilhante**, oito páginas depois de ele ser protagonista simpático no cap. 3 — dano de continuidade de personagem. **Mas é bom demais para sumir**: entra inteiro no box, onde funciona como piada e como isca ("o mesmo rei ainda ia se meter em outra"). |
+| **V3** | **Epílogo das orelhas de burro** (*Met.* XI.146–193): Midas, agora avesso à riqueza, segue Pã; Pã desafia Apolo na música e o monte **Tmolo** arbitra; Tmolo dá a vitória a Apolo, **só Midas discorda**, e Apolo lhe estica as orelhas em **orelhas de burro**. Midas as esconde sob um turbante; só o barbeiro sabe, não aguenta o segredo, **cava um buraco no chão e sussurra nele**, e cobre; ali crescem caniços que, ao vento, repetem o segredo. | Ovídio, *Met.* XI.146–193 [parc. verif.] | **RECOMENDAÇÃO DO PESQUISADOR: NÃO narrar no capítulo — usar como "Você sabia?" (fato 3).** Três razões técnicas, não de pudor: (a) é **outro episódio**, com outro elenco (Pã, Apolo, Tmolo, o barbeiro) e **outra cena-clímax** — narrá-lo quebra a regra F1 do livro-spec ("um episódio, uma cena numa única ilustração") e estoura o teto de 600 palavras; (b) tem **outra mensagem** (teimar contra o juízo alheio / segredo que não se segura), que competiria com a do capítulo; (c) exigiria apresentar Apolo num papel de **punidor humilhante**, oito páginas depois de ele ser protagonista simpático no cap. 3 — dano de continuidade de personagem. **Mas é bom demais para sumir**: entra inteiro no box, onde funciona como piada e como isca ("o mesmo rei ainda ia se meter em outra"). |
 | **V4** | **Genealogia de Midas.** "Filho de Górdias" (o do nó górdio) e, em várias fontes, da deusa frígia **Cibele**; Ovídio o chama de **"herói berecíntio"** — Berecinto é monte da Frígia ligado ao culto de Cibele. | Ov. *Met.* XI.106 ("Berecyntius heros") [verif. por trecho] · Heródoto VIII.138 ("Midas filho de Górdias") [URL não verificada] | **Fora do texto corrido** (personagem a mais, culto a explicar). Vale como nota para o glossário se sobrar linha: "Midas era rei de um povo de verdade, os frígios". |
 
 ⚠️ **Alerta de eco de tom para o `mito-editor` (Fase 2).** O livro-spec já vigiava a proximidade
@@ -106,7 +110,14 @@ não por "um velho cansado bateu à porta".
 | Nome (série) | Nome original | Descrição canônica (física + atributos) | Fonte |
 |---|---|---|---|
 | **Midas** | Mídas (Μίδας) | **Mortal**, não deus — e essa diferença tem de ser visível: é o único protagonista humano do livro junto com Baucis e Filêmon. Rei da **Frígia** (Anatólia, atual Turquia), chamado por Ovídio "o herói berecíntio". Ovídio **não descreve o corpo dele**: não há barba, altura nem idade canônicas — o dossiê **não inventa**. O que o texto dá e é vinculante: **rei** (coroa/diadema e traje de corte, riqueza declarada no cenário, não na anatomia), **festeiro** (o palácio dele acabou de sustentar dez dias de festa), e, depois do dom, a marca visual que o mito exige — **os dedos e as mãos como origem de tudo**: a ação dele é sempre a mão que toca. No epílogo (fora do capítulo) ganha **orelhas de burro escondidas sob um turbante púrpura**. **Instrução de arte:** vestir a Frígia, não a Grécia — o **barrete frígio** (gorro cônico de ponta caída) é o marcador visual correto e legível, e distingue Midas de todo o resto do elenco do livro. | Ov. *Met.* XI.90–145 (rei, festa, o toque) [verif. por trecho] · XI.106 "Berecyntius heros" [verif. por trecho] · XI.176–182 (orelhas, turbante) [parc. verif.] · Heródoto VIII.138 (frígio, filho de Górdias) [URL não verif.] |
-| **Dioniso** | Diónysos (Διόνυσος) | Deus do vinho, da vinha e do êxtase. **Duas iconografias antigas, e o livro escolhe uma:** (a) arcaica de figuras negras — homem maduro **barbado**, muito vestido, coroado de hera; (b) clássica de figuras vermelhas e posterior — **jovem belo e imberbe, de cabelos longos e ondulados**. **Adotar (b), o jovem imberbe** — decisão de legibilidade e de continuidade: o livro já tem **quatro adultos barbados** no cânon (Zeus, Posêidon, Hades, Cronos), e um quinto barbado num capítulo avulso confundiria a criança. Atributos fixos: **tirso** (bastão enrolado em hera e videira, com **pinha** na ponta — "é o ícone dele como o raio é o de Zeus"), **coroa de hera**, **cacho de uvas**, **cântaro/kántharos** (taça alta de duas asas), **pele de corço** (*nébris*) sobre o ombro; animal: **pantera/leopardo**. Cortejo: sátiros e bacantes. **Nota de tom, obrigatória:** neste capítulo Dioniso é **o deus grato e o deus que lamenta** — Ovídio diz que ele concedeu *com pesar*. Nada de deus travesso, sarcástico ou vingativo; nada de embriaguez desenhada. | Iconografia: tirso com pinha, hera, kántharos, nébris, pantera; jovem imberbe de cabelos ondulados como forma dominante na pintura de vasos — Theoi, galerias K12.1/K12.3/K12.5 [URL não verificada, conteúdo por busca] · Ov. *Met.* XI.85–105, 134–141 [verif. por trecho] |
+| **Dioniso** | Diónysos (Διόνυσος) | Deus do vinho, da vinha e do êxtase. **Duas iconografias antigas, e o livro escolhe uma:** (a) arcaica de figuras negras — homem maduro **barbado**, muito vestido, coroado de hera; (b) clássica de figuras vermelhas e posterior — **jovem belo e imberbe, de cabelos longos e ondulados**. ✅ **DECIDIDO NO GATE DA FASE 1 (X14): adotar (b), o jovem imberbe** — e **esta ficha é a
+canônica do livro**, consolidada em `pesquisa/canon-visual-consolidado.md`; o dossiê do cap. 5
+(Hefesto), que havia fixado o Dioniso barbado arcaico, **cede com nota**. A colisão de cânon
+apontada pelo `mito-fidelidade` está resolvida. Justificativa de legibilidade e de
+continuidade, agora com o número na mesa: o cânon consolidado tem **11 figuras masculinas
+barbadas contra 3 imberbes**, e **Dioniso aparece em 3 capítulos** (5, 8 e 9) — um quarto
+barbado recorrente tornaria o elenco masculino do livro indistinguível para uma criança de 4
+anos, que separa personagens por silhueta antes de separar por atributo. Atributos fixos: **tirso** (bastão enrolado em hera e videira, com **pinha** na ponta — "é o ícone dele como o raio é o de Zeus"), **coroa de hera**, **cacho de uvas**, **cântaro/kántharos** (taça alta de duas asas), **pele de corço** (*nébris*) sobre o ombro; animal: **pantera/leopardo**. Cortejo: sátiros e bacantes. **Nota de tom, obrigatória:** neste capítulo Dioniso é **o deus grato e o deus que lamenta** — Ovídio diz que ele concedeu *com pesar*. Nada de deus travesso, sarcástico ou vingativo; nada de embriaguez desenhada. | Iconografia: tirso com pinha, hera, kántharos, nébris, pantera; jovem imberbe de cabelos ondulados como forma dominante na pintura de vasos — Theoi, galerias K12.1/K12.3/K12.5 [URL não verificada, conteúdo por busca] · Ov. *Met.* XI.85–105, 134–141 [verif. por trecho] |
 | **Sileno** | Seilēnós (Σειληνός) | **Velho sátiro, tutor e pai de criação de Dioniso** — é essa relação, e não o vinho, que move o mito: o deus recompensa Midas **porque recuperou o velho que o criou**. Descrição canônica antiga: **velho alegre e gordo**, **calvo ou semicalvo**, **nariz achatado (arrebitado)**, **barriga redonda**, barba e cabelo brancos e desgrenhados; **orelhas e cauda de cavalo** (às vezes pernas equinas). Atributos: **odre de vinho** inchado, instrumentos musicais, e o **burrico** que ele monta (na variante mais velha e mais gorda, "Papossileno", ele é sempre carregado). Em Ovídio ele chega **cambaleante, pesado de anos e de vinho, amarrado com guirlandas de flores**. **Instrução de arte:** as guirlandas são **flores, não cordas** — o texto latino dá isso de graça e resolve a cena sem imagem de prisioneiro; e o burrico do Sileno é o **plantio visual** da piada das orelhas no box "Você sabia?". Simpático, nunca grotesco. | Ov. *Met.* XI.89–93 (cambaleante, guirlandas, "pesado de anos e de vinho") [verif. por trecho] · iconografia: calvo, nariz arrebitado, pança, orelhas e cauda de cavalo, odre, burro — Theoi `/Georgikos/Seilenos.html` [URL não verificada, conteúdo por busca] |
 
 ### Citados, **fora** da narrativa deste capítulo
@@ -156,10 +167,10 @@ outra coisa e muito mais útil.
 
 | Trecho do mito | Sensibilidade | Estratégia sugerida |
 |---|---|---|
-| **Sileno "pesado de anos e de vinho", cambaleando** (XI.89–91) — e a festa de **dez dias** de Midas, que é festa báquica | **Média — embriaguez.** É a razão textual de Sileno estar perdido e sozinho | **Reenquadre por elipse de causa, sem falsificar o fato.** Sileno está **perdido e muito cansado** — velho, sozinho, longe do grupo. O vinho **sai da caracterização do corpo** (nada de cambalear, nada de vermelhidão, nada de odre na mão na cena de abertura) e **fica onde é seguro: no cenário e no atributo do deus** — as vinhas do Tmolo, as uvas, a hera. Ovídio autoriza: "pesado de anos" já basta como causa, e é verdadeiro. A festa de dez dias vira **"uma festa que durou dez dias e dez noites"** — para uma criança de 4–7 anos, "festa gigante" é a leitura automática, e é fiel ao número. **Proibido** dizer que Sileno estava bêbado; **proibido também** inventar que ele estava doente ou ferido. |
+| **Sileno "pesado de anos e de vinho", cambaleando** (XI.89–91) — e a festa de **dez dias** de Midas, que é festa báquica | **Média — embriaguez.** É a razão textual de Sileno estar perdido e sozinho | **Reenquadre por elipse de causa, sem falsificar o fato.** Sileno está **perdido e muito cansado** — velho, sozinho, longe do grupo. O vinho **sai da caracterização do corpo** (nada de cambalear, nada de vermelhidão, nada de odre na mão na cena de abertura) e **fica onde é seguro: no cenário e no atributo do deus** — as vinhas do Tmolo, as uvas, a hera. Ovídio autoriza: "pesado de anos" já basta como causa, e é verdadeiro. A festa de dez dias vira **"uma festa que durou dez dias e dez noites"** — para uma criança de 4–7 anos, "festa gigante" é a leitura automática, e é fiel ao número. **Proibido** dizer que Sileno estava bêbado; **proibido também** inventar que ele estava doente ou ferido. ⚠️ **CORREÇÃO M2 do `mito-fidelidade` — a p. 53 deve declarar TAMBÉM esta elipse.** O dossiê já mandava registrar a troca vinho→água na cena da mesa (M1), mas **a elipse do vinho de Sileno estava passando sem declaração** — e ela é a maior das duas: é a **causa** de o velho estar perdido, e o livro a suprime. Sem o registro, o capítulo tem uma omissão silenciosa exatamente no ponto em que o cap. 5 (Hefesto) declara a sua. Linha obrigatória na p. 53: *"Cap. 9 — no poema, Sileno está pesado de vinho; aqui, só de cansaço."* Duas elipses de vinho, duas declarações. |
 | **Os camponeses amarram Sileno com guirlandas** (XI.91–93) | **Baixa-média** — um velho amarrado e levado ao rei | **Manter, com a palavra exata de Ovídio: guirlandas de flores.** É o detalhe que salva a cena: não é corda, não é corrente. Formulação sugerida ao escritor: "amarraram o velho com correntes de flores e o levaram ao rei" — imagem bonita, fiel, e sem imagem de cárcere. **Se ainda pesar**, alternativa igualmente fiel: os camponeses **acham** o velho e o **levam** ao rei, e a guirlanda vira só enfeite. |
 | **A comida vira ouro: o pão enrijece, os dentes mordem lâminas de ouro** (XI.118–126) | **Média — é o núcleo do mito e o momento de maior desconforto físico** | **MANTER — é a cena, e amputá-la esvazia o capítulo.** Narrar por **objeto, não por corpo**: o pão, a maçã, a uva viram ouro **na mão e no prato**. **Evitar a boca:** as "lâminas amarelas onde os dentes tocam" e o **ouro derretido escorrendo pela garganta** são imagens de Ovídio corporais demais para 4–7 (risco de engasgo/asfixia) — **elipse**, sem substituto inventado. Basta: *"levou o pão à boca. O pão era duro, frio e brilhante. Não dava para comer."* Isso é literalmente o que Ovídio diz, sem a anatomia. |
-| **O vinho misturado com água que vira ouro** (XI.125–126) | **Média — bebida alcoólica em livro infantil** | **Substituir por água — e a substituição é fiel, não é maquiagem.** Ovídio escreve que Midas **misturou água pura ao vinho**: a água **já está na frase**. O livro fica com a metade que já é do texto. Formulação sugerida: *"pediu água. A água virou ouro antes de chegar aos lábios."* Registrar na p. 53: "onde o poema diz vinho com água, o livro diz água". **Proibido** trocar por suco, leite ou qualquer bebida que Ovídio não mencione — inventar é pior que omitir. |
+| **O vinho misturado com água que vira ouro** (XI.125–126) | **Média — bebida alcoólica em livro infantil** | **Substituir por água — e a substituição é fiel, não é maquiagem.** Ovídio escreve que Midas **misturou água pura ao vinho**: a água **já está na frase**. O livro fica com a metade que já é do texto. Formulação sugerida: *"pediu água. A água virou ouro antes de chegar aos lábios."* ⚠️ **CORREÇÃO M1 do `mito-fidelidade` — a troca ganha uma âncora textual melhor, e ela deve ser citada:** **Ovídio, *Met.* XI.115–117**, na cena do teste alegre, diz que Midas **lava as mãos e a água que escorre dos dedos vira ouro** ("poderia enganar Dânae"). Isto é **água virando ouro literalmente no texto de Ovídio**, e num verso anterior ao do vinho. **Consequência:** a substituição vinho→água deixa de ser "ficamos com metade da frase 125–126" e passa a ser **um fato que o poema já narra por conta própria** (115–117). É a diferença entre uma omissão defensável e uma escolha ancorada. **Citar XI.115–117 na p. 53 e nas pp. 51–52** ao declarar a troca. **Proibido** trocar por suco, leite ou qualquer bebida que Ovídio não mencione — inventar é pior que omitir. |
 | **"A garganta arde de sede", "atormentado", "por culpa própria"** (XI.127–130) | **Média-alta — sofrimento do protagonista, e é a única fonte real de angústia do capítulo** | **Manter a fome e a sede, cortar o tormento.** Fome e sede são **experiências que a criança conhece e que passam** — e são o motor da mensagem. O que se corta é a **duração e a autoflagelação**: nada de "dias sem comer", nada de "ele se odiava". Manter **um** ciclo de refeição fracassada e ir direto ao pedido. O tom conduzido é **susto e tristeza**, não desespero. E — regra de ritmo, herdada da lição do cap. 10 — **o susto e a solução ficam na mesma abertura de página**: a distância entre o problema e o socorro é o que define se assusta. |
 | **Midas pede perdão de mãos erguidas** (XI.130–133) | **Nenhuma — é o melhor material moral do capítulo** | **Realçar, e dar a ele as palavras.** É o próprio Midas quem diz "errei" antes de pedir ajuda. Para 4–7 anos isso é ouro pedagógico **sem sermão**, porque é ação de personagem, não fala de narrador. **Não** transformar em choro nem em súplica humilhante: em Ovídio ele ergue os braços e fala. |
 | **A absolvição no Pactolo** (XI.134–145) | **Nenhuma** | **Manter inteira, e é o final.** Inclui a **instrução do deus** (subir o rio até a nascente e mergulhar) — o mito dá a Midas **uma tarefa**, e a criança adora tarefa. Manter também a **etiologia**: o ouro sai dele e entra no rio, e o rio ficou dourado **para sempre**. É o que transforma a fábula em explicação de mundo, que é o padrão do livro. |
@@ -197,6 +208,25 @@ entregaria o final na abertura da página e mataria a única surpresa do capítu
 (d) Casa com a paginação: a ilustração é a p. 42, **depois** do texto, e assim ela funciona como
 o eco visual da cena que a criança acabou de ouvir, com o alívio do rio já entregue pelo texto.
 
+### ⚠️ X6 — a mesa fica, e a alternativa do Pactolo vira decisão do diretor de arte
+
+O `mito-editor` **confirma a mesa** pelas quatro razões acima, que continuam válidas. Mas
+registra o que a objeção X6 mostrou e o dossiê, produzido isoladamente, não podia ver: **este é
+o terceiro "instante imediatamente anterior" seguido** — cap. 7 (a foice que não subiu), cap. 8
+(o fio e a sombra), cap. 9 (o pão a caminho da boca). Três páginas consecutivas com a mesma
+gramática de suspensão, num livro de onze imagens.
+
+**Decisão:** a mesa é a cena aprovada da Fase 1. **A alternativa do rio Pactolo fica registrada
+como decisão explícita do `mito-diretor-arte` na Fase 3**, a ser tomada **com as três imagens
+lado a lado**, que é a única condição em que o problema é visível. Critério de decisão:
+*se, vistas em sequência, as ilustrações dos caps. 7, 8 e 9 lerem como a mesma respiração
+presa, o cap. 9 troca para o Pactolo* — Midas **dentro do rio**, mãos e cabeça na espuma, o
+ouro **saindo** dele e entrando na água, os campos da margem já com a veia pálida do metal:
+cena de **resolução consumada**, que quebraria a sequência e devolveria alívio ao livro antes
+do capítulo final. **Custo da troca, a pesar na hora:** perde-se a surpresa (o texto já entrega
+o rio) e perde-se a "imagem de perda de cor". Por isso não é troca automática — é decisão
+informada, e o gate a delega.
+
 **Nota ao diretor de arte — armadilha a evitar:** a tentação é fazer uma imagem **suntuosa**.
 Ela não é. É uma imagem de **perda de cor**. Se o quadro final parecer rico e desejável, a
 ilustração contradiz o capítulo.
@@ -227,16 +257,26 @@ ilustração contradiz o capítulo.
    quando o vento passa, **contam o segredo até hoje**. — Ov. *Met.* XI.146–193 [parc. verif.].
    **É aqui, e só aqui, que o epílogo entra no livro** (ver V3).
 
-*(Três fornecidos; a caixa comporta 2–3. Prioridade: **1 e 3** — o 1 ancora o mito no mundo real
-e o 3 é o que faz a criança rir e pedir de novo. O fato 2 é o de maior valor para o adulto.)*
+⚠️ **Instrução Rev. 3 (X1): 1 box por capítulo, máx. 80 palavras** — a caixa **não** comporta
+2–3. Vai ao livro **o fato 3** (as orelhas de burro, o barbeiro e os caniços): é o que faz a
+criança rir e pedir de novo, e é **o único lugar do livro em que o epílogo excluído (V3)
+entra** — se ele não for o box, o epílogo desaparece do livro inteiro. Os fatos **1 e 2**
+migram para as pp. 51–52, e o **fato 1 (o Pactolo e o electro) é obrigatório ali**: é o lastro
+real da etiologia com que o capítulo termina.
 
 ---
 
 ## Nota ao `mito-escritor` (não é adaptação — é conta de padeiro)
 
-O teto é **550–650 palavras** e este mito tem **cinco batidas obrigatórias**: (1) Sileno perdido
-e acolhido; (2) o desejo concedido; (3) a alegria do toque; (4) o pão de ouro; (5) o rio.
-Distribuição sugerida: ~90 / ~110 / ~110 / ~180 / ~120. **A batida 4 é a que não pode ser
+O teto vigente é **500–600 palavras** de texto corrido (livro-spec Rev. 3, X1 — recalculado
+descontando o box), e este mito tem **cinco batidas obrigatórias**: (1) Sileno perdido e
+acolhido; (2) o desejo concedido; (3) a alegria do toque; (4) o pão de ouro; (5) o rio.
+
+**Distribuição recalculada:** ~75 / ~95 / ~85 / ~165 / ~110 = **530** ✔
+*(a anterior — 90/110/110/180/120 = 610 — estourava o teto novo em 60 palavras.)*
+**Todas as cinco batidas são intocáveis** (ver `pesquisa/batidas-intocaveis.md`): as três
+primeiras montam a queda, a quarta é a mensagem e a quinta é a absolvição — sem ela o capítulo
+termina no castigo, que é exatamente o que Ovídio não faz. **A batida 4 é a que não pode ser
 comprimida** — é a cena e é a mensagem. A batida 3 (o rei tocando tudo com alegria) é a que
 mais tenta crescer e a que mais deve ser contida: **três objetos bastam** (um raminho, uma
 pedra, uma maçã — todos de Ovídio). O epílogo das orelhas **não conta palavra do capítulo**:
@@ -290,7 +330,12 @@ mora no box.
    contra uma tradução em domínio público (More ou Riley).
 2. Confirmar que a mensagem impressa é **"ouro não se come"** e **não** "ouro não abraça" —
    e que a p. 53 registra que a filha dourada é de Hawthorne, não da Grécia.
-3. Confirmar o registro da substituição **vinho → água** na Nota sobre as adaptações (p. 53).
+3. Confirmar que a p. 53 registra **as DUAS elipses de vinho** deste capítulo (correção M2):
+   (a) a substituição **vinho → água** na cena da mesa, **citando XI.115–117** como âncora
+   (correção M1); e (b) **a elipse do vinho de Sileno** na abertura ("no poema, Sileno está
+   pesado de vinho; aqui, só de cansaço"). A segunda estava faltando.
+7. Confirmar que nenhuma página do livro diz que Dioniso **"deixa a Trácia"** (correção M3):
+   ele **volta do Tmolo**; a Trácia é do episódio de Orfeu.
 4. Confirmar na página de fontes que o capítulo é **ovidiano** e que a variante grega mais
    antiga (Midas captura Sileno) foi vista e **não** adotada.
 5. Confirmar com o `mito-editor` o tratamento do **eco Ovídio–hospitalidade** entre os caps. 1 e 9.

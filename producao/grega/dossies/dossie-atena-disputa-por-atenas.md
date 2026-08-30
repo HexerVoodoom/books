@@ -4,7 +4,8 @@
 > Subordinado ao **dossiê-cânon** `dossie-do-caos-ao-olimpo.md`: descrições canônicas de
 > Posêidon e Zeus são **reutilizadas verbatim** daquele documento; a descrição de Atena é
 > **promovida a cânon aqui**, a partir da ressalva registrada no dossiê-cânon.
-> Extensão-alvo do capítulo: **550–650 palavras** (livro-spec, F3).
+> Extensão-alvo do capítulo: **500–600 palavras** de texto corrido (livro-spec Rev. 3, X1) ·
+> **1 box "Você sabia?", máx. 80 palavras**.
 
 ## ⚠️ Nota de verificação de fontes (obrigatória)
 
@@ -69,10 +70,20 @@ frutos — **Ovídio, *Metamorfoses* VI.80–82** [verificada por busca]. A oliv
 árbitros — **os doze deuses**. E, conforme o veredito deles, o país foi adjudicado a Atena,
 **porque Cécrops testemunhou que fora ela a primeira a plantar a oliveira**" — **Apolodoro,
 *Bibl.* 3.14.1** [verificada por busca]. Repare no detalhe jurídico, que é o coração da versão
-de Apolodoro: o tribunal decide por **testemunho**, não por gosto. Ovídio, na tapeçaria que
-Minerva tece contra Aracne, mostra a mesma cena com **os doze deuses julgando** e conclui que a
-oliveira **venceu** o cavalo dado por Netuno — **Ovídio, *Met.* VI.70–82** [verificada por
-busca]. A cidade passa a se chamar **Atenas**.
+de Apolodoro: o tribunal decide por **testemunho**, não por gosto.
+
+⚠️ **Correção 3.1 do `mito-fidelidade` — Ovídio NÃO "conclui" o veredito.** A versão anterior
+deste dossiê dizia que Ovídio "conclui que a oliveira venceu o cavalo". **É leitura, não
+texto.** O que Ovídio faz é descrever **uma tapeçaria**: Minerva tece os doze deuses julgando,
+tece a si mesma cravando a lança e fazendo brotar a oliveira, e **fecha a peça com a figura da
+Vitória** (*Met.* VI.82) — que é **imagem bordada, não sentença narrada**. Quem declara a
+vitória, no poema, é **a bordadeira dentro do próprio bordado**: Minerva tecendo a própria
+causa ganha. Ovídio não arbitra. **Redação proibida no livro e neste dossiê:** "Ovídio conta
+que a oliveira ganhou". **Redação correta:** "Ovídio descreve a cena tecida por Atena, e nela
+a Vitória fecha o quadro". A numeração fina de Ovídio neste passo está **deslocada em ~1
+verso** entre edições — conferir antes de citar número.
+
+A cidade passa a se chamar **Atenas**.
 
 **A ira de Posêidon.** Derrotado, "Posêidon, tomado de cólera, **inundou a planície Triásia** e
 pôs a Ática sob o mar" — **Apolodoro, *Bibl.* 3.14.1** [verificada por busca]. A disputa não
@@ -146,9 +157,27 @@ um presente.
 > e que se planta de novo. Presente bom não é o que faz mais barulho: é o que continua servindo
 > depois que o barulho passa.**
 
-Derivável do texto (é o contraste que as duas fontes constroem, e que Ovídio julga
-explicitamente: a oliveira "superou" o presente de Netuno), dizível para uma criança de 4 anos,
-e verdadeira para o adulto sem asterisco.
+⚠️ **Declaração obrigatória de procedência da mensagem (correção 3.2 do `mito-fidelidade`).**
+A mensagem acima é **honesta, mas não é o critério da fonte-espinha**, e o dossiê tem de dizer
+isso em voz alta para que ninguém a defenda como se fosse Apolodoro:
+
+- **O que a fonte-espinha julga: TESTEMUNHO.** Em Apolodoro 3.14.1 os doze deuses adjudicam a
+  terra a Atena **porque Cécrops testemunhou que ela plantou primeiro** — é uma decisão
+  **processual**, sobre quem provou a posse, e **não** uma avaliação de qual presente é melhor.
+- **O critério do "presente melhor" é IMPLICAÇÃO OVIDIANA**, e implicação de uma tapeçaria
+  (ver correção 3.1): a comparação existe no material, mas nenhuma fonte grega antiga a
+  enuncia como razão do veredito.
+- **Consequência para a escrita:** a mensagem adotada é **legítima como leitura editorial** e o
+  livro pode contá-la — mas o texto **não pode afirmar que os deuses escolheram a oliveira por
+  ser mais útil**. A saída, que já é a estratégia do dossiê, é **deixar a comparação com o
+  leitor** (o povo prova a água salgada; alguém come uma azeitona) e **narrar o veredito pelo
+  testemunho** ("o rei tinha visto, e contou o que viu"). A criança faz a conta do valor; a
+  fonte fica intacta.
+- **Registrar nas pp. 51–52** que Apolodoro julga por testemunho e que a comparação dos
+  presentes vem da tradição ovidiana.
+
+Feita a ressalva: a mensagem é derivável do material das duas fontes, dizível para uma criança
+de 4 anos, e verdadeira para o adulto sem asterisco.
 
 **Como a narrativa reforça sem sermão.** Por **estrutura de eco**, não por frase-moral. O
 capítulo dá os dois presentes na mesma gramática — *golpe → algo surge → o povo reage* — e a
@@ -236,9 +265,36 @@ onda P5.
    a oliveira e a água, no momento da disputa. — Pausânias, *Descrição da Grécia* I.24.5 [verif.
    por busca].
 
-*(Três fornecidos; o livro usa 2–3 conforme a caixa. Prioridade: **1 e 2** — o 2 é o de maior
-força emocional e o mais fácil de ilustrar em viñeta. O fato 3 é o de maior valor para o adulto
-leitor e conversa com a direção de arte do livro.)*
+⚠️ **Instrução Rev. 3 (X1): 1 box por capítulo, máx. 80 palavras** — não 2. Vai ao livro **o
+fato 2** (a oliveira queimada pelos persas que brotou no dia seguinte): é o de maior força
+emocional, é o único com reviravolta própria e **paga a mensagem do capítulo sem repeti-la**
+(a árvore continua servindo mesmo depois do desastre). Os fatos **1 e 3** migram para as
+pp. 51–52 — e o fato 1 (os dois sinais visitáveis) é **material obrigatório** ali, porque é a
+prova material que sustenta a escolha da fonte salgada contra o cavalo.
+
+---
+
+## Orçamento de batidas (X4) — fechando em 500–600 palavras
+
+| # | Batida | Palavras |
+|---|---|---|
+| 1 | Atena nasce da cabeça de Zeus, já crescida e armada (antecedente, elipse de Métis) | 45 |
+| 2 | Uma cidade sem nome e sem dono; o rei Cécrops; dois deuses a querem | 60 |
+| 3 | **O golpe do tridente: o mar dentro da cidade** — narrado com admiração sincera | 75 |
+| 4 | Alguém prova a água. É salgada. | 35 |
+| 5 | **Atena chama Cécrops para ver** — e só então planta | 55 |
+| 6 | **A oliveira brota**: comida, óleo, luz, sombra, madeira | 70 |
+| 7 | Zeus separa os dois e nomeia juízes; **o rei conta o que viu**; a cidade ganha nome | 80 |
+| 8 | **A raiva de Posêidon: o mar sobe na planície** (uma vez, curto, sem cena) | 50 |
+| 9 | **O reparo**: os dois sinais ficam lado a lado na acrópole, honrados juntos | 60 |
+| | **Total** | **530** ✔ |
+
+**Intocáveis** (ver `pesquisa/batidas-intocaveis.md`): a batida **5** (chamar a testemunha
+**antes** de plantar é a *mêtis* de Atena e o critério real da fonte — correção 3.2); a batida
+**8** (a inundação da planície Triásia é **linha vermelha do `mito-fidelidade`**: se cair, o
+capítulo perde o único ponto em que a fonte mostra consequência e é **reprovado**); a batida
+**9** (o reparo, que é o que impede Posêidon de virar vilão). **A folga de ~50 palavras existe
+de propósito** e pertence à batida 3 — o presente de Posêidon precisa ser magnífico.
 
 ---
 

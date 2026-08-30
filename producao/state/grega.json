@@ -7,81 +7,109 @@
       "slug": "zeus-baucis-e-filemon",
       "ordem_leitura": 1,
       "ordem_producao": "P1",
-      "status": "planejado"
+      "status": "pesquisado"
     },
     {
       "slug": "atena-disputa-por-atenas",
       "ordem_leitura": 2,
       "ordem_producao": "P2",
-      "status": "planejado"
+      "status": "pesquisado"
     },
     {
       "slug": "artemis-e-apolo-nascimento-em-delos",
       "ordem_leitura": 3,
       "ordem_producao": "P1",
-      "status": "planejado"
+      "status": "pesquisado",
+      "titulo": "Leto e a ilha que ninguém queria",
+      "nota": "retitulado no gate da Fase 1 (X10); slug do arquivo mantido"
     },
     {
       "slug": "hermes-o-gado-e-a-lira",
       "ordem_leitura": 4,
       "ordem_producao": "P2",
-      "status": "planejado"
+      "status": "pesquisado"
     },
     {
       "slug": "hefesto-o-trono-de-ouro",
       "ordem_leitura": 5,
       "ordem_producao": "P1",
-      "status": "planejado"
+      "status": "pesquisado"
     },
     {
       "slug": "demeter-e-persefone",
       "ordem_leitura": 6,
       "ordem_producao": "P2",
-      "status": "planejado"
+      "status": "pesquisado"
     },
     {
       "slug": "perseu-e-a-medusa",
       "ordem_leitura": 7,
       "ordem_producao": "P3",
-      "status": "planejado"
+      "status": "pesquisado"
     },
     {
       "slug": "teseu-e-o-minotauro",
       "ordem_leitura": 8,
       "ordem_producao": "P3",
-      "status": "planejado"
+      "status": "pesquisado"
     },
     {
       "slug": "midas-o-toque-de-ouro",
       "ordem_leitura": 9,
       "ordem_producao": "P3",
-      "status": "planejado"
+      "status": "pesquisado"
     },
     {
       "slug": "do-caos-ao-olimpo",
       "ordem_leitura": 10,
       "ordem_producao": "P0",
-      "status": "planejado"
+      "status": "pesquisado"
     }
   ],
   "pendencias": [
-    "URLs de fontes (Theoi/WHE) e referências do Met não verificadas — proxy de rede bloqueou os domínios nesta sessão",
-    "Héracles fora do sumário — confirmar com o humano",
-    "Cap. 1 (Baucis e Filêmon) tem fonte latina (Ovídio) para um deus grego — dossiê deve documentar o lastro grego da xenia de Zeus ou o capítulo cai na Fase 2",
-    "Finais tristes de Teseu (Ariadne, véu de Egeu) — decidir no dossiê (Fase 1)",
-    "Mensagem do cap. 10 é preliminar-a-derivar-do-dossiê da Teogonia (P0)",
-    "Perseguição de Leto por Hera: elipse proposta (evitar Hera-vilã em 3 e 5) — confirmar no dossiê",
+    "CRÍTICA — conferência linha a linha de toda numeração [URL não verificada] nos 10 dossiês: proxy bloqueou Theoi, Perseus, Sacred-Texts, WHE e Met; tudo verificado por WebSearch (mito-fidelidade, Fase 2)",
+    "VINCULANTE — a p. de fontes deve declarar a fonte latina do cap. 1 (Ovídio) e a grafia grega como decisão editorial; sem isso o cap. 1 perde a aprovação (correção 2.1)",
+    "Declarações obrigatórias nas pp. 51-53 a verificar na Fase 2: Métis (1.2), Hera/Ilítia (4.2), vinho de Sileno (M2), vinho de Dioniso (cap. 5), Medusa ovidiana excluída, rochedo x mar (T1), tributo anual x 9 anos (T2), escudo de bronze sem dono (P1), Alceu como testemunho independente (A1)",
+    "Decisão sobre Dioniso (jovem imberbe) marcada como REVISÁVEL no checkpoint humano — contraria a âncora iconográfica do Vaso François no cap. 5",
+    "Confirmar com o humano o retítulo do cap. 3 para 'Leto e a ilha que ninguém queria' (muda sumário e quarta capa)",
+    "Confirmar com o humano o teto novo de palavras: 500-600 (específico) / 750-850 (geral) / 1 box de até 80 palavras por capítulo",
+    "Nome da série, tipografia serial e disclosure de IA — decisão do humano no checkpoint; a tipografia agora precisa funcionar em três corpos (14/21 miolo, 11/15 box, 9,5/12 aparato em 2 colunas)",
+    "p. 53 como lista telegráfica (máx. 4 itens por capítulo) — confirmar que fecha na diagramação; contingência é pp. 52-53 com a bibliografia comprimida na 51 (mito-diagramador, Fase 4)",
+    "Cena do cap. 9: mesa aprovada, alternativa Pactolo delegada ao mito-diretor-arte na Fase 3, decidível só com as imagens 7, 8 e 9 lado a lado",
+    "Régia de Minos (cornos, labrys) a declarar como extensão arqueológica de Cnossos, não como fonte literária (mito-historiador-arte, Fase 3)",
+    "Verificar caps. 7 e 8 lado a lado depois de escritos — a diferenciação X7 não é verificável em dossiê (mito-editor, Fase 2)",
+    "Grafias em aberto para o mito-revisor: Tétis (nereida x titânide), Filêmon, Cécrops, Métis, Greias, kibisis, harpē; e pronúncias no glossário",
     "56 pp não é múltiplo de 16 — se a gráfica-alvo exigir caderno de 16, ir a 64 pp (mito-diagramador, Fase 4)",
-    "Nome da série, tipografia serial e disclosure de IA — decisão do humano no checkpoint",
     "Perfil ICC / gráfica-alvo — aberta até a Fase 5"
   ],
   "gates": {
-    "fundacao": "aprovado"
+    "fundacao": "aprovado",
+    "pesquisa": "aprovado — 8 dimensões verdes, nenhuma objeção FATAL sobrevivente; ver producao/grega/pesquisa/gate.md"
   },
-  "checkpoint": null,
+  "checkpoint": "aguardando humano",
   "decisoes": {
     "serie_nome": "Era Uma Vez um Mito",
     "heracles": "fora do sumario (candidato a edicao ampliada)",
-    "disclosure_ia": "Ilustrações criadas com auxílio de inteligência artificial generativa, sob direção de arte e curadoria humanas."
-  }
+    "disclosure_ia": "Ilustrações criadas com auxílio de inteligência artificial generativa, sob direção de arte e curadoria humanas.",
+    "teto_palavras": "especifico 500-600 / geral 750-850 / 1 box por capitulo, max 80 palavras (X1, teto recalculado descontando o box)",
+    "corpo_tipografico": "miolo narrativo 14/21 pt; box 11/15 pt; aparato pos-textual 9,5/12 pt em 2 colunas (~700-900 palavras/pagina) — o piso de 14 pt vale so para o miolo",
+    "cap3_titulo": "Leto e a ilha que ninguem queria",
+    "cap3_mensagem": "quem acolhe deixa de estar a deriva — pertencer (diferenciada do cap. 1)",
+    "cap10_justificativa": "reencontro de ATRIBUTOS e origens (raio, tridente, elmo, partilha), nao de personagens",
+    "dupla_luz_sem_astros": "ADOTADA",
+    "medusa_ovidiana": "FORA — exclusao declarada nas pp. de fontes",
+    "dioniso": "jovem imberbe — recomendacao do editor, REVISAVEL no checkpoint humano",
+    "egeu_etimologia": "Higino Fab. 43 inteiro na batida — Egeu vai ao mar e o mar ganha o nome; o rochedo de Plutarco sai do texto",
+    "hermes_desfecho": "recebe o OFICIO de pastor; as vacas voltam a Apolo",
+    "cena_cap6": "abraco consumado (alterado por X6)",
+    "ritmo_visual": "max 50% das cenas em 'instante anterior' — atual 5/11 = 45%"
+  },
+  "artefatos": [
+    "producao/grega/livro-spec.md (Rev. 3)",
+    "producao/grega/pesquisa/parecer-fidelidade.md",
+    "producao/grega/pesquisa/gate.md",
+    "producao/grega/pesquisa/batidas-intocaveis.md",
+    "producao/grega/pesquisa/canon-visual-consolidado.md",
+    "producao/grega/dossies/ (10 dossiês)"
+  ]
 }

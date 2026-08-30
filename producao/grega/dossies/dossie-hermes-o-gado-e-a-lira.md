@@ -1,9 +1,31 @@
 # Dossiê — Hermes: o bebê, o gado e a lira
 
 > **Capítulo 4 (específico) · onda de produção P2 · livro `grega`**
-> Extensão-alvo do capítulo: **550–650 palavras** (livro-spec, F3).
-> Dependência de leitura: **cap. 3 (Ártemis e Apolo · Delos) precede este** — o leitor já
-> conhece Apolo quando Hermes lhe entrega a lira (livro-spec, X2).
+> Extensão-alvo do capítulo: **500–600 palavras** de texto corrido (livro-spec Rev. 3, X1) ·
+> **1 box "Você sabia?", máx. 80 palavras**.
+> Dependência de leitura: **cap. 3 (Leto e a ilha que ninguém queria) precede este** — o leitor
+> já conhece Apolo quando Hermes lhe entrega a lira (livro-spec, X2).
+>
+> ### ⚠️ ABERTURA OBRIGATÓRIA — a linha de sequência (X9)
+>
+> Este capítulo tem um problema de **ordem de leitura contra cronologia mítica** que o leitor
+> pode sentir como erro: **no cap. 1 Hermes já porta o caduceu**, e **no cap. 4 ele o ganha**.
+> Não é infidelidade (Ovídio o dá com o bastão; o hino conta como o recebeu) e o
+> `mito-fidelidade` já o registrou como não-erro — mas **é um buraco de leitura**, e a criança
+> que reconhecer o bastão vai perguntar.
+>
+> **Solução vinculante: o capítulo abre declarando a anterioridade.** Redação proposta ao
+> `mito-escritor` (ideia, não obrigatória na letra):
+>
+> > *"Isso foi muito antes de tudo o que você já leu. Naquele tempo, Hermes ainda não tinha o
+> > bastão de ouro."*
+>
+> **Conta no orçamento: ≈20 palavras, alocadas na batida 1** (ver *Orçamento de batidas*). Não é
+> palavra grátis e não pode ser esquecida na diagramação.
+>
+> ⚠️ **Consequência de arte, já fixada e que o `mito-diretor-arte` NÃO deve "harmonizar":**
+> dentro do cap. 4, **o bastão só aparece na última cena**. No cap. 1 ele aparece desde o
+> início. As duas coisas estão certas ao mesmo tempo.
 > **Relação com o cânon:** as descrições canônicas de **Zeus** e **Hera** são reutilizadas
 > *verbatim* do dossiê-cânon (`dossie-do-caos-ao-olimpo.md`), sem redefinição. As descrições de
 > **Hermes**, **Apolo**, **Maia** e **Leto** são **novas** e ficam fixadas aqui como cânon do
@@ -44,11 +66,18 @@ dia do mês** — data que a Grécia guardou como dia de Hermes.
 
 **A tartaruga e a lira.** Recém-nascido, ele **salta do berço** e sai da caverna. Na soleira
 encontra uma **tartaruga** pastando na grama diante da porta, e a saúda como um achado de
-sorte: *"foi Hermes quem primeiro fez da tartaruga uma cantora"* — **Hino a Hermes 20–38**
-[verificada por trecho]. Ele leva o animal para dentro e constrói o instrumento: mede e corta
-**hastes de cana**, fixa-as atravessadas no casco, estica **couro de boi** sobre ele, encaixa
-os **dois braços (chifres)** com uma **travessa** entre eles e estende **sete cordas de tripa
-de ovelha** — **Hino a Hermes 39–51** [verificada por trecho]. Testa a lira com o plectro e
+sorte: *"foi Hermes quem primeiro fez da tartaruga uma cantora"*. Ele leva o animal para dentro
+e constrói o instrumento: mede e corta **hastes de cana**, fixa-as atravessadas no casco,
+estica **couro de boi** sobre ele, encaixa os **dois braços (chifres)** com uma **travessa**
+entre eles e estende **sete cordas de tripa de ovelha** — **Hino a Hermes 24–51** [verificada
+por trecho].
+
+⚠️ **Correção 5.2 do `mito-fidelidade` — faixa ÚNICA para o episódio da lira: 24–51.** A versão
+anterior deste dossiê partia a passagem em "20–38" e "39–51", enquanto o box "Você sabia?"
+citava "24–51" — **três numerações diferentes para a mesma cena dentro do mesmo documento**, o
+tipo de divergência que a revisão de fontes flagra tarde e cara. **Faixa canônica deste dossiê,
+do corpo e do box: *Hino a Hermes* 24–51.** Nenhuma outra numeração para a invenção da lira
+pode aparecer em nenhuma página do livro. Testa a lira com o plectro e
 canta. Nasce ali a *chélys*, a lira de casco de tartaruga. ⚠️ **Fato para o escritor: a lira é
 inventada ANTES do roubo, não como desculpa depois.** A ordem importa para a mensagem.
 
@@ -102,15 +131,32 @@ sentença de culpa. Zeus julga **mandando os dois resolverem juntos**.
 lira de baixo dos panos** e toca, cantando a origem dos deuses. Apolo — deus da música — é
 tomado de desejo pelo instrumento e declara: *"este teu canto vale cinquenta vacas, e creio
 que em breve resolveremos nossa disputa em paz"* — **Hino a Hermes 434–438** [verificada por
-trecho]. Hermes **dá a lira a Apolo** e recebe em troca **o gado e o ofício de pastor**: os dois
-trocam de domínio, e é assim que a lira passa a ser o atributo de Apolo (e não de seu
-inventor).
+trecho]. Hermes **dá a lira a Apolo** e recebe em troca **o OFÍCIO de pastor** — o cuidado dos rebanhos
+como domínio seu.
+
+⚠️ **Correção 5.1 do `mito-fidelidade` — o desfecho estava errado neste dossiê.** A versão
+anterior dizia que Hermes "recebe o gado e o ofício de pastor". **Ele não fica com as vacas.**
+**As cinquenta vacas voltam a Apolo**, que é o dono delas; o que Hermes ganha é o **ofício** —
+passa a ser o deus que **cuida** de rebanhos, não o deus que **tem** aquele rebanho. Os dois
+trocam de **domínio**, não de propriedade: a música passa a Apolo, a pastorícia a Hermes.
+
+**Por que a diferença é decisiva e não é filigrana:** se Hermes fica com as vacas, o mito diz
+que **o roubo compensou** — o ladrão foi pego, deu um presente e ficou com o produto do furto.
+É exatamente a leitura que o capítulo não pode ter, e derrubaria a mensagem central ("é o
+conserto que fica"). Com a correção, a estrutura é limpa e é a da fonte: **o roubo é desfeito**
+(as vacas voltam), **o dano é pago** (a lira) e **o ladrão ganha um trabalho** (o ofício).
+**Instrução vinculante ao `mito-escritor`: o texto deve deixar claro que as vacas voltaram para
+Apolo.** Uma frase basta, e ela é a que fecha a reparação.
 
 **A amizade e o bastão de ouro.** Apolo teme que o menino volte a roubar; Hermes jura o grande
 juramento dos deuses que não tocará no que é de Apolo, e Apolo jura em troca que nenhum
 imortal lhe será mais caro. Então Apolo lhe dá o presente que fecha o capítulo: *"e te darei
 ainda um esplêndido bastão de riqueza e de fortuna: é de ouro, com três ramos, e te manterá
-ileso"* — **Hino a Hermes 528–530** [verificada por trecho]. Este é o **bastão-arauto**
+ileso"* — **Hino a Hermes 528–530** [verificada por trecho]. ⚠️ **Correção 5.2 (2ª parte):
+conferir 528–532 com cuidado redobrado** — há **lacuna textual reconhecida logo depois do v.
+526**, e a numeração dos versos seguintes **varia entre edições justamente por causa dela**.
+Enquanto a conferência não for feita, o livro **não cita número de verso** para o bastão: as
+pp. 51–52 dizem "*Hino Homérico a Hermes*, perto do fim". Este é o **bastão-arauto**
 (*kērýkeion*, caduceu). Hermes ainda inventa a **siringe** (flauta de pã) e a toca; Apolo lhe
 concede o trato com as **Trias**, as abelhas-profetisas, mas **não** a arte oracular de Delfos,
 que Zeus reservou a Apolo. Zeus, por fim, faz de Hermes o **arauto dos deuses** e o **guia** —
@@ -123,7 +169,7 @@ lacuna reconhecida no texto após o v. 526].
 
 | Variante | Fonte | Decisão da série |
 |---|---|---|
-| **A troca de instrumentos.** No hino, Hermes dá **a lira** e recebe o gado + o ofício de pastor; o **bastão de ouro** vem depois, com a siringe já inventada. Em **Apolodoro**, a sequência é condensada: Hermes toca a **siringe**, Apolo lhe oferece o bastão de ouro que usava para pastorear, e Hermes pede o bastão **mais** a arte de adivinhar por pedrinhas, dando a siringe em troca. | *Hino a Hermes* 496–512, 528–532 · **Apolodoro, *Biblioteca* 3.10.2** [verif. por trecho] | **Adotamos o hino** (fonte principal do capítulo) e **cortamos a siringe e a adivinhação por pedrinhas** — objeto e ofício a mais em 600 palavras. Consequência de redação: a troca do livro é **lira ↔ gado**, e o bastão é **presente de amizade**, não parte do pagamento. Registrar a variante de Apolodoro na página de fontes. |
+| **A troca de instrumentos.** No hino, Hermes dá **a lira** e recebe **o ofício de pastor** (⚠️ correção 5.1: **não o gado — as vacas voltam a Apolo**); o **bastão de ouro** vem depois, com a siringe já inventada. Em **Apolodoro**, a sequência é condensada: Hermes toca a **siringe**, Apolo lhe oferece o bastão de ouro que usava para pastorear, e Hermes pede o bastão **mais** a arte de adivinhar por pedrinhas, dando a siringe em troca. | *Hino a Hermes* 496–512, 528–532 · **Apolodoro, *Biblioteca* 3.10.2** [verif. por trecho] | **Adotamos o hino** (fonte principal do capítulo) e **cortamos a siringe e a adivinhação por pedrinhas** — objeto e ofício a mais em 600 palavras. Consequência de redação: a troca do livro é **lira ↔ gado**, e o bastão é **presente de amizade**, não parte do pagamento. Registrar a variante de Apolodoro na página de fontes. |
 | **Caduceu: presente de Apolo × emblema próprio.** O hino é explícito: o bastão de ouro de três ramos é **dado por Apolo**. A iconografia do *kērýkeion* (bastão com laçada em forma de 8, depois duas serpentes entrelaçadas) é independente e mais antiga que a explicação do hino. | *Hino a Hermes* 528–530 [verif. por trecho] · iconografia arcaica e clássica [verif. por trecho] | **Adotamos o hino** — a origem do bastão como presente é o **melhor fecho possível** para a mensagem do capítulo (a briga termina com um presente de volta). Nas ilustrações, o bastão pode já mostrar a **laçada/serpentes**, que é a forma reconhecível; isso é convenção de arte, não afirmação de enredo. |
 | **Número de vacas.** Cinquenta, cortadas de uma manada maior. Apolodoro diz que Hermes roubou as vacas que Apolo pastoreava. | *Hino a Hermes* 74 [verif. por trecho] · Apolodoro 3.10.2 | **"Cinquenta vacas" — manter o número.** É concreto, contável e vira piada com o "vale cinquenta vacas" de Apolo no final. |
 | **Onde Apolo pastoreava.** Piéria (hino). Em outras tradições, Apolo pastoreia em Ftia/Tessália, para Admeto. | *Hino a Hermes* 70–72 [URL não verif.] | **Não nomear a região no texto do livro** ("o gado de Apolo") — nome próprio a mais sem ganho narrativo. |
@@ -151,7 +197,7 @@ lacuna reconhecida no texto após o v. 526].
 | Nome (série) | Nome original | Descrição canônica (física + atributos) | Fonte |
 |---|---|---|---|
 | **Hermes** | Hermês (Ἑρμῆς) | **Neste capítulo ele é um bebê recém-nascido** — e é o dado mais forte do mito: rosto de bebê, corpo de bebê, **panos de enrolar (faixas)** que ele veste e desveste, e uma expressão de **esperteza adulta** que a criança tem de ler no rosto. Convenção antiga a respeitar quando ele aparecer adulto (cap. 10 e recorrências): jovem **imberbe e atlético** do séc. V a.C. em diante — a Grécia arcaica o mostrava barbado e de túnica longa, **e o livro não usa essa forma**. Atributos fixos: **pétaso** (chapéu de aba larga, muitas vezes alado), **sandálias aladas** (*talária*), **clâmide** curta e o **bastão-arauto** (*kērýkeion*/caduceu — vara fendida ou com laçada em 8 no topo, depois duas serpentes). ⚠️ **Contrato de continuidade deste capítulo:** o bastão **só aparece na última cena** — antes disso Hermes não o tem, porque é presente de Apolo. **Objetos exclusivos do capítulo:** a **lira de casco de tartaruga** (*chélys*) — casco, dois braços curvos, travessa, **sete cordas** — e as **sandálias de vime trançado**. | *Hino a Hermes* 20–51, 79–86, 528–530 [verif. por trecho] · iconografia: pétaso, talária, clâmide, kērýkeion [verif. por trecho, WHE/Theoi — URLs não verificadas] |
-| **Apolo** | Apóllōn (Ἀπόλλων) | ⚠️ **Ficha compatível com o cap. 3 (Delos), a ser copiada por ele.** Jovem **imberbe**, o mais belo dos deuses, na forma do *kouros*: corpo atlético de adolescente, **cabelos longos** ("dourados" na fórmula épica). Atributos fixos: **arco de prata** e aljava, **coroa/ramo de louro**, **lira ou cítara**, tripé de Delfos, palmeira (nascimento em Delos). Epítetos homéricos: "**o certeiro**"/"que fere de longe" (*hekēbólos*, *hekaergós*), "de arco de prata" (*argyrótoxos*). ⚠️ **Contrato deste capítulo, e é decisivo: a lira NÃO é dele no começo da história.** Apolo entra sem lira e sai com ela — quem tem lira nas primeiras páginas é o bebê. Numa cena com Hermes adulto, os dois são jovens imberbes: distinguir por **atributo** (arco e louro × pétaso e bastão), nunca por idade inventada. **Registro emocional:** Apolo aqui está **furioso e depois encantado** — não é vilão nem juiz; é o irmão mais velho lesado que aceita um presente. | *Hino a Hermes* 227–277, 434–438, 496–512 [verif. por trecho] · *Hino Homérico a Apolo* (nascimento em Delos, palmeira) [URL não verificada] · iconografia: arco de prata, louro, cítara, tripé, imberbe de cabelos longos [verif. por trecho] |
+| **Apolo** | Apóllōn (Ἀπόλλων) | 🔗 **REMETE — não é fonte de cânon (X12).** A **ficha canônica única de Apolo** está consolidada em **`pesquisa/canon-visual-consolidado.md`** e no **dossiê do cap. 3**, e é ela que vale: **Delos + arco de PRATA** (fórmula homérica *argyrótoxos*), louro, lira, corvo, jovem imberbe de cabelos longos. Este dossiê havia fixado uma ficha divergente (arco e aljava genéricos, tripé) porque **foi produzido antes do dossiê do cap. 3, invertendo a ordem de produção P1→P2** — a inversão está registrada como lição no gate da Fase 1. **Divergências resolvidas a favor do cap. 3.** O que permanece exclusivo deste capítulo é só o **contrato dramático** abaixo. Jovem **imberbe**, o mais belo dos deuses, na forma do *kouros*: corpo atlético de adolescente, **cabelos longos** ("dourados" na fórmula épica). Atributos fixos: **arco de prata** e aljava, **coroa/ramo de louro**, **lira ou cítara**, tripé de Delfos, palmeira (nascimento em Delos). Epítetos homéricos: "**o certeiro**"/"que fere de longe" (*hekēbólos*, *hekaergós*), "de arco de prata" (*argyrótoxos*). ⚠️ **Contrato deste capítulo, e é decisivo: a lira NÃO é dele no começo da história.** Apolo entra sem lira e sai com ela — quem tem lira nas primeiras páginas é o bebê. Numa cena com Hermes adulto, os dois são jovens imberbes: distinguir por **atributo** (arco e louro × pétaso e bastão), nunca por idade inventada. **Registro emocional:** Apolo aqui está **furioso e depois encantado** — não é vilão nem juiz; é o irmão mais velho lesado que aceita um presente. | *Hino a Hermes* 227–277, 434–438, 496–512 [verif. por trecho] · *Hino Homérico a Apolo* (nascimento em Delos, palmeira) [URL não verificada] · iconografia: arco de prata, louro, cítara, tripé, imberbe de cabelos longos [verif. por trecho] |
 | **Maia** | Maîa (Μαῖα) | **Ninfa**, filha do Titã **Atlas**, uma das Plêiades; mora sozinha numa **caverna sombreada do monte Cilene**, na Arcádia, "longe dos deuses bem-aventurados". Mulher jovem adulta, vestida em peplo longo, **sem atributo-objeto**: a marca dela é o **lugar** (a boca da caverna, a penumbra, o berço). **Registro dramático:** ela **não se engana** com a mentira do filho — repreende-o quando ele volta pela fechadura. Não é mãe ingênua nem cúmplice; é quem diz a primeira verdade da história. | *Hino a Hermes* 1–19, 154–183 [parc. verif. por trecho] |
 | **Leto** | Lētṓ (Λητώ) | ⚠️ **Não aparece neste capítulo.** Registrada porque o cap. 3 a exige e porque o hino a nomeia como mãe de Apolo ("filho de Leto"). Ficha completa é dever do dossiê de Delos — **este dossiê não a fixa** para não criar cânon concorrente. | *Hino a Hermes*, fórmula "filho de Leto" [verif. por trecho] |
 
@@ -167,7 +213,9 @@ contrário e a mentira no berço é a que inventou a lira algumas horas antes, e
 mentira — que resolve a briga. E o hino é honesto sobre o que a esperteza sozinha rende: ela
 leva Hermes ao **tribunal do próprio pai**, e Zeus **ri** dela em vez de premiá-la. O que
 Hermes ganha (o gado, o bastão, a amizade de Apolo, o lugar entre os deuses) ele ganha no
-momento em que **oferece** algo, não no momento em que esconde algo.
+momento em que **oferece** algo, não no momento em que esconde algo — e **note que ele não fica
+com as vacas** (correção 5.1): o que ele ganha é um **ofício**, isto é, um lugar e um trabalho,
+não o produto do roubo.
 
 **Mensagem central (adotada):**
 
@@ -244,7 +292,8 @@ mostrado; devem ser legíveis como cascos apontando para o lado errado, sem lege
    dois braços, uma travessa e **sete cordas de tripa de ovelha**. Os gregos chamavam essa
    lira de casco de *chélys* — que é, literalmente, a palavra grega para "tartaruga" —, e
    liras assim foram fabricadas de verdade na Grécia antiga por mais de mil anos. — *Hino
-   Homérico a Hermes* 24–51 [verif. por trecho] · iconografia da *chélys* [URL não verificada].
+   Homérico a Hermes* **24–51** (faixa única fixada pela correção 5.2) [verif. por trecho] ·
+   iconografia da *chélys* [URL não verificada].
 2. **Um deus de um dia de idade inventou o jeito grego de fazer festa.** Junto ao rio Alfeu,
    Hermes dividiu a carne em **doze porções iguais, sorteadas**, e não comeu nenhuma. Doze é o
    número dos deuses do Olimpo: o hino está contando **como o sacrifício grego passou a ser
@@ -256,9 +305,37 @@ mostrado; devem ser legíveis como cascos apontando para o lado errado, sem lege
    correios e brasões — Hermes não fabricou: **Apolo o deu a ele**, depois de fazerem as pazes.
    — *Hino Homérico a Hermes* 528–530 [verif. por trecho].
 
-*(Três fornecidos; o livro usa 2–3 conforme a caixa. Prioridade: 1 e 3 — os mais concretos e os
-que rimam com a ilustração. O fato 2 é o de maior valor para o adulto leitor e é o lugar onde
-o sacrifício elidido volta ao livro.)*
+⚠️ **Instrução Rev. 3 (X1): 1 box por capítulo, máx. 80 palavras** — não 2 nem 3. Vai ao livro
+**o fato 1** (a primeira lira do mundo era uma tartaruga; *chélys* = "tartaruga"): é o mais
+concreto, rima com a ilustração e **responde à pergunta que a criança vai fazer** depois da
+elipse da tartaruga (A: o casco virou música). Os fatos **2 e 3** migram para as pp. 51–52 —
+e o **fato 2 é obrigatório ali**, porque é o lugar onde o sacrifício elidido (as doze porções)
+volta ao livro; sem ele a omissão fica sem contrapartida.
+
+---
+
+## Orçamento de batidas (X4) — fechando em 500–600 palavras
+
+| # | Batida | Palavras |
+|---|---|---|
+| 1 | **Linha de sequência (X9, ≈20)** + Maia, a caverna do Cilene, um bebê de um dia | 65 |
+| 2 | **A tartaruga e a lira** (elipse da morte do animal; casco, canas, travessa, sete cordas) | 85 |
+| 3 | Ao entardecer, com fome: **ele rouba cinquenta vacas de Apolo** — dizer "roubou" | 55 |
+| 4 | **As pegadas ao contrário** e as sandálias de vime | 60 |
+| 5 | O esconderijo junto ao rio e o primeiro fogo (elipse do abate) | 45 |
+| 6 | De volta ao berço pela fechadura; **Maia não se engana e o repreende** | 50 |
+| 7 | Apolo chega furioso; **a mentira no berço** ("nasci ontem, meus pés são macios") | 70 |
+| 8 | **Zeus ri** e manda os dois resolverem juntos | 50 |
+| 9 | **Hermes toca a lira e a estende a Apolo**; as vacas voltam ao dono (5.1) | 65 |
+| 10 | Apolo dá o **bastão de ouro**; ficam amigos | 40 |
+| | **Total** | **585** ✔ |
+
+**Intocáveis** (ver `pesquisa/batidas-intocaveis.md`): a batida **2** (a lira é inventada
+**antes** do roubo — a ordem **é** a mensagem, e inverter falsifica o mito); a batida **3**
+(o verbo "roubou" é obrigatório); a batida **8** (o riso de Zeus é a chave de tom do texto
+antigo); a batida **9** (a entrega da lira **e** a volta das vacas — correção 5.1); a batida
+**10** (o bastão fecha o cap. e é o gancho do cap. 1 e do canon visual). A batida **4** é a
+primeira candidata a compressão, e a **6** pode cair a uma única fala de Maia.
 
 ---
 

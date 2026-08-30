@@ -2,8 +2,27 @@
 
 > **Livro:** *Era Uma Vez um Mito — Grécia* · **Capítulo 1** (ordem de leitura) · onda de
 > produção **P1** · tipo **específico**.
-> **Alvo do capítulo:** 550–650 palavras (teto derivado da caixa de texto, 4 pp — `livro-spec.md`).
+> **Alvo do capítulo:** **500–600 palavras** de texto corrido (livro-spec Rev. 3, X1 — teto
+> recalculado descontando o box) · **1 box "Você sabia?", máx. 80 palavras**.
 > **Fonte principal:** Ovídio, *Metamorfoses* VIII.611–724.
+>
+> 🔴 **CONDIÇÃO VINCULANTE DE APROVAÇÃO (correção 2.1 do `mito-fidelidade`).** Este capítulo
+> **perde a aprovação** se a página de fontes do livro (pp. 51–52) não declarar, na linha do
+> cap. 1, **as três coisas** abaixo. Não é recomendação; é condição:
+> 1. **A única versão conservada deste episódio é latina** — Ovídio, *Metamorfoses* VIII —, e
+>    nela os visitantes são **Júpiter e Mercúrio**. **Não existe versão grega conservada** de
+>    Baucis e Filêmon.
+> 2. **Grafar "Zeus" e "Hermes" é decisão editorial declarada** deste livro (regra de grafia do
+>    livro-spec), **não** um dado da fonte.
+> 3. O **lastro grego** que autoriza o capítulo num livro de mitologia grega é a **teoxenia**
+>    homérica (*Odisseia* XVII.485–488) e o culto de **Zeus Xénios** — motivo, não enredo.
+>
+> Redação proposta para a página de fontes: *"Baucis e Filêmon chegou até nós num único poema,
+> e ele é romano: as Metamorfoses de Ovídio, escritas em latim por volta do ano 8. Nele os dois
+> viajantes se chamam Júpiter e Mercúrio. Neste livro eles são chamados Zeus e Hermes, que são
+> os mesmos deuses com os nomes gregos — uma escolha nossa, não do poema. O costume de receber
+> um desconhecido que pode ser um deus, esse é grego e é mais antigo: já está na Odisseia."*
+> `mito-fidelidade` verifica a presença da declaração na Fase 2; sem ela, o capítulo cai.
 >
 > ⚠️ **Estado da rede nesta sessão:** WebFetch **bloqueado pelo proxy de egresso**
 > (`EGRESS_BLOCKED`) para poetryintranslation.com, wikisource.org, usu.edu — e, por herança do
@@ -104,7 +123,7 @@ narrador fecha: *"quem é piedoso para com os deuses, é honrado; quem honra, é
 | **A fonte é latina, não grega.** Em Ovídio os visitantes são **Júpiter e Mercúrio**; não há versão grega conservada deste episódio com Zeus e Hermes. | Ovídio, *Met.* VIII.611–724 | **Grafar Zeus e Hermes**, conforme a decisão de grafia do `livro-spec.md` ("nunca as formas latinas"). ⚠️ Isto é **adaptação de nome, não de fato**, e o **lastro é real**: Júpiter/Mercúrio *são* Zeus/Hermes na equivalência que o próprio Ovídio pressupõe, e o motivo — deus que testa a hospitalidade disfarçado — é **grego antes de ser romano** (ver linha seguinte). **Obrigatório declarar isso na página de fontes do livro**, na linha do cap. 1. Pendência para `mito-fidelidade`. |
 | **O lastro grego (teoxenia).** Já em Homero: os deuses "à semelhança de estrangeiros de terras distantes, percorrem as cidades" observando a conduta dos homens. É o germe do mito de teoxenia — o deus a quem se dá ou se nega hospitalidade, que depois se revela e recompensa ou pune. | Homero, *Odisseia* XVII.485–488 [verif. por trecho, comentário Cambridge/Perseus · URL não verificada] | **Adotamos como justificativa do capítulo**, não como enredo. É o que autoriza contar Baucis e Filêmon num livro grego. Material direto para o "Você sabia?" nº 1. |
 | **Zeus Xénios.** O epíteto de culto de Zeus como **deus dos estrangeiros e dos suplicantes**: todo forasteiro está sob a proteção dele, e violar a *xenia* atrai a ira do deus. | Theoi, *Zeus Titles & Epithets* — https://www.theoi.com/Cult/ZeusTitles.html [URL não verificada — WebFetch bloqueado; conteúdo por busca] | **Adotamos.** É a ponte entre este capítulo e o Zeus do cap. 10: o mesmo deus, outra face. Nomear "Zeus Xénios" **no glossário**, não no corpo do texto. |
-| **A moldura de Lélex e Pirítoo.** O episódio é contado por uma personagem, para refutar um descrente. | *Met.* VIII.611–620 | **Fora do capítulo como cena** (personagens a mais, 550–650 palavras não comportam). **Mas o efeito se conserva**: fechar com as árvores que "ainda estão lá" e as grinaldas — o mito prova a si mesmo pela paisagem. Registrar a moldura na página de fontes. |
+| **A moldura de Lélex e Pirítoo.** O episódio é contado por uma personagem, para refutar um descrente. | *Met.* VIII.611–620 | **Fora do capítulo como cena** (personagens a mais; 500–600 palavras não comportam). **Mas o efeito se conserva**: fechar com as árvores que "ainda estão lá" e as grinaldas — o mito prova a si mesmo pela paisagem. Registrar a moldura na página de fontes. |
 | **A espécie da tília.** *Tilia* — em PT-BR "tília" (às vezes "limeira"/"lima" por interferência do inglês *lime tree*). | *Met.* VIII.620, 714–719 | **"Tília"**, sem alternativa. ⚠️ **Proibido traduzir por "limoeiro"** — erro clássico de reconto em português. Entra no glossário com nota botânica: árvore europeia de flor perfumada, **não é cítrica**. |
 | **Quem vira qual árvore.** Filêmon → carvalho (*quercus*); Baucis → tília (*tilia*). | *Met.* VIII.714–720 [verif. por trecho] | **Adotamos e é vinculante para a ilustração.** Recontos modernos às vezes invertem. O carvalho **é a árvore sagrada de Zeus** (cânon P0: "carvalho e os cumes das montanhas lhe são sagrados") — rima interna de graça, a explorar na escrita. |
 | **A quantidade de casas.** "Mil casas" é hipérbole do texto, não censo. | *Met.* VIII.628–629 | Traduzir como **"mil portas"** — funciona em voz alta e é fiel. |
@@ -213,7 +232,34 @@ fim de capítulo** do que como a ilustração de página inteira.
 
 ## Material para "Você sabia?"
 
-*(2–3 fatos culturais reais, com fonte. Escolher 2 na diagramação — a caixa é fixa.)*
+⚠️ **Instrução Rev. 3 (X1): 1 box por capítulo, máx. 80 palavras** — não 2. Vai ao livro **o
+fato 1** (a *xenia* e Zeus Xénios: é o que dá lastro grego ao capítulo e sustenta a condição
+2.1 dentro da própria página da criança). Os fatos **2 e 3** migram para as pp. 51–52 — e o
+fato 3 (a tília não é limoeiro) **entra também no glossário**, onde a nota botânica é mais
+útil do que num box.
+
+---
+
+## Orçamento de batidas (X4) — fechando em 500–600 palavras
+
+| # | Batida | Palavras |
+|---|---|---|
+| 1 | As colinas da Frígia; mil portas trancadas; uma que abre | 70 |
+| 2 | A choupana, Baucis e Filêmon, a pobreza serena | 70 |
+| 3 | **A hospitalidade concreta**: o fogo, o repolho, a mesa manca e o caco, a hortelã, o mel | 110 |
+| 4 | **A cratera que se enche sozinha**; o susto dos dois | 55 |
+| 5 | **A perseguição ao ganso** (alívio cômico; termina vivo) | 70 |
+| 6 | A revelação; a subida do monte; o vale virado lago (elipse) | 75 |
+| 7 | **A cabana vira templo** | 45 |
+| 8 | **Os dois pedidos** — em fala direta, sem comentário do narrador | 55 |
+| 9 | **A metamorfose**: as folhas, a despedida, as duas árvores | 60 |
+| | **Total** | **610 → cortar ~20 na revisão** |
+
+**Onde cortar, se preciso** (nesta ordem): batida 1 (a Frígia pode ser "num lugar de colinas");
+batida 2 (a pobreza serena pode ser dita em uma frase). **Não cortar** as batidas 3, 5, 8 e 9 —
+são as intocáveis do capítulo (ver `pesquisa/batidas-intocaveis.md`): o detalhe doméstico é o
+motor da mensagem, o ganso vivo é linha vermelha de adequação etária, o pedido em fala direta
+é o coração do mito e a metamorfose simultânea é a elipse que a própria fonte fornece.
 
 1. **Na Grécia antiga, receber um estranho era lei — e a lei tinha dono.** Chamava-se
    ***xenia***, e quem tomava conta dela era o próprio **Zeus Xénios**, "Zeus dos
@@ -228,6 +274,12 @@ fim de capítulo** do que como a ilustração de página inteira.
    **hortelã fresca**. Ovídio escreveu isso por volta do ano 8 d.C., e é um dos detalhes
    caseiros mais famosos de toda a poesia latina: faz **dois mil anos** que alguém conserta
    mesa torta do mesmo jeito. [Ovídio, *Metamorfoses* VIII.660–662 — verif. por trecho]
+   ⚠️ **Correção 2.2 (`mito-fidelidade`) — trava de impressão:** a numeração exata da mesa
+   manca **oscila entre VIII.660–662 e VIII.661–663** conforme a edição. **Se o box citar o
+   verso, a numeração tem de ser conferida numa edição latina (Perseus/Loeb) ANTES de ir para
+   a gráfica.** Alternativa segura, e a recomendada: **o box não cita número de verso** — diz
+   "Ovídio, *Metamorfoses*, livro VIII" e pronto. A citação numerada fica só nas pp. 51–52,
+   onde há tempo de conferir e onde um erro custa menos.
 3. **A tília não é limoeiro.** A árvore em que Baucis se transformou é a ***tília*** (latim
    *tilia*), uma árvore europeia de flores muito perfumadas com que ainda hoje se faz **chá
    de tília**. Em inglês ela se chama *lime tree*, e por isso muitos recontos em português

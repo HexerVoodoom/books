@@ -4,7 +4,8 @@
 > Reutiliza o **CÂNON** fixado em `dossie-do-caos-ao-olimpo.md` (Zeus, Hera, Posêidon, Hades,
 > Cronos, Reia, Gaia, Urano, Ciclopes, Cem-Mãos, Atena) **verbatim, sem redefinir**. Acrescenta
 > ao cânon do livro as descrições canônicas de **Hefesto**, **Dioniso**, **Ares** e **Tétis**.
-> Extensão-alvo do capítulo: **550–650 palavras** (livro-spec, F3).
+> Extensão-alvo do capítulo: **500–600 palavras** de texto corrido (livro-spec Rev. 3, X1) ·
+> **1 box "Você sabia?", máx. 80 palavras**.
 > Ilustração: **uma** full-bleed, p. 26.
 
 ## ⚠️ Nota de verificação de fontes (obrigatória)
@@ -153,7 +154,7 @@ importar a moldura causal de A.
 | Nome (série) | Nome original | Descrição canônica (física + atributos) | Fonte |
 |---|---|---|---|
 | **Hefesto** | Hḗphaistos (Ἥφαιστος) | Homem adulto **barbado**, **de tronco largo, ombros e braços fortes** — Homero o descreve erguendo-se da bigorna como "um vulto enorme e ofegante", enxugando com esponja "o pescoço poderoso e o peito peludo" (*Il.* XVIII.410–415). **Anda mancando**, apoiado num **bastão robusto**; Homero registra no mesmo verso que, sob aquele corpo pesado, "**as pernas finas se moviam com agilidade**" — o texto antigo o mostra **manco e hábil ao mesmo tempo**, e essa simultaneidade é o contrato de arte deste livro. Traje icônico na cerâmica: **exômide** (túnica curta de trabalhador, presa num ombro só) e **pílos** (gorro cônico de feltro do artesão) — o mesmo gorro da estátua de culto do Hefesteion. Atributos: **martelo**, **tenazes**, machado, foles, bigorna. Montaria icônica: **um burro, montado de lado**. Acompanhantes: as **servas de ouro** que ele mesmo fez, "semelhantes a moças vivas", que falam, se movem e o amparam (*Il.* XVIII.417–421) — invenção dele, e detalhe de arte espetacular. Epíteto homérico: "**o ilustre coxo**" (*periklytòs amphigyḗeis*) e "de arte famosa" (*klytotékhnēs*). | Homero, *Il.* XVIII.395–421 [verif. por trecho] · Hesíodo, *Teog.* 927–929 [verif. por trecho] · iconografia: pílos, exômide, martelo, tenazes, burro [verif. por trecho] |
-| **Dioniso** | Diónysos (Διόνυσος) | ⚠️ **Duas iconografias antigas, e o livro tem de escolher.** Na cerâmica **arcaica** (séc. VI–início do V a.C.) — a mesma dos vasos que retratam este mito — ele é **homem maduro e barbado, de cabelos longos, coroado de hera**, em manto longo. A partir do séc. V ele vira o **jovem imberbe** que a arte posterior consagrou. Atributos fixos nas duas: **tirso** (bastão rematado por pinha, enfeitado de hera), **coroa/grinalda de hera**, **cântaro** (*kántharos*, taça alta de duas asas), **videira carregada de uvas**, **pantera**. Cortejo: silenos e sátiros com flautas e tambores. | iconografia [verif. por trecho] · Paus. 1.20.3 [verif.] |
+| **Dioniso** | Diónysos (Διόνυσος) | ✅ **DECIDIDO NO GATE DA FASE 1 (X14): JOVEM IMBERBE** — este dossiê **cede** e a ficha canônica passa a ser a do dossiê do cap. 9 (Midas), consolidada em `pesquisa/canon-visual-consolidado.md`. Jovem belo e **imberbe**, cabelos longos e ondulados. Atributos fixos (idênticos nas duas iconografias, e por isso não afetados pela decisão): **tirso** (bastão rematado por pinha, enfeitado de hera), **coroa/grinalda de hera**, **cântaro** (*kántharos*), **videira carregada de uvas**, **pele de corço** (*nébris*); animal: **pantera**. Cortejo: silenos e sátiros com flautas e tambores. ⚠️ **O que este dossiê perde e o que conserva:** perde o **tipo de figura** arcaico (barbado, manto longo) ancorado no Vaso François; **conserva integralmente a composição** que o Vaso François prototipa e que é o valor real da referência — o **kômos**: o burro montado de lado, Dioniso conduzindo, os silenos tocando atrás, martelo e tenazes na mão de Hefesto. **O Vaso François continua sendo a referência de CENA deste capítulo; deixa de ser a referência de FIGURA de Dioniso.** Justificativa completa e condição de revisão: ver o gate. | iconografia [verif. por trecho] · Paus. 1.20.3 [verif.] · decisão editorial do gate da Fase 1 |
 | **Ares** | Árēs (Ἄρης) | Deus da guerra. Guerreiro adulto **armado dos pés à cabeça**: **elmo de crista**, **lança**, **escudo redondo**, grevas; barbado na convenção arcaica, imberbe na clássica. **Instrução de arte:** neste capítulo ele é o **contraexemplo**, não um vilão — a expressão ao sair da forja é de **espanto e constrangimento**, nunca de raiva ameaçadora, e a criança precisa achar graça **da situação**, não dele. Papel de uma cena só. | Libânio, *Narr.* 7 [URL não verif.] · iconografia usual [URL não verif.] |
 | **Tétis** | Thétis (Θέτις) | Ninfa do mar (nereida), mulher jovem em veste longa e fluida, cabelos soltos; sem atributo-objeto fixo — a marca é **a água**: aparece emergindo do mar ou dentro de uma gruta marinha. **Aparece só na abertura do capítulo**, e o papel dela é um só e é o mais importante: **é ela quem recolhe**. Se a produção precisar cortar uma figura por espaço, corta-se **Eurínome** (que divide com Tétis a mesma função em *Il.* XVIII.398–399), nunca Tétis. | Homero, *Il.* XVIII.395–405 [verif. por trecho] |
 
@@ -202,6 +203,38 @@ terceira vez.
 - Qualquer moral sobre perdão ("e Hefesto perdoou a mãe e todos foram felizes"). As fontes não
   dizem isso. Ele solta Hera; ninguém diz que ele esqueceu.
 
+### ⚠️ X8 — a colisão aparente com o cap. 10, e a frase que a desfaz
+
+O cético levantou uma contradição de livro que é real e precisa de resposta escrita: **o cap.
+10 ensina "quem prende, perde"** — Urano prendeu e caiu, Cronos engoliu e caiu, Zeus venceu
+porque soltou. **E o protagonista simpático do cap. 5 prende a própria mãe numa cadeira.** Uma
+criança que leia os dez capítulos na ordem chega ao 10 com um contraexemplo na memória.
+
+**Não é contradição, e a diferença é nomeável em uma frase — que este dossiê fixa como
+diretriz de redação:**
+
+> **Hefesto não prende para mandar em Hera. Ele prende para ser escutado — o trono é uma
+> pergunta, não uma corrente.** Urano e Cronos prendem para **ficar com o poder**; Hefesto
+> prende para **conseguir uma conversa que ninguém lhe dava**. E a prova está no desfecho: no
+> minuto em que é escutado, ele **solta** — e é soltar que resolve, exatamente como no cap. 10.
+
+**Três marcas concretas que o texto deve carregar** (executam a distinção sem enunciá-la):
+1. **A prisão é reversível, indolor e tem uma condição explícita.** Hera está **presa, não
+   ferida** (sem cordas desenhadas, e o trono flutuando um palmo do chão). O que Hefesto quer é
+   dito como **pedido**: *"quem me mandou embora que me peça para voltar."*
+2. **Ele não ganha nada material.** Não toma o trono do Olimpo, não substitui ninguém, não pune
+   além do fecho. Ganha **voz** — "ninguém pedia nada a Hefesto sem escutar o que ele tinha a
+   dizer".
+3. **É ele mesmo quem abre.** A libertação é ato dele, por escolha, na frente de todos. Quem
+   prende **e solta** está do lado certo da regra do cap. 10; quem prende **e continua
+   prendendo** cai.
+
+**Amarração serial (para o `mito-escritor` do cap. 10, onda P4):** o cap. 10 é escrito por
+último e **pode** ecoar isto — a mensagem "soltar é o que vence" fica mais rica se o leitor já
+viu um fecho que só abre quem o fez. **Direção da citação: do 10 para o 5**, nunca o contrário
+(o cap. 5 não pode anunciar o 10). **Proibido**, nos dois capítulos, qualquer frase que
+**explique** a distinção ao leitor: ela se lê no gesto de soltar ou não se lê.
+
 ---
 
 ## Pontos de adaptação etária
@@ -236,7 +269,8 @@ centro.
 **À esquerda, entrando: Hefesto.** Três quartos, rosto expressivo e legível, **barba**, **pílos**
 cônico, **exômide** presa num ombro, **martelo numa mão e bastão na outra**, o peso do corpo no
 bastão e a passada em movimento — **entrando, não sendo trazido**. Todos os rostos da sala estão
-voltados **para ele**. **Ao lado dele, Dioniso**: barbado à moda arcaica, coroado de hera,
+voltados **para ele**. **Ao lado dele, Dioniso**: jovem imberbe de cabelos longos e ondulados (X14 — cânon revisado;
+**não** barbado à moda arcaica, como constava), coroado de hera,
 **tirso** numa mão, **cacho de uvas** na outra, uma das mãos no ombro de Hefesto — **acompanhando,
 não conduzindo**. Atrás dos dois, na soleira, o **burro** e dois silenos com flauta e tambor,
 metade do cortejo ainda fora da porta: a festa chegou junto com ele.
@@ -283,9 +317,38 @@ o martelo na mão e um amigo do lado. A resolução (o fecho abrindo) o texto en
    descrição de máquinas automáticas mais antiga que sobreviveu na literatura ocidental. —
    Homero, *Ilíada* XVIII.373–421 [verif. por trecho].
 
-*(Três fornecidos; o livro usa 2–3 conforme a caixa. Prioridade: **3 e 1** — o fato 3 é o de
-maior valor para as duas audiências ao mesmo tempo, e é o único que fala do corpo dele **sem
-falar de falta**: o apoio que ele usa foi inventado por ele. O fato 2 é o mais fácil de cortar.)*
+⚠️ **Instrução Rev. 3 (X1): 1 box por capítulo, máx. 80 palavras** — não 2 nem 3. Vai ao livro
+**o fato 3** (Hefesto fabricou para si os apoios de ouro que o amparam, e os tripés com
+rodinhas): é o de maior valor para as duas audiências ao mesmo tempo e **o único que fala do
+corpo dele sem falar de falta** — o apoio que ele usa foi invenção dele. Isso o torna o box
+mais alinhado à linha vermelha do capítulo. Os fatos **1 e 2** migram para as pp. 51–52 — e o
+**fato 1 (o Vaso François) é obrigatório ali**, porque sustenta a referência de cena da
+ilustração depois de a decisão X14 ter retirado dela o valor de referência de figura.
+
+---
+
+## Orçamento de batidas (X4) — fechando em 500–600 palavras
+
+| # | Batida | Palavras |
+|---|---|---|
+| 1 | **A rejeição, dita UMA vez, com dignidade — "foi ela quem errou"** | 55 |
+| 2 | **O acolhimento de Tétis** na gruta do mar, na frase seguinte | 40 |
+| 3 | **Nove anos aprendendo o ofício**: o que as mãos dele passam a saber fazer | 70 |
+| 4 | **O trono de ouro enviado como presente** — e o presente é uma pergunta (X8) | 70 |
+| 5 | Hera se senta; o trono flutua um palmo do chão; ninguém consegue soltar | 60 |
+| 6 | **Ares vai buscá-lo pela força e sai chamuscado** (elipse de resultado, cômico) | 55 |
+| 7 | **Dioniso vai até a forja, leva uvas e música, senta-se e escuta o dia inteiro** | 80 |
+| 8 | Voltam juntos, com a festa e o burro atrás | 40 |
+| 9 | **Ele abre o fecho que só ele sabia abrir. E fica** — com voz e lugar próprios | 60 |
+| | **Total** | **530** ✔ |
+
+**Intocáveis** (ver `pesquisa/batidas-intocaveis.md`): a batida **1** (a rejeição **e** a
+atribuição do erro a Hera, na mesma respiração — linha vermelha de capacitismo); a batida
+**2** (o acolhimento tem de vir imediatamente depois, para a criança não ficar sozinha com a
+rejeição); a batida **6** (a força falha **antes** de a gentileza acertar — sem ela a mensagem
+não tem contraste); a batida **7** (Dioniso escuta: é a elipse declarada do vinho e é metade da
+mensagem); a batida **9** (**ele mesmo** abre — é o que resolve a colisão X8 com o cap. 10, e
+é o que impede o final de virar perdão). A batida **3** é a que pode ceder palavras.
 
 ---
 
@@ -306,10 +369,19 @@ falar de falta**: o apoio que ele usa foi inventado por ele. O fato 2 é o mais 
   retorno com Dioniso, a recompensa de Zeus [URL não verificada; conteúdo verif. por paráfrase].
 - **Libânio, *Narrationes* 7** — Ares repelido da forja; Dioniso admitido entre os olímpicos;
   variante do casamento com Afrodite [URL não verificada; conteúdo verif. por paráfrase].
-- **Alceu, fragmento (séc. VI a.C.)** — poema perdido sobre o retorno de Hefesto, do qual restam
-  fragmentos; **é o testemunho literário mais antigo do episódio** e a razão de sabermos que o
-  mito é arcaico, e não invenção tardia. Citado por Pausânias 1.20.3 como a fonte da história
-  [existência verif. por trecho; **texto do fragmento não acessado nesta sessão**].
+- **Alceu, fr. 349 Voigt** (séc. VI a.C.) — poema perdido sobre o retorno de Hefesto, do qual
+  restam fragmentos; **é o testemunho literário mais antigo do episódio** e a razão de sabermos
+  que o mito é arcaico, e não invenção tardia.
+  ⚠️ **CORREÇÃO A1 do `mito-fidelidade`: Pausânias 1.20.3 NÃO cita Alceu.** A versão anterior
+  deste dossiê dizia que Alceu era "citado por Pausânias 1.20.3 como a fonte da história" —
+  **é falso**, e teria posto na página de fontes do livro uma cadeia de transmissão inexistente.
+  Alceu e Pausânias são **dois testemunhos independentes** do mesmo mito, separados por oito
+  séculos: Pausânias narra o episódio sem se apoiar em Alceu, e o fragmento de Alceu chega por
+  **outra via de transmissão** (citação em fontes gramaticais/escoliásticas). **Redação correta
+  para as pp. 51–52:** *"o trono vem de Pausânias, e o episódio já era cantado por Alceu, um
+  poeta muito mais antigo — dois testemunhos separados, não um copiando o outro."*
+  [existência verif. por trecho; **texto do fragmento não acessado nesta sessão**; a numeração
+  349 Voigt é a da edição corrente e **pende de conferência** antes de ser impressa].
 
 **Iconografia:**
 - **Vaso François** (cratera de volutas ática de figuras negras, Clítias pintor / Ergótimos
@@ -339,8 +411,24 @@ falar de falta**: o apoio que ele usa foi inventado por ele. O fato 2 é o mais 
 2. Localizar a numeração do **fragmento de Alceu** (a tradição editorial o registra entre os
    fragmentos do livro I; **não fixamos número neste dossiê por não termos acessado a edição**).
    Não citar número no livro até a conferência.
-3. Confirmar que a página de fontes atribui **o trono a Pausânias/Alceu** (não a Homero), **o
-   fracasso de Ares a Libânio** e **a suspensão no ar a Higino**.
+3. Confirmar que a página de fontes atribui **o trono a Pausânias** e registra **Alceu (fr. 349
+   Voigt) como testemunho independente e mais antigo** — ⚠️ **nunca "Alceu citado por
+   Pausânias"** (correção A1) —, **o fracasso de Ares a Libânio** e **a suspensão no ar a
+   Higino**.
+7. **Correção A2 — variante vista e NÃO usada, a registrar:** a fábula de **Higino 166 não
+   termina na libertação de Hera**. Ela continua: como recompensa, Hefesto **pede a mão de
+   Atena**, Zeus consente, Atena se defende, e do episódio nasce **Erictônio**, o rei
+   autóctone de Atenas. **Esta continuação está FORA do livro**, e a exclusão é deliberada por
+   três razões: (a) o conteúdo é **sexual e coercitivo**, inadaptável para 4–7 anos por
+   qualquer elipse; (b) **destruiria a Atena do cap. 2** e o Hefesto deste capítulo, que o
+   livro constrói como quem **cobra respeito**, não como quem cobra uma pessoa; (c) o capítulo
+   fecha em "ele fica, com lugar próprio" — a continuação transformaria a recompensa numa
+   segunda história com outro clímax. **Consequência de redação, obrigatória:** ao usar a
+   recompensa de Higino ("Hefesto obteve de Zeus a liberdade de pedir o que quisesse"), o texto
+   **não pode deixar em aberto o que ele pediu**, porque na fonte a resposta é essa. A fórmula
+   já adotada pelo dossiê resolve e deve ser mantida: *"a partir daquele dia ninguém no Olimpo
+   pedia nada a Hefesto sem escutar o que ele tinha a dizer"* — recompensa **sem objeto**.
+   Registrar a variante nas pp. 51–52 como vista e não usada; **não** detalhá-la na p. 53.
 4. Confirmar que a **p. 53 (Nota sobre as adaptações)** contém as duas declarações obrigatórias:
    (a) o vinho de Dioniso substituído por companhia; (b) a existência da **outra** queda de
    Hefesto (Ilíada I, Lemnos), não contada aqui.

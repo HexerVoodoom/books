@@ -60,6 +60,41 @@ meio e fim, e **uma cena-clímax que cabe numa única ilustração de página in
 | 9 | **A mesa** — o pão erguido a caminho da boca, já virado metal (escolha fechada no dossiê; alternativa Pactolo registrada para a Fase 3) | ✅ |
 | 10 | **duas** ilustrações (ver paginação): abertura cósmica (Caos, Gaia, Urano) + clímax da Titanomaquia (Zeus e os Ciclopes libertos, raios contra os Titãs) | ✅ ✅ |
 
+### Mapa de ritmo visual (X6) — vinculante para o `mito-diretor-arte`
+
+Objeção X6 aceita: os dossiês foram produzidos em paralelo e **convergiram sem combinar** no
+mesmo truque de composição — "o instante imediatamente anterior ao gesto". Sozinha, é a
+melhor escolha possível; **repetida oito vezes, vira maneirismo**, e o livro inteiro passa a
+ser lido como uma sequência de respirações suspensas que nunca completam.
+
+| # | Capítulo | Momento da cena | Nota emocional |
+|---|---|---|---|
+| 1 | Zeus · Baucis e Filêmon | **durante** — a cabana em metamorfose, dois estados ao mesmo tempo | espanto quieto |
+| 2 | Atena · a disputa | **pós-gesto** — os dois presentes já dados, lado a lado | comparação, juízo do leitor |
+| 3 | Leto e a ilha | **pós-gesto** — a ilha já ancorada, os gêmeos já nascidos, as flores abrindo | alívio luminoso |
+| 4 | Hermes · o gado e a lira | **durante** — a lira passando de mão para mão | reconciliação divertida |
+| 5 | Hefesto · o trono | **instante anterior** — ele entrou, ainda não estendeu a mão | reconhecimento contido |
+| 6 | Deméter e Perséfone | **pós-gesto** *(alterado nesta revisão)* — **o abraço consumado**, as flores abrindo em leque a partir dos pés das duas | alegria plena, sem reserva |
+| 7 | Perseu e a Medusa | **instante anterior** — a foice ainda não subiu | medo sob controle |
+| 8 | Teseu e o Minotauro | **instante anterior** — o fio na mão, a sombra ao fundo | tensão e determinação |
+| 9 | Midas · o toque de ouro | **instante anterior** — o pão a caminho da boca | alegria virando susto |
+| 10A | Do Caos ao Olimpo (abertura) | **estado** — Gaia, Urano e a fenda do Caos | assombro cosmogônico |
+| 10B | Do Caos ao Olimpo (clímax) | **instante anterior** — o raio recebido, os Cem-Mãos entrando | promessa de virada |
+
+**Diretriz fechada: no máximo 50% das cenas do livro em "instante anterior".** Contagem
+atual: **5 de 11 = 45% ✔**. Qualquer dossiê que mude a cena para "instante anterior" na Fase
+3 precisa trocar outra por um momento consumado, ou a regra cai.
+
+**As duas cenas alteradas nesta revisão:**
+- **Cap. 6 → o abraço consumado.** O dossiê pedia explicitamente "não desenhar o abraço
+  consumado; o instante anterior tem mais tensão". Editorialmente isso está invertido: este é
+  o **único reencontro pleno do livro**, e a criança de 4 anos precisa de uma página em que
+  o abraço **acontece**. A tensão já foi paga por três páginas de busca. Dossiê editado.
+- **Cap. 9 → mantida a mesa.** É o ponto de virada e a mensagem inteira numa imagem. A
+  **alternativa do rio Pactolo fica registrada como decisão do `mito-diretor-arte` na Fase
+  3**, para o caso de a sequência 7–8–9 (três "instantes anteriores" seguidos) se mostrar
+  monótona quando as três imagens existirem lado a lado.
+
 **Justificativas de seleção (editor):**
 - **Capítulo geral = criação + Titanomaquia**, e não Guerra de Troia: tem escala cósmica
   adequada ao capítulo mais longo e é a narrativa de origem que fecha o arco. Troia é longa
@@ -100,9 +135,20 @@ meio e fim, e **uma cena-clímax que cabe numa única ilustração de página in
   - **Hefesto → o trono de ouro** (e não "a forja"): a forja é lugar, não história. O trono é
     um episódio completo com resposta do próprio protagonista — Hefesto não é resgatado por
     ninguém, ele mesmo dita os termos com o que sabe fazer. Ver X3 sobre capacitismo.
-  - **Ártemis e Apolo → o nascimento em Delos:** dá aos gêmeos uma história em vez de uma
-    ficha dupla ("caça e música"), e a imagem da ilha errante que ganha raízes é a melhor
-    ilustração possível do livro. **Ressalva:** a perseguição de Leto por Hera fica em
+  - **Cap. 3 → "Leto e a ilha que ninguém queria"** (retitulado na Rev. 3, X10): dá aos
+    gêmeos uma história em vez de uma ficha dupla ("caça e música"), e a imagem da ilha
+    errante que ganha raízes é a melhor ilustração possível do livro. **O título anterior
+    ("O nascimento em Delos") nomeava o parto — que é justamente o que o capítulo elide — e
+    escondia as duas protagonistas reais, Leto e a própria ilha.** O novo título nomeia quem
+    conduz a história e prepara a mensagem.
+    **Diferenciação obrigatória em relação ao cap. 1 (X2):** os dois capítulos tratam de
+    acolhimento, e a 15 páginas de distância isso seria repetição. A polaridade é diferente e
+    o texto deve fazê-la sentir: no **cap. 1** a mensagem é sobre **quem oferece** (Baucis e
+    Filêmon dão tudo o que têm; o ganho é o vínculo entre os dois); no **cap. 3** a mensagem é
+    sobre **quem recebe raiz ao receber alguém** — Delos não é generosa, é **medrosa e
+    pobre**, aceita **com medo**, e o que ganha não é recompensa, é **pertencimento**: ela
+    para de vagar. Cap. 1 = hospitalidade recompensada. Cap. 3 = **quem acolhe deixa de estar
+    à deriva**. **Ressalva:** a perseguição de Leto por Hera fica em
     **elipse** ("nenhuma terra ousava recebê-la"), sem nomear Hera como algoz — porque Hera
     já é antagonista no cap. 5, e dois capítulos de Hera-vilã em sequência achatam a
     personagem. Decisão a confirmar no dossiê.
@@ -249,7 +295,7 @@ a cadernos de 8 e de 16 pp). Miolo item a item:
 | 6 | Dedicatória + nota "estes mitos vêm de poetas reais" | 1 |
 | 7–10 | Cap. 1 — Zeus · Baucis e Filêmon | 4 |
 | 11–14 | Cap. 2 — Atena | 4 |
-| 15–18 | Cap. 3 — Ártemis e Apolo | 4 |
+| 15–18 | Cap. 3 — Leto e a ilha que ninguém queria | 4 |
 | 19–22 | Cap. 4 — Hermes | 4 |
 | 23–26 | Cap. 5 — Hefesto | 4 |
 | 27–30 | Cap. 6 — Deméter e Perséfone | 4 |
@@ -365,9 +411,18 @@ ocupar **pp. 52–53 (2 páginas)** e a **bibliografia comprime na p. 51** — o
      lastro grego da xenia de Zeus, ou o `mito-fidelidade` derruba o capítulo na Fase 2.
   6. Caderno de 16 pp: 56 não é múltiplo de 16. Se a gráfica-alvo exigir, vai a 64 pp
      (dono: `mito-diagramador`, Fase 4).
-  7. Mensagem do cap. 10 é **preliminar-a-derivar-do-dossiê** da *Teogonia* (X4): a versão
-     atual ("cada geração pode acertar o que a anterior errou") é a que Hesíodo sustenta
-     melhor, mas só o dossiê P0 a confirma ou substitui.
+  7. ~~Mensagem do cap. 10 preliminar~~ — **RESOLVIDA na Fase 1.** O dossiê P0 derrubou "cada
+     geração pode acertar o que a anterior errou" (Hesíodo mostra Zeus engolindo Métis, isto
+     é, repetindo o pai) e fixou: **"Quem prende, perde — Zeus venceu porque soltou."** A
+     tabela de capítulos deste spec deve ser lida com essa mensagem.
+  8. **Decisões emitidas no gate da Fase 1** (`pesquisa/gate.md`): dupla luz sem astros
+     **ADOTADA** · variante ovidiana da Medusa **FORA** (declarada nas pp. de fontes) ·
+     Héracles **FORA** (já decidido pelo humano na Fase 0) · **Dioniso = jovem imberbe**,
+     recomendação do editor, **revisável no checkpoint humano**.
+  9. **Ordem de produção violada na Fase 1** (o dossiê do cap. 4 foi produzido antes do cap. 3,
+     invertendo P1/P2): sem dano — as fichas de Apolo e Leto foram escritas como provisórias e
+     foram consolidadas —, mas registrado como lição de processo no gate. A ficha canônica
+     única de Apolo está em `pesquisa/canon-visual-consolidado.md`.
 
 ## Direitos & disclosure (decididos neste gate — dono: mito-editor-chefe)
 

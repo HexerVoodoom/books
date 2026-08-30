@@ -1,7 +1,8 @@
 # Dossiê — Deméter e Perséfone: as estações do ano
 
 > **Capítulo 6 (específico) · onda de produção P2 · livro `grega`**
-> Extensão-alvo do capítulo: **550–650 palavras** (livro-spec, F3). Paginação: pp. 27–30
+> Extensão-alvo do capítulo: **500–600 palavras** de texto corrido (livro-spec Rev. 3, X1) ·
+> **1 box "Você sabia?", máx. 80 palavras**. Paginação: pp. 27–30
 > (p1 abertura · p2–p3 texto · p4 ilustração full-bleed).
 > **Subordinação ao cânon:** as descrições canônicas de **Hades** e **Zeus** são reproduzidas
 > *verbatim* de `dossie-do-caos-ao-olimpo.md` (dossiê-cânon P0) e **não podem ser reescritas
@@ -113,8 +114,14 @@ sorriu com as sobrancelhas, e não desobedeceu à ordem do rei Zeus**" — **Hin
 que não fique tão abatida, lembrando que ele "não será marido impróprio… sendo irmão do próprio
 pai Zeus" — **Hino 360–369** [verificada por trecho].
 
-**A romã.** "Mas ele lhe deu **a semente da romã, o doce fruto de mel**, para comer, **olhando
-em volta de si**" — furtivamente — **Hino 371–374** [verificada por trecho]. E, mais adiante, a
+**A romã.** "Mas ele lhe deu **a semente da romã, o doce fruto de mel**, para comer, **às
+escondidas**" — **Hino 371–374** [verificada por trecho]. ⚠️ **Correção D3 do
+`mito-fidelidade`:** a versão anterior deste dossiê traduzia *"olhando em volta de si"*, que é
+**paráfrase de uma tradução inglesa**, não o sentido do grego. O termo é **_láthrē_**, "às
+escondidas, furtivamente" — advérbio de **ocultação**, não de olhar. A diferença importa
+porque "olhando em volta" pinta um Hades **furtivo e vilanesco** (checando se alguém vê), e a
+linha vermelha do cânon é que **Hades não é o vilão do livro**. **Usar "às escondidas"**; nunca
+"olhando em volta", "de esguelha" ou "sem que ninguém visse". E, mais adiante, a
 própria Perséfone conta à mãe: ele "pôs na minha mão a semente da romã, aquele alimento doce
 como mel, **e me obrigou pela força (*bíē*) a comê-la**" — **Hino 405–413** [verificada por
 trecho: "*and he compelled me by biē [force] to eat of it*"]. **Fatos de fidelidade: (a) o hino
@@ -250,13 +257,13 @@ aprendeu que a saudade faz parte da vida", ou "e Perséfone entendeu que precisa
 | Trecho do mito | Sensibilidade | Estratégia sugerida |
 |---|---|---|
 | **O RAPTO** (*Hino* 4–21): o narciso-armadilha, a terra que se escancara, Hades saltando com os cavalos imortais, Perséfone levada gritando contra a vontade | **Máxima.** É o eixo da objeção X3 do cético. Riscos simultâneos e de sinais opostos: **(a) romantizar** (transformar sequestro em história de amor, o pecado da maioria dos recontos modernos); **(b) apagar** (transformar em passeio, o pecado dos recontos "seguros"); **(c) traumatizar** (encenar a tomada de uma criança em close para leitores da mesma idade) | **REENQUADRE DE FOCO + ELIPSE DE CENA. Estratégia detalhada, vinculante (ver quadro abaixo).** |
-| **Zeus entregou a filha sem avisar a mãe** (*Hino* 3, 77–87) | **Alta**, e de um tipo raro: o pai do livro inteiro é cúmplice. Deixar isso explícito num livro de 4–7 anos custa a figura de Zeus, que o cap. 1 constrói como o deus da hospitalidade | **Elipse por omissão seletiva, sem afirmar o contrário.** O texto **não diz** que Zeus combinou com Hades (seria pesado e exigiria explicação), mas **também não diz** que Zeus foi pego de surpresa nem que ficou do lado de Deméter desde o começo — isso seria falsificar. Redação segura: Zeus entra na história **só quando a terra para**, e entra **resolvendo**. Uma frase basta: *"Quando Zeus viu a terra parada, entendeu que aquilo não ia se resolver sozinho."* Registrar a omissão na p. 53. |
+| **Zeus entregou a filha sem avisar a mãe** (*Hino* 3, 77–87) | **Alta**, e de um tipo raro: o pai do livro inteiro é cúmplice. Deixar isso explícito num livro de 4–7 anos custa a figura de Zeus, que o cap. 1 constrói como o deus da hospitalidade | **Elipse por omissão seletiva, sem afirmar o contrário.** O texto **não diz** que Zeus combinou com Hades (seria pesado e exigiria explicação), mas **também não diz** que Zeus foi pego de surpresa nem que ficou do lado de Deméter desde o começo — isso seria falsificar. Redação segura: Zeus entra na história **só quando a terra para**, e entra **resolvendo**. ⚠️ **CORREÇÃO D2 do `mito-fidelidade` — a frase proposta estava invertendo a causalidade.** A redação anterior era *"Quando Zeus **viu** a terra parada, **entendeu** que aquilo não ia se resolver sozinho"*. Os **verbos de percepção** ("viu", "entendeu") constroem um Zeus **espectador que descobre** o problema — e o hino diz o oposto: ele é **a causa** (*Hino* 3: Perséfone foi "dada a ele por Zeus"; *Hino* 79: "nenhum outro dos deuses imortais é culpado, senão Zeus que amontoa as nuvens"). Omitir a cumplicidade é permitido; **encenar inocência não é** — e "entendeu" encena. **Redação corrigida e adotada: _"Quando a terra parou, Zeus mandou buscar Perséfone."_** Zeus **age**, e o texto não diz nada sobre o que ele sabia. Registrar a omissão na p. 53. |
 | **A fome mundial** (*Hino* 302–313): Deméter "teria destruído toda a raça dos homens com a fome cruel" | **Média-alta.** Fome e morte em massa. Mas é **o motor do mito** e o que dá peso à saudade — apagar destrói a história | **Manter, deslocando de "fome" para "a terra parou".** A criança de 4–7 anos não tem repertório para fome coletiva, mas tem repertório completo para **planta que não cresce**. Narrar em imagem concreta e sensorial: as sementes não brotavam, os campos ficaram cinzentos, as árvores não davam fruto, os bois puxavam o arado à toa (esta última é literal, *Hino* 308–309). **Sem pessoas passando fome, sem ninguém morrendo.** O que se perde em escala se ganha em legibilidade, e nada de falso é dito. |
 | **Deméter vaga nove dias sem comer, sem beber e sem se lavar** (*Hino* 47–50) | Baixa-média: privação, luto | **Manter os nove dias e as tochas; cortar o jejum.** Os nove dias são fato citável e dão a **duração** da busca, que é o que faz a criança sentir o tamanho da saudade. O jejum e o não se lavar são código de luto adulto e não se leem em 4–7 anos. |
 | **A romã dada às escondidas e "pela força"** (*Hino* 371–374, 405–413) | **Média-alta.** É a única cena de "engano/coação" que sobra depois da elipse do rapto — e é a que **não pode** cair, porque é o motor do acordo final | **Manter o fato, contar em uma frase, do lado de Perséfone.** Redação segura: *"Antes de deixá-la ir, Hades lhe deu uma semente de romã. E quem come alguma coisa no mundo de baixo, no mundo de baixo tem de voltar."* Isso preserva (a) que a semente veio dele, (b) que ela não sabia, (c) a regra que decide tudo. **Proibido** "Perséfone estava com fome e comeu" (inverte a culpa para a vítima). **Proibido** "Hades a enganou de propósito para prendê-la para sempre" (transforma-o em vilão, contra a linha vermelha do cânon). **Uma semente, nunca seis.** |
 | **A partilha do ano** (*Hino* 398–403) | Nenhuma — é o presente do mito | **Realçar, e é o fecho do capítulo.** Cuidado de fato: **um terço, não metade** (ver Variantes). Redação segura, que é fiel sem dar aula de fração: *"uma parte do ano lá embaixo, e o resto do ano com a mãe."* |
 | **Hades como personagem** | Média: risco de o único deus "novo" do capítulo virar bicho-papão | **Linha de apresentação OBRIGATÓRIA antes de ele agir** (livro-spec, X2) — sem ela o personagem aparece do nada, e um personagem que aparece do nada e leva uma criança embora é, para o leitor de 4 anos, um monstro. Redação proposta pelo livro-spec, adotada por este dossiê: *"Debaixo de tudo, mais fundo que as raízes, havia um outro reino. Quem mandava nele era Hades, irmão de Zeus, o dono do mundo de baixo."* **Vinculante.** Complemento sugerido, de lastro no hino: acrescentar que o reino dele era **cheio de gente** — o epíteto do hino é literalmente "Hospedeiro de Muitos" (*Hino* 9, 17, 31) —, o que o apresenta como **anfitrião e rei**, não como caçador. |
-| **Elêusis e os Mistérios** (*Hino* 470–482) | Nenhuma | **Fora do corpo do capítulo, dentro do "Você sabia?".** Não cabe nas 650 palavras e é material de dupla audiência de primeira ordem. |
+| **Elêusis e os Mistérios** (*Hino* 470–482) | Nenhuma | **Fora do corpo do capítulo, dentro do "Você sabia?".** Não cabe nas 600 palavras e é material de dupla audiência de primeira ordem. |
 | **Demofonte no fogo** (*Hino* 231–291) | Alta (criança no fogo) | **Omitir o episódio inteiro** — ver Variantes. Registrar na p. 53. |
 
 ### Quadro vinculante — como narrar o rapto
@@ -315,19 +322,46 @@ tochas (bonita, mas é o meio da história e deixa a criança na página do medo
 
 **Ilustração única, p. 30, full-bleed, sem texto.**
 
-**Composição.** Diagonal ascendente da esquerda para a direita. À **direita e abaixo**,
-**Perséfone** saltando do carro dourado — pé já fora, corpo lançado para frente, **rosto de
-três quartos, expressão inequívoca de alegria**, cabelo e peplo em arabesco art nouveau; ao
-lado dela, ainda no carro, os **cavalos imortais** de crina escura e o **carro de ouro**, parado
-e recuando para a sombra na borda direita do quadro. À **esquerda e acima**, **Deméter**
-correndo de braços abertos, coroa de espigas, **as duas tochas caídas no chão atrás dela** — a
-busca acabou, e a imagem diz isso sem uma palavra —, o manto **abrindo de escuro para dourado**
-ao longo do próprio corpo, do capuz ao debrum. Entre as duas, o espaço que falta para o abraço
-(**não desenhar o abraço consumado**: o instante anterior tem mais tensão e mais alegria).
-**No chão, sob e entre elas, o rastro**: terra cinzenta e rachada atrás de Deméter, e flores
-abrindo em leque a partir dos pés de Perséfone — narcisos, açafrões, violetas, jacintos, íris
-(**catálogo literal do hino**, *Hino* 6–8) —, a linha do florescimento avançando na diagonal.
-Ao longe, campos de trigo levantando.
+### ⚠️ ALTERAÇÃO Rev. 3 (objeção X6) — o momento mudou: **o abraço CONSUMADO**
+
+A versão anterior deste dossiê instruía: *"não desenhar o abraço consumado — o instante
+anterior tem mais tensão e mais alegria"*. **Editorialmente isso está invertido, e a alteração
+é do `mito-editor`, não do pesquisador** (nenhum fato do mito muda):
+
+1. **Livro inteiro, não página isolada.** Os dossiês foram produzidos em paralelo e
+   convergiram, sem combinar, no mesmo truque: **cinco de onze cenas** eram "o instante
+   imediatamente anterior". Repetido, deixa de ser tensão e vira maneirismo — o livro passa a
+   ser uma sequência de respirações suspensas que nunca completam. O mapa de ritmo visual do
+   livro-spec (X6) fixa **máx. 50% em "instante anterior"**, e esta é uma das duas cenas
+   convertidas.
+2. **Este é o único reencontro pleno do livro.** Os caps. 7, 8, 9 e 10 fecham em contenção,
+   alívio ou promessa. Uma criança de 4 a 7 anos precisa de **uma** página em que o abraço
+   **acontece** — e este mito é o que a tem.
+3. **A tensão já foi paga.** Três páginas de busca com tochas antecedem a imagem. Suspender
+   mais um instante não acrescenta desejo: **frustra** um desejo que o texto já construiu
+   inteiro.
+4. **A fonte pede o abraço, literalmente.** *"Perséfone… deixou o carro e os cavalos e saltou
+   para correr até ela, e **caindo em seu pescoço, a abraçou**"* (*Hino* 384–390). O instante
+   anterior era a escolha **menos** literal das duas.
+
+**Composição (revisada).** Diagonal ascendente da esquerda para a direita. No centro do quadro,
+**mãe e filha já abraçadas** — Perséfone **caída no pescoço de Deméter**, exatamente o gesto do
+hino, os pés dela ainda sem tocar o chão pelo impulso da corrida; Deméter com os dois braços
+fechados em volta dela, coroa de espigas, **os dois rostos visíveis** (o de Perséfone de três
+quartos sobre o ombro da mãe, o de Deméter de perfil-três-quartos com os olhos fechados) —
+**expressões inequívocas de alegria, legíveis a 4 anos**, cabelo e peplo em arabesco art
+nouveau. **As duas tochas caídas no chão atrás de Deméter** — a busca acabou, e a imagem diz
+isso sem uma palavra. O manto dela **abrindo de escuro para dourado** ao longo do próprio corpo,
+do capuz ao debrum. À **direita**, o **carro de ouro** vazio e os **cavalos imortais** de crina
+escura, parados e recuando para a sombra na borda do quadro.
+**No chão, sob e em volta das duas, o rastro**: terra cinzenta e rachada atrás de Deméter, e
+**flores abrindo em leque a partir do ponto do abraço** — narcisos, açafrões, violetas,
+jacintos, íris (**catálogo literal do hino**, *Hino* 6–8) —, a linha do florescimento avançando
+na diagonal para fora do quadro. Ao longe, campos de trigo levantando.
+
+⚠️ **A florada agora nasce do abraço, não dos pés de Perséfone.** É a melhoria que a mudança
+compra de graça: o gesto **é** a causa do florescimento, e a criança lê a mensagem inteira sem
+uma palavra — o mundo volta a crescer no ponto exato em que as duas se encontram.
 
 **Hades e o mundo de baixo:** **fora de quadro**, ou no máximo como a **fenda escura já se
 fechando** na borda direita. Ele não divide esta página — a página é das duas.
@@ -364,14 +398,28 @@ moldura.
 3. **Uma semente só.** Nos livros modernos, Perséfone quase sempre come **seis** sementes de
    romã, uma para cada mês de inverno. No poema grego mais antigo que conta a história, ela come
    **uma** — e o acordo também não é de metade do ano: é de **uma parte do ano** embaixo e
-   **duas partes** com a mãe. Os gregos daquela época contavam **três** estações, não quatro. —
-   *Hino Homérico a Deméter* 372 e 398–403 [verif. por trecho] · a versão de sete grãos é de
-   Ovídio, *Metamorfoses* V.534–538 [URL não verificada].
+   **duas partes** com a mãe. — *Hino Homérico a Deméter* 372 e 398–403 [verif. por trecho] ·
+   a versão de sete grãos é de Ovídio, *Metamorfoses* V.534–538 [URL não verificada].
 
-*(Três fornecidos; o livro usa 2–3 conforme a caixa. Prioridade: **1 e 2** — os mais concretos e
-os de melhor efeito em voz alta. O fato 3 é o de maior valor para o adulto leitor e é também a
-**nota de honestidade** do capítulo: se a caixa couber, ele resolve sozinho a divergência
-"metade × um terço" que um adulto informado vai notar.)*
+   ⚠️ **CORREÇÃO D1 do `mito-fidelidade` — INVENÇÃO cortada deste box.** A versão anterior
+   fechava com *"Os gregos daquela época contavam **três** estações, não quatro"*, soldando a
+   equivalência **"um terço = uma das três estações"**. **Essa solda não está em fonte nenhuma
+   e é falsa como explicação**: o *Hino* não relaciona o terço a um sistema de estações, e no
+   esquema arcaico grego **o que falta no calendário de três estações é justamente o inverno** —
+   ou seja, a conta não fecha do jeito que a frase sugeria. **A solda está cortada.** O box fica
+   com **as duas metades verificáveis** (uma semente, e a partilha 1/3–2/3), que se sustentam
+   sozinhas e já resolvem a divergência que um adulto informado vai notar. **O contexto das três
+   estações do calendário grego pode ir às pp. 51–52 como informação separada**, sem ser
+   apresentado como a explicação do terço. **Proibido** reintroduzir a equivalência em qualquer
+   página do livro.
+
+⚠️ **Instrução Rev. 3 (X1): 1 box por capítulo, máx. 80 palavras.** ⚠️ **Escolha invertida em
+relação à prioridade anterior:** vai ao livro **o fato 3** (uma semente só, e uma parte do ano
+— **já corrigido pela D1**), e **não** o fato 1. Razão: o fato 3 é a **nota de honestidade** do
+capítulo e resolve sozinho, na página, a divergência "metade × um terço" que qualquer adulto
+informado vai notar — e o livro acabou de adotar a lição mais rara e mais fácil de acusar de
+erro. Os fatos **1 e 2** migram para as pp. 51–52, e o **fato 1 (os Mistérios de Elêusis) é
+obrigatório ali**: é a contrapartida da omissão de Elêusis como episódio.
 
 **Nota ao `mito-revisor` (glossário, pp. 49–50) — pendência sinalizada no briefing.**
 "Perséfone" é a palavra mais difícil do livro e é o **nome da protagonista**, dita em voz alta
@@ -384,19 +432,32 @@ autoridade R2 do livro-spec (Houaiss → tradução consagrada → VOLP). Transl
 
 ---
 
-## Orçamento de palavras sugerido ao `mito-escritor` (teto 550–650)
+## Orçamento de batidas — **recalculado para o teto 500–600** (X1)
 
-| Batida | Palavras |
-|---|---|
-| O campo de flores e Perséfone (mais Deméter estabelecida como mãe) | 90 |
-| **Apresentação obrigatória de Hades** + a flor + a terra se abre (elipse) | 80 |
-| Deméter chega ao campo vazio; a busca com as tochas, nove dias | 100 |
-| Hécate (ouviu) e Hélio (viu, e conta) | 90 |
-| A terra para de dar | 80 |
-| Zeus intervém; Hermes desce; a romã | 90 |
-| **O reencontro** (clímax — dar espaço) | 70 |
-| A partilha do ano e o fecho da primavera | 60 |
-| **Total** | **660 → cortar ~30 na revisão** |
+O orçamento anterior fechava em 660 palavras contra um teto de 550–650 **que ainda não
+descontava o box**. Com o teto vigente (**500–600 de texto corrido + 1 box de até 80
+palavras**), ele estourava por ~90 palavras. Redistribuição:
+
+| # | Batida | Antes | **Agora** |
+|---|---|---|---|
+| 1 | O campo de flores e Perséfone (Deméter estabelecida como mãe) | 90 | **70** |
+| 2 | 🔒 **Apresentação obrigatória de Hades** + a flor + a terra se abre (elipse) | 80 | **80** |
+| 3 | Deméter chega ao campo vazio; a busca com as tochas, nove dias | 100 | **80** |
+| 4 | Hécate (ouviu) e Hélio (viu, e conta) | 90 | **70** |
+| 5 | 🔒 A terra para de dar | 80 | **65** |
+| 6 | 🔒 "Quando a terra parou, Zeus mandou buscar Perséfone" (D2); Hermes desce; **a romã dada às escondidas** (D3) | 90 | **85** |
+| 7 | 🔒 **O reencontro** (clímax — dar espaço) | 70 | **70** |
+| 8 | 🔒 A partilha do ano ("uma parte do ano", nunca "seis meses") e o fecho da primavera | 60 | **60** |
+| | **Total** | 660 | **580** ✔ |
+
+**Onde os ~80 saíram:** batida 1 (o catálogo de flores do prado pode ser de três nomes, não de
+seis — as outras aparecem na ilustração); batida 3 (os nove dias e as tochas bastam; cortar a
+enumeração de lugares); batida 4 (as duas testemunhas em paralelo, com a mesma construção, em
+vez de duas cenas). **Intocáveis** (ver `pesquisa/batidas-intocaveis.md`): **2** (a linha de
+apresentação de Hades é vinculante do livro-spec — sem ela um personagem novo aparece do nada e
+leva uma criança embora), **5** (a terra parada é o motor e a arma de Deméter), **6** (a romã
+decide tudo; e as correções D2/D3 vivem aqui), **7** (o clímax emocional do livro inteiro) e
+**8** (o acordo é o presente do mito).
 
 ---
 
