@@ -1,7 +1,7 @@
 {
   "livro": "grega",
   "mitologia": "grega",
-  "fase_atual": "pesquisa",
+  "fase_atual": "escrita",
   "capitulos": [
     {
       "slug": "zeus-baucis-e-filemon",
@@ -84,9 +84,9 @@
   ],
   "gates": {
     "fundacao": "aprovado",
-    "pesquisa": "aprovado — 8 dimensões verdes, nenhuma objeção FATAL sobrevivente; ver producao/grega/pesquisa/gate.md"
+    "pesquisa": "aprovado"
   },
-  "checkpoint": "aguardando humano",
+  "checkpoint": null,
   "decisoes": {
     "serie_nome": "Era Uma Vez um Mito",
     "heracles": "fora do sumario (candidato a edicao ampliada)",
@@ -98,11 +98,12 @@
     "cap10_justificativa": "reencontro de ATRIBUTOS e origens (raio, tridente, elmo, partilha), nao de personagens",
     "dupla_luz_sem_astros": "ADOTADA",
     "medusa_ovidiana": "FORA — exclusao declarada nas pp. de fontes",
-    "dioniso": "jovem imberbe — recomendacao do editor, REVISAVEL no checkpoint humano",
+    "dioniso": "jovem imberbe (confirmado pelo humano)",
     "egeu_etimologia": "Higino Fab. 43 inteiro na batida — Egeu vai ao mar e o mar ganha o nome; o rochedo de Plutarco sai do texto",
     "hermes_desfecho": "recebe o OFICIO de pastor; as vacas voltam a Apolo",
     "cena_cap6": "abraco consumado (alterado por X6)",
-    "ritmo_visual": "max 50% das cenas em 'instante anterior' — atual 5/11 = 45%"
+    "ritmo_visual": "max 50% das cenas em 'instante anterior' — atual 5/11 = 45%",
+    "titulo_cap3": "Leto e a ilha que ninguém queria (confirmado)"
   },
   "artefatos": [
     "producao/grega/livro-spec.md (Rev. 3)",
