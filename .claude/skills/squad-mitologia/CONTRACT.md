@@ -114,8 +114,9 @@ deste repositório.
 }
 ```
 
-- Enum de status de capítulo: `pesquisado` → `escrito` → `gate-aprovado` → `ilustrado` →
-  `diagramado`. Enum de `fase_atual`: `fundacao | pesquisa | escrita | ilustracao |
+- Enum de status de capítulo: `planejado` → `pesquisado` → `escrito` → `gate-aprovado` →
+  `ilustrado` → `diagramado`. (`planejado` = entrou no sumário da Fase 0, dossiê ainda não
+  aberto — acrescentado ao enum na revisão do gate da Fase 0 do livro grega, 2026-08-30.) Enum de `fase_atual`: `fundacao | pesquisa | escrita | ilustracao |
   ilustracao-aguardando-imagens | diagramacao | publicacao | concluido`.
 - **Voltar:** quando o humano pedir para voltar, artefatos posteriores ao ponto vão para
   `<fase>/_superseded/` e entram no state como `invalidados` (protocolo herdado da Alpha).
