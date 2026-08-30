@@ -2,7 +2,7 @@
 
 > Tipo: específico · Dossiê: dossies/dossie-perseu-e-a-medusa.md · Palavras-alvo: 500–600
 > (livro-spec Rev. 3, X1) · Box "Você sabia?": máx. 80 palavras · Ilustração: 1 full-bleed, p. 34
-> **Contagem do texto corrido: 556 palavras** · **Box: 63 palavras**
+> **Contagem do texto corrido: 595 palavras** · **Box: 57 palavras**
 
 ## Texto
 
