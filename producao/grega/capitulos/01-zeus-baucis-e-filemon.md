@@ -1,8 +1,13 @@
 # Capítulo 01 — Zeus · Baucis e Filêmon
 
 > Tipo: **específico** · Dossiê: `dossies/dossie-zeus-baucis-e-filemon.md` ·
-> Teto vigente (livro-spec Rev. 3, X1): **500–600 palavras** de texto corrido + **1 box, máx. 80**.
-> **Contagem declarada: texto corrido = 585 palavras · box "Você sabia?" = 74 palavras.** ✔
+> Teto vigente (livro-spec Rev. 4): **500–600 palavras** de texto corrido + **1 box, máx. 80**.
+> **Contagem declarada: texto corrido = 583 palavras · box "Você sabia?" = 74 palavras.** ✔
+> **Ilustração: 1 full-bleed, p. 10** (última página do bloco 7–10 — a metamorfose é a batida
+> final do texto, então a regra de posicionamento do livro-spec Rev. 4 é respeitada).
+> **Regra de contagem (livro-spec Rev. 4):** contam-se as palavras separadas por espaço no
+> texto corrido, entre `## Texto` e `## Você sabia?`; **o travessão de fala não conta**;
+> cabeçalho, box, cena, glossário e notas ficam fora.
 >
 > 🔴 **Condição vinculante herdada do dossiê (correção 2.1):** este capítulo só é aprovado se a
 > página de fontes (pp. 51–52) declarar, na linha do cap. 1: (a) a única versão conservada é
@@ -87,10 +92,11 @@ viajantes de terras distantes, só para ver como as pessoas se comportam.
 
 ## Cena da ilustração
 
-**A cena do dossiê, sem alteração** (livro-spec F1; mapa de ritmo visual X6: momento
-**"durante"**, nota emocional **espanto quieto**).
+**A cena do dossiê, com o ponto de vista corrigido na Fase 2** (livro-spec F1; mapa de ritmo
+visual X6: momento **"durante"**, nota emocional **espanto quieto**).
 
-> **O instante único: a cabana virando templo, com o casal ainda de mãos dadas à porta.**
+> **O instante único: a cabana virando templo, vista de meia encosta, com o casal ainda de
+> mãos dadas no caminho do monte.**
 
 Enquadramento vertical de página inteira, full-bleed, um só momento, capturado **no meio da
 transformação**.
@@ -156,7 +162,7 @@ transformação**.
 
 ## Notas do escritor (para o gate da Fase 2)
 
-1. **Orçamento de batidas cumprido, com os cortes previstos.** Fechou em **585** (o dossiê
+1. **Orçamento de batidas cumprido, com os cortes previstos.** Fechou em **583** após a edição da Fase 2 (o dossiê
    projetava 610). Cortes feitos exatamente pela tabela C de `batidas-intocaveis.md`: a
    pobreza serena foi comprimida em **uma frase** ("Eram pobres, sabiam disso e não faziam
    disso tristeza"). **A Frígia foi mantida** — porque ela volta na última linha e fecha o
@@ -187,3 +193,27 @@ transformação**.
    no corpo do texto ✔.
 10. **Nenhum desvio estrutural do dossiê.** Nenhuma estratégia de adaptação precisou ser
     substituída.
+
+## Edição da Fase 2 — onda P1 (mito-editor, pós-loop adversarial)
+
+Cada mudança abaixo é de **montagem** (executada aqui) e não de autoria; nenhum fato do mito
+foi alterado, e nenhuma batida 🔒 foi tocada.
+
+| # | Mudança | Origem | Por quê |
+|---|---|---|---|
+| 1 | Cortado "e não olhem para trás" da fala dos deuses | fidelidade | Invenção sem apoio em Ovídio VIII.692–694 — e o próprio texto descumpria o interdito três linhas depois ("Lá em cima, olharam") |
+| 2 | "Que eu nunca veja o túmulo dela…" → "Que nenhum de nós dois fique aqui sozinho" | adequação O1 | Tira os substantivos funerários sem tirar o pedido: a solidão é o medo, e é o que a criança entende |
+| 3 | "a casca fechou as duas bocas" → "a casca subiu e fechou por cima dos dois ao mesmo tempo" | adequação O2 | O sujeito passa a ser a árvore; a leitura de sufocamento cai |
+| 4 | "esteios" → "os paus de madeira que seguravam o teto"; **vime** ao glossário | adequação O3 | Duas palavras difíceis na mesma cena; uma vira paráfrase, a outra vira verbete |
+| 5 | Cortado "para ficar cheirando bem" | tom | Explica a hortelã para quem já entendeu |
+| 6 | Desculpas dos velhos em **fala direta** ("— Perdoem a mesa…") | tom | Estavam em discurso indireto resumido, único momento em que o narrador falava por eles |
+| 7 | Cena da ilustração reenquadrada para **meia encosta**, em três planos | cético O3 | A cena antiga punha a casa "acima e atrás" de quem tinha subido o monte — impossível |
+| 8 | Cortada a "semente do fim" (carvalho e tília jovens) da cena; ficam só na viñeta | cético O3 | Antecipava a metamorfose final três páginas antes de o texto chegar nela |
+| 9 | Declarado o teto de **5 figuras nítidas** (livro-spec Rev. 4) | spec | 5/5 exatos: Baucis, Filêmon, Zeus, Hermes, ganso |
+
+**Pendência que sai deste capítulo e entra nas pp. 51–52** (dono: `mito-editor`, redação da
+Fase 2): (a) a declaração da correção 2.1, já redigida no dossiê (fonte latina, Júpiter e
+Mercúrio, Zeus/Hermes como decisão editorial, lastro da teoxenia e de Zeus Xénios, aldeia
+destruída no original e tratada aqui por elipse); (b) o **gancho mediador dos vizinhos** —
+uma linha para o adulto sobre o que acontece com o vale no original, para responder à
+criança que perguntar. Sem (a), o capítulo perde a aprovação de fidelidade.

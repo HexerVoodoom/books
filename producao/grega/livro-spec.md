@@ -16,6 +16,93 @@
 > tipográfico do aparato pós-textual e formato da p. 53** (X5), **mapa de ritmo visual e
 > diretriz de "instante anterior"** (X6), **linha de sequência do cap. 4** (X9),
 > **dupla luz sem astros adotada** (X14). Registro completo em `pesquisa/gate.md`.
+>
+> **Rev. 4 (2026-08-30)** — revisão pós-gate da **onda P1 da Fase 2** (caps. 1, 3 e 5
+> escritos e atacados). Quatro regras novas, todas nascidas de falhas encontradas em texto
+> real e nenhuma delas dedutível em Fase 0: **regra de posicionamento do full-bleed**,
+> **teto de figuras nítidas por ilustração**, **orçamento declarado das pp. 51–52** e
+> **regra de contagem de palavras**. Registro completo em `escrita/gate-onda-p1.md`.
+
+## Regras fechadas na Rev. 4 (vinculantes para escrita, arte e diagramação)
+
+### R4.1 — Posicionamento do full-bleed
+
+**Nenhuma ilustração de página inteira pode cair em página posterior à batida do texto que a
+cena antecipa.** A regra só morde nas cenas de **"instante anterior"** do mapa de ritmo
+visual: uma cena que mostra o gesto ainda não feito, impressa depois de o texto já ter feito
+o gesto, deixa de ser suspense e vira legenda atrasada — a criança vê o desfecho na página
+anterior e depois vê a imagem "voltando no tempo".
+
+A anatomia padrão do capítulo específico (p1 abertura · p2 texto · p3 texto · **p4
+full-bleed**) continua sendo o **default**, e vale sempre que a cena ilustra a batida final.
+Quando não vale, a ilustração sobe para a p2 do bloco e o texto ocupa p1, p3 e p4.
+
+| # | Momento da cena | Página da ilustração | Situação |
+|---|---|---|---|
+| 1 | durante | **p. 10** (p4 do bloco 7–10) | default ✔ |
+| 3 | pós-gesto | **p. 18** (p4 do bloco 15–18) | default ✔ |
+| 5 | **instante anterior** | **p. 24** (p2 do bloco 23–26) | **exceção — corrigida nesta revisão (era p. 26)** |
+| 2, 4, 6–10 | — | a declarar no cabeçalho de cada capítulo na onda correspondente | — |
+
+**Padronização de cabeçalho:** o cabeçalho de **todo** capítulo declara a página da sua
+ilustração, e declara quando ela é exceção à anatomia padrão. Sem essa linha o capítulo não
+passa no gate da Fase 2. Caps. 7, 8 e 9 são "instante anterior" e **provavelmente** herdam a
+exceção — verificar quando forem escritos (ondas P3).
+
+### R4.2 — Teto de figuras nítidas por full-bleed: **≤ 5**
+
+Em cada ilustração de página inteira, **no máximo 5 figuras** ganham rosto, expressão e
+acabamento de personagem (a camada Mucha da hierarquia X5). Todo o resto da multidão —
+cortejos, deuses de fundo, povo, coro — entra **em silhueta**, sem rosto e sem detalhe, ou
+fora de quadro.
+
+O motivo é de público: a hierarquia X5 existe porque o leitor de 4 anos lê a história pelo
+rosto do personagem, e **seis rostos expressivos competindo entre si anulam exatamente essa
+leitura**. Cinco é o limite em que a criança ainda encontra o protagonista sem ajuda do
+adulto. A regra também protege o orçamento de arte: rosto acabado é o item mais caro da
+página.
+
+O cabeçalho da seção "Cena da ilustração" de cada capítulo **declara a contagem** (ex.:
+"Hera, Hefesto, Dioniso, Ares e um deus desistindo = 5 ✔"). Contagem atual: cap. 1 = 5/5 ·
+cap. 3 = 4/5 · cap. 5 = 5/5.
+
+### R4.3 — Orçamento declarado das pp. 51–52 (fontes e bibliografia adaptada)
+
+As pp. 51–52 viraram, na onda P1, o depósito de todas as ressalvas de fidelidade ("declarar
+na página de fontes"). Sem orçamento, elas estouram — 5 das 8 ressalvas da onda P1 caem lá.
+Orçamento fechado:
+
+```
+por capítulo          máx. 60 palavras   (fonte + variante adotada + declarações vinculantes)
+10 capítulos          10 × 60            =  600 palavras
+bibliografia geral    ~300 palavras      (poetas, traduções, leituras para o adulto)
+TOTAL                 ~900 palavras
+caixa disponível      2 pp × 9,5/12 pt em 2 colunas ≈ 700–900 palavras/página = 1.400–1.800
+```
+
+Folga confortável ✔ — e a folga é deliberada, porque a contingência da p. 53 (plano já
+registrado) come a p. 52 se a nota de adaptações estourar. **Quem passar de 60 palavras num
+capítulo tem de cortar de outro, ou a linha vira item da p. 53.** Dono: `mito-editor`.
+
+### R4.4 — Regra de contagem de palavras (encerra a ambiguidade do teto)
+
+O teto de 500–600 / 750–850 nunca disse **o que** era palavra. Regra fechada:
+
+- conta-se o **texto corrido** — no arquivo do capítulo, tudo entre `## Texto` e
+  `## Você sabia?`;
+- **palavras separadas por espaço**; hífen não separa ("recém-nascido" = 1);
+- **o travessão de fala (—) não conta** — é pontuação, não palavra;
+- **ficam fora da conta:** cabeçalho, box, cena da ilustração, glossário e notas;
+- **o box conta separado**, pelo mesmo critério, contra o seu próprio teto de 80.
+
+Comando de verificação (colar a saída no gate):
+
+```
+python3 -c "t=open(F).read().split('## Texto')[1].split('## Você sabia?')[0]; print(len(t.replace('—',' ').split()))"
+```
+
+Toda contagem declarada em cabeçalho de capítulo passa a citar esta regra. As contagens da
+onda P1 foram **refeitas** por ela (o cap. 5 declarava 518/66 e é 519/62).
 
 ## Identidade
 - Título de trabalho: *Mitos da Grécia* (título da série: `[a definir — decisão do humano no checkpoint]`)
@@ -304,7 +391,7 @@ a cadernos de 8 e de 16 pp). Miolo item a item:
 | 39–42 | Cap. 9 — Midas | 4 |
 | 43–48 | **Cap. 10 — Do Caos ao Olimpo (geral, estendido)** | 6 |
 | 49–50 | Glossário (nomes, grafia, transliteração, palavras difíceis) | 2 |
-| 51–52 | Fontes e bibliografia adaptada (para o adulto) | 2 |
+| 51–52 | Fontes e bibliografia adaptada (para o adulto) — orçamento em **R4.3** | 2 |
 | 53 | Nota sobre as adaptações (o que foi mudado e por quê) | 1 |
 | 54 | Colofão (tipografia, papel, produção) | 1 |
 | 55–56 | Guarda final / branca | 2 |
@@ -317,7 +404,9 @@ depois de a gráfica ser escolhida. Pendência registrada.
 
 **Anatomia das 4 páginas de um capítulo específico:** p1 abertura (título + moldura de
 meandro + capitular + início do texto, ≈ 2/3 de caixa útil) · p2 texto cheio · p3 texto cheio ·
-p4 **ilustração de página inteira, full-bleed, sem texto**.
+p4 **ilustração de página inteira, full-bleed, sem texto**. ⚠️ **Default, não invariante** —
+ver **R4.1**: se a cena for "instante anterior", a ilustração sobe para a p2 do bloco e o
+texto ocupa p1, p3 e p4 (é o caso do **cap. 5, p. 24**).
 O capítulo geral (6 pp) tem **2 ilustrações full-bleed** (abertura cósmica + clímax da
 Titanomaquia) e 4 páginas de texto, a primeira sendo a de abertura. Isso é **extensão
 declarada** do padrão serial "1 ilustração por capítulo" (CONTRACT §0), válida para o capítulo
@@ -369,7 +458,7 @@ GERAL        875 − 62 = 813   →  teto  750–850 palavras
 
 > **Teto vigente (substitui o da Rev. 2):**
 > **capítulo específico 500–600 palavras · capítulo geral 750–850 palavras · 1 box por
-> capítulo, máx. 80 palavras.**
+> capítulo, máx. 80 palavras.** Critério de contagem: **R4.4** (Rev. 4).
 
 **Instrução propagada a TODOS os dossiês:** onde um dossiê oferece 3 fatos de "Você sabia?",
 os três permanecem como **material**, mas **só um vai ao livro** — a escolha é do

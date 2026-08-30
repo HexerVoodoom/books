@@ -1,6 +1,12 @@
 # Capítulo 03 — Leto e a ilha que ninguém queria
 
-> Tipo: específico · Dossiê: dossies/dossie-artemis-e-apolo-nascimento-em-delos.md · Palavras-alvo: 500–600 (livro-spec Rev. 3, X1) · Contagem do texto corrido: **545 palavras** · Box: **58 palavras** (teto 80)
+> Tipo: específico · Dossiê: dossies/dossie-artemis-e-apolo-nascimento-em-delos.md ·
+> Palavras-alvo: 500–600 (livro-spec Rev. 4)
+> **Contagem declarada: texto corrido = 556 palavras · box "Você sabia?" = 57 palavras.** ✔
+> **Ilustração: 1 full-bleed, p. 18** (última página do bloco 15–18 — a cena é "pós-gesto" e
+> ilustra a batida final do texto; regra de posicionamento do livro-spec Rev. 4 respeitada).
+> **Regra de contagem (livro-spec Rev. 4):** palavras separadas por espaço no texto corrido,
+> entre `## Texto` e `## Você sabia?`; **o travessão de fala não conta**.
 
 ## Texto
 
@@ -61,8 +67,11 @@ Momento: o instante **seguinte** ao nascimento — nada em curso, tudo recém-ac
 - **Delos** deixa de flutuar: as **raízes** descem da base rochosa para o fundo escuro do mar; as ondas em volta ainda guardam o movimento da ilha que vagava. Se o diretor de arte aceitar, **rosto legível no penhasco**, olhando — a ilha escolheu. **O monte Cinto** ao fundo.
 - **Leto** no centro, ajoelhada no prado, **braços em volta da palmeira** — o gesto canônico e emblemático dela. Matrona velada, belas tranças. Rosto com **cansaço e determinação**, nunca desamparo. A terra "rindo" por baixo: flores silvestres brotando no rastro dos joelhos.
 - **Ártemis**, recém-nascida mas **já de pé e já ela mesma**, ao lado da mãe, no gesto de quem acabou de ajudar e se volta para o irmão.
-- **Apolo** recém-nascido, com a **faixa dourada desfeita**, pontas soltas; a luz sai dele e carrega a ilha de ouro.
+- **Apolo** recém-nascido, com a **faixa dourada desfeita**, pontas soltas, **de olhos abertos e voltados para a rocha da ilha** (paga o medo dito por ela: "e se ele olhar para mim e não gostar?"). A luz sai dele e **atravessa** a rocha — luz que passa, como sol de manhã, **nunca ouro depositado**: a pedra da ilha continua pedra, e o texto promete que ela não vai ficar rica. Quem floresce é o **prado**, não o penhasco.
 - **Luz (X14, decidido no gate):** dois brilhos — o **quente**, vindo do próprio Apolo; o **prateado/frio**, na pele de Ártemis e no prado noturno. **Sem sol e sem lua no céu**: nenhum astro.
+- **Teto de figuras nítidas (livro-spec Rev. 4): 5.** Contagem: Leto, Ártemis, Apolo e o rosto
+  no penhasco = **4 ✔**. As deusas do mar e do céu que esperam junto entram **em silhueta**,
+  fora da contagem.
 - **Linha vermelha:** postura e serenidade, **nunca** esforço, dor ou sangue. Sem rosto contorcido, sem suor, sem pano manchado, sem composição de "trabalho de parto". Se a imagem ler como cena de parto, **muda-se a imagem, não o texto**.
 
 ## Termos para o glossário
@@ -78,7 +87,7 @@ Momento: o instante **seguinte** ao nascimento — nada em curso, tudo recém-ac
 
 ## Notas de execução (para o editor e o loop adversarial)
 
-- **Batidas 1–10 do orçamento do dossiê: todas presentes**, na ordem. Intocáveis cumpridas: **B5** (o medo de Delos, dito por ela mesma, e o "com medo, e mesmo assim" explícito); **A5** (Apolo declara lira e arco ao nascer — redigido para o cap. 4 herdar *aquela* lira); **A6** (a cláusula do oráculo pedida por Delos + o juramento de Leto, pago nove batidas depois pela fala de Apolo, com a frase "Foi exatamente o que a ilha tinha pedido" como único apontamento — em voz de história, não de professor).
+- **Batidas 1–10 do orçamento do dossiê: todas presentes**, na ordem. Intocáveis cumpridas: **B5** (o medo de Delos, dito por ela mesma, e o "com medo, e mesmo assim" explícito); **A5** (Apolo declara lira e arco ao nascer — redigido para o cap. 4 herdar *aquela* lira); **A6** (a cláusula do oráculo pedida por Delos + o juramento de Leto, pago nove batidas depois pela fala de Apolo, com a frase "Foi o que a ilha tinha pedido" como único apontamento — em voz de história, não de professor).
 - **A1** — Hera não é nomeada; a recusa das terras fica sem causa em quadro ("nenhuma ousava recebê-la"), como no *Hino Homérico*. Píton fora.
 - **A2** — parto em elipse: chegada, tempo longo ("a noite passou, e passou outra…"), resultado. Sem "dor", "gritos", "sangue". Ilítia, Íris e o colar fora do texto corrido. **Pendência que não é minha:** a p. 53 (nota de adaptações) **deve** registrar que, nas fontes, a demora se devia a Hera reter a deusa do parto — correção 4.2.
 - **A3** — a precocidade divina não é explicada nem desculpada: "E, sendo quem era, não ficou esperando." Eco deliberado com o Hermes do cap. 4.
@@ -88,3 +97,20 @@ Momento: o instante **seguinte** ao nascimento — nada em curso, tudo recém-ac
 - **Estige não nomeado**, conforme instrução: "uma promessa que nenhum deus pode desfazer".
 - **Sem astros**: o texto diz "a luz do menino", nunca sol; Ártemis não recebe lua.
 - **Palavra difícil ancorada, uma por vez:** *titânide* fica só no glossário; no corrido, a única exigência de vocabulário é **lira**, ancorada pela própria fala de Apolo e pelo glossário.
+
+## Edição da Fase 2 — onda P1 (mito-editor, pós-loop adversarial)
+
+| # | Mudança | Origem | Por quê |
+|---|---|---|---|
+| 1 | 2ª frase partida e concretizada: "Leto ia ter dois filhos de Zeus. Precisava de um chão firme para eles nascerem. Mas nenhuma terra queria." | adequação O1 | A frase original tinha três orações encadeadas e uma abstração ("já não havia lugar no mundo") logo na abertura |
+| 2 | **2ª pessoa lusitana convertida para "você"** (tu não vais → você não vai; pede o que quiseres → peça o que você quiser) | tom + adequação O2 | Registro de Portugal travava a leitora de 6–7 e destoava do resto do livro |
+| 3 | "a porta que não abre" → "e em todas a mesma resposta: não" | **cético O1** | A metáfora da porta é a **assinatura do cap. 1** (mil portas, mil trancas). A 8 páginas de distância, repeti-la achatava a diferenciação X2 entre os dois capítulos de acolhimento |
+| 4 | **FATAL — contradição de riqueza resolvida.** "a rocha ficou dourada" → "A luz do menino correu pela rocha como o sol corre pela manhã, e passou, e a rocha continuou dura como sempre foi" | **cético O1** | Leto promete "você não vai ficar rica / seu chão vai continuar duro" e nove linhas depois a rocha virava ouro. A luz agora **atravessa e passa**; não vira substância. As **flores do mato** ficam — flor não é riqueza, é vida, e a batida da terra que ri é intocável |
+| 5 | **FATAL — medo pessoal pago.** Inserida a linha "Apolo abriu os olhos. A primeira coisa que viu foi a pedra que tinha dito sim — e gostou do que viu." | **cético O2** | A ilha diz um medo concreto ("e se ele abrir os olhos, olhar para mim e não gostar?") e o capítulo só pagava a **cláusula do oráculo**, nunca o **olhar**. A dívida era emocional e ficava aberta |
+| 6 | "Leto jurou. Não prometeu como se promete um doce" → "Leto jurou — e há juramentos que nenhum deus pode desfazer" | tom | A comparação do doce era piscadela para a criança dentro da frase mais solene do capítulo |
+| 7 | Cortado "exatamente" de "Foi o que a ilha tinha pedido" | tom | O advérbio apontava para o próprio truque |
+| 8 | Cena da ilustração alinhada ao item 4 (luz que atravessa, nunca ouro depositado) + teto de **5 figuras nítidas** declarado (4/5) | cético O1 + spec | A cena dizia "a luz carrega a ilha de ouro" — repetia no desenho a contradição corrigida no texto |
+
+**Pendências que saem deste capítulo:** pp. 51–52 — linha sobre **Delfos** (o "aqui" de Apolo
+é a parte délia do *Hino*; o oráculo famoso é Delfos, e o adulto vai reparar). p. 53 —
+correção 4.2 (nas fontes, a demora do parto se deve a Hera reter a deusa do parto).

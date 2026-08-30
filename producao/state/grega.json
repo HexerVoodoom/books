@@ -7,7 +7,8 @@
       "slug": "zeus-baucis-e-filemon",
       "ordem_leitura": 1,
       "ordem_producao": "P1",
-      "status": "pesquisado"
+      "status": "gate-aprovado",
+      "gate": "escrita/gate-onda-p1.md"
     },
     {
       "slug": "atena-disputa-por-atenas",
@@ -19,9 +20,10 @@
       "slug": "artemis-e-apolo-nascimento-em-delos",
       "ordem_leitura": 3,
       "ordem_producao": "P1",
-      "status": "pesquisado",
+      "status": "gate-aprovado",
       "titulo": "Leto e a ilha que ninguém queria",
-      "nota": "retitulado no gate da Fase 1 (X10); slug do arquivo mantido"
+      "nota": "retitulado no gate da Fase 1 (X10); slug do arquivo mantido",
+      "gate": "escrita/gate-onda-p1.md"
     },
     {
       "slug": "hermes-o-gado-e-a-lira",
@@ -33,7 +35,8 @@
       "slug": "hefesto-o-trono-de-ouro",
       "ordem_leitura": 5,
       "ordem_producao": "P1",
-      "status": "pesquisado"
+      "status": "gate-aprovado",
+      "gate": "escrita/gate-onda-p1.md"
     },
     {
       "slug": "demeter-e-persefone",
@@ -80,7 +83,12 @@
     "Verificar caps. 7 e 8 lado a lado depois de escritos — a diferenciação X7 não é verificável em dossiê (mito-editor, Fase 2)",
     "Grafias em aberto para o mito-revisor: Tétis (nereida x titânide), Filêmon, Cécrops, Métis, Greias, kibisis, harpē; e pronúncias no glossário",
     "56 pp não é múltiplo de 16 — se a gráfica-alvo exigir caderno de 16, ir a 64 pp (mito-diagramador, Fase 4)",
-    "Perfil ICC / gráfica-alvo — aberta até a Fase 5"
+    "Perfil ICC / gráfica-alvo — aberta até a Fase 5",
+    "VINCULANTE (Fase 2) — redigir pp. 51-52 e p. 53: 5 das 8 ressalvas da onda P1 dependem delas; sem a linha do cap. 1 (correcao 2.1) o capitulo perde a aprovacao de fidelidade (mito-editor)",
+    "livro-spec Rev. 4 — R4.1 posicionamento do full-bleed (cap. 5 corrigido para p. 24), R4.2 teto de 5 figuras nitidas, R4.3 orcamento das pp. 51-52 (60 palavras/capitulo + ~300 de bibliografia), R4.4 regra de contagem de palavras; registro em escrita/gate-onda-p1.md",
+    "Cabecalhos dos caps. 2, 4, 6-10 devem declarar a pagina da ilustracao (R4.1) — caps. 7, 8 e 9 sao 'instante anterior' e provavelmente herdam a excecao da p2",
+    "Metafora da porta fechada = assinatura exclusiva do cap. 1; nenhum outro capitulo pode usa-la como imagem de recusa (retirada do cap. 3 na onda P1)",
+    "Reverificar a diferenciacao X2 (caps. 1 x 3, os dois capitulos de acolhimento) quando o cap. 2 estiver escrito entre eles (mito-editor, onda P2)"
   ],
   "gates": {
     "fundacao": "aprovado",
