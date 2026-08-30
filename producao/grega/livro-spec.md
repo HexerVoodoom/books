@@ -8,6 +8,14 @@
 > de leitura alterada (Ártemis e Apolo antes de Hermes), paginação fechada em 56 pp, teto de
 > palavras derivado da caixa, ordem de produção, hierarquia da fusão de estilo. Registro
 > completo em `fundacao/gate.md`.
+>
+> **Rev. 3 (2026-08-30)** — revisão pós-gate da **Fase 1** (dossiês): incorpora as objeções
+> X1–X14 do `mito-cetico` e as correções do `mito-fidelidade`. Mudanças estruturais:
+> **teto de palavras recalculado descontando o box** (X1), **cap. 3 retitulado e com nova
+> mensagem central** (X2/X10), **justificativa do capítulo geral reescrita** (X3), **corpo
+> tipográfico do aparato pós-textual e formato da p. 53** (X5), **mapa de ritmo visual e
+> diretriz de "instante anterior"** (X6), **linha de sequência do cap. 4** (X9),
+> **dupla luz sem astros adotada** (X14). Registro completo em `pesquisa/gate.md`.
 
 ## Identidade
 - Título de trabalho: *Mitos da Grécia* (título da série: `[a definir — decisão do humano no checkpoint]`)
@@ -28,7 +36,7 @@ meio e fim, e **uma cena-clímax que cabe numa única ilustração de página in
 |---|---|---|---|---|---|
 | 1 | Zeus (Zeús) | **Baucis e Filêmon** — o rei do Olimpo bate à porta disfarçado de andarilho | específico | Quem tem mais poder tem mais dever — e quem tem menos ainda pode oferecer o que tem (xenia) | Ovídio, *Metamorfoses* VIII (Perseus/Sacred-Texts, tradução em domínio público) · Theoi: https://www.theoi.com/Olympios/Zeus.html (Zeus Xenios) · WHE: https://www.worldhistory.org/zeus/ |
 | 2 | Atena (Athēnâ) | **A disputa por Atenas** — a oliveira contra a fonte salgada | específico | A sabedoria vence a força: o presente mais útil ganha a cidade | Theoi: https://www.theoi.com/Olympios/Athena.html · WHE: https://www.worldhistory.org/athena/ |
-| 3 | Ártemis e Apolo (Ártemis, Apóllōn) | **O nascimento em Delos** — a ilha errante que ganha raízes para acolher Leto | específico | Quem acolhe também ganha: a ilha que ninguém queria vira o lugar mais luminoso do mar | *Hino Homérico a Apolo* (Perseus) · Theoi: https://www.theoi.com/Olympios/Artemis.html · https://www.theoi.com/Olympios/Apollon.html · WHE: https://www.worldhistory.org/artemis/ |
+| 3 | Leto, Ártemis e Apolo (Lētṓ, Ártemis, Apóllōn) | **Leto e a ilha que ninguém queria** — a ilha errante que ganha raízes no dia em que acolhe alguém | específico | **Quem acolhe deixa de estar à deriva:** Delos vagava sem lugar no mundo até dar lugar a outra pessoa — receber é o que dá raiz a quem recebe (pertencer) | *Hino Homérico a Apolo* (Perseus) · Theoi: https://www.theoi.com/Olympios/Artemis.html · https://www.theoi.com/Olympios/Apollon.html · WHE: https://www.worldhistory.org/artemis/ |
 | 4 | Hermes (Hermês) | **O bebê, o gado e a lira** — a travessura de um dia de idade e o acordo com Apolo | específico | Astúcia serve para consertar, não só para aprontar | *Hino Homérico a Hermes* (Perseus) · Theoi: https://www.theoi.com/Olympios/Hermes.html · WHE: https://www.worldhistory.org/Hermes/ |
 | 5 | Hefesto (Hḗphaistos) | **O trono de ouro** — o ferreiro devolve à mãe um presente que só ele sabe abrir | específico | O valor está no que se cria: o talento das mãos é a resposta de quem foi deixado de lado | Theoi: https://www.theoi.com/Olympios/Hephaistos.html · WHE: https://www.worldhistory.org/Hephaistos/ · Pausânias I.20 / Alceu (fragm.), via dossiê |
 | 6 | Deméter e Perséfone (Dēmḗtēr, Persephónē) | **As estações do ano** — a busca de Deméter e o acordo das romãs | específico | Saudade e reencontro fazem parte dos ciclos da vida | *Hino Homérico a Deméter* (Perseus) · Theoi: https://www.theoi.com/Olympios/Demeter.html · https://www.theoi.com/Khthonios/Persephone.html · WHE: https://www.worldhistory.org/persephone/ |
@@ -43,20 +51,31 @@ meio e fim, e **uma cena-clímax que cabe numa única ilustração de página in
 |---|---|---|
 | 1 | A cabana humilde virando templo de mármore e ouro, o casal idoso de mãos dadas à porta, os dois viajantes revelados em luz | ✅ um único enquadramento |
 | 2 | Atena e Posêidon diante do rochedo da Acrópole, a oliveira brotando ao lado da fonte de água salgada, o povo em volta | ✅ |
-| 3 | Delos deixando de flutuar: a ilha ancorando entre ondas, a palmeira, Leto e os dois recém-nascidos — luz de sol e de lua no mesmo céu | ✅ |
+| 3 | Delos deixando de flutuar: a ilha ancorando entre ondas, a palmeira, Leto e os dois recém-nascidos — **dupla luz SEM astros** (Apolo irradia quente, Ártemis irradia prateado; nenhum sol nem lua no céu — X14, adotada) | ✅ |
 | 4 | O bebê Hermes no berço, o gado ao fundo, Apolo recebendo a lira de casco de tartaruga | ✅ |
 | 5 | O Olimpo em volta do trono de ouro com Hera presa nos laços invisíveis, Hefesto entrando com o martelo — resolução digna, sem chacota da criança | ✅ |
 | 6 | Perséfone voltando à superfície, Deméter correndo, o campo florindo no rastro dos passos | ✅ |
 | 7 | Perseu de costas para a Medusa, olhando o reflexo no escudo | ✅ (decapitação fora de quadro) |
 | 8 | Teseu no coração do labirinto com o fio na mão, a sombra do Minotauro | ✅ |
-| 9 | Midas abraçando o vazio à mesa dourada / mãos no rio Pactolo | ✅ (escolher no dossiê) |
+| 9 | **A mesa** — o pão erguido a caminho da boca, já virado metal (escolha fechada no dossiê; alternativa Pactolo registrada para a Fase 3) | ✅ |
 | 10 | **duas** ilustrações (ver paginação): abertura cósmica (Caos, Gaia, Urano) + clímax da Titanomaquia (Zeus e os Ciclopes libertos, raios contra os Titãs) | ✅ ✅ |
 
 **Justificativas de seleção (editor):**
-- **Capítulo geral = criação + Titanomaquia**, e não Guerra de Troia: é a narrativa que
-  explica quem são todos os personagens dos específicos, tem escala cósmica adequada ao
-  capítulo mais longo e fecha o arco (o leitor relê os deuses que acabou de conhecer na
-  história da origem deles). Troia é longa demais, moralmente ambígua e violenta para 4–7.
+- **Capítulo geral = criação + Titanomaquia**, e não Guerra de Troia: tem escala cósmica
+  adequada ao capítulo mais longo e é a narrativa de origem que fecha o arco. Troia é longa
+  demais, moralmente ambígua e violenta para 4–7.
+  **Correção da justificativa (X3) — o reencontro é de ATRIBUTOS e de ORIGENS, não de
+  personagens.** A formulação anterior ("o leitor relê os deuses que acabou de conhecer")
+  era falsa para a maior parte do elenco: Atena, Apolo, Ártemis, Hermes, Hefesto, Perséfone,
+  Perseu e Teseu **nascem depois** da Titanomaquia e **não podem aparecer nela**. O que o
+  cap. 10 de fato devolve ao leitor é **a origem das coisas que ele já viu funcionando**: o
+  **raio** que Zeus carregava disfarçado no cap. 1, o **tridente** que abriu a fonte salgada
+  no cap. 2, o **elmo que deixa invisível** que Perseu tomou emprestado no cap. 7, e a
+  **partilha do mundo** que explica por que Hades manda no mundo de baixo do cap. 6. O prazer
+  do último capítulo é o de descobrir **de onde vieram os objetos**, não o de rever rostos.
+  A lista positiva do que o cap. 10 pode reencontrar e a proibição consolidada de acenos
+  anacrônicos estão no dossiê P0 (`dossie-do-caos-ao-olimpo.md`, seção *Reencontros
+  permitidos no cap. 10*) e são vinculantes para o `mito-escritor` na onda P4.
 - **Posêidon e Afrodite não ganham capítulo próprio** neste piloto: Posêidon aparece forte
   na disputa de Atenas (cap. 2) e na linhagem de Teseu (cap. 8); Afrodite tem mitos-núcleo
   (Adônis, Eros e Psiquê) de adaptação etária cara. Candidatos naturais a edição ampliada.
@@ -121,9 +140,18 @@ meio e fim, e **uma cena-clímax que cabe numa única ilustração de página in
   escritor: *"Debaixo de tudo, mais fundo que as raízes, havia um outro reino. Quem mandava
   nele era Hades, irmão de Zeus, o dono do mundo de baixo."* Obrigatória; sem ela o
   personagem aparece do nada.
-- **Zeus (1) precede tudo**, e o cap. 10 recolhe todos: o geral só funciona porque os
-  específicos já apresentaram Zeus, Atena, Apolo, Ártemis, Hermes, Hefesto, Deméter,
-  Perséfone e Hades.
+- **Zeus (1) precede tudo**, e o cap. 10 recolhe **os cinco que já existiam** — Zeus, Hera,
+  Posêidon, Hades e Deméter, todos irmãos engolidos e devolvidos — **mais os três presentes
+  dos Ciclopes** (raio, tridente, elmo). Corrigido em Rev. 3 (X3): o geral **não** recolhe
+  Atena, Apolo, Ártemis, Hermes nem Hefesto, que nascem depois e cuja presença na
+  Titanomaquia seria erro de fidelidade.
+- **Sequência declarada no cap. 4 (X9).** O cap. 4 (Hermes) é lido **depois** do cap. 3, mas
+  é lido **antes** do cap. 10, e nele Hermes **ganha** o bastão de ouro que já portava no
+  cap. 1. Isso não é incoerência (a ordem do livro ≠ a cronologia mítica), mas precisa ser
+  sinalizada ao leitor: o cap. 4 **abre com uma marca de anterioridade** — proposta de
+  redação ao escritor, **contada no orçamento de palavras (≈12 palavras da batida 1)**:
+  *"Isso foi muito antes de tudo o que você já leu: naquele tempo, Hermes ainda não tinha o
+  bastão de ouro."* Obrigatória. Ver a nota correspondente no dossiê do cap. 4.
 
 ## Ordem de PRODUÇÃO (≠ ordem de leitura) — X1
 
@@ -269,15 +297,63 @@ página cheia        22 × 11,5  ≈  250 palavras
 Páginas úteis por capítulo específico: p2 + p3 cheias (2,0) + p1 de abertura, que perde ~1/3
 para título, capitular e moldura (0,5) = **2,5 páginas de texto**.
 
-> **2,5 × 250 = 625.** Teto do capítulo específico: **550–650 palavras**. Nunca acima de 650
-> sem reduzir corpo (proibido abaixo de 14 pt) ou aumentar a paginação; nunca abaixo de 550
-> (buraco de diagramação).
+> **2,5 × 250 = 625.** Teto **bruto** do capítulo específico: 550–650 palavras.
 >
 > Capítulo geral: 6 pp − 2 full-bleed = 4 pp de texto, a primeira sendo abertura →
-> 3,5 pp úteis → **3,5 × 250 = 875** → teto **800–950 palavras**.
+> 3,5 pp úteis → **3,5 × 250 = 875** → teto **bruto** 800–950 palavras.
+
+#### ⚠️ Correção Rev. 3 (X1) — o teto bruto ignorava o box "Você sabia?"
+
+A objeção do cético é procedente e é **fatal para a conta anterior**: os dossiês pedem 2–3
+boxes por capítulo, e **nenhuma palavra de box estava descontada do teto**. Um capítulo
+escrito em 650 palavras + dois boxes simplesmente não caberia nas 4 páginas.
+
+**Decisão (a alternativa escolhida entre as duas do gate): 1 box por capítulo, no máximo 80
+palavras — e teto de texto corrido reduzido.** A conta, item a item:
+
+```
+box "Você sabia?"    1 por capítulo, máx 80 palavras
+corpo do box         11 pt / entrelinha 15 pt (menor que o miolo, maior que o aparato)
+área ocupada         moldura + respiro + 80 palavras  ≈  1/4 da caixa útil de uma página
+custo em texto       0,25 pp × 250 palavras/pp        =  ~62 palavras
+
+ESPECÍFICO   625 − 62 = 563   →  teto  500–600 palavras
+GERAL        875 − 62 = 813   →  teto  750–850 palavras
+```
+
+> **Teto vigente (substitui o da Rev. 2):**
+> **capítulo específico 500–600 palavras · capítulo geral 750–850 palavras · 1 box por
+> capítulo, máx. 80 palavras.**
+
+**Instrução propagada a TODOS os dossiês:** onde um dossiê oferece 3 fatos de "Você sabia?",
+os três permanecem como **material**, mas **só um vai ao livro** — a escolha é do
+`mito-editor` na Fase 2, seguindo a prioridade que cada dossiê já indica. Os fatos não
+escolhidos migram para as **pp. 51–52** (fontes e bibliografia adaptada), onde o corpo é
+menor e cabem. Nenhum dossiê pode pedir 2 ou 3 boxes impressos.
 
 Limite **rígido** para o `mito-escritor`, verificado por execução (contagem de palavras) no
 loop evaluator-optimizer objetivo do MÉTODO, antes do ataque adversarial da Fase 2.
+
+### Corpo tipográfico por zona do livro (X5) — o piso de 14 pt é do MIOLO
+
+Objeção X5 aceita: aplicar 14 pt ao aparato pós-textual tornava as pp. 49–53 impossíveis de
+fechar. **A distinção é registrada aqui e é vinculante para o `mito-diagramador`:**
+
+| Zona | Corpo / entrelinha | Colunas | Densidade | Justificativa |
+|---|---|---|---|---|
+| **Miolo narrativo** (pp. 7–48) | **14 / 21 pt** — piso da série, inegociável | 1 | ~250 palavras/pp | É o texto que uma criança de 4–7 anos acompanha com o dedo enquanto o adulto lê. |
+| **Box "Você sabia?"** | 11 / 15 pt | 1 | — | Lido pelo adulto em voz alta, dentro da página da criança. |
+| **Aparato pós-textual** (glossário 49–50, fontes 51–52, nota de adaptações 53, colofão 54) | **9,5 / 12 pt** | **2** | **≈700–900 palavras/página** | Zona do **adulto**, lida em silêncio e por consulta, nunca em voz alta. O piso de 14 pt existe por legibilidade infantil e **não se aplica** onde a criança não lê. |
+
+**Formato fechado da p. 53 ("Nota sobre as adaptações"):** **lista telegráfica**, uma linha
+por item, **~12 palavras por linha**, agrupada por capítulo. **Orçamento: no máximo 4 itens
+por capítulo** — 10 capítulos × 4 = 40 linhas + 10 títulos de capítulo = 50 linhas, que
+cabem em 2 colunas de 9,5/12 pt numa página. Modelo de linha: *"Cap. 5 — o vinho de Dioniso
+foi trocado por companhia."*
+
+**Plano de contingência, se a p. 53 ainda estourar na Fase 4:** a nota de adaptações passa a
+ocupar **pp. 52–53 (2 páginas)** e a **bibliografia comprime na p. 51** — o glossário
+(49–50) não cede, porque é o que a criança usa. Dono da decisão: `mito-diagramador`.
 - **Riscos e pendências:**
   1. Rede desta sessão bloqueou Theoi, WHE e Met — **todas as URLs são de padrão conhecido,
      não verificadas**; validar no início da Fase 1 (pesquisador) e Fase 3 (historiador-arte).
