@@ -168,6 +168,35 @@ colar o prompt outra vez, 4 vezes por bloco**. Isso multiplica o trabalho de UI:
 × 4 conversas = **84 conversas**, cada uma com colagem de prompt longo, espera de geração,
 download e verificação de hash.
 
+## Ciclo de execução confiável (descoberto na marra, vale para o resto do lote)
+
+1. `navigate` para `gemini.google.com/app` (conversa nova — obrigatório, "Refazer" não serve).
+2. `find` do textbox → **click por `ref`, nunca por coordenada** (clique por coordenada não
+   registra a entrada). A **primeira** tentativa após navegar costuma falhar; a **segunda**
+   pega. Sempre conferir por screenshot se o texto entrou antes de enviar.
+3. `find` do botão "Enviar mensagem" → click por `ref`.
+4. Esperar **~50–60 s** (a imagem demora, e o texto da resposta aparece antes dela).
+5. **Recarregar a conversa pela URL** — sem isso a imagem às vezes não termina de renderizar
+   e o botão de download não funciona.
+6. `find` "Baixar imagem no tamanho original" → click por `ref`.
+7. **Verificar por MD5** que o arquivo novo é distinto do anterior antes de renomear.
+
+## 🔴 BLOQUEIO ATIVO: Chrome parou de aceitar os downloads
+
+A partir da 3ª variação da `10b`, os cliques em "Baixar imagem no tamanho original" deixaram
+de produzir arquivo em `E:\dowload`, mesmo com a imagem renderizada e o botão respondendo ao
+clique. Comportamento típico do bloqueio de **"vários downloads automáticos"** do Chrome, que
+dispara depois de alguns downloads seguidos do mesmo site.
+
+**Ação necessária do humano (não é coisa que eu consiga fazer):** abrir
+`gemini.google.com`, clicar no ícone de permissão na barra de endereço (ou
+`chrome://settings/content/automaticDownloads`) e **permitir downloads automáticos** para o
+site. Sem isso a fila de ~80 imagens não anda.
+
+⚠️ A `10b` v3 **foi gerada** (conversa `689320fd19d7c503`) e está renderizada no Gemini —
+só não foi possível baixá-la. Ela não se perdeu: basta refazer o download quando a permissão
+estiver liberada.
+
 ## Bloqueio operacional que interrompeu esta sessão
 
 Após ~15 gerações, a aba do Chrome degradou: o campo de prompt parou de aceitar entrada
