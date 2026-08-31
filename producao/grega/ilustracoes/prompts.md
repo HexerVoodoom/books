@@ -820,7 +820,7 @@ no text, no watermark, no lettering
 
 ---
 
-## `10a-do-caos-abertura.png` 🟨 **PROVISÓRIO**
+## `10a-do-caos-abertura.png` ✅ **LIBERADO** (gate da Fase 2 fechado em 2026-08-31)
 - ⚠️ **PROVISÓRIO — o cap. 10 ainda está no loop adversarial (onda P4).** O texto não passou
   por gate. Este bloco é direção preliminar: **não gerar antes do gate da Fase 2 do cap. 10**,
   ou gerar aceitando refação.
@@ -872,9 +872,8 @@ no text, no watermark, no lettering
 
 ---
 
-## `10b-do-caos-os-libertados.png` 🟨 **PROVISÓRIO** — ⭐ **PRODUZIR PRIMEIRO**
-- ⚠️ **PROVISÓRIO** pela mesma razão do 10a. **Mas é a primeira imagem da fila** assim que o
-  cap. 10 passar no gate: é a **página de referência de continuidade do livro** — os três
+## `10b-do-caos-os-libertados.png` ✅ **LIBERADO** — ⭐ **PRODUZIR PRIMEIRO**
+- ✅ O cap. 10 **passou no gate** (onda P4, 2026-08-31). **É a primeira imagem da fila:** é a **página de referência de continuidade do livro** — os três
   irmãos barbados e os três atributos juntos pela primeira vez. Produzi-la cedo beneficia os
   caps. 1, 2, 6, 7 e 8.
 - **Página:** **p. 46** — ⚠️ **EXCEÇÃO R4.1** · **Momento:** **instante anterior** ·
