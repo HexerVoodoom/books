@@ -41,7 +41,7 @@
 #let FONTE-CORPO = "DejaVu Sans"
 
 #set text(font: FONTE-CORPO, size: 14pt, lang: "pt", region: "BR", fill: NEGRO-VERNIZ)
-#set par(leading: 0.95em, justify: true, first-line-indent: 0pt)
+#set par(leading: 0.38em, justify: true, first-line-indent: 0pt)
 #set page(width: PAGE, height: PAGE, fill: PAPEL, margin: MARGEM-MIOLO, numbering: none)
 
 // ---------------------------------------------------------------------------
@@ -129,7 +129,7 @@
   pagebreak(weak: true)
   set page(margin: MARGEM-APARATO, numbering: none)
   set text(size: 9.5pt)
-  set par(leading: 0.62em, justify: true)
+  set par(leading: 0.26em, justify: true)
   if titulo != none {
     text(font: FONTE-DISPLAY, size: 15pt, weight: "bold", fill: TERRACOTA-ESCURA)[#titulo]
     v(8pt)
@@ -138,7 +138,7 @@
   pagebreak(weak: true)
   set page(margin: MARGEM-MIOLO, numbering: none)
   set text(size: 14pt)
-  set par(leading: 0.95em)
+  set par(leading: 0.38em)
 }
 
 // ---------------------------------------------------------------------------
@@ -197,7 +197,7 @@ Trim: 20,5 × 20,5 cm · Miolo: 56 páginas · Diagramação: Typst.
   redação final desta página aguardam decisão do humano (livro-spec, "Direitos & disclosure").
 ]
 #set text(size: 14pt)
-#set par(leading: 0.95em)
+#set par(leading: 0.38em)
 #pagebreak(weak: true)
 
 // ---- p.5 · Sumário ----
@@ -256,7 +256,7 @@ Trim: 20,5 × 20,5 cm · Miolo: 56 páginas · Diagramação: Typst.
 // ---- pp. 49–50 · Glossário ----
 #pagina-aparato("Glossário", [
   #set text(size: 9.5pt)
-  #set par(leading: 0.62em)
+  #set par(leading: 0.26em)
   _Nomes, grafia, transliteração e palavras difíceis do livro, capítulo a capítulo. Um termo,
   um verbete (livro-spec R5.2)._
 
@@ -305,7 +305,7 @@ Mucha/aquarela (ver `guia-de-estilo.md`).
   ⚠️ Pendência: papel, gráfica e tiragem — decisão do humano, fora do escopo desta fase.
 ]
 #set text(size: 14pt)
-#set par(leading: 0.95em)
+#set par(leading: 0.38em)
 #pagebreak(weak: true)
 
 // ---- pp. 55–56 · Guarda final / branca ----
