@@ -49,32 +49,37 @@ no navegador**: Chromium (Playwright) abre o Gemini, cola o prompt do
 `templates/prompt-ilustracao.md`, gera as variações, baixa os PNGs para
 `producao/<livro>/ilustracoes/` e o diretor de arte cura.
 
-**Pré-condição de ambiente — verificar ANTES de abrir a Fase 3** (`references/pipeline-impressao.md`
-tem o mesmo padrão para a toolchain de impressão):
+**Estado verificado em 2026-08-31, após o humano pôr o environment em "Full" network access:**
 
-```bash
-curl -sS "$HTTPS_PROXY/__agentproxy/status"   # procurar recentRelayFailures
+| Item | Estado |
+|---|---|
+| Rede até `google.com` / `gemini.google.com` | ✅ liberada (200) |
+| Chromium alcança a web pelo proxy | ✅ **só com as flags abaixo** |
+| Gemini abre e responde texto **deslogado** | ✅ (modelo Flash-Lite) |
+| Gemini **gera imagem** deslogado | ❌ recusa: *"Você está conectado? …não consigo criar nenhuma"* |
+| `generativelanguage.googleapis.com` (API) | ✅ alcançável (403 = falta chave, não bloqueio) |
+
+**Flags obrigatórias do Chromium neste ambiente.** Sem elas o túnel abre e morre no handshake
+TLS (`ws_closed_mid_exchange`, ~39 B de volta) e tudo dá `ERR_CONNECTION_RESET` — inclusive
+`example.com`. A causa é ECH/TLS 1.3 contra o proxy que retermina TLS:
+
+```python
+executable_path="/opt/pw-browsers/chromium-1194/chrome-linux/chrome"  # versão do binário ≠ do pacote playwright
+proxy={"server": os.environ["HTTPS_PROXY"]}   # a porta MUDA quando a política de rede é alterada — sempre ler do env
+args=["--no-sandbox", "--ignore-certificate-errors", "--disable-quic",
+      "--disable-features=EncryptedClientHello,UseDnsHttpsSvcb,AsyncDns,PostQuantumKyber,TLS13EarlyData",
+      "--ssl-version-max=tls1.2"]
 ```
 
-Estado verificado em 2026-08-31 **neste ambiente remoto**: `gemini.google.com:443` e
-`www.google.com:443` recebem **403 no CONNECT** — negação de política de rede do ambiente,
-não falta de login. Chromium existe em `/opt/pw-browsers/chromium-1194/chrome-linux/chrome`
-(passar `executable_path`; a versão do pacote `playwright` não bate com a do binário).
-
-**Caminho escolhido pelo humano (2026-08-31): liberar o domínio no ambiente.**
-1. ✅ **ESCOLHIDO — liberar o domínio** na política de rede do environment (Claude Code na
-   web → configuração do environment → política de rede; docs:
-   https://code.claude.com/docs/en/claude-code-on-the-web). Domínios a permitir:
-   `gemini.google.com`, `google.com`, `accounts.google.com`, `*.googleusercontent.com`
-   (as imagens geradas são servidas daí) e `*.gstatic.com`. Depois de liberar, a Fase 3
-   roda inteira aqui, com 3a e 3b colapsados num gate só — resta resolver a **sessão
-   Google** (o container sobe com o navegador limpo).
-   Verificação antes de abrir a Fase 3: `curl -sS "$HTTPS_PROXY/__agentproxy/status"` não
-   deve listar `gemini.google.com` em `recentRelayFailures`.
-2. ~~Rodar localmente~~ (reserva, se a liberação não vier): a squad entrega, além dos prompts, um **script Playwright pronto**
-   (`producao/<livro>/ilustracoes/gerar.py`) que o humano executa na própria máquina, onde o
-   Chrome já tem a sessão do Google. As imagens voltam ao repositório e a curadoria (3b)
-   acontece aqui normalmente.
+**Credencial — decisão pendente do humano.** A geração de imagem exige conta. Caminhos, do
+mais limpo ao menos:
+1. **Chave da API do Gemini** (aistudio.google.com/apikey) em variável de ambiente, nunca
+   commitada: credencial escopada, revogável, feita para uso programático, e o endpoint já
+   está alcançável. Modelo de imagem: `gemini-2.5-flash-image`.
+2. **Rodar localmente:** o humano executa o script de geração na própria máquina, com o
+   Chrome já logado, e devolve os PNGs ao repositório para a curadoria (3b) acontecer aqui.
+3. ~~Transferir cookies de sessão do Google~~ — **não recomendado**: é acesso completo à
+   conta, não é escopado nem revogável isoladamente.
 
 ## Esqueleto de prompt de cena
 ```
