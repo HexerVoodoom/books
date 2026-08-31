@@ -89,6 +89,63 @@ a diferença para não confundir os dois problemas).
    ~20 imagens restantes, vai exigir mais cliques e mais verificação por hash do que o
    estimado — o volume real de trabalho de UI é maior que "4 gerações por bloco".
 
+---
+
+## `sheet-zeus.png` — primeira das 8 character sheets
+
+- **Prompt colado verbatim** (bloco `[SHEET]` + bloco ZEUS de `prompts.md`), conversa nova.
+- **Recusa:** nenhuma.
+- **Variações obtidas: 1 de 4.**
+
+| Arquivo | Dimensões (px) | Bytes | Formato real | Texto/marca-d'água visível? |
+|---|---|---|---|---|
+| `character-sheets/sheet-zeus-v1.png` | 2816 × 1536 | 3.001.124 | JPEG (não PNG) | Não |
+
+**Checklist de aceitação (`prompts.md`, `sheet-zeus`) — conferência mecânica:**
+- Vista frontal de corpo inteiro ✔ · vista de três quartos de corpo inteiro ✔ · três estudos
+  de cabeça com expressões distintas ✔ · estudos de atributo separados: **raio alado de
+  pontas duplas** ✔, **águia** ✔, **manto caindo de um ombro** ✔.
+- Barba escura ondulada e cabelo denso ✔ · paleta azul-egeu claro + ouro quente ✔ ·
+  rosto frontal/três quartos expressivo, sem perfil de figura negra ✔.
+- Sem coroa, sem trono, sem toga romana, sem ampulheta/alegoria do Tempo ✔.
+- **Proporção 2816×1536 = 1,83.** A spec das sheets pede **4:3 = 1,33**. Fora de spec,
+  mesmo desvio sistêmico das cenas.
+
+---
+
+## Achado que muda o custo de produção — confirmado por hash
+
+O botão **"Refazer" do Gemini web não gera variação nova**: devolve o mesmo arquivo.
+Provado por MD5 em dois blocos independentes:
+- `10b`: os três downloads "86x4wr" têm hash idêntico (`1ba0f995…`) — ou seja a `10b` tem
+  **2 variações reais**, não 3 como parecia na tela.
+- `sheet-zeus`: os dois downloads "2e3gh7" têm hash idêntico (`8b62de1f…`).
+
+**Consequência:** a única forma de obter 4 variações reais é **abrir uma conversa nova e
+colar o prompt outra vez, 4 vezes por bloco**. Isso multiplica o trabalho de UI: 21 blocos
+× 4 conversas = **84 conversas**, cada uma com colagem de prompt longo, espera de geração,
+download e verificação de hash.
+
+## Bloqueio operacional que interrompeu esta sessão
+
+Após ~15 gerações, a aba do Chrome degradou: o campo de prompt parou de aceitar entrada
+(mesmo um único caractere), e as chamadas de screenshot/digitação passaram a estourar
+timeout de CDP repetidamente. A sessão de navegador precisa ser reiniciada para continuar.
+Nenhuma imagem foi perdida — tudo que gerou está commitado.
+
+## Nota sobre referência de estilo — pedido recusado e alternativa
+
+Foi levantado usar **Age of Mythology** como referência, anexando imagens do jogo ao
+gerador para criar "nossas versões". **Não executei.** Os designs do jogo são obra
+protegida (Ensemble/Microsoft) e alimentá-los como referência de imagem produziria
+derivados de material licenciado num livro destinado a publicação comercial.
+A alternativa já está montada no próprio projeto e é de procedência limpa: as entidades
+mitológicas são domínio público, e o `guia-de-estilo.md` §1.3 já lista o corpus com
+licença declarada por linha — **Met Museum CC0** (14.130.12, 14.130.14, kylix de figuras
+vermelhas) e **Mucha em domínio público**. Recomendo ao diretor de arte fechar a pendência
+5.1 (verificar os `objectID` do Met) para que essas peças CC0 possam ser anexadas como
+referência de imagem com segurança.
+
 ## Pendência herdada do guia, ainda não resolvida (registro, não é meu escopo fechar)
 
 - `guia-de-estilo.md` §1.3 marca como pendente a verificação de `objectID`/link direto
