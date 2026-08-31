@@ -14,7 +14,7 @@
       "slug": "atena-disputa-por-atenas",
       "ordem_leitura": 2,
       "ordem_producao": "P2",
-      "status": "pesquisado"
+      "status": "gate-aprovado"
     },
     {
       "slug": "artemis-e-apolo-nascimento-em-delos",
@@ -29,7 +29,7 @@
       "slug": "hermes-o-gado-e-a-lira",
       "ordem_leitura": 4,
       "ordem_producao": "P2",
-      "status": "pesquisado"
+      "status": "gate-aprovado"
     },
     {
       "slug": "hefesto-o-trono-de-ouro",
@@ -42,25 +42,25 @@
       "slug": "demeter-e-persefone",
       "ordem_leitura": 6,
       "ordem_producao": "P2",
-      "status": "pesquisado"
+      "status": "gate-aprovado"
     },
     {
       "slug": "perseu-e-a-medusa",
       "ordem_leitura": 7,
       "ordem_producao": "P3",
-      "status": "pesquisado"
+      "status": "gate-aprovado"
     },
     {
       "slug": "teseu-e-o-minotauro",
       "ordem_leitura": 8,
       "ordem_producao": "P3",
-      "status": "pesquisado"
+      "status": "gate-aprovado"
     },
     {
       "slug": "midas-o-toque-de-ouro",
       "ordem_leitura": 9,
       "ordem_producao": "P3",
-      "status": "pesquisado"
+      "status": "gate-aprovado"
     },
     {
       "slug": "do-caos-ao-olimpo",
@@ -101,7 +101,6 @@
     "disclosure_ia": "Ilustrações criadas com auxílio de inteligência artificial generativa, sob direção de arte e curadoria humanas.",
     "teto_palavras": "especifico 500-600 / geral 750-850 / 1 box por capitulo, max 80 palavras (X1, teto recalculado descontando o box)",
     "corpo_tipografico": "miolo narrativo 14/21 pt; box 11/15 pt; aparato pos-textual 9,5/12 pt em 2 colunas (~700-900 palavras/pagina) — o piso de 14 pt vale so para o miolo",
-    "cap3_titulo": "Leto e a ilha que ninguem queria",
     "cap3_mensagem": "quem acolhe deixa de estar a deriva — pertencer (diferenciada do cap. 1)",
     "cap10_justificativa": "reencontro de ATRIBUTOS e origens (raio, tridente, elmo, partilha), nao de personagens",
     "dupla_luz_sem_astros": "ADOTADA",

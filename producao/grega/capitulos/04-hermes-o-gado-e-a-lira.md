@@ -1,10 +1,18 @@
 # Capítulo 04 — Hermes, o gado e a lira
 
-> Tipo: específico · Dossiê: dossies/dossie-hermes-o-gado-e-a-lira.md · Palavras-alvo: 500–600 (livro-spec Rev. 3, X1) · Contagem do texto corrido: **587 palavras** · Box: **57 palavras** (teto 80)
+> Tipo: **específico** · Dossiê: `dossies/dossie-hermes-o-gado-e-a-lira.md` ·
+> Teto vigente (livro-spec Rev. 5): **500–600 palavras** de texto corrido + **1 box, máx. 80**.
+> **Contagem declarada: texto corrido = 562 palavras · box "Você sabia?" = 57 palavras.** ✔
+> **Ilustração: 1 full-bleed, p. 22** (última página do bloco 19–22 — a cena é **"durante"**
+> (a passagem da lira, com uma mão de cada um já no instrumento) e ilustra a batida final do
+> texto; anatomia padrão, **sem exceção** à R4.1).
+> **Regra de contagem (livro-spec Rev. 4, R4.4):** palavras separadas por espaço no texto
+> corrido, entre `## Texto` e `## Você sabia?`; **o travessão de fala não conta**; cabeçalho,
+> box, cena, glossário e notas ficam fora.
 
 ## Texto
 
-Isso aconteceu muito antes de tudo o que você já leu. Naquele tempo, Hermes ainda não tinha o bastão de ouro.
+Isso aconteceu quando Hermes ainda não tinha o bastão de ouro.
 
 Ele nasceu de manhã, numa caverna do monte Cilene, filho de Zeus e da ninfa Maia. A mãe o enrolou nos panos, deitou-o no berço e foi cuidar da sua vida. O bebê tinha poucas horas de idade.
 
@@ -18,11 +26,11 @@ A caverna inteira soou.
 
 Era a primeira lira do mundo, e tinha meio dia de idade, igual a ele.
 
-De tarde, Hermes ficou com fome. E foi então que ele fez a coisa errada: desceu até o campo onde pastava o gado do seu irmão mais velho, Apolo, e roubou cinquenta vacas.
+De tarde, Hermes ficou com fome. Desceu até o campo onde pastava o gado do seu irmão mais velho, Apolo, e roubou cinquenta vacas.
 
 Roubou mesmo. Não pegou emprestado.
 
-E, como era esperto, tocou as vacas para trás, de modo que os cascos deixassem pegadas apontando para o lado contrário. Quem seguisse a pista ia caminhar para bem longe delas. Depois trançou sandálias de vime, largas e desengonçadas, para que nem os próprios pés dissessem por onde tinha andado.
+E tocou as vacas para trás, de modo que os cascos deixassem pegadas apontando para o lado contrário. Quem seguisse a pista ia caminhar para bem longe delas. Depois trançou sandálias de vime, largas e desengonçadas, para que nem os próprios pés dissessem por onde tinha andado.
 
 Escondeu as vacas numa gruta à beira do rio. E ali, junto da água, acendeu o primeiro fogo que já se acendeu no mundo. O que aconteceu naquela noite ao lado do fogo, a história não conta.
 
@@ -46,7 +54,9 @@ E Zeus riu. Riu alto, riu até as nuvens sacudirem, porque ninguém no mundo tin
 
 — Vão os dois. E tu vais na frente, mostrando onde é.
 
-Voltaram ao rio. As cinquenta vacas saíram da gruta e voltaram para o dono, todas elas — e mesmo assim Apolo continuava com raiva.
+Voltaram ao rio. As vacas saíram da gruta e voltaram para o dono.
+
+E mesmo assim Apolo continuava com raiva.
 
 Então Hermes puxou a lira de baixo dos panos e tocou.
 
@@ -70,12 +80,12 @@ A primeira lira do mundo foi uma tartaruga. Hermes achou uma na porta de casa e 
 
 **A entrega da lira** (cena confirmada no dossiê, §"Cena central sugerida", e no livro-spec F1). Uma full-bleed, p. 22 do miolo.
 
-Momento: à beira do rio Alfeu, com a briga recém-terminada — o gesto da entrega ainda no ar, ninguém falando.
+Momento: à beira do rio Alfeu, com a briga recém-terminada — **a entrega acontecendo**, as duas mãos na lira, ninguém falando.
 
-- **Hermes** ao centro-baixo: **bebê de um dia**, sentado sobre os panos de enrolar semidesfeitos, rosto de três quartos, os dois braços erguendo a **lira**. Expressão de esperteza divertida e **nenhuma culpa** — o mito não lhe dá culpa. **Sem pétaso, sem sandálias aladas, sem clâmide**: ele ainda não é o mensageiro.
+- **Hermes** ao centro-baixo: **bebê de um dia**, sentado sobre os panos de enrolar semidesfeitos, rosto de três quartos, os dois braços erguendo a **lira** — ⚠️ **F3-P3: a cena é "durante", não "instante anterior".** A lira **não** flutua entre quatro mãos no ar: **uma mão de Hermes e uma mão de Apolo já estão na lira ao mesmo tempo**, no instante exato da passagem. É essa mudança de meio segundo que mantém o mapa de ritmo visual do livro dentro do teto de 50% de "instantes anteriores". Expressão de esperteza divertida e **nenhuma culpa** — o mito não lhe dá culpa. **Sem pétaso, sem sandálias aladas, sem clâmide**: ele ainda não é o mensageiro.
 - **A lira**: casco de tartaruga, dois braços curvos, travessa, **sete cordas visíveis e contáveis**.
 - **Apolo** à direita, inclinado ou de joelhos para receber: jovem imberbe de cabelos longos, coroa de louro, **arco de prata baixado no chão** (largou a arma — é assim que se lê que a briga acabou). Rosto passando da irritação ao encantamento. **Entra em cena sem lira nenhuma.**
-- **As cinquenta vacas** em friso ao fundo à esquerda, já do lado do dono.
+- **Um friso de vacas** ao fundo à esquerda, já do lado do dono — ⚠️ **X5: sem número legível**, nenhuma contagem possível no quadro (o texto da devolução não afirma quantas voltaram, e a imagem não pode afirmar por ele).
 - No chão, entrando na cena, a pista das **pegadas invertidas** — cascos apontando para o lado errado, **sem legenda**. É o único lugar da imagem em que o roubo aparece. O adulto pega a piada; a criança vê a bagunça.
 - **O bastão de ouro de três ramos ainda na mão de Apolo**, no canto, esperando o gesto seguinte. ⚠️ **Contrato de continuidade (X9): dentro deste capítulo o bastão só existe nesta cena.** No cap. 1 ele aparece desde o início — as duas coisas estão certas.
 - Moldura em **meandro (chave grega)** com palmetas. Paleta terracota, ocre/creme e negro de verniz, azul-egeu no rio. Figuras 100% Mucha/aquarela (hierarquia de estilo, livro-spec X5).
@@ -83,13 +93,20 @@ Momento: à beira do rio Alfeu, com a briga recém-terminada — o gesto da entr
 
 ## Termos para o glossário
 
-- **Hermes** (*ER-mes*) — deus dos mensageiros, dos viajantes, dos pastores e também dos ladrões. Filho de Zeus e de Maia. Carrega um bastão de ouro e sandálias com asinhas nos pés.
+> **Verbete único de Hermes (X2):** o bastão é **um objeto e um nome** — **bastão de ouro** —, e
+> o verbete de Hermes é **um só no livro inteiro**, impresso na entrada do glossário geral
+> (redação consolidada no cap. 1). Aqui ele **não** se repete. O **caduceu de duas serpentes**
+> é forma **posterior** do mesmo bastão e entra como nota do verbete, nunca como segundo objeto.
+> Este capítulo é a **autoridade** sobre o bastão: a ilustração do cap. 1 obedece a ele.
+
 - **Maia** (*MÁI-a*) — ninfa, filha do titã Atlas; morava sozinha numa caverna do monte Cilene e é a mãe de Hermes.
-- **Cilene** (*si-LÊ-ne*) — montanha da Arcádia, na Grécia, onde ficava a caverna de Maia.
 - **lira de tartaruga** ou *chélys* (*QUÉ-lis*) — a lira feita com um casco de tartaruga por caixa de som. Foi a primeira de todas.
 - **ninfa** (*NIN-fa*) — moça divina que vive num rio, numa montanha, numa floresta ou no mar. Não é deusa do Olimpo, mas também não morre.
-- **rebanho** — o conjunto dos animais que um pastor cuida junto: vacas, ovelhas, cabras.
 - **arauto** (*a-RAU-to*) — quem leva e anuncia os recados de alguém importante. Hermes viria a ser o arauto dos deuses; o bastão de ouro é a marca do ofício.
+
+**4 verbetes ✔** (teto R5.2 = 6). Saíram na poda da onda P2, por estarem ancorados no corrido:
+**Cilene** ("numa caverna do monte Cilene"), **rebanho** ("o cuidado de todos os rebanhos: dali
+em diante Hermes seria o deus dos pastores") e o verbete duplicado de **Hermes**.
 
 ## Notas de execução (para o editor e o loop adversarial)
 
@@ -104,3 +121,26 @@ Momento: à beira do rio Alfeu, com a briga recém-terminada — o gesto da entr
 - **Frase de eco final**, uma só, em voz de história e não de professor: "Não pelo que escondeu. Pelo que deu." **Zero** ocorrência de "e assim Hermes aprendeu…".
 - **Hera não aparece** (nota de elenco do dossiê). Piéria não é nomeada; o velho de Onquesto, a siringe e a adivinhação por pedrinhas ficaram fora.
 - **Vocabulário:** o corrido exige uma palavra por vez — *ninfa* e *lira* vêm ancoradas pelo contexto; *chélys*, *arauto* e *rebanho* ficam no glossário. Nenhum diminutivo de condescendência ("ladrãozinho", "deusinho") sobreviveu à revisão; "pedacinho de pau" é medida, não carinho.
+
+## Edição da Fase 2 — onda P2 (mito-editor, pós-loop adversarial)
+
+Todas de **montagem**; nenhum fato do mito alterado, nenhuma batida 🔒 tocada.
+
+| # | Mudança | Origem | Por quê |
+|---|---|---|---|
+| 1 | "As cinquenta vacas saíram da gruta e voltaram para o dono, **todas elas**" → "As vacas saíram da gruta e voltaram para o dono." | fidelidade (**ressalva obrigatória**) | *H. Herm.* 115: **duas vacas foram abatidas**. A elipse do capítulo pode calar o abate; não pode **afirmar o contrário**. Caíram "todas elas" **e** o número |
+| 2 | "E mesmo assim Apolo continuava com raiva." vira parágrafo próprio | adequação | Dá ar à devolução e separa duas informações que a criança precisa receber em tempos diferentes |
+| 3 | Cortado "E foi então que ele fez a coisa errada:" | tom | "Roubou mesmo. Não pegou emprestado." já faz esse trabalho, e sem narrador julgando |
+| 4 | Cortado "como era esperto," | tom | Comenta a esperteza que o gesto seguinte demonstra |
+| 5 | Primeira linha: "muito antes de tudo o que você já leu" → "quando Hermes ainda não tinha o bastão de ouro" | cético X1 | **Contradizia o cap. 3**: Apolo nasce lá, e "antes de tudo" punha este capítulo antes do nascimento do irmão que aparece nele. A marca de anterioridade X9 permanece — agora ancorada no **objeto**, que é o que de fato marca o tempo |
+| 6 | **Verbete único de Hermes**, bastão de ouro como nome único; caduceu = forma posterior | cético X2 + F2 | "Hermes" estava definido **duas vezes**, com objetos diferentes, em dois capítulos |
+| 7 | Glossário podado de 7 para **4 verbetes**; "asinhas" → **"asas"** no verbete consolidado | cético F2 + tom | Teto novo de 6 verbetes/capítulo; e o diminutivo era condescendência, não descrição |
+| 8 | Brief: "cinquenta vacas em friso" → "friso de vacas, **sem número legível**" | cético X5 | A imagem não pode afirmar o que o texto acaba de deixar de afirmar |
+| 9 | Brief: a cena vira **"durante" de fato** — uma mão de cada um já na lira | cético F3-P3 | Recontado na execução, o mapa de ritmo dava 6/11 = 55% de "instantes anteriores", acima do teto de 50%. Esta é a correção mais barata do livro: meio segundo de gesto |
+| 10 | Cabeçalho padronizado ao formato Rev. 4 (ilustração p. 22, R4.4) | spec | R4.1 torna a declaração condição de gate |
+
+**Arbitragem fechada:** a antítese final — *"Não pelo que escondeu. Pelo que deu."* — **fica**.
+O tom a tolerou como voz de história, o cético votou a favor e ela é a única frase de eco do
+capítulo. **Pendências que saem daqui:** pp. 51–52 — as doze porções e a variante do abate;
+p. 52 — a pergunta "o que aconteceu junto ao fogo?"; p. 53 — as três omissões (abate das duas
+vacas, morte da tartaruga, juramento falso).

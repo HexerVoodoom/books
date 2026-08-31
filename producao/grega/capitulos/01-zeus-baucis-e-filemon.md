@@ -122,8 +122,10 @@ transformação**.
 - **À direita, um passo acima na encosta:** **Zeus e Hermes revelados em luz**. Zeus barbado, cabelo denso
   e ondulado, manto de viajante **caindo do ombro**, raio **apenas insinuado como luz**, nunca
   empunhado — é o **mesmo rosto do cap. 10** (primeira aparição de Zeus no livro). Hermes
-  **jovem e imberbe**, clâmide curta, pétaso, **caduceu** na mão e **sem asas nos pés** (Ovídio:
-  ele as deixou de lado). Distinção obrigatória à primeira vista: **idade e atributo**. Nenhum
+  **jovem e imberbe**, clâmide curta, pétaso, **bastão de ouro de três ramos** na mão
+  (⚠️ **X2: bastão, nunca caduceu de duas serpentes** — a forma serpentina é posterior, e a
+  imagem deste capítulo obedece ao cap. 4, que é onde o objeto é ganho) e **sem asas nos pés**
+  (Ovídio: ele as deixou de lado). Distinção obrigatória à primeira vista: **idade e atributo**. Nenhum
   dos dois olha para o leitor: olham para o casal.
 - **Canto inferior:** **o ganso branco vivo**, encostado na perna de um dos deuses — o detalhe
   que a criança procura em toda releitura.
@@ -131,6 +133,14 @@ transformação**.
   casa**. Resolve a inundação sem uma única imagem de destruição. **Proibido: corpos, ruínas,
   fogo, rostos de vizinhos.**
 - **Hora/luz:** fim de tarde; a luz dos deuses é a fonte quente da cena.
+- ⚠️ **Eco de série declarado e deliberado (cético P3, X8): a casa que doura.** Esta página e a
+  do **cap. 9** (Midas) compartilham o mesmo mecanismo visual — um interior comum virando ouro,
+  cômodo por cômodo. **A repetição é intencional e a polaridade é invertida:** aqui o ouro
+  **chega** a quem deu tudo o que tinha e é **prêmio**; lá o ouro **toma** o que era comida e é
+  **castigo**. Para a inversão se ler, o ouro dos dois quadros tem de ser **diferente**: aqui,
+  ouro **quente e cheio**, único acento forte de um quadro de terracota e ocre; no cap. 9,
+  ouro **pálido**, apagando a cor da comida. Vinculante para o `mito-diretor-arte`: se as duas
+  páginas saírem com o mesmo ouro, o livro diz a mesma coisa duas vezes com sinais trocados.
 - **Moldura e paleta:** meandro (chave grega) e palmetas; terracota / negro de verniz /
   ocre-creme, com o **ouro do telhado como único acento quente forte** e azul-egeu no lago.
 - **Teto de figuras nítidas (livro-spec Rev. 4): 5.** Contagem: Baucis, Filêmon, Zeus, Hermes
@@ -147,7 +157,11 @@ transformação**.
 - **Zeus Xénios** (Zeús Xénios) — "Zeus dos Estrangeiros": o nome de Zeus quando ele protege
   viajantes e visitantes. Fechar a porta a um forasteiro era ofendê-lo.
 - **Hermes** (Hermês) — mensageiro dos deuses e guia dos viajantes, jovem e sem barba. Carrega
-  um bastão com duas serpentes enroladas, o **caduceu**.
+  o **bastão de ouro de três ramos** que Apolo lhe deu (a história está no capítulo 4) e
+  sandálias com asas nos pés. *(Muito tempo depois, os gregos passaram a desenhar esse mesmo
+  bastão com duas serpentes enroladas e a chamá-lo de **caduceu**.)*
+  ⚠️ **Verbete único do livro (X2):** um objeto, um nome — **bastão de ouro**. O cap. 4 é a
+  autoridade sobre ele; este verbete e a ilustração deste capítulo obedecem ao cap. 4.
 - **tília** — árvore europeia de flores muito perfumadas, com que se faz chá de tília. Em inglês
   chama-se *lime tree*, e por isso muita gente a confunde com o limoeiro: **ela não dá limão
   nenhum.** Baucis virou tília.
@@ -185,7 +199,7 @@ transformação**.
 7. **Dupla audiência:** para a criança, o ganso, a mesa manca e as portas fechadas; para o
    adulto, "fina, mas foi", "quem mandava e quem obedecia eram as mesmas duas pessoas" e o
    pedido de Filêmon.
-8. **Continuidade:** Hermes porta o **caduceu** aqui — pagamento que o cap. 4 deve honrar
+8. **Continuidade:** Hermes porta o **bastão de ouro** aqui — pagamento que o cap. 4 deve honrar
    (dependência A8 e a linha de sequência X9). Zeus aparece **disfarçado**, com o raio latente:
    é o primeiro rosto de Zeus no livro e é vinculante para o cap. 10.
 9. **Pendências de revisão (`mito-revisor`):** grafia **"Filêmon"** (acentuação a confirmar no
@@ -210,6 +224,12 @@ foi alterado, e nenhuma batida 🔒 foi tocada.
 | 7 | Cena da ilustração reenquadrada para **meia encosta**, em três planos | cético O3 | A cena antiga punha a casa "acima e atrás" de quem tinha subido o monte — impossível |
 | 8 | Cortada a "semente do fim" (carvalho e tília jovens) da cena; ficam só na viñeta | cético O3 | Antecipava a metamorfose final três páginas antes de o texto chegar nela |
 | 9 | Declarado o teto de **5 figuras nítidas** (livro-spec Rev. 4) | spec | 5/5 exatos: Baucis, Filêmon, Zeus, Hermes, ganso |
+
+**Duas correções entraram depois, na rodada P2–P3** (as únicas alterações deste capítulo já
+gateado): (10) o **verbete e a imagem do bastão de Hermes** passam a obedecer ao cap. 4 —
+um objeto, um nome, "bastão de ouro"; o caduceu de serpentes vira nota de forma posterior
+(cético P2, X2); (11) o brief registra a **inversão deliberada da casa que doura** em relação
+ao cap. 9, com a instrução de ouro quente aqui × ouro pálido lá (cético P3, X8).
 
 **Pendência que sai deste capítulo e entra nas pp. 51–52** (dono: `mito-editor`, redação da
 Fase 2): (a) a declaração da correção 2.1, já redigida no dossiê (fonte latina, Júpiter e

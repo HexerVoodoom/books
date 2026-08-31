@@ -22,6 +22,67 @@
 > real e nenhuma delas dedutível em Fase 0: **regra de posicionamento do full-bleed**,
 > **teto de figuras nítidas por ilustração**, **orçamento declarado das pp. 51–52** e
 > **regra de contagem de palavras**. Registro completo em `escrita/gate-onda-p1.md`.
+>
+> **Rev. 5 (2026-08-30)** — revisão pós-gate das **ondas P2 e P3 da Fase 2** (caps. 2, 4, 6, 7,
+> 8 e 9 escritos e atacados; o livro passa a ter **9 dos 10 capítulos em texto**). Três regras
+> novas, todas nascidas de padrões que **só aparecem quando existem seis capítulos lado a
+> lado**: **cota serial de fechos etiológicos**, **teto de verbetes por capítulo com dedup** e
+> a **mudança de natureza da p. 53**. Mais: **título do cap. 6 encurtado**, **mapa de ritmo
+> visual recontado na execução**, **páginas de ilustração declaradas para os nove capítulos** e
+> a **nota de ecos deliberados de série**. Registro completo em `escrita/gate-onda-p2-p3.md`.
+
+## Regras fechadas na Rev. 5 (vinculantes para escrita, arte e diagramação)
+
+### R5.1 — Cota serial de fechos etiológicos: **máx. 3–4 secos em 10**
+
+Levantado na execução (cético P2, F1): **7 dos 9 capítulos escritos fechavam em "e desde
+então / até hoje"**, e os caps. 3 e 8 faziam o mesmo movimento literal — um lugar ganhando
+nome na última frase. Nenhum dossiê podia prever isso, porque a etiologia é o fecho natural de
+**cada** mito tomado sozinho; o maneirismo só existe no conjunto.
+
+Regra: **no máximo 3 a 4 capítulos do livro podem terminar em etiologia seca.** Os excedentes
+mantêm a etiologia — que é fato de mito e não se corta — e ganham depois dela uma **coda
+humana curta**, que devolve a última página a uma pessoa. Modelos já no livro: cap. 7 *"Ficou
+só com a história."*, cap. 9 *"E almoçou."*
+
+Estado após a rodada P2–P3: convertidos os caps. **6** ("E toda vez que ela volta, quem a vê
+primeiro é a mãe.") e **8** ("Atenas ficou de luto e ficou de pé…"). Fechos etiológicos secos
+restantes: caps. **1, 2 e 3** = **3 ✔**. O cap. 10 fecha na partilha do mundo e **não pode**
+ser etiológico seco sem estourar a cota.
+
+### R5.2 — Teto de verbetes de glossário: **≤ 6 por capítulo**, com dedup obrigatória
+
+O glossário estourava (51 termos / 1.103 palavras em 6 capítulos → projeção de ~1.840 em 10,
+contra uma caixa de 1.400–1.800 que **pressupõe prosa, não lista** — verbete tem entrada em
+negrito, travessão e quebra, e ocupa mais que o mesmo número de palavras corridas).
+
+- **Máximo 6 verbetes impressos por capítulo.**
+- **Um termo, um verbete no livro inteiro.** "Hermes" chegou a estar definido **duas vezes,
+  com objetos diferentes** — o verbete único é agora o do cap. 1, e a **autoridade** sobre o
+  objeto é o cap. 4 (X2: um objeto, um nome, "bastão de ouro"; o caduceu de serpentes é forma
+  posterior e entra como nota).
+- **Não se glossa o que o corrido já ancora.** Se a frase explica a palavra, o verbete é
+  redundância paga em página.
+- Dono: `mito-editor`. Contagem após a poda: cap. 2 = 6 · cap. 4 = 4 · cap. 6 = 6 · cap. 7 = 6
+  · cap. 8 = 6 · cap. 9 = 4. **Pendência aberta:** caps. 1 (10), 3 e 5 foram gateados antes da
+  regra e serão podados numa rodada própria, sem reabrir o texto.
+
+### R5.3 — A p. 53 muda de natureza: **"Perguntas que as crianças fazem"** (pp. 52–53)
+
+Conflito real encontrado na execução (cético P2, F3): três pareceres de adequação etária
+pediram que a p. 53 respondesse perguntas **em frases dizíveis a uma criança**, e o formato
+fechado na Rev. 3 era **lista telegráfica de ~12 palavras**, que é registro editorial. As duas
+coisas não cabem na mesma página.
+
+Decisão: a antiga "Nota sobre as adaptações" vira **"Perguntas que as crianças fazem"**, em
+**pergunta → resposta dizível em voz alta (1–2 linhas)**, ocupando **pp. 52–53**; a
+bibliografia comprime na **p. 51** (é o plano de contingência da Rev. 3, agora acionado). Teto
+de **3 perguntas por capítulo**. As declarações de adaptação que não viram pergunta descem ao
+**rodapé telegráfico** da mesma seção, no formato antigo. Entrega: `capitulos/apendices.md`.
+
+> **Por que isto não é cosmética:** a p. 53 é a página que o adulto lê **em voz alta, na hora,
+> quando a criança pergunta**. Escrita em telegrama editorial, ela não pode ser usada no
+> momento para o qual existe.
 
 ## Regras fechadas na Rev. 4 (vinculantes para escrita, arte e diagramação)
 
@@ -41,8 +102,18 @@ Quando não vale, a ilustração sobe para a p2 do bloco e o texto ocupa p1, p3 
 |---|---|---|---|
 | 1 | durante | **p. 10** (p4 do bloco 7–10) | default ✔ |
 | 3 | pós-gesto | **p. 18** (p4 do bloco 15–18) | default ✔ |
-| 5 | **instante anterior** | **p. 24** (p2 do bloco 23–26) | **exceção — corrigida nesta revisão (era p. 26)** |
-| 2, 4, 6–10 | — | a declarar no cabeçalho de cada capítulo na onda correspondente | — |
+| 5 | **instante anterior** | **p. 24** (p2 do bloco 23–26) | **exceção — corrigida na Rev. 4 (era p. 26)** |
+| 2 | pós-gesto | **p. 14** (p4 do bloco 11–14) | default ✔ |
+| 4 | **durante** | **p. 22** (p4 do bloco 19–22) | default ✔ *(era "instante anterior" na execução — brief corrigido, ver mapa)* |
+| 6 | pós-gesto | **p. 30** (p4 do bloco 27–30) | default ✔ |
+| 7 | **instante anterior** | **p. 32** (p2 do bloco 31–34) | **exceção — corrigida na Rev. 5 (era p. 34)** |
+| 8 | **instante anterior** | **p. 36** (p2 do bloco 35–38) | **exceção — corrigida na Rev. 5 (era p. 38)** |
+| 9 | transformação consumada / percepção | **p. 40** (p2 do bloco 39–42) | **exceção — corrigida na Rev. 5 (era p. 42)** |
+| 10 | — | a declarar no cabeçalho na onda P4 | — |
+
+**Confirmado na Rev. 5:** os caps. 7, 8 e 9 **herdaram a exceção**, como a Rev. 4 previa. O
+cap. 9 herdou-a por outro motivo: mesmo re-rotulado como "transformação consumada", a cena
+antecipa a batida da mesa e, na p. 42, cairia depois do rio e do fecho.
 
 **Padronização de cabeçalho:** o cabeçalho de **todo** capítulo declara a página da sua
 ilustração, e declara quando ela é exceção à anatomia padrão. Sem essa linha o capítulo não
@@ -64,7 +135,9 @@ página.
 
 O cabeçalho da seção "Cena da ilustração" de cada capítulo **declara a contagem** (ex.:
 "Hera, Hefesto, Dioniso, Ares e um deus desistindo = 5 ✔"). Contagem atual: cap. 1 = 5/5 ·
-cap. 3 = 4/5 · cap. 5 = 5/5.
+cap. 2 = 5/5 · cap. 3 = 4/5 · cap. 4 = 2/5 · cap. 5 = 5/5 · cap. 6 = 2/5 · cap. 7 = 3/5 ·
+cap. 8 = **1/5** · cap. 9 = 1/5 (+ servidores em silhueta). O cap. 8 é a página mais econômica
+do livro, e é economia de enredo: só Teseu tem rosto.
 
 ### R4.3 — Orçamento declarado das pp. 51–52 (fontes e bibliografia adaptada)
 
@@ -83,6 +156,12 @@ caixa disponível      2 pp × 9,5/12 pt em 2 colunas ≈ 700–900 palavras/pá
 Folga confortável ✔ — e a folga é deliberada, porque a contingência da p. 53 (plano já
 registrado) come a p. 52 se a nota de adaptações estourar. **Quem passar de 60 palavras num
 capítulo tem de cortar de outro, ou a linha vira item da p. 53.** Dono: `mito-editor`.
+
+> **Entregue na rodada P2–P3:** `capitulos/apendices.md`. Nove capítulos escritos, todos dentro
+> das 60 palavras (50 a 59), bibliografia geral em 288 palavras, cap. 10 com o orçamento
+> reservado. Com a p. 53 virando **pp. 52–53** (R5.3), a bibliografia passa a caber na p. 51 —
+> e a folga de 500 palavras que a Rev. 4 chamou de "deliberada" foi exatamente o que pagou a
+> contingência.
 
 ### R4.4 — Regra de contagem de palavras (encerra a ambiguidade do teto)
 
@@ -126,7 +205,7 @@ meio e fim, e **uma cena-clímax que cabe numa única ilustração de página in
 | 3 | Leto, Ártemis e Apolo (Lētṓ, Ártemis, Apóllōn) | **Leto e a ilha que ninguém queria** — a ilha errante que ganha raízes no dia em que acolhe alguém | específico | **Quem acolhe deixa de estar à deriva:** Delos vagava sem lugar no mundo até dar lugar a outra pessoa — receber é o que dá raiz a quem recebe (pertencer) | *Hino Homérico a Apolo* (Perseus) · Theoi: https://www.theoi.com/Olympios/Artemis.html · https://www.theoi.com/Olympios/Apollon.html · WHE: https://www.worldhistory.org/artemis/ |
 | 4 | Hermes (Hermês) | **O bebê, o gado e a lira** — a travessura de um dia de idade e o acordo com Apolo | específico | Astúcia serve para consertar, não só para aprontar | *Hino Homérico a Hermes* (Perseus) · Theoi: https://www.theoi.com/Olympios/Hermes.html · WHE: https://www.worldhistory.org/Hermes/ |
 | 5 | Hefesto (Hḗphaistos) | **O trono de ouro** — o ferreiro devolve à mãe um presente que só ele sabe abrir | específico | O valor está no que se cria: o talento das mãos é a resposta de quem foi deixado de lado | Theoi: https://www.theoi.com/Olympios/Hephaistos.html · WHE: https://www.worldhistory.org/Hephaistos/ · Pausânias I.20 / Alceu (fragm.), via dossiê |
-| 6 | Deméter e Perséfone (Dēmḗtēr, Persephónē) | **As estações do ano** — a busca de Deméter e o acordo das romãs | específico | Saudade e reencontro fazem parte dos ciclos da vida | *Hino Homérico a Deméter* (Perseus) · Theoi: https://www.theoi.com/Olympios/Demeter.html · https://www.theoi.com/Khthonios/Persephone.html · WHE: https://www.worldhistory.org/persephone/ |
+| 6 | Deméter e Perséfone (Dēmḗtēr, Persephónē) | **Deméter e Perséfone** — a busca de Deméter e o acordo da romã | específico | Saudade e reencontro fazem parte dos ciclos da vida | *Hino Homérico a Deméter* (Perseus) · Theoi: https://www.theoi.com/Olympios/Demeter.html · https://www.theoi.com/Khthonios/Persephone.html · WHE: https://www.worldhistory.org/persephone/ |
 | 7 | Perseu (Perseús) | **Perseu e a Medusa** — o escudo-espelho | específico | Coragem se prepara: aceitar ajuda e enfrentar o problema de um jeito inteligente | Theoi: https://www.theoi.com/Heros/Perseus.html · https://www.theoi.com/Pontios/Gorgones.html · WHE: https://www.worldhistory.org/Medusa/ |
 | 8 | Teseu (Thēseús) | **Teseu e o Minotauro** — o fio no labirinto | específico | Entrar exige saber voltar: o fio de Ariadne vale tanto quanto a espada | Theoi: https://www.theoi.com/Ther/Minotauros.html · WHE: https://www.worldhistory.org/Theseus/ |
 | 9 | O Rei Midas (Mídas) | **O toque de ouro** — o pedido e o rio Pactolo | específico | Cuidado com o que se deseja: ouro não abraça | Ovídio, *Metamorfoses* XI (Perseus/Sacred-Texts) · WHE: https://www.worldhistory.org/Midas/ |
@@ -159,17 +238,23 @@ ser lido como uma sequência de respirações suspensas que nunca completam.
 | 1 | Zeus · Baucis e Filêmon | **durante** — a cabana em metamorfose, dois estados ao mesmo tempo | espanto quieto |
 | 2 | Atena · a disputa | **pós-gesto** — os dois presentes já dados, lado a lado | comparação, juízo do leitor |
 | 3 | Leto e a ilha | **pós-gesto** — a ilha já ancorada, os gêmeos já nascidos, as flores abrindo | alívio luminoso |
-| 4 | Hermes · o gado e a lira | **durante** — a lira passando de mão para mão | reconciliação divertida |
+| 4 | Hermes · o gado e a lira | **durante** — a lira passando de mão para mão, **com uma mão de cada um já no instrumento** *(precisão Rev. 5: o brief dizia "no meio do ar entre as quatro mãos", que é "instante anterior" e estourava o teto)* | reconciliação divertida |
 | 5 | Hefesto · o trono | **instante anterior** — ele entrou, ainda não estendeu a mão | reconhecimento contido |
 | 6 | Deméter e Perséfone | **pós-gesto** *(alterado nesta revisão)* — **o abraço consumado**, as flores abrindo em leque a partir dos pés das duas | alegria plena, sem reserva |
 | 7 | Perseu e a Medusa | **instante anterior** — a foice ainda não subiu | medo sob controle |
 | 8 | Teseu e o Minotauro | **instante anterior** — o fio na mão, a sombra ao fundo | tensão e determinação |
-| 9 | Midas · o toque de ouro | **instante anterior** — o pão a caminho da boca | alegria virando susto |
+| 9 | Midas · o toque de ouro | **transformação consumada / percepção** *(re-rotulado na Rev. 5)* — o pão **já é metal** na mão erguida, e o que ainda não aconteceu é o rosto entender | alegria virando susto |
 | 10A | Do Caos ao Olimpo (abertura) | **estado** — Gaia, Urano e a fenda do Caos | assombro cosmogônico |
 | 10B | Do Caos ao Olimpo (clímax) | **instante anterior** — o raio recebido, os Cem-Mãos entrando | promessa de virada |
 
-**Diretriz fechada: no máximo 50% das cenas do livro em "instante anterior".** Contagem
-atual: **5 de 11 = 45% ✔**. Qualquer dossiê que mude a cena para "instante anterior" na Fase
+**Diretriz fechada: no máximo 50% das cenas do livro em "instante anterior".**
+
+⚠️ **Recontagem na EXECUÇÃO (Rev. 5, cético P3, F3).** A contagem da Rev. 3 era feita sobre a
+**intenção** dos dossiês; feita sobre os **briefs escritos**, dava outro número: o cap. 4 era
+"instante anterior" de fato (lira no ar, sem contato) e o cap. 9 estava rotulado por engano.
+Com as duas correções — o cap. 4 vira "durante" por meio segundo de gesto, o cap. 9 é
+re-rotulado —, a contagem é **4 de 11 (caps. 5, 7, 8 e 10B) = 36% ✔**, com folga real.
+Contagem anterior declarada: **5 de 11 = 45%**. Qualquer dossiê que mude a cena para "instante anterior" na Fase
 3 precisa trocar outra por um momento consumado, ou a regra cai.
 
 **As duas cenas alteradas nesta revisão:**
@@ -261,6 +346,20 @@ atual: **5 de 11 = 45% ✔**. Qualquer dossiê que mude a cena para "instante an
     andando como anda, e o que muda é o lugar que ele ocupa no Olimpo. Sem piada com a
     marcha, sem "apesar de", sem heroísmo inspiracional. Revisão obrigatória pelo
     `mito-adequacao-etaria` e pelo `mito-critico-tom` na Fase 2.
+
+**Autoridade de títulos (Rev. 5, X8):** a **tabela de capítulos acima é a autoridade única**
+sobre o título de cada capítulo. Arquivo, cabeçalho, sumário, quarta capa e `state/grega.json`
+copiam dela — e um retítulo só existe quando entra aqui. O cap. 6 perdeu o subtítulo "as
+estações do ano" nesta revisão: prometia uma etiologia das quatro estações que o *Hino
+Homérico a Deméter* não sustenta e que o texto, corretamente, não entrega.
+
+**Ecos deliberados de série — declarados, não corrigidos (Rev. 5, cético P3, X8):**
+
+| Eco | Onde | Decisão |
+|---|---|---|
+| **A casa que doura** | cap. 1 (a choupana virando templo) × cap. 9 (o palácio dourando sala por sala) | **Deliberado e invertido.** Lá o ouro é prêmio de quem deu tudo; aqui é castigo de quem quis tudo. Para a inversão se ler, os dois ouros têm de ser **diferentes**: cap. 1 **ouro quente e cheio**, cap. 9 **ouro pálido**, apagando a cor da comida. Vinculante para o `mito-diretor-arte` |
+| **A petrificação** | cap. 7 (o salão de Polidectes) × cap. 9 (a comida endurecida) | **Deliberado.** Nos dois casos alguém fica parado do jeito que estava; a diferença é que no cap. 7 é justiça e no cap. 9 é o próprio pedido do rei voltando contra ele. Nenhum dos dois textos comenta o outro |
+| **A ilha de Delos** | cap. 3 × cap. 8 ("aquela mesma ilha") | Três palavras, sem explicação — teto autorizado pelo dossiê |
 
 **Dependências entre capítulos (X2):**
 
@@ -480,7 +579,10 @@ fechar. **A distinção é registrada aqui e é vinculante para o `mito-diagrama
 | **Box "Você sabia?"** | 11 / 15 pt | 1 | — | Lido pelo adulto em voz alta, dentro da página da criança. |
 | **Aparato pós-textual** (glossário 49–50, fontes 51–52, nota de adaptações 53, colofão 54) | **9,5 / 12 pt** | **2** | **≈700–900 palavras/página** | Zona do **adulto**, lida em silêncio e por consulta, nunca em voz alta. O piso de 14 pt existe por legibilidade infantil e **não se aplica** onde a criança não lê. |
 
-**Formato fechado da p. 53 ("Nota sobre as adaptações"):** **lista telegráfica**, uma linha
+**Formato da p. 53 — SUPERADO pela R5.3.** O que segue é o formato da Rev. 3, mantido aqui
+como registro do que a p. 53 deixou de ser; o formato vigente é **"Perguntas que as crianças
+fazem"**, em pp. 52–53, e a lista telegráfica abaixo sobrevive apenas como **rodapé** dessa
+seção. Formato antigo, para referência ("Nota sobre as adaptações"): **lista telegráfica**, uma linha
 por item, **~12 palavras por linha**, agrupada por capítulo. **Orçamento: no máximo 4 itens
 por capítulo** — 10 capítulos × 4 = 40 linhas + 10 títulos de capítulo = 50 linhas, que
 cabem em 2 colunas de 9,5/12 pt numa página. Modelo de linha: *"Cap. 5 — o vinho de Dioniso
