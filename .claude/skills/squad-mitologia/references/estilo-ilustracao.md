@@ -61,11 +61,17 @@ Estado verificado em 2026-08-31 **neste ambiente remoto**: `gemini.google.com:44
 não falta de login. Chromium existe em `/opt/pw-browsers/chromium-1194/chrome-linux/chrome`
 (passar `executable_path`; a versão do pacote `playwright` não bate com a do binário).
 
-Dois caminhos, decisão do humano no checkpoint:
-1. **Liberar o domínio** na política de rede do ambiente (Claude Code na web →
-   configuração do environment) e resolver a sessão Google. Aí a Fase 3 roda inteira aqui,
-   com 3a e 3b colapsados num gate só.
-2. **Rodar localmente:** a squad entrega, além dos prompts, um **script Playwright pronto**
+**Caminho escolhido pelo humano (2026-08-31): liberar o domínio no ambiente.**
+1. ✅ **ESCOLHIDO — liberar o domínio** na política de rede do environment (Claude Code na
+   web → configuração do environment → política de rede; docs:
+   https://code.claude.com/docs/en/claude-code-on-the-web). Domínios a permitir:
+   `gemini.google.com`, `google.com`, `accounts.google.com`, `*.googleusercontent.com`
+   (as imagens geradas são servidas daí) e `*.gstatic.com`. Depois de liberar, a Fase 3
+   roda inteira aqui, com 3a e 3b colapsados num gate só — resta resolver a **sessão
+   Google** (o container sobe com o navegador limpo).
+   Verificação antes de abrir a Fase 3: `curl -sS "$HTTPS_PROXY/__agentproxy/status"` não
+   deve listar `gemini.google.com` em `recentRelayFailures`.
+2. ~~Rodar localmente~~ (reserva, se a liberação não vier): a squad entrega, além dos prompts, um **script Playwright pronto**
    (`producao/<livro>/ilustracoes/gerar.py`) que o humano executa na própria máquina, onde o
    Chrome já tem a sessão do Google. As imagens voltam ao repositório e a curadoria (3b)
    acontece aqui normalmente.
