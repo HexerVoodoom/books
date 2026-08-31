@@ -287,6 +287,12 @@ grilhão, susto · Hades na folha.
 - **Página:** p. 10 (p4 do bloco 7–10) — **default R4.1** ✔
 - **Momento:** **durante** · nota emocional: **espanto quieto**
 - **Figuras nítidas:** Baucis, Filêmon, Zeus, Hermes, o ganso = **5/5** ✔
+- ⚠️ **F1 da onda P4 — o raio foi plantado no TEXTO deste capítulo** ("um trovão respondeu
+  longe: o raio era dele"). **A proibição visual continua valendo e fica mais forte, não mais
+  fraca:** o raio é **apenas luz insinuada**, nunca objeto na mão, porque aqui Zeus está
+  disfarçado e o livro só mostra o raio como objeto na **10B**, onde ele é **forjado**. Se a
+  imagem entregar o raio antes da forja, o box do cap. 10 ("nenhum dos três é um poder de
+  nascença — são presentes") deixa de ser verdade na leitura da criança.
 - **Proporção:** 1:1
 
 ```
@@ -317,7 +323,8 @@ thatch yellowing until it turns to gold at the ridge, carved doors appearing, an
 STEP STILL BEATEN EARTH ON ONE SIDE AND ALREADY MARBLE ON THE OTHER. A single object in two
 states at once.
 ONE STEP HIGHER ON THE SLOPE, TO THE RIGHT: Zeus and Hermes revealed in light. NEITHER OF THEM
-LOOKS AT THE VIEWER: they look at the old couple.
+LOOKS AT THE VIEWER: they look at the old couple. ZEUS HOLDS NOTHING IN HIS HANDS: the
+thunderbolt is ONLY IMPLIED AS LIGHT and is NEVER a drawn object here.
 LOWER CORNER: a live WHITE GOOSE, wings open, neck stretched, pressed against the leg of one
 of the gods.
 THIRD PLANE, FAR BELOW AND BEHIND: the valley already turned into a CALM LAKE, with water
@@ -829,7 +836,9 @@ the landscape, her hair turning into roots and mountain ridges, EYES OPEN AND SE
 frontal and fully expressive. SHE IS NEVER A WOMAN STANDING ON THE GROUND. Palette: terracotta
 #C1440E and ochre #C88A3D.
 URANUS: the SKY WITH A FACE — his body IS the night vault itself, ARCHED OVER HER, stars
-running across his shoulder and along his arm; face readable and distant. He carries no
+running across his shoulder and along his arm; face readable and distant, HIS GAZE NOT
+DIRECTED AT THE VIEWER and HIS MOUTH CLOSED AND AT REST — he must never look out of the page
+at the child, and never appear to speak or to threaten. He carries no
 object. Palette: starred glaze black #1B1613.
 [SCENE]
 Vertical, cosmogonic, WITHOUT ACTION — a state, not an event.
@@ -850,7 +859,16 @@ no text, no watermark, no lettering
   vazia** que se lê como **abertura**.
 - ✘ **Proibido (vinculantes do capítulo):** nenhum filho em quadro (ainda estão dentro da
   Terra, e a batida da prisão vem depois) · nenhuma foice · nenhuma estrela em forma de sol ou
-  lua com face · **Cronos ≠ Chronos:** nenhuma ampulheta, foice de Saturno ou alegoria do Tempo.
+  lua com face · **Cronos ≠ Chronos:** nenhuma ampulheta, foice de Saturno ou alegoria do Tempo
+  · ⚠️ **vinculante ao diretor de arte (adequação, onda P4):** Urano **sem olhar dirigido ao
+  leitor e de boca fechada em repouso** — um rosto do tamanho do céu olhando a criança nos
+  olhos é a única imagem deste livro capaz de assustar sozinha.
+
+> ⚠️ **VINCULANTE DE LIVRO INTEIRO (adequação, onda P4): o engolimento não é ilustrado em
+> página nenhuma.** Nem aqui, nem na 10B, nem em viñeta, nem em abertura de capítulo, nem na
+> capa, nem em material de divulgação. Cronos com um bebê na mão, uma boca aberta sobre uma
+> criança ou uma silhueta engolindo **reprovam a imagem sem discussão**. A cena existe só em
+> texto, e é assim que ela é suportável.
 
 ---
 
@@ -862,11 +880,22 @@ no text, no watermark, no lettering
 - **Página:** **p. 46** — ⚠️ **EXCEÇÃO R4.1** · **Momento:** **instante anterior** ·
   nota: **promessa de virada**
 - **Figuras nítidas:** Zeus, um Ciclope, Posêidon, Hades, um Cem-Mãos = **5/5** ✔ · **1:1**
+- ⚠️ **X6 resolvido na onda P4 — Zeus é MADURO nesta página.** O brief dizia "Zeus jovem" e a
+  `sheet-zeus.png` diz *mature, tall*: **a sheet vence**, e por dois motivos, não por um. (1) É
+  a **referência de continuidade** do livro, e esta é a ⭐ **PRODUZIR PRIMEIRO** — se ela sair
+  com um Zeus adolescente, os caps. 1, 2, 6, 7 e 8 herdam o erro. (2) O **cap. 1 depende
+  dela**: o Zeus disfarçado da p. 10 é declarado como "o mesmo rosto do cap. 10", e é impresso
+  **36 páginas antes**; um leitor de 4 anos que vê o rosto velho primeiro e o rosto jovem
+  depois não lê "o mesmo deus mais novo", lê "outro deus". O arco **bebê → rei** fica onde a
+  fonte o sustenta — **no texto**, na gruta de Creta —, e não na imagem: **nenhuma página do
+  livro mostra Zeus criança.**
 
 ```
 [BASE]
 [CHARACTERS]
-ZEUS: bearded, the youngest of the three brothers, face in three-quarter and FULLY EXPRESSIVE,
+ZEUS: a MATURE, TALL god with a full dark wavy beard and dense wavy hair — THE SAME FACE AS
+`sheet-zeus.png` AND AS CHAPTER 1, not a youth — the youngest of the three brothers only in
+birth order, face in three-quarter and FULLY EXPRESSIVE,
 his arm RISING with the NEWLY FORGED THUNDERBOLT — a winged double-pointed bundle of fire that
 STILL HOLDS THE HEAT OF THE FORGE. THE GESTURE IS NOT COMPLETE: the bolt HAS NOT been thrown.
 Palette: sky — light Aegean blue #6FA8B8 and warm gold #E8A317.

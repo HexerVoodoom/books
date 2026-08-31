@@ -4,6 +4,13 @@
 > oito ressalvas de fidelidade da onda P1 e a maior parte das ressalvas das ondas P2–P3
 > **moram aqui**. Sem estas páginas, os caps. 1, 2, 4, 6, 7 e 8 perdem a aprovação.
 >
+> **⚠️ Colisão de páginas corrigida na onda P4 (cético F3).** Os cabeçalhos diziam "pp. 51–52"
+> e "pp. 52–53": duas seções reivindicavam a p. 52. **Paginação fechada, vigente:**
+> **fontes + bibliografia = p. 51** · **"Perguntas que as crianças fazem" = pp. 52–53.** É
+> exatamente o plano de contingência da Rev. 3, acionado pela R5.3 — o que faltava era o
+> cabeçalho obedecer a ele. Toda referência a "pp. 51–52" em cabeçalho de capítulo, dossiê ou
+> nota **lê-se p. 51**.
+>
 > **Formato fechado (livro-spec Rev. 5).** Corpo **9,5/12 pt, duas colunas** (zona do adulto,
 > lida em silêncio — o piso de 14 pt é do miolo). Orçamento **R4.3**: até **60 palavras por
 > capítulo** na seção de fontes + **~300 palavras** de bibliografia geral.
@@ -13,15 +20,16 @@
 > p. 51 (o plano de contingência já previsto). As declarações de adaptação que sobram descem
 > ao **rodapé telegráfico** desta mesma seção.
 >
-> **Cap. 10 (Do Caos ao Olimpo) fica em aberto** até a onda P4; o orçamento de 60 palavras
-> está reservado.
+> **Cap. 10 redigido na onda P4.** Gastou **70** das 60 palavras do orçamento por capítulo,
+> com a folga autorizada pela R4.3: as linhas dos caps. 1–9 somam **500** de 540 palavras
+> autorizadas, e as 40 sobrantes pagam as 10 excedentes do cap. 10 (**570 de 600 ✔**).
 
 ---
 
-## pp. 51–52 · De onde vêm estas histórias
+## p. 51 · De onde vêm estas histórias
 
-*Uma página para quem lê em voz alta. Cada capítulo deste livro nasceu de um poeta com nome e
-data. Aqui está qual, e o que mudamos pelo caminho.*
+*Cada capítulo deste livro nasceu de um poeta com nome e data. Aqui está qual — e o que
+mudamos pelo caminho.*
 
 **1 · Baucis e Filêmon.** A única versão conservada é latina: Ovídio, *Metamorfoses* VIII, onde
 os dois deuses são **Júpiter e Mercúrio**. Grafar **Zeus** e **Hermes** é decisão editorial
@@ -31,14 +39,13 @@ vira lago. *(57)*
 
 **2 · A disputa por Atenas.** Seguimos **Apolodoro** (III.14.1), em que a fonte é de água
 salgada e o veredito se dá **por testemunho de Cécrops** — a comparação dos presentes é
-tradição ovidiana. O cavalo (Virgílio) e o voto dos cidadãos (Varrão *apud* Agostinho) foram vistos e não
-adotados. A planície inundada é a **Triásia**; o culto conjunto dos dois deuses no
+tradição ovidiana. O cavalo (Virgílio) e o voto dos cidadãos (Varrão) foram vistos e não adotados. A planície inundada é a **Triásia**; o culto conjunto dos dois deuses no
 **Erecteion** é histórico. *(59)*
 
 **3 · Leto e a ilha que ninguém queria.** *Hino Homérico a Apolo*, a parte délia. O oráculo
 que Apolo promete "aqui" é o de **Delos**; o oráculo famoso, o de **Delfos**, fica no
-continente e vem depois, quando o deus mata a serpente Píton e toma o lugar dela. Delos e
-Delfos são duas casas do mesmo deus. A ilha errante chamava-se **Astéria**. *(55)*
+continente e vem depois, quando o deus mata a serpente Píton e toma o lugar dela. A ilha
+errante chamava-se **Astéria**. *(46)*
 
 **4 · O bebê, o gado e a lira.** *Hino Homérico a Hermes*. No poema, Hermes não devolve o
 rebanho inteiro: **duas vacas são abatidas** junto ao fogo e repartidas em **doze porções**,
@@ -64,44 +71,48 @@ Seguimos os pintores. *(59)*
 **8 · Teseu e o Minotauro.** **Apolodoro** (Epít. 1.7–1.11), **Higino** (*Fábulas* 41–43) e
 **Plutarco** (*Vida de Teseu* 15–22, de onde vem a dança da Grua). O tributo é **anual** em
 Higino e **de nove em nove anos** em Plutarco — por isso escrevemos "de tempos em tempos".
-Sobre Ariadne em Naxos as fontes divergem: casamento com Dioniso (Hesíodo, Apolodoro),
-abandono (Higino), fuga (Plutarco). *(56)*
+As versões sobre Ariadne em Naxos divergem entre si, e a divergência está respondida nas
+pp. 52–53. *(46)*
 
 **9 · O toque de ouro.** Ovídio, *Metamorfoses* XI.85–145 — inclusive a água que vira ouro nas
 mãos do rei. **A filha transformada em estátua não é grega:** é invenção de Nathaniel
 Hawthorne (1851), e não entra aqui. A variante em que Midas captura Sileno embriagando-o numa
 fonte (Heródoto VIII.138, Xenofonte I.2.13) foi vista e não adotada. *(50)*
 
-**10 · Do Caos ao Olimpo.** *(a redigir na onda P4 — 60 palavras reservadas.)*
+**10 · Do Caos ao Olimpo.** **Hesíodo**, *Teogonia* — mas não só. A **partilha por sorteio** é
+de **Homero** (*Il.* XV.187–193); os **presentes dos Ciclopes** e a **devolução dos irmãos**
+vêm de **Apolodoro** (1.2.1); todo o resto é Hesíodo. Duas costuras nossas, declaradas: em
+Apolodoro quem dá a Cronos o que o faz devolver é **Métis**, não Zeus — o livro comprime a
+mecânica e **não a nomeia**, mas também não atribui o gesto a Zeus; e a sequência
+**aclamação** (Hesíodo 881–885) → **sorteio** (Homero) é **harmonização deste livro**, não
+sequência de um texto único. A castração de Urano fica em elipse. *(70)*
 
 ### Para ler mais (e para ler junto)
 
 Os quatro poetas deste livro são **Homero** (ou melhor: a tradição que leva esse nome),
-**Hesíodo**, os autores anônimos dos **Hinos Homéricos** e o romano **Ovídio**. Os três
-primeiros escreveram em grego entre os séculos VIII e VI a.C.; Ovídio, em latim, na virada
-para a nossa era — sete séculos depois, e é bom lembrar disso quando ele conta uma história
-grega. A eles somam-se dois compiladores tardios de que ninguém escapa: **Apolodoro**
-(a *Biblioteca*, séc. I–II d.C.) e **Higino**, além do viajante **Pausânias**, que no séc. II
-d.C. percorreu a Grécia anotando o que via nos templos — e é por isso que ele aparece tanto
-nas linhas acima: às vezes a única testemunha de um mito é uma pintura que ele descreveu.
+**Hesíodo**, os autores anônimos dos **Hinos Homéricos** e o romano **Ovídio** — os três
+primeiros em grego, entre os séculos VIII e VI a.C.; Ovídio em latim, sete séculos depois, e é
+bom lembrar disso quando ele conta uma história grega. A eles somam-se dois compiladores
+tardios, **Apolodoro** (a *Biblioteca*, séc. I–II d.C.) e **Higino**, e o viajante
+**Pausânias**: às vezes a única testemunha de um mito é uma pintura que ele descreveu.
 
-Em português, as traduções que recomendamos ao adulto curioso são a *Teogonia* de Hesíodo por
-**Jaa Torrano** (Iluminuras), a *Odisseia* e a *Ilíada* por **Frederico Lourenço** (Penguin/
-Companhia das Letras) ou por **Carlos Alberto Nunes** (Hedra), os *Hinos Homéricos* por
-**Ordep Serra** (Odysseus) e as *Metamorfoses* de Ovídio por **Domingos Lucas Dias** (Ed. 34).
-Nenhuma linha deste livro foi traduzida dessas edições: os capítulos foram **recontados a
-partir do enredo**, e as citações eventuais vêm de traduções em domínio público.
-
-Para consulta rápida e confiável na internet, em inglês: **Theoi Project** (theoi.com), que
-reúne as passagens antigas mito a mito, e a **World History Encyclopedia**
-(worldhistory.org). Para as imagens: o acervo **Open Access do Metropolitan Museum**
-(metmuseum.org), de onde vêm as referências de cerâmica ática que orientaram a arte destas
-páginas.
+Em português, recomendamos ao adulto curioso a *Teogonia* de Hesíodo por **Jaa Torrano**
+(Iluminuras), a *Odisseia* e a *Ilíada* por **Frederico Lourenço** (Companhia das Letras), os
+*Hinos Homéricos* por **Ordep Serra** (Odysseus) e as *Metamorfoses* de Ovídio por **Domingos
+Lucas Dias** (Ed. 34). Nenhuma linha deste livro foi traduzida dessas edições: os capítulos
+foram **recontados a partir do enredo**.
 
 E, se a criança quiser mais depois de fechar o livro: os mitos gregos não têm versão oficial.
 Cada poeta contou do seu jeito, e discordar deles é uma tradição de três mil anos.
 
-*(~300 palavras ✔)*
+> ⚠️ **Movido para o colofão (p. 54) na onda P4, por prova de composição:** o parágrafo de
+> consulta na internet (**Theoi Project**, theoi.com · **World History Encyclopedia**,
+> worldhistory.org) e o crédito do acervo **Open Access do Metropolitan Museum**
+> (metmuseum.org), de onde vêm as referências de cerâmica ática que orientaram a arte destas
+> páginas. O crédito de imagem é matéria de colofão, e a p. 51 não tinha folga para ele.
+> **Vinculante ao `mito-diagramador`: estas linhas não podem sumir do livro.**
+
+*(bibliografia geral: 203 palavras — comprimida na onda P4 para a seção caber na p. 51; ver a prova de composição no gate)*
 
 ---
 
@@ -131,8 +142,8 @@ O mar cobriu a planície do lado da cidade, onde tem plantação e não tem casa
 As pessoas estavam lá em cima, no rochedo.
 
 **— Ela saiu mesmo da cabeça de Zeus?**
-Saiu — já crescida e já de armadura. Como uma pessoa inteira cabe dentro de uma cabeça é
-justamente o que o último capítulo do livro conta.
+Saiu — já crescida e já de armadura. Nessa família cabe gente inteira dentro de gente: o
+último capítulo do livro mostra de onde vem esse costume.
 
 **— Posêidon ficou sem nada?**
 Não. A fonte dele ficou lá em cima, guardada dentro de um templo, e os atenienses cuidaram das
@@ -229,6 +240,29 @@ foi atendida.
 Não, e não está de propósito: essa parte não é grega. Foi um escritor americano que a inventou,
 quase dois mil anos depois. No poema grego, o que vira ouro é a comida.
 
+### Capítulo 10 — Do Caos ao Olimpo
+
+**— Os irmãos não morreram lá dentro?**
+Não. Eles saíram inteiros e vivos, do mesmo jeito que tinham entrado — e um deles é o Hades do
+elmo, e outro é o Posêidon do tridente. Nesta história ninguém morre: as pessoas ficam
+guardadas em algum lugar até serem soltas.
+
+**— O que Cronos fez com a foice?**
+Ele separou o Céu da Terra, e o Céu nunca mais desceu. Foi um golpe, e a história antiga conta
+esse golpe com detalhes que este livro não conta — porque o que importa para o mito é o
+resultado: o mundo passou a ter espaço no meio, e é nesse espaço que tudo o que existe cabe.
+*(Se a criança insistir: "ele machucou o pai, e o pai foi embora para cima e ficou lá." Não é
+preciso mais do que isso, e não é mentira.)*
+
+**— Por que Zeus dividiu, se tinha ganhado sozinho?**
+Porque ele não ganhou sozinho — ganhou porque soltou os Cem-Mãos e os Ciclopes, e eles é que
+viraram a guerra. Quem venceu prendendo foi o pai dele e o avô dele, e os dois perderam o lugar.
+
+> **Nota a quem lê em voz alta — onde parar.** O capítulo 10 é o mais longo do livro (seis
+> páginas) e tem **dois cortes seguros de sessão**: depois de *"Ficou onde está até hoje, bem
+> lá em cima."* e depois da devolução dos cinco irmãos. ⚠️ **Nunca pare na pedra engolida** —
+> é o único ponto do livro em que a página vira com uma criança dentro de alguém.
+
 ### O que mudamos, e por quê
 
 *(lista telegráfica — uma linha por item, agrupada por capítulo)*
@@ -254,3 +288,15 @@ quase dois mil anos depois. No poema grego, o que vira ouro é a comida.
 - **Cap. 9** — no poema, Sileno está pesado de vinho; aqui, só de cansaço.
 - **Cap. 9** — o vinho da mesa virou água, que é o que Ovídio também transforma em ouro.
 - **Cap. 9** — as orelhas de burro saíram da narrativa e ficaram no box.
+- **Cap. 10** — a castração de Urano ficou em elipse: o livro entrega a foice aceita e corta.
+- **Cap. 10** — do sangue de Urano nascem, na *Teogonia*, as **Erínias**, os **Gigantes** e as
+  ninfas **Mélias**; e da espuma do mar nasce **Afrodite**. Os quatro ficaram fora daqui, e
+  este livro em nenhuma linha diz que eles nasceram de outro jeito.
+- **Cap. 10** — **Métis**, que em Apolodoro dá a Cronos o que o faz devolver os filhos, não é
+  nomeada; o gesto também **não** é atribuído a Zeus.
+- **Cap. 10** — Zeus é **aclamado** pelos deuses (Hesíodo) e só depois os três irmãos
+  **sorteiam** (Homero): a sequência é costura deste livro.
+- **Cap. 10** — nem "veneno", nem "droga", nem "vomitar" aparecem no livro.
+- **Caps. 1 e 9** — as duas histórias se passam na **Frígia**, a mesma região de colinas onde
+  hoje fica a Turquia: é o único lugar do livro que aparece duas vezes, com um deus dando o
+  que foi pedido nas duas — e com resultados opostos.

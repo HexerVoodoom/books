@@ -18,9 +18,15 @@ def md_to_typ(s):
     return s
 
 def paragraphs(block):
-    # separa por linha em branco, preserva parágrafos e falas; junta quebras de linha internas (wrap do markdown-fonte)
-    paras = [' '.join(p.strip().split('\n')).strip() for p in block.split('\n\n') if p.strip()]
-    return [re.sub(r' {2,}', ' ', p) for p in paras]
+    # separa por linha em branco, preserva parágrafos e falas; junta quebras de linha internas
+    # (wrap do markdown-fonte); remove o marcador "> " de blockquote linha a linha.
+    out = []
+    for p in block.split('\n\n'):
+        lines = [re.sub(r'^>\s?', '', ln).strip() for ln in p.strip().split('\n')]
+        joined = ' '.join(l for l in lines if l)
+        if joined:
+            out.append(re.sub(r' {2,}', ' ', joined))
+    return out
 
 chapters = []
 for f in sorted(glob.glob(os.path.join(BASE, "0*.md"))) + [os.path.join(BASE, "10-do-caos-ao-olimpo.md")]:
@@ -31,8 +37,10 @@ for f in sorted(glob.glob(os.path.join(BASE, "0*.md"))) + [os.path.join(BASE, "1
 
     texto = re.search(r'## Texto\n(.*?)\n## Você sabia\?', t, re.S).group(1)
     box_raw = re.search(r'## Você sabia\?\n(.*?)\n## Cena da ilustração', t, re.S).group(1)
-    # remove linha(s) de rodapé editorial ("> *(NN palavras...")
-    box_paras = [p for p in paragraphs(box_raw) if not p.startswith('>')]
+    # remove o(s) parágrafo(s) de rodapé editorial (bloco que começa com "> " no fonte —
+    # a contagem de palavras/fontes do box, não destinado à página impressa)
+    box_blocks_raw = [p for p in box_raw.split('\n\n') if p.strip()]
+    box_paras = [paragraphs(p)[0] for p in box_blocks_raw if not p.strip().startswith('>') and paragraphs(p)]
 
     gloss_m = re.search(r'## Termos para o glossário\n(.*?)\n## Notas', t, re.S)
     gloss_items = []
@@ -60,7 +68,7 @@ with open(os.path.join(OUT, "capitulos.json"), "w", encoding='utf-8') as fh:
 # ---- Aparato (apêndices, pp. 51-53) ----
 ap = open(os.path.join(BASE, "apendices.md"), encoding='utf-8').read()
 
-fontes_m = re.search(r'## pp\. 51–52 · De onde vêm estas histórias\n(.*?)\n---', ap, re.S)
+fontes_m = re.search(r'## p\.? ?51.{0,6}· De onde vêm estas histórias\n(.*?)\n---', ap, re.S)
 fontes_block = fontes_m.group(1)
 # parágrafos em itálico introdutório + entradas por capítulo (1. **Título.** texto) + "Para ler mais"
 fontes_paras = [md_to_typ(p) for p in paragraphs(fontes_block)]

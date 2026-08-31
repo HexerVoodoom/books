@@ -18,8 +18,8 @@
 // margens de zona-de-texto: medidas a partir da borda da PÁGINA (que já inclui a
 // sangria de 3 mm); logo toda margem abaixo tem embutido o mínimo de 3 mm de sangria
 // + 10 mm de margem de segurança do pipeline. A margem interna (lombada) é maior.
-#let MARGEM-MIOLO = (inside: 27mm, outside: 21mm, top: 21mm, bottom: 25mm)
-#let MARGEM-APARATO = (inside: 24mm, outside: 18mm, top: 18mm, bottom: 20mm)
+#let MARGEM-MIOLO = (inside: 24mm, outside: 18mm, top: 18mm, bottom: 22mm)
+#let MARGEM-APARATO = (inside: 22mm, outside: 16mm, top: 16mm, bottom: 18mm)
 
 // ---------------------------------------------------------------------------
 // 1. PALETA (guia-de-estilo.md §2)
@@ -41,7 +41,7 @@
 #let FONTE-CORPO = "DejaVu Sans"
 
 #set text(font: FONTE-CORPO, size: 14pt, lang: "pt", region: "BR", fill: NEGRO-VERNIZ)
-#set par(leading: 0.38em, justify: true, first-line-indent: 0pt)
+#set par(leading: 0.38em, justify: true, first-line-indent: 0pt, spacing: 0.4em)
 #set page(width: PAGE, height: PAGE, fill: PAPEL, margin: MARGEM-MIOLO, numbering: none)
 
 // ---------------------------------------------------------------------------
@@ -86,50 +86,43 @@
 
 // --- 3.2 Abertura de capítulo: título + friso ornamental + capitular simples ---
 #let chapter-title(numero: 0, titulo: "") = {
-  v(4pt)
   line(length: 100%, stroke: 1.4pt + TERRACOTA)
-  v(2pt)
+  v(1pt)
   line(length: 100%, stroke: 0.6pt + OCRE)
-  v(10pt)
-  text(font: FONTE-DISPLAY, size: 11pt, fill: OCRE, tracking: 1.5pt)[CAPÍTULO #numero]
-  v(4pt)
-  text(font: FONTE-DISPLAY, size: 24pt, weight: "bold", fill: TERRACOTA-ESCURA)[#titulo]
-  v(4pt)
+  v(6pt)
+  text(font: FONTE-DISPLAY, size: 10pt, fill: OCRE, tracking: 1.5pt)[CAPÍTULO #numero]
+  v(2pt)
+  text(font: FONTE-DISPLAY, size: 19pt, weight: "bold", fill: TERRACOTA-ESCURA)[#titulo]
+  v(2pt)
   line(length: 22%, stroke: 1pt + TERRACOTA)
-  v(14pt)
+  v(8pt)
 }
 
 // --- 3.3 Box "Você sabia?" — mesma posição/título em toda a série ---
 #let voce-sabia(body) = {
-  v(10pt)
+  v(6pt)
   block(
-    width: 100%, fill: CREME, stroke: 1pt + OCRE, radius: 3pt, inset: 12pt,
+    width: 100%, fill: CREME, stroke: 1pt + OCRE, radius: 3pt, inset: 8pt,
   )[
-    #text(font: FONTE-DISPLAY, size: 13pt, weight: "bold", fill: TERRACOTA-ESCURA)[Você sabia?]
-    #v(4pt)
-    #set text(size: 11pt)
-    #set par(leading: 0.7em)
+    #text(font: FONTE-DISPLAY, size: 12pt, weight: "bold", fill: TERRACOTA-ESCURA)[Você sabia?]
+    #v(2pt)
+    #set text(size: 10.5pt)
+    #set par(leading: 0.4em, spacing: 0.3em)
     #body
   ]
-  v(6pt)
 }
 
-// --- 3.4 Glossário do capítulo (lista compacta, some no aparato geral também) ---
-#let glossario-do-capitulo(body) = {
-  v(6pt)
-  block(width: 100%, inset: (top: 4pt))[
-    #line(length: 30%, stroke: 0.4pt + OCRE)
-    #v(4pt)
-    #text(font: FONTE-DISPLAY, size: 9.5pt, weight: "bold", fill: OCRE, tracking: 1pt)[PALAVRAS DESTE CAPÍTULO — ver glossário, pp. 49–50]
-  ]
-}
+// --- 3.4 Glossário do capítulo: dispensado no corpo do capítulo — o glossário
+//        único e sem duplicatas mora nas pp. 49–50 (livro-spec R5.2). Mantido
+//        como função no-op para não quebrar chamadas herdadas do template.
+#let glossario-do-capitulo(body) = { none }
 
 // --- 3.5 Página de aparato: corpo 9,5/12 pt, 2 colunas (livro-spec X5) ---
 #let pagina-aparato(titulo, body, numero: none) = {
   pagebreak(weak: true)
   set page(margin: MARGEM-APARATO, numbering: none)
   set text(size: 9.5pt)
-  set par(leading: 0.26em, justify: true)
+  set par(leading: 0.26em, justify: true, spacing: 0.28em)
   if titulo != none {
     text(font: FONTE-DISPLAY, size: 15pt, weight: "bold", fill: TERRACOTA-ESCURA)[#titulo]
     v(8pt)
@@ -279,7 +272,7 @@ Correu para a esquerda, correu para a direita, passou debaixo do banco e saiu pe
 
 — Deixem ele em paz — disseram os hóspedes. — Nós somos deuses.
 
-Eram Zeus e Hermes. Tinham batido em mil portas, e uma só abriu.
+Eram Zeus e Hermes. Quando Zeus falou, um trovão respondeu longe: o raio era dele. Tinham batido em mil portas, e uma só abriu.
 
 — Venham conosco. Subam o monte.
 
@@ -318,18 +311,13 @@ Na Grécia antiga, receber um desconhecido era lei — e a lei tinha dono. Chama
 - _Hermes_ (Hermês) — mensageiro dos deuses e guia dos viajantes, jovem e sem barba. Carrega o _bastão de ouro de três ramos_ que Apolo lhe deu (a história está no capítulo 4) e sandálias com asas nos pés. _(Muito tempo depois, os gregos passaram a desenhar esse mesmo bastão com duas serpentes enroladas e a chamá-lo de _caduceu_.)_ ⚠️ _Verbete único do livro (X2):_ um objeto, um nome — _bastão de ouro_. O cap. 4 é a autoridade sobre ele; este verbete e a ilustração deste capítulo obedecem ao cap. 4.
 - _tília_ — árvore europeia de flores muito perfumadas, com que se faz chá de tília. Em inglês chama-se _lime tree_, e por isso muita gente a confunde com o limoeiro: _ela não dá limão nenhum._ Baucis virou tília.
 - _carvalho_ — árvore grande e de madeira dura, _a árvore sagrada de Zeus_. Filêmon virou carvalho.
-- _vime_ — vara fina e flexível, tirada de certos arbustos, com que se tecem cestos, cercas e paredes de casa simples. As paredes da casa de Baucis e Filêmon eram de vime.
-- _choupana_ — casa muito simples, feita de materiais do mato, como varas e palha.
-- _faia_ — árvore de madeira clara; dela se faziam copos e tigelas escavados.
-- _Frígia_ — região de colinas onde hoje fica a Turquia.
-- _grinalda_ — coroa de flores ou folhas, feita para pendurar ou para pôr na cabeça.
+- _vime_ — vara fina e flexível, tirada de certos arbustos, com que se tecem cestos, cercas e paredes de casa simples. As paredes da casa de Baucis e Filêmon eram de vime. _6 verbetes ✔_ (teto R5.2 = 6; o capítulo tinha _10_ e foi podado na onda P4, sem reabrir o texto). Saíram por estarem ancorados no corrido ou por serem palavra comum: _choupana_ (a casa já é descrita — "paredes de vime, telhado de junco"), _faia_ ("copos… de madeira de faia" — a faia entra como madeira e não precisa de botânica), _grinalda_ (o corrido a mostra pendurada no galho) e _Frígia_ (que passa a ser _linha do rodapé das pp. 52–53_, junto com a Frígia do cap. 9 — ver `apendices.md`).
 ]
 
 #pagebreak()
 #fullbleed("01-zeus-baucis-e-filemon", "p. 10", [Baucis e Filêmon de mãos dadas na encosta; a choupana virando templo ao fundo; Zeus e Hermes revelados em luz; o ganso branco vivo.])
-#pagebreak()
 
-#pagebreak()
+#pagebreak(weak: true)
 
 #chapter-title(numero: 2, titulo: "Atena · A disputa por Atenas")
 
@@ -382,17 +370,13 @@ Em 480 a.C., os persas tomaram a acrópole de Atenas e queimaram tudo o que havi
 - _Posêidon_ (Poseidôn) — deus do mar, irmão de Zeus. Carrega o _tridente_, com que abre a terra e agita as águas.
 - _tridente_ — lança de três pontas, usada de verdade por pescadores gregos. É o objeto que distingue Posêidon de Zeus, que são os dois barbados e parecidos.
 - _égide_ — o peitoral de Atena, franjado, com uma cabeça de monstro desenhada no meio. De onde veio essa cabeça, o capítulo de Perseu conta.
-- _oliveira_ — árvore de folhas prateadas que dá azeitona e azeite. Vive séculos, aguenta seca e brota de novo do toco.
-- _azeite_ — óleo tirado da azeitona. Na Grécia antiga servia para cozinhar, para passar no corpo e para _acender lamparina_: era comida e luz ao mesmo tempo.
-- _Cécrops_ (Kékrops) — o primeiro rei de Atenas. Diziam que ele tinha nascido da própria terra da cidade e que, por isso, era homem de cima e serpente de baixo.
-- _testemunha_ — quem estava presente e viu uma coisa acontecer, e pode contar depois o que viu.
+- _Cécrops_ (Kékrops) — o primeiro rei de Atenas. Diziam que ele tinha nascido da própria terra da cidade e que, por isso, era homem de cima e serpente de baixo. _6 verbetes ✔_ (teto R5.2 = 6; o capítulo tinha _9_ e foi podado na onda P4). Saíram por estarem ancorados no corrido: _oliveira_ ("Era uma oliveira, e já vinha carregada… quando se enterrava um galho dela na terra, nascia outra"), _azeite_ ("azeite para cozinhar, azeite para acender lamparina") e _testemunha_ ("contou o que tinha visto com os próprios olhos").
 ]
 
 #pagebreak()
 #fullbleed("02-atena-disputa-por-atenas", "p. 14", [Atena e Posêidon diante do rochedo da Acrópole; a oliveira brotando ao lado da fonte salgada; Cécrops testemunha; o povo em silhueta.])
-#pagebreak()
 
-#pagebreak()
+#pagebreak(weak: true)
 
 #chapter-title(numero: 3, titulo: "Leto e a ilha que ninguém queria")
 
@@ -451,16 +435,13 @@ _(Fonte: Calímaco, Hino IV a Delos — dossiê, "Material para Você sabia?", f
 - _Leto_ (_LÉ-to_) — titânide, filha de Céos e Febe, mãe de Ártemis e Apolo. Em latim é chamada Latona.
 - _Ártemis_ (_ÁR-te-mis_) — deusa das florestas, dos animais selvagens e da caça; carrega arco e aljava e nunca quis se casar. Irmã gêmea de Apolo, e a mais velha por alguns minutos.
 - _Apolo_ (_a-PO-lo_) — deus da música, do arco de prata e dos oráculos: é ele que diz às pessoas a vontade de Zeus. Também chamado _Febo_, "o brilhante".
-- _lira_ (_LI-ra_) — instrumento de cordas dedilhadas, tocado com os dedos ou com uma palheta; o instrumento de Apolo.
-- _palmeira_ — a árvore em que Leto se apoiou. Séculos depois, ainda era mostrada aos visitantes de Delos.
-- _titânide_ (_ti-TÃ-ni-de_) — mulher da geração dos Titãs, anterior aos deuses do Olimpo. Leto é uma delas.
+- _titânide_ (_ti-TÃ-ni-de_) — mulher da geração dos Titãs, anterior aos deuses do Olimpo. Leto é uma delas. _6 verbetes ✔_ (teto R5.2 = 6; o capítulo tinha _8_ e foi podado na onda P4). Saíram: _lira_ — por _dedup_ (um termo, um verbete: a autoridade é o cap. 4, _lira de tartaruga_) — e _palmeira_, ancorada no corrido ("pôs os braços em volta de uma palmeira") e sem carga de mito a explicar.
 ]
 
 #pagebreak()
 #fullbleed("03-leto-e-a-ilha", "p. 18", [Delos ancorada entre ondas; Leto abraçada à palmeira; os gêmeos Ártemis e Apolo recém-nascidos; dupla luz sem astros.])
-#pagebreak()
 
-#pagebreak()
+#pagebreak(weak: true)
 
 #chapter-title(numero: 4, titulo: "Hermes, o gado e a lira")
 
@@ -538,9 +519,8 @@ _(Fonte: Hino Homérico a Hermes, 24–51 — dossiê, "Material para Você sabi
 
 #pagebreak()
 #fullbleed("04-hermes-o-gado-e-a-lira", "p. 22", [O bebê Hermes entregando a lira de casco de tartaruga a Apolo, à beira do rio Alfeu.])
-#pagebreak()
 
-#pagebreak()
+#pagebreak(weak: true)
 
 #chapter-title(numero: 5, titulo: "Hefesto: O trono de ouro")
 
@@ -554,7 +534,6 @@ E aprenderam a fazer fechos: fechos pequenos, fechos escondidos, fechos que abri
 
 #pagebreak()
 #fullbleed("05-hefesto-o-trono-de-ouro", "p. 24", [Hera no trono de ouro flutuando; Hefesto entrando com o martelo, ainda sem estender a mão; Dioniso e Ares ao fundo.])
-#pagebreak()
 Um dia chegou ao Olimpo um presente para Hera. Era um trono de ouro, o mais bonito que os deuses já tinham visto. Ninguém precisou perguntar quem tinha mandado: só existia um par de mãos assim no mundo inteiro.
 
 E dentro do ouro, onde ninguém enxergava, Hefesto tinha escondido uma pergunta: quem me mandou embora, que me peça para voltar.
@@ -588,18 +567,15 @@ Hefesto construiu os próprios apoios. Homero conta que ele fez, com as própria
 
 #glossario-do-capitulo[
 - _Hefesto_ (_Hḗphaistos_, "hê-FAIS-tos") — deus do fogo e das forjas; o melhor artesão do céu. Fazia as armas, os móveis e os palácios dos deuses.
-- _Forja_ — oficina onde se aquece o metal no fogo para dar forma a ele com o martelo.
+- _Forja_ — oficina onde se aquece o metal no fogo para dar forma a ele com o martelo, batendo na bigorna e segurando a peça em brasa com as _tenazes_, que são pinças grandes de ferro.
 - _Bigorna_ — bloco pesado de ferro sobre o qual o ferreiro bate no metal quente.
-- _Tenaz_ — pinça grande de ferro para segurar o metal em brasa sem se queimar.
 - _Tétis_ (_Thétis_, "TÉ-tis") — ninfa do mar que acolheu Hefesto na gruta. ⚠️ Não confundir com _Tétis, a Titânide_ (_Tēthýs_), do capítulo 10.
-- _Dioniso_ (_Diónysos_) — deus da vinha, da festa e do cortejo; carrega o tirso e um cacho de uvas.
-- _Tirso_ — bastão enfeitado de hera, com uma pinha na ponta, que Dioniso sempre leva.
-- _Ares_ (_Árēs_) — deus da guerra, sempre armado de elmo, lança e escudo.
-- _Olimpo_ — o monte mais alto da Grécia, onde moram os deuses.
+- _Dioniso_ (_Diónysos_) — deus da vinha, da festa e do cortejo; carrega um cacho de uvas e o _tirso_, um bastão enfeitado de hera com uma pinha na ponta.
+- _Olimpo_ — o monte mais alto da Grécia, onde moram os deuses. _6 verbetes ✔_ (teto R5.2 = 6; o capítulo tinha _9_ e foi podado na onda P4). _Tenaz_ e _Tirso_ não sumiram: foram _absorvidos_ pelos verbetes de _Forja_ e de _Dioniso_, que é como o teto se paga sem perder palavra difícil. _Ares_ saiu por estar ancorado no corrido ("Foi de armadura, foi de elmo, foi de lança").
 ]
 
 
-#pagebreak()
+#pagebreak(weak: true)
 
 #chapter-title(numero: 6, titulo: "Deméter e Perséfone")
 
@@ -667,9 +643,8 @@ Nos livros de hoje, Perséfone quase sempre come seis sementes de romã, uma par
 
 #pagebreak()
 #fullbleed("06-demeter-e-persefone", "p. 30", [Perséfone abraçada a Deméter, os pés ainda no ar; flores abrindo a partir do abraço.])
-#pagebreak()
 
-#pagebreak()
+#pagebreak(weak: true)
 
 #chapter-title(numero: 7, titulo: "Perseu e a Medusa: o escudo-espelho")
 
@@ -687,7 +662,6 @@ Então o rei deu um banquete e pediu um presente a cada convidado. Todos promete
 
 #pagebreak()
 #fullbleed("07-perseu-e-a-medusa", "p. 32", [Perseu de costas, olhando o reflexo da Medusa adormecida no escudo-espelho; a foice de adamante ainda baixa.])
-#pagebreak()
 — Então me traga a cabeça da Górgona — disse o rei.
 
 Perseu foi. E não foi sozinho.
@@ -728,7 +702,7 @@ Perseu fez Díctis rei de Sérifos.
 
 Depois devolveu o resto. As sandálias, o alforje e o elmo, a Hermes. A cabeça da Górgona, a Atena, que a prendeu bem no meio do escudo dela — e está lá até hoje.
 
-Ficou só com a história.
+Guardou só a história.
 
 
 #voce-sabia[
@@ -745,7 +719,7 @@ O cavalo com asas mais famoso do mundo nasceu bem aqui, nesta história. O poeta
 ]
 
 
-#pagebreak()
+#pagebreak(weak: true)
 
 #chapter-title(numero: 8, titulo: "Teseu e o Minotauro: o fio no labirinto")
 
@@ -761,7 +735,6 @@ Na vez em que aquilo tinha de acontecer outra vez, os pais de Atenas reclamaram 
 
 #pagebreak()
 #fullbleed("08-teseu-e-o-minotauro", "p. 36", [Teseu no coração do Labirinto, o fio na mão; a sombra do Minotauro projetada na parede.])
-#pagebreak()
 — Eu vou junto — disse ele.
 
 Não foi sorteado. Escolheu.
@@ -794,7 +767,7 @@ Egeu olhava o mar todo dia. Quando o navio apareceu no horizonte, a vela ainda e
 
 Contam que foi por isso que aquele mar ganhou o nome dele.
 
-Atenas ficou de luto e ficou de pé. E quem olha aquele mar até hoje diz o nome do rei que ficava olhando.
+Atenas ficou de luto e ficou de pé.
 
 
 #voce-sabia[
@@ -811,7 +784,7 @@ A dança de Teseu em Delos existiu de verdade. Os gregos a chamavam _a Grua_ (_g
 ]
 
 
-#pagebreak()
+#pagebreak(weak: true)
 
 #chapter-title(numero: 9, titulo: "Midas: O toque de ouro")
 
@@ -827,7 +800,6 @@ Dioniso era jovem, sem barba, de cabelos longos e coroa de hera. Quando viu Sile
 
 #pagebreak()
 #fullbleed("09-midas-o-toque-de-ouro", "p. 40", [Midas à mesa farta, o pão já virado ouro pálido a meio caminho da boca.])
-#pagebreak()
 — Peça o que você quiser. O que pedir, eu dou.
 
 Midas não pensou muito.
@@ -889,7 +861,7 @@ A história não terminou no rio. No mesmo poema, Ovídio conta que, numa disput
 ]
 
 
-#pagebreak()
+#pagebreak(weak: true)
 
 #chapter-title(numero: 10, titulo: "Do Caos ao Olimpo")
 
@@ -897,7 +869,7 @@ Antes de tudo, havia o Caos.
 
 Caos não quer dizer bagunça. Quer dizer abertura: uma fenda escancarada, um vazio enorme e escuro onde ainda não havia nada — e onde tudo ainda ia caber.
 
-Da abertura veio Gaia, a Terra de peito largo, que é chão firme para sempre. E Gaia, sozinha, gerou um filho do tamanho exato dela, para cobri-la inteira: Urano, o Céu estrelado. Depois gerou as montanhas, e depois o mar.
+Da abertura veio Gaia, a Terra de peito largo, assento firme de tudo o que existe. E Gaia, sozinha, gerou um filho do tamanho exato dela, para cobri-la inteira: Urano, o Céu estrelado. Depois gerou as montanhas, e depois o mar.
 
 Então Gaia e Urano tiveram filhos juntos.
 
@@ -911,7 +883,6 @@ Gaia ficou apertada por dentro, cheia de filhos que não podiam sair.
 
 #pagebreak()
 #fullbleed("10a-do-caos-abertura", "p. 44", [Gaia emergindo da terra até a cintura; Urano como o céu estrelado arqueado sobre ela.])
-#pagebreak()
 Então ela fabricou uma foice de adamante — pedra cinzenta, tão dura que nada quebra —, com dentes serrilhados, mostrou a foice aos filhos e perguntou quem tinha coragem. Todos ficaram calados. Só Cronos estendeu a mão e pegou.
 
 E naquela noite o Céu se afastou da Terra e nunca mais desceu. Ficou onde está até hoje, bem lá em cima.
@@ -926,7 +897,6 @@ O pai tinha empurrado os filhos para dentro da terra. Agora o filho empurrava os
 
 #pagebreak()
 #fullbleed("10b-do-caos-os-libertados", "p. 46", [Zeus, Posêidon e Hades libertando os Ciclopes e os Cem-Mãos; o raio recém-forjado, ainda quente.])
-#pagebreak()
 Quando o sexto estava para nascer, Reia foi pedir socorro a Gaia. E fez o que a Terra mandou: teve o bebê de noite, escondida numa gruta de Creta, e deixou o menino ali. Depois voltou para o marido com uma trouxa de panos nos braços.
 
 Dentro dos panos havia uma pedra do tamanho de um bebê.
@@ -937,15 +907,17 @@ O menino da gruta era Zeus, e cresceu longe do pai. Quando estava crescido, volt
 
 Primeiro saiu a pedra.
 
-Depois saíram os cinco, inteiros e vivos, do mesmo jeito que tinham entrado. E era essa a família: gente que cabe inteira dentro de alguém. Muito tempo depois, o próprio Zeus faria o que o pai fazia — e o que saiu dele saiu já crescido e já de armadura. Mas isso é outro capítulo, e você já leu.
+Depois saíram os cinco — Hera, Hades, Posêidon e as duas irmãs — inteiros e vivos, do mesmo jeito que tinham entrado.
 
 Agora eram seis contra os Titãs, e seis é pouco.
+
+Nessa família, um cabia inteiro dentro do outro. Muito tempo depois, o próprio Zeus faria o que o pai fazia — e o que saiu dele saiu já crescido e já de armadura.
 
 Zeus foi então até o lugar mais fundo debaixo da terra, onde Urano tinha acorrentado os Cem-Mãos, e soltou os três. Deu a eles néctar e ambrosia, a comida e a bebida dos deuses, até que ficassem fortes de novo. Coto, Briareu e Giges olharam a luz, que não viam havia tanto tempo, e disseram que lutariam.
 
 Zeus soltou também os Ciclopes.
 
-E os Ciclopes agradeceram do jeito que sabiam: acenderam a forja. Bateram naquelas bigornas até sair de lá o trovão, o relâmpago e o raio, e puseram o raio na mão de Zeus. Fizeram um tridente de três pontas e deram a Posêidon. E fizeram um elmo de deixar invisível quem o põe na cabeça, e deram a Hades — o mesmo elmo que, muitos e muitos anos depois, um rapaz chamado Perseu ia pedir emprestado.
+E os Ciclopes agradeceram do jeito que sabiam: acenderam a forja. Bateram naquelas bigornas até sair de lá o trovão, o relâmpago e o raio, e puseram o raio na mão de Zeus. Fizeram um tridente de três pontas e deram a Posêidon. E fizeram um elmo de deixar invisível quem o põe na cabeça, e deram a Hades — o mesmo elmo que, muitos e muitos anos depois, um rapaz chamado Perseu ia usar emprestado.
 
 A guerra durou dez anos inteiros.
 
@@ -973,14 +945,14 @@ O raio não nasceu com Zeus: foi fabricado. Quem o fez foram os Ciclopes, três 
 #glossario-do-capitulo[
 - _Caos_ (_Kháos_, "CA-os") — não é bagunça: é _abertura_, uma fenda escancarada. O vazio enorme que existia antes de tudo, e onde tudo coube depois.
 - _Gaia_ (_Gaîa_, "GÁI-a") — a Terra, e ao mesmo tempo uma deusa. Os poetas a chamam de "a de peito largo" e "o assento firme de todos". É ela quem dá conselho em toda esta história.
-- _Urano_ (_Ouranós_, "u-RA-no") — o Céu estrelado, filho de Gaia e depois companheiro dela. Do nome dele vem o nome do planeta Urano.
+- _bramir_ (_bra-MIR_) — dar um urro grave e comprido, como o de um bicho grande ou o de uma tempestade. Na guerra dos deuses, "a terra bramia".
 - _Cronos_ (_Krónos_, "CRO-nos") — o mais novo dos doze Titãs, pai de Zeus. ⚠️ Não é o Tempo: _Chronos_, com H, é outra palavra grega e outra figura. Confusão antiga, mas confusão.
 - _Cem-Mãos_ ou _Hecatônquiros_ (_Hekatónkheires_, "he-ca-TON-qui-ros") — Coto, Briareu e Giges: três gigantes com cem braços e cinquenta cabeças cada um. Primeiro prisioneiros, depois guardas da porta.
-- _Tártaro_ (_Tártaros_, "TÁR-ta-ro") — o lugar mais fundo que existe, tão abaixo da terra quanto a terra está abaixo do céu. É uma prisão, e _não_ é o mundo de baixo de Hades: são dois lugares diferentes. _6 verbetes ✔_ (teto R5.2 = 6). _Dedup verificada contra os capítulos 1–9:_ ficaram de fora _adamante_ (verbete único do cap. 7), _Olimpo_ (cap. 5), _Hades_, _Posêidon_, _tridente_ e _Deméter_ (caps. 2 e 6), _titânide_ (cap. 3). Ficaram de fora por estarem ancorados no corrido: _Ciclopes_ ("três ferreiros com um olho só no meio da testa"), _Reia_ ("a mulher dele"), _néctar e ambrosia_ ("a comida e a bebida dos deuses"), _Héstia_ (nomeada de passagem e sem capítulo), _Titãs_ ("doze irmãos enormes").
+- _Tártaro_ (_Tártaros_, "TÁR-ta-ro") — o lugar mais fundo que existe, tão abaixo da terra quanto a terra está abaixo do céu. É uma prisão, e _não_ é o mundo de baixo de Hades: são dois lugares diferentes. _6 verbetes ✔_ (teto R5.2 = 6). _Onda P4 (X5):_ entrou _bramir_ (a adequação O4 exigia âncora para "a terra bramia", e a tríade _fervia/bramia/rachava_ é intocável) e, para pagá-lo dentro do teto, saiu _Urano_ — que o corrido já ancora na própria linha em que o nomeia ("Urano, o Céu estrelado") e que o glossário definia com pouco mais do que isso. _Dedup verificada contra os capítulos 1–9:_ ficaram de fora _adamante_ (verbete único do cap. 7), _Olimpo_ (cap. 5), _Hades_, _Posêidon_, _tridente_ e _Deméter_ (caps. 2 e 6), _titânide_ (cap. 3). Ficaram de fora por estarem ancorados no corrido: _Ciclopes_ ("três ferreiros com um olho só no meio da testa"), _Reia_ ("a mulher dele"), _néctar e ambrosia_ ("a comida e a bebida dos deuses"), _Héstia_ (nomeada de passagem e sem capítulo), _Titãs_ ("doze irmãos enormes").
 ]
 
 
-#pagebreak()
+#pagebreak(weak: true)
 
 // ============================================================================
 // 6. APARATO PÓS-TEXTUAL (pp. 49–54) — corpo 9,5/12 pt, 2 colunas (X5)
@@ -998,41 +970,29 @@ O raio não nasceu com Zeus: foi fabricado. Quem o fez foram os Ciclopes, três 
 - _Hermes_ (Hermês) — mensageiro dos deuses e guia dos viajantes, jovem e sem barba. Carrega o _bastão de ouro de três ramos_ que Apolo lhe deu (a história está no capítulo 4) e sandálias com asas nos pés. _(Muito tempo depois, os gregos passaram a desenhar esse mesmo bastão com duas serpentes enroladas e a chamá-lo de _caduceu_.)_ ⚠️ _Verbete único do livro (X2):_ um objeto, um nome — _bastão de ouro_. O cap. 4 é a autoridade sobre ele; este verbete e a ilustração deste capítulo obedecem ao cap. 4.
 - _tília_ — árvore europeia de flores muito perfumadas, com que se faz chá de tília. Em inglês chama-se _lime tree_, e por isso muita gente a confunde com o limoeiro: _ela não dá limão nenhum._ Baucis virou tília.
 - _carvalho_ — árvore grande e de madeira dura, _a árvore sagrada de Zeus_. Filêmon virou carvalho.
-- _vime_ — vara fina e flexível, tirada de certos arbustos, com que se tecem cestos, cercas e paredes de casa simples. As paredes da casa de Baucis e Filêmon eram de vime.
-- _choupana_ — casa muito simples, feita de materiais do mato, como varas e palha.
-- _faia_ — árvore de madeira clara; dela se faziam copos e tigelas escavados.
-- _Frígia_ — região de colinas onde hoje fica a Turquia.
-- _grinalda_ — coroa de flores ou folhas, feita para pendurar ou para pôr na cabeça.
+- _vime_ — vara fina e flexível, tirada de certos arbustos, com que se tecem cestos, cercas e paredes de casa simples. As paredes da casa de Baucis e Filêmon eram de vime. _6 verbetes ✔_ (teto R5.2 = 6; o capítulo tinha _10_ e foi podado na onda P4, sem reabrir o texto). Saíram por estarem ancorados no corrido ou por serem palavra comum: _choupana_ (a casa já é descrita — "paredes de vime, telhado de junco"), _faia_ ("copos… de madeira de faia" — a faia entra como madeira e não precisa de botânica), _grinalda_ (o corrido a mostra pendurada no galho) e _Frígia_ (que passa a ser _linha do rodapé das pp. 52–53_, junto com a Frígia do cap. 9 — ver `apendices.md`).
 - _acrópole_ (_akrópolis_) — "cidade alta": o rochedo no alto de uma cidade grega, onde ficavam os templos. A de Atenas é a mais famosa de todas.
 - _Atena_ (Athēnâ) — deusa da sabedoria, dos ofícios e da guerra pensada. Nasceu da cabeça de Zeus, já adulta e armada. Anda com elmo, lança e escudo; seus bichos e plantas são a _coruja_ e a _oliveira_. Atenas leva o nome dela.
 - _Posêidon_ (Poseidôn) — deus do mar, irmão de Zeus. Carrega o _tridente_, com que abre a terra e agita as águas.
 - _tridente_ — lança de três pontas, usada de verdade por pescadores gregos. É o objeto que distingue Posêidon de Zeus, que são os dois barbados e parecidos.
 - _égide_ — o peitoral de Atena, franjado, com uma cabeça de monstro desenhada no meio. De onde veio essa cabeça, o capítulo de Perseu conta.
-- _oliveira_ — árvore de folhas prateadas que dá azeitona e azeite. Vive séculos, aguenta seca e brota de novo do toco.
-- _azeite_ — óleo tirado da azeitona. Na Grécia antiga servia para cozinhar, para passar no corpo e para _acender lamparina_: era comida e luz ao mesmo tempo.
-- _Cécrops_ (Kékrops) — o primeiro rei de Atenas. Diziam que ele tinha nascido da própria terra da cidade e que, por isso, era homem de cima e serpente de baixo.
-- _testemunha_ — quem estava presente e viu uma coisa acontecer, e pode contar depois o que viu.
+- _Cécrops_ (Kékrops) — o primeiro rei de Atenas. Diziam que ele tinha nascido da própria terra da cidade e que, por isso, era homem de cima e serpente de baixo. _6 verbetes ✔_ (teto R5.2 = 6; o capítulo tinha _9_ e foi podado na onda P4). Saíram por estarem ancorados no corrido: _oliveira_ ("Era uma oliveira, e já vinha carregada… quando se enterrava um galho dela na terra, nascia outra"), _azeite_ ("azeite para cozinhar, azeite para acender lamparina") e _testemunha_ ("contou o que tinha visto com os próprios olhos").
 - _Delos_ (_DÉ-los_) — ilha pequena e rochosa do mar Egeu, onde nasceram Ártemis e Apolo. Não confundir com _Delfos_, que é outro lugar.
 - _Astéria_ (_as-TÉ-ri-a_) — "a estrelada": o nome da ilha enquanto ela ainda vagava pelo mar.
 - _Leto_ (_LÉ-to_) — titânide, filha de Céos e Febe, mãe de Ártemis e Apolo. Em latim é chamada Latona.
 - _Ártemis_ (_ÁR-te-mis_) — deusa das florestas, dos animais selvagens e da caça; carrega arco e aljava e nunca quis se casar. Irmã gêmea de Apolo, e a mais velha por alguns minutos.
 - _Apolo_ (_a-PO-lo_) — deus da música, do arco de prata e dos oráculos: é ele que diz às pessoas a vontade de Zeus. Também chamado _Febo_, "o brilhante".
-- _lira_ (_LI-ra_) — instrumento de cordas dedilhadas, tocado com os dedos ou com uma palheta; o instrumento de Apolo.
-- _palmeira_ — a árvore em que Leto se apoiou. Séculos depois, ainda era mostrada aos visitantes de Delos.
-- _titânide_ (_ti-TÃ-ni-de_) — mulher da geração dos Titãs, anterior aos deuses do Olimpo. Leto é uma delas.
+- _titânide_ (_ti-TÃ-ni-de_) — mulher da geração dos Titãs, anterior aos deuses do Olimpo. Leto é uma delas. _6 verbetes ✔_ (teto R5.2 = 6; o capítulo tinha _8_ e foi podado na onda P4). Saíram: _lira_ — por _dedup_ (um termo, um verbete: a autoridade é o cap. 4, _lira de tartaruga_) — e _palmeira_, ancorada no corrido ("pôs os braços em volta de uma palmeira") e sem carga de mito a explicar.
 - _Maia_ (_MÁI-a_) — ninfa, filha do titã Atlas; morava sozinha numa caverna do monte Cilene e é a mãe de Hermes.
 - _lira de tartaruga_ ou _chélys_ (_QUÉ-lis_) — a lira feita com um casco de tartaruga por caixa de som. Foi a primeira de todas.
 - _ninfa_ (_NIN-fa_) — moça divina que vive num rio, numa montanha, numa floresta ou no mar. Não é deusa do Olimpo, mas também não morre.
 - _arauto_ (_a-RAU-to_) — quem leva e anuncia os recados de alguém importante. Hermes viria a ser o arauto dos deuses; o bastão de ouro é a marca do ofício. _4 verbetes ✔_ (teto R5.2 = 6). Saíram na poda da onda P2, por estarem ancorados no corrido: _Cilene_ ("numa caverna do monte Cilene"), _rebanho_ ("o cuidado de todos os rebanhos: dali em diante Hermes seria o deus dos pastores") e o verbete duplicado de _Hermes_.
 - _Hefesto_ (_Hḗphaistos_, "hê-FAIS-tos") — deus do fogo e das forjas; o melhor artesão do céu. Fazia as armas, os móveis e os palácios dos deuses.
-- _Forja_ — oficina onde se aquece o metal no fogo para dar forma a ele com o martelo.
+- _Forja_ — oficina onde se aquece o metal no fogo para dar forma a ele com o martelo, batendo na bigorna e segurando a peça em brasa com as _tenazes_, que são pinças grandes de ferro.
 - _Bigorna_ — bloco pesado de ferro sobre o qual o ferreiro bate no metal quente.
-- _Tenaz_ — pinça grande de ferro para segurar o metal em brasa sem se queimar.
 - _Tétis_ (_Thétis_, "TÉ-tis") — ninfa do mar que acolheu Hefesto na gruta. ⚠️ Não confundir com _Tétis, a Titânide_ (_Tēthýs_), do capítulo 10.
-- _Dioniso_ (_Diónysos_) — deus da vinha, da festa e do cortejo; carrega o tirso e um cacho de uvas.
-- _Tirso_ — bastão enfeitado de hera, com uma pinha na ponta, que Dioniso sempre leva.
-- _Ares_ (_Árēs_) — deus da guerra, sempre armado de elmo, lança e escudo.
-- _Olimpo_ — o monte mais alto da Grécia, onde moram os deuses.
+- _Dioniso_ (_Diónysos_) — deus da vinha, da festa e do cortejo; carrega um cacho de uvas e o _tirso_, um bastão enfeitado de hera com uma pinha na ponta.
+- _Olimpo_ — o monte mais alto da Grécia, onde moram os deuses. _6 verbetes ✔_ (teto R5.2 = 6; o capítulo tinha _9_ e foi podado na onda P4). _Tenaz_ e _Tirso_ não sumiram: foram _absorvidos_ pelos verbetes de _Forja_ e de _Dioniso_, que é como o teto se paga sem perder palavra difícil. _Ares_ saiu por estar ancorado no corrido ("Foi de armadura, foi de elmo, foi de lança").
 - _Perséfone_ (_Persephónē_, "per-SÉ-fo-ne") — filha de Deméter; passa uma parte do ano no mundo de baixo e o resto com a mãe. Os gregos também a chamavam de _Coré_, "a Menina". ⚠️ Proparoxítona: nunca "perse-FÔ-ne".
 - _Deméter_ (_Dēmḗtēr_, "de-MÉ-ter") — deusa do grão e de tudo o que cresce da terra; carrega espigas de trigo e, nesta história, duas tochas.
 - _Hades_ (_Háidēs_, "Á-des") — irmão de Zeus, o dono do mundo de baixo. O poema o chama de _Hospedeiro de Muitos_, o nome de quem recebe muita gente em casa.
@@ -1057,21 +1017,21 @@ O raio não nasceu com Zeus: foi fabricado. Quem o fez foram os Ciclopes, três 
 - _Azinheira_ — árvore parecida com o carvalho, de folha dura e sempre verde; é dela que Midas arranca o raminho. _4 verbetes ✔_ (teto R5.2 = 6). Saíram na poda da onda P3: _Dioniso_ (verbete único do livro, já impresso pelo cap. 5 — dedup), _Frígia_ (já impresso pelo cap. 1; o barrete migrou para o verbete de Midas), _sátiro_ (palavra difícil usada só para definir outra palavra difícil — o verbete de Sileno foi reescrito sem ela), _Sardes_ e _nascente_ (ancorados no corrido) e _guirlanda_ (que _não aparece_ no texto: lá são "correntes de flores").
 - _Caos_ (_Kháos_, "CA-os") — não é bagunça: é _abertura_, uma fenda escancarada. O vazio enorme que existia antes de tudo, e onde tudo coube depois.
 - _Gaia_ (_Gaîa_, "GÁI-a") — a Terra, e ao mesmo tempo uma deusa. Os poetas a chamam de "a de peito largo" e "o assento firme de todos". É ela quem dá conselho em toda esta história.
-- _Urano_ (_Ouranós_, "u-RA-no") — o Céu estrelado, filho de Gaia e depois companheiro dela. Do nome dele vem o nome do planeta Urano.
+- _bramir_ (_bra-MIR_) — dar um urro grave e comprido, como o de um bicho grande ou o de uma tempestade. Na guerra dos deuses, "a terra bramia".
 - _Cronos_ (_Krónos_, "CRO-nos") — o mais novo dos doze Titãs, pai de Zeus. ⚠️ Não é o Tempo: _Chronos_, com H, é outra palavra grega e outra figura. Confusão antiga, mas confusão.
 - _Cem-Mãos_ ou _Hecatônquiros_ (_Hekatónkheires_, "he-ca-TON-qui-ros") — Coto, Briareu e Giges: três gigantes com cem braços e cinquenta cabeças cada um. Primeiro prisioneiros, depois guardas da porta.
-- _Tártaro_ (_Tártaros_, "TÁR-ta-ro") — o lugar mais fundo que existe, tão abaixo da terra quanto a terra está abaixo do céu. É uma prisão, e _não_ é o mundo de baixo de Hades: são dois lugares diferentes. _6 verbetes ✔_ (teto R5.2 = 6). _Dedup verificada contra os capítulos 1–9:_ ficaram de fora _adamante_ (verbete único do cap. 7), _Olimpo_ (cap. 5), _Hades_, _Posêidon_, _tridente_ e _Deméter_ (caps. 2 e 6), _titânide_ (cap. 3). Ficaram de fora por estarem ancorados no corrido: _Ciclopes_ ("três ferreiros com um olho só no meio da testa"), _Reia_ ("a mulher dele"), _néctar e ambrosia_ ("a comida e a bebida dos deuses"), _Héstia_ (nomeada de passagem e sem capítulo), _Titãs_ ("doze irmãos enormes").
+- _Tártaro_ (_Tártaros_, "TÁR-ta-ro") — o lugar mais fundo que existe, tão abaixo da terra quanto a terra está abaixo do céu. É uma prisão, e _não_ é o mundo de baixo de Hades: são dois lugares diferentes. _6 verbetes ✔_ (teto R5.2 = 6). _Onda P4 (X5):_ entrou _bramir_ (a adequação O4 exigia âncora para "a terra bramia", e a tríade _fervia/bramia/rachava_ é intocável) e, para pagá-lo dentro do teto, saiu _Urano_ — que o corrido já ancora na própria linha em que o nomeia ("Urano, o Céu estrelado") e que o glossário definia com pouco mais do que isso. _Dedup verificada contra os capítulos 1–9:_ ficaram de fora _adamante_ (verbete único do cap. 7), _Olimpo_ (cap. 5), _Hades_, _Posêidon_, _tridente_ e _Deméter_ (caps. 2 e 6), _titânide_ (cap. 3). Ficaram de fora por estarem ancorados no corrido: _Ciclopes_ ("três ferreiros com um olho só no meio da testa"), _Reia_ ("a mulher dele"), _néctar e ambrosia_ ("a comida e a bebida dos deuses"), _Héstia_ (nomeada de passagem e sem capítulo), _Titãs_ ("doze irmãos enormes").
 ])
 
 // ---- p. 51 · De onde vêm estas histórias (fontes + bibliografia comprimida — R5.3) ----
 #pagina-aparato("De onde vêm estas histórias", [
-  _Uma página para quem lê em voz alta. Cada capítulo deste livro nasceu de um poeta com nome e data. Aqui está qual, e o que mudamos pelo caminho._
+  _Cada capítulo deste livro nasceu de um poeta com nome e data. Aqui está qual — e o que mudamos pelo caminho._
 
 _1 · Baucis e Filêmon._ A única versão conservada é latina: Ovídio, _Metamorfoses_ VIII, onde os dois deuses são _Júpiter e Mercúrio_. Grafar _Zeus_ e _Hermes_ é decisão editorial deste livro, não dado da fonte. O lastro grego é a _teoxenia_ de Homero (_Odisseia_ XVII.485–488) e o culto de _Zeus Xénios_. No original a aldeia é destruída; aqui, o vale vira lago. _(57)_
 
-_2 · A disputa por Atenas._ Seguimos _Apolodoro_ (III.14.1), em que a fonte é de água salgada e o veredito se dá _por testemunho de Cécrops_ — a comparação dos presentes é tradição ovidiana. O cavalo (Virgílio) e o voto dos cidadãos (Varrão _apud_ Agostinho) foram vistos e não adotados. A planície inundada é a _Triásia_; o culto conjunto dos dois deuses no _Erecteion_ é histórico. _(59)_
+_2 · A disputa por Atenas._ Seguimos _Apolodoro_ (III.14.1), em que a fonte é de água salgada e o veredito se dá _por testemunho de Cécrops_ — a comparação dos presentes é tradição ovidiana. O cavalo (Virgílio) e o voto dos cidadãos (Varrão) foram vistos e não adotados. A planície inundada é a _Triásia_; o culto conjunto dos dois deuses no _Erecteion_ é histórico. _(59)_
 
-_3 · Leto e a ilha que ninguém queria._ _Hino Homérico a Apolo_, a parte délia. O oráculo que Apolo promete "aqui" é o de _Delos_; o oráculo famoso, o de _Delfos_, fica no continente e vem depois, quando o deus mata a serpente Píton e toma o lugar dela. Delos e Delfos são duas casas do mesmo deus. A ilha errante chamava-se _Astéria_. _(55)_
+_3 · Leto e a ilha que ninguém queria._ _Hino Homérico a Apolo_, a parte délia. O oráculo que Apolo promete "aqui" é o de _Delos_; o oráculo famoso, o de _Delfos_, fica no continente e vem depois, quando o deus mata a serpente Píton e toma o lugar dela. A ilha errante chamava-se _Astéria_. _(46)_
 
 _4 · O bebê, o gado e a lira._ _Hino Homérico a Hermes_. No poema, Hermes não devolve o rebanho inteiro: _duas vacas são abatidas_ junto ao fogo e repartidas em _doze porções_, uma para cada deus — a primeira oferenda do mundo. Nosso texto silencia a cena e, por isso, também não afirma que todas voltaram. O juramento falso do bebê ficou fora. _(54)_
 
@@ -1081,23 +1041,23 @@ _6 · Deméter e Perséfone._ _Hino Homérico a Deméter_. _Uma_ semente de rom�
 
 _7 · Perseu e a Medusa._ _Apolodoro_ (2.4.2), inclusive a foice de _adamante_ e a mão de Atena. A variante de Ovídio — a Medusa castigada por Atena — foi vista e _não adotada_: é romana, tardia, e faz da vítima uma culpada. O escudo: Apolodoro diz apenas "um escudo de bronze"; foram os pintores de vasos que fizeram dele o escudo de Atena. Seguimos os pintores. _(59)_
 
-_8 · Teseu e o Minotauro._ _Apolodoro_ (Epít. 1.7–1.11), _Higino_ (_Fábulas_ 41–43) e _Plutarco_ (_Vida de Teseu_ 15–22, de onde vem a dança da Grua). O tributo é _anual_ em Higino e _de nove em nove anos_ em Plutarco — por isso escrevemos "de tempos em tempos". Sobre Ariadne em Naxos as fontes divergem: casamento com Dioniso (Hesíodo, Apolodoro), abandono (Higino), fuga (Plutarco). _(56)_
+_8 · Teseu e o Minotauro._ _Apolodoro_ (Epít. 1.7–1.11), _Higino_ (_Fábulas_ 41–43) e _Plutarco_ (_Vida de Teseu_ 15–22, de onde vem a dança da Grua). O tributo é _anual_ em Higino e _de nove em nove anos_ em Plutarco — por isso escrevemos "de tempos em tempos". As versões sobre Ariadne em Naxos divergem entre si, e a divergência está respondida nas pp. 52–53. _(46)_
 
 _9 · O toque de ouro._ Ovídio, _Metamorfoses_ XI.85–145 — inclusive a água que vira ouro nas mãos do rei. _A filha transformada em estátua não é grega:_ é invenção de Nathaniel Hawthorne (1851), e não entra aqui. A variante em que Midas captura Sileno embriagando-o numa fonte (Heródoto VIII.138, Xenofonte I.2.13) foi vista e não adotada. _(50)_
 
-_10 · Do Caos ao Olimpo._ _(a redigir na onda P4 — 60 palavras reservadas.)_
+_10 · Do Caos ao Olimpo._ _Hesíodo_, _Teogonia_ — mas não só. A _partilha por sorteio_ é de _Homero_ (_Il._ XV.187–193); os _presentes dos Ciclopes_ e a _devolução dos irmãos_ vêm de _Apolodoro_ (1.2.1); todo o resto é Hesíodo. Duas costuras nossas, declaradas: em Apolodoro quem dá a Cronos o que o faz devolver é _Métis_, não Zeus — o livro comprime a mecânica e _não a nomeia_, mas também não atribui o gesto a Zeus; e a sequência _aclamação_ (Hesíodo 881–885) → _sorteio_ (Homero) é _harmonização deste livro_, não sequência de um texto único. A castração de Urano fica em elipse. _(70)_
 
   === Para ler mais (e para ler junto)
 
-  Os quatro poetas deste livro são _Homero_ (ou melhor: a tradição que leva esse nome), _Hesíodo_, os autores anônimos dos _Hinos Homéricos_ e o romano _Ovídio_. Os três primeiros escreveram em grego entre os séculos VIII e VI a.C.; Ovídio, em latim, na virada para a nossa era — sete séculos depois, e é bom lembrar disso quando ele conta uma história grega. A eles somam-se dois compiladores tardios de que ninguém escapa: _Apolodoro_ (a _Biblioteca_, séc. I–II d.C.) e _Higino_, além do viajante _Pausânias_, que no séc. II d.C. percorreu a Grécia anotando o que via nos templos — e é por isso que ele aparece tanto nas linhas acima: às vezes a única testemunha de um mito é uma pintura que ele descreveu.
+  Os quatro poetas deste livro são _Homero_ (ou melhor: a tradição que leva esse nome), _Hesíodo_, os autores anônimos dos _Hinos Homéricos_ e o romano _Ovídio_ — os três primeiros em grego, entre os séculos VIII e VI a.C.; Ovídio em latim, sete séculos depois, e é bom lembrar disso quando ele conta uma história grega. A eles somam-se dois compiladores tardios, _Apolodoro_ (a _Biblioteca_, séc. I–II d.C.) e _Higino_, e o viajante _Pausânias_: às vezes a única testemunha de um mito é uma pintura que ele descreveu.
 
-Em português, as traduções que recomendamos ao adulto curioso são a _Teogonia_ de Hesíodo por _Jaa Torrano_ (Iluminuras), a _Odisseia_ e a _Ilíada_ por _Frederico Lourenço_ (Penguin/ Companhia das Letras) ou por _Carlos Alberto Nunes_ (Hedra), os _Hinos Homéricos_ por _Ordep Serra_ (Odysseus) e as _Metamorfoses_ de Ovídio por _Domingos Lucas Dias_ (Ed. 34). Nenhuma linha deste livro foi traduzida dessas edições: os capítulos foram _recontados a partir do enredo_, e as citações eventuais vêm de traduções em domínio público.
-
-Para consulta rápida e confiável na internet, em inglês: _Theoi Project_ (theoi.com), que reúne as passagens antigas mito a mito, e a _World History Encyclopedia_ (worldhistory.org). Para as imagens: o acervo _Open Access do Metropolitan Museum_ (metmuseum.org), de onde vêm as referências de cerâmica ática que orientaram a arte destas páginas.
+Em português, recomendamos ao adulto curioso a _Teogonia_ de Hesíodo por _Jaa Torrano_ (Iluminuras), a _Odisseia_ e a _Ilíada_ por _Frederico Lourenço_ (Companhia das Letras), os _Hinos Homéricos_ por _Ordep Serra_ (Odysseus) e as _Metamorfoses_ de Ovídio por _Domingos Lucas Dias_ (Ed. 34). Nenhuma linha deste livro foi traduzida dessas edições: os capítulos foram _recontados a partir do enredo_.
 
 E, se a criança quiser mais depois de fechar o livro: os mitos gregos não têm versão oficial. Cada poeta contou do seu jeito, e discordar deles é uma tradição de três mil anos.
 
-_(~300 palavras ✔)_
+⚠️ _Movido para o colofão (p. 54) na onda P4, por prova de composição:_ o parágrafo de consulta na internet (_Theoi Project_, theoi.com · _World History Encyclopedia_, worldhistory.org) e o crédito do acervo _Open Access do Metropolitan Museum_ (metmuseum.org), de onde vêm as referências de cerâmica ática que orientaram a arte destas páginas. O crédito de imagem é matéria de colofão, e a p. 51 não tinha folga para ele. _Vinculante ao `mito-diagramador`: estas linhas não podem sumir do livro._
+
+_(bibliografia geral: 203 palavras — comprimida na onda P4 para a seção caber na p. 51; ver a prova de composição no gate)_
 ])
 
 // ---- pp. 52–53 · Perguntas que as crianças fazem (R5.3) ----
@@ -1116,7 +1076,7 @@ _— Eles morreram no fim?_ Eles ficaram velhinhos, muito velhinhos, e viraram d
 
 _— E as pessoas, quando o mar subiu?_ O mar cobriu a planície do lado da cidade, onde tem plantação e não tem casa, e depois baixou. As pessoas estavam lá em cima, no rochedo.
 
-_— Ela saiu mesmo da cabeça de Zeus?_ Saiu — já crescida e já de armadura. Como uma pessoa inteira cabe dentro de uma cabeça é justamente o que o último capítulo do livro conta.
+_— Ela saiu mesmo da cabeça de Zeus?_ Saiu — já crescida e já de armadura. Nessa família cabe gente inteira dentro de gente: o último capítulo do livro mostra de onde vem esse costume.
 
 _— Posêidon ficou sem nada?_ Não. A fonte dele ficou lá em cima, guardada dentro de um templo, e os atenienses cuidaram das duas coisas. Perder a cidade não é o mesmo que ser posto para fora dela.
 
@@ -1172,6 +1132,16 @@ _— Por que ele pediu uma coisa dessas?_ Porque não pensou muito. Todo mundo j
 
 _— A menina que virou estátua de ouro não está aqui?_ Não, e não está de propósito: essa parte não é grega. Foi um escritor americano que a inventou, quase dois mil anos depois. No poema grego, o que vira ouro é a comida.
 
+=== Capítulo 10 — Do Caos ao Olimpo
+
+_— Os irmãos não morreram lá dentro?_ Não. Eles saíram inteiros e vivos, do mesmo jeito que tinham entrado — e um deles é o Hades do elmo, e outro é o Posêidon do tridente. Nesta história ninguém morre: as pessoas ficam guardadas em algum lugar até serem soltas.
+
+_— O que Cronos fez com a foice?_ Ele separou o Céu da Terra, e o Céu nunca mais desceu. Foi um golpe, e a história antiga conta esse golpe com detalhes que este livro não conta — porque o que importa para o mito é o resultado: o mundo passou a ter espaço no meio, e é nesse espaço que tudo o que existe cabe. _(Se a criança insistir: "ele machucou o pai, e o pai foi embora para cima e ficou lá." Não é preciso mais do que isso, e não é mentira.)_
+
+_— Por que Zeus dividiu, se tinha ganhado sozinho?_ Porque ele não ganhou sozinho — ganhou porque soltou os Cem-Mãos e os Ciclopes, e eles é que viraram a guerra. Quem venceu prendendo foi o pai dele e o avô dele, e os dois perderam o lugar.
+
+_Nota a quem lê em voz alta — onde parar._ O capítulo 10 é o mais longo do livro (seis páginas) e tem _dois cortes seguros de sessão_: depois de _"Ficou onde está até hoje, bem lá em cima."_ e depois da devolução dos cinco irmãos. ⚠️ _Nunca pare na pedra engolida_ — é o único ponto do livro em que a página vira com uma criança dentro de alguém.
+
   === O que mudamos, e por quê
 
   #set text(size: 8.5pt)
@@ -1196,6 +1166,12 @@ _— A menina que virou estátua de ouro não está aqui?_ Não, e não está de
 - _Cap. 9_ — no poema, Sileno está pesado de vinho; aqui, só de cansaço.
 - _Cap. 9_ — o vinho da mesa virou água, que é o que Ovídio também transforma em ouro.
 - _Cap. 9_ — as orelhas de burro saíram da narrativa e ficaram no box.
+- _Cap. 10_ — a castração de Urano ficou em elipse: o livro entrega a foice aceita e corta.
+- _Cap. 10_ — do sangue de Urano nascem, na _Teogonia_, as _Erínias_, os _Gigantes_ e as
+- _Cap. 10_ — _Métis_, que em Apolodoro dá a Cronos o que o faz devolver os filhos, não é
+- _Cap. 10_ — Zeus é _aclamado_ pelos deuses (Hesíodo) e só depois os três irmãos
+- _Cap. 10_ — nem "veneno", nem "droga", nem "vomitar" aparecem no livro.
+- _Caps. 1 e 9_ — as duas histórias se passam na _Frígia_, a mesma região de colinas onde
 ])
 
 // ---- p. 54 · Colofão ----

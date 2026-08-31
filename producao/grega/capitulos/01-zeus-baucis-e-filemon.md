@@ -2,7 +2,9 @@
 
 > Tipo: **específico** · Dossiê: `dossies/dossie-zeus-baucis-e-filemon.md` ·
 > Teto vigente (livro-spec Rev. 4): **500–600 palavras** de texto corrido + **1 box, máx. 80**.
-> **Contagem declarada: texto corrido = 583 palavras · box "Você sabia?" = 74 palavras.** ✔
+> **Contagem declarada (recontada na onda P4, R4.4 corrigida): texto corrido = 594 palavras ·
+> box "Você sabia?" = 74 palavras.** ✔ (era 583; +11 palavras da **plantação do raio**, F1 da
+> onda P4 — margem restante sobre o teto de 600: **6 palavras**.)
 > **Ilustração: 1 full-bleed, p. 10** (última página do bloco 7–10 — a metamorfose é a batida
 > final do texto, então a regra de posicionamento do livro-spec Rev. 4 é respeitada).
 > **Regra de contagem (livro-spec Rev. 4):** contam-se as palavras separadas por espaço no
@@ -49,7 +51,7 @@ Correu para a esquerda, correu para a direita, passou debaixo do banco e saiu pe
 
 — Deixem ele em paz — disseram os hóspedes. — Nós somos deuses.
 
-Eram Zeus e Hermes. Tinham batido em mil portas, e uma só abriu.
+Eram Zeus e Hermes. Quando Zeus falou, um trovão respondeu longe: o raio era dele. Tinham batido em mil portas, e uma só abriu.
 
 — Venham conosco. Subam o monte.
 
@@ -169,10 +171,13 @@ transformação**.
   carvalho.
 - **vime** — vara fina e flexível, tirada de certos arbustos, com que se tecem cestos, cercas
   e paredes de casa simples. As paredes da casa de Baucis e Filêmon eram de vime.
-- **choupana** — casa muito simples, feita de materiais do mato, como varas e palha.
-- **faia** — árvore de madeira clara; dela se faziam copos e tigelas escavados.
-- **Frígia** — região de colinas onde hoje fica a Turquia.
-- **grinalda** — coroa de flores ou folhas, feita para pendurar ou para pôr na cabeça.
+
+**6 verbetes ✔** (teto R5.2 = 6; o capítulo tinha **10** e foi podado na onda P4, sem reabrir o
+texto). Saíram por estarem ancorados no corrido ou por serem palavra comum: **choupana** (a
+casa já é descrita — "paredes de vime, telhado de junco"), **faia** ("copos… de madeira de
+faia" — a faia entra como madeira e não precisa de botânica), **grinalda** (o corrido a mostra
+pendurada no galho) e **Frígia** (que passa a ser **linha do rodapé das pp. 52–53**, junto com
+a Frígia do cap. 9 — ver `apendices.md`).
 
 ## Notas do escritor (para o gate da Fase 2)
 
@@ -224,6 +229,15 @@ foi alterado, e nenhuma batida 🔒 foi tocada.
 | 7 | Cena da ilustração reenquadrada para **meia encosta**, em três planos | cético O3 | A cena antiga punha a casa "acima e atrás" de quem tinha subido o monte — impossível |
 | 8 | Cortada a "semente do fim" (carvalho e tília jovens) da cena; ficam só na viñeta | cético O3 | Antecipava a metamorfose final três páginas antes de o texto chegar nela |
 | 9 | Declarado o teto de **5 figuras nítidas** (livro-spec Rev. 4) | spec | 5/5 exatos: Baucis, Filêmon, Zeus, Hermes, ganso |
+
+**Onda P4 (fechamento do livro).** (12) **F1 — o raio plantado no corrido:** *"Quando Zeus
+falou, um trovão respondeu longe: o raio era dele."* (+11 palavras). Motivo: `grep raio` nos
+caps. 1–9 dava **zero**, e sem isso o box do cap. 10 ("os três objetos saíram da mesma forja")
+e a última linha do livro pediam à criança que reconhecesse um objeto que o livro nunca lhe
+mostrou. Escolhido o cap. 1 porque é a **primeira aparição de Zeus** e porque o pagamento no
+cap. 10 fica com a distância máxima. ⚠️ **A proibição visual continua valendo**: o raio é
+**apenas insinuado como luz**, nunca empunhado, nesta e em qualquer página deste capítulo — o
+raio entra no **texto**, não na mão. (13) Glossário podado de 10 para 6 (R5.2).
 
 **Duas correções entraram depois, na rodada P2–P3** (as únicas alterações deste capítulo já
 gateado): (10) o **verbete e a imagem do bastão de Hermes** passam a obedecer ao cap. 4 —

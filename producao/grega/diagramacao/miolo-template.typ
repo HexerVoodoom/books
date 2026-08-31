@@ -18,8 +18,8 @@
 // margens de zona-de-texto: medidas a partir da borda da PÁGINA (que já inclui a
 // sangria de 3 mm); logo toda margem abaixo tem embutido o mínimo de 3 mm de sangria
 // + 10 mm de margem de segurança do pipeline. A margem interna (lombada) é maior.
-#let MARGEM-MIOLO = (inside: 27mm, outside: 21mm, top: 21mm, bottom: 25mm)
-#let MARGEM-APARATO = (inside: 24mm, outside: 18mm, top: 18mm, bottom: 20mm)
+#let MARGEM-MIOLO = (inside: 24mm, outside: 18mm, top: 18mm, bottom: 22mm)
+#let MARGEM-APARATO = (inside: 22mm, outside: 16mm, top: 16mm, bottom: 18mm)
 
 // ---------------------------------------------------------------------------
 // 1. PALETA (guia-de-estilo.md §2)
@@ -41,7 +41,7 @@
 #let FONTE-CORPO = "DejaVu Sans"
 
 #set text(font: FONTE-CORPO, size: 14pt, lang: "pt", region: "BR", fill: NEGRO-VERNIZ)
-#set par(leading: 0.38em, justify: true, first-line-indent: 0pt)
+#set par(leading: 0.38em, justify: true, first-line-indent: 0pt, spacing: 0.4em)
 #set page(width: PAGE, height: PAGE, fill: PAPEL, margin: MARGEM-MIOLO, numbering: none)
 
 // ---------------------------------------------------------------------------
@@ -86,50 +86,43 @@
 
 // --- 3.2 Abertura de capítulo: título + friso ornamental + capitular simples ---
 #let chapter-title(numero: 0, titulo: "") = {
-  v(4pt)
   line(length: 100%, stroke: 1.4pt + TERRACOTA)
-  v(2pt)
+  v(1pt)
   line(length: 100%, stroke: 0.6pt + OCRE)
-  v(10pt)
-  text(font: FONTE-DISPLAY, size: 11pt, fill: OCRE, tracking: 1.5pt)[CAPÍTULO #numero]
-  v(4pt)
-  text(font: FONTE-DISPLAY, size: 24pt, weight: "bold", fill: TERRACOTA-ESCURA)[#titulo]
-  v(4pt)
+  v(6pt)
+  text(font: FONTE-DISPLAY, size: 10pt, fill: OCRE, tracking: 1.5pt)[CAPÍTULO #numero]
+  v(2pt)
+  text(font: FONTE-DISPLAY, size: 19pt, weight: "bold", fill: TERRACOTA-ESCURA)[#titulo]
+  v(2pt)
   line(length: 22%, stroke: 1pt + TERRACOTA)
-  v(14pt)
+  v(8pt)
 }
 
 // --- 3.3 Box "Você sabia?" — mesma posição/título em toda a série ---
 #let voce-sabia(body) = {
-  v(10pt)
+  v(6pt)
   block(
-    width: 100%, fill: CREME, stroke: 1pt + OCRE, radius: 3pt, inset: 12pt,
+    width: 100%, fill: CREME, stroke: 1pt + OCRE, radius: 3pt, inset: 8pt,
   )[
-    #text(font: FONTE-DISPLAY, size: 13pt, weight: "bold", fill: TERRACOTA-ESCURA)[Você sabia?]
-    #v(4pt)
-    #set text(size: 11pt)
-    #set par(leading: 0.7em)
+    #text(font: FONTE-DISPLAY, size: 12pt, weight: "bold", fill: TERRACOTA-ESCURA)[Você sabia?]
+    #v(2pt)
+    #set text(size: 10.5pt)
+    #set par(leading: 0.4em, spacing: 0.3em)
     #body
   ]
-  v(6pt)
 }
 
-// --- 3.4 Glossário do capítulo (lista compacta, some no aparato geral também) ---
-#let glossario-do-capitulo(body) = {
-  v(6pt)
-  block(width: 100%, inset: (top: 4pt))[
-    #line(length: 30%, stroke: 0.4pt + OCRE)
-    #v(4pt)
-    #text(font: FONTE-DISPLAY, size: 9.5pt, weight: "bold", fill: OCRE, tracking: 1pt)[PALAVRAS DESTE CAPÍTULO — ver glossário, pp. 49–50]
-  ]
-}
+// --- 3.4 Glossário do capítulo: dispensado no corpo do capítulo — o glossário
+//        único e sem duplicatas mora nas pp. 49–50 (livro-spec R5.2). Mantido
+//        como função no-op para não quebrar chamadas herdadas do template.
+#let glossario-do-capitulo(body) = { none }
 
 // --- 3.5 Página de aparato: corpo 9,5/12 pt, 2 colunas (livro-spec X5) ---
 #let pagina-aparato(titulo, body, numero: none) = {
   pagebreak(weak: true)
   set page(margin: MARGEM-APARATO, numbering: none)
   set text(size: 9.5pt)
-  set par(leading: 0.26em, justify: true)
+  set par(leading: 0.26em, justify: true, spacing: 0.28em)
   if titulo != none {
     text(font: FONTE-DISPLAY, size: 15pt, weight: "bold", fill: TERRACOTA-ESCURA)[#titulo]
     v(8pt)

@@ -69,14 +69,16 @@ Luz: facho quente vindo de trás de Hefesto (a forja que ficou) contra o ouro fr
 ## Termos para o glossário
 
 - **Hefesto** (*Hḗphaistos*, "hê-FAIS-tos") — deus do fogo e das forjas; o melhor artesão do céu. Fazia as armas, os móveis e os palácios dos deuses.
-- **Forja** — oficina onde se aquece o metal no fogo para dar forma a ele com o martelo.
+- **Forja** — oficina onde se aquece o metal no fogo para dar forma a ele com o martelo, batendo na bigorna e segurando a peça em brasa com as **tenazes**, que são pinças grandes de ferro.
 - **Bigorna** — bloco pesado de ferro sobre o qual o ferreiro bate no metal quente.
-- **Tenaz** — pinça grande de ferro para segurar o metal em brasa sem se queimar.
 - **Tétis** (*Thétis*, "TÉ-tis") — ninfa do mar que acolheu Hefesto na gruta. ⚠️ Não confundir com **Tétis, a Titânide** (*Tēthýs*), do capítulo 10.
-- **Dioniso** (*Diónysos*) — deus da vinha, da festa e do cortejo; carrega o tirso e um cacho de uvas.
-- **Tirso** — bastão enfeitado de hera, com uma pinha na ponta, que Dioniso sempre leva.
-- **Ares** (*Árēs*) — deus da guerra, sempre armado de elmo, lança e escudo.
+- **Dioniso** (*Diónysos*) — deus da vinha, da festa e do cortejo; carrega um cacho de uvas e o **tirso**, um bastão enfeitado de hera com uma pinha na ponta.
 - **Olimpo** — o monte mais alto da Grécia, onde moram os deuses.
+
+**6 verbetes ✔** (teto R5.2 = 6; o capítulo tinha **9** e foi podado na onda P4). **Tenaz** e
+**Tirso** não sumiram: foram **absorvidos** pelos verbetes de *Forja* e de *Dioniso*, que é
+como o teto se paga sem perder palavra difícil. **Ares** saiu por estar ancorado no corrido
+("Foi de armadura, foi de elmo, foi de lança").
 
 ## Notas de adaptação (para `mito-fidelidade`, `mito-adequacao-etaria` e a p. 53)
 

@@ -81,9 +81,12 @@ Momento: o instante **seguinte** ao nascimento — nada em curso, tudo recém-ac
 - **Leto** (*LÉ-to*) — titânide, filha de Céos e Febe, mãe de Ártemis e Apolo. Em latim é chamada Latona.
 - **Ártemis** (*ÁR-te-mis*) — deusa das florestas, dos animais selvagens e da caça; carrega arco e aljava e nunca quis se casar. Irmã gêmea de Apolo, e a mais velha por alguns minutos.
 - **Apolo** (*a-PO-lo*) — deus da música, do arco de prata e dos oráculos: é ele que diz às pessoas a vontade de Zeus. Também chamado **Febo**, "o brilhante".
-- **lira** (*LI-ra*) — instrumento de cordas dedilhadas, tocado com os dedos ou com uma palheta; o instrumento de Apolo.
-- **palmeira** — a árvore em que Leto se apoiou. Séculos depois, ainda era mostrada aos visitantes de Delos.
 - **titânide** (*ti-TÃ-ni-de*) — mulher da geração dos Titãs, anterior aos deuses do Olimpo. Leto é uma delas.
+
+**6 verbetes ✔** (teto R5.2 = 6; o capítulo tinha **8** e foi podado na onda P4). Saíram:
+**lira** — por **dedup** (um termo, um verbete: a autoridade é o cap. 4, *lira de tartaruga*) —
+e **palmeira**, ancorada no corrido ("pôs os braços em volta de uma palmeira") e sem carga de
+mito a explicar.
 
 ## Notas de execução (para o editor e o loop adversarial)
 

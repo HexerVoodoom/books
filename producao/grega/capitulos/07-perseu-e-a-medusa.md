@@ -71,7 +71,7 @@ Perseu fez Díctis rei de Sérifos.
 
 Depois devolveu o resto. As sandálias, o alforje e o elmo, a Hermes. A cabeça da Górgona, a Atena, que a prendeu bem no meio do escudo dela — e está lá até hoje.
 
-Ficou só com a história.
+Guardou só a história.
 
 ## Você sabia?
 
@@ -154,7 +154,7 @@ Todas de **montagem**; nenhum fato do mito alterado, nenhuma batida 🔒 tocada.
 | 9 | Glossário podado de 11 para **6 verbetes**; "foice" cede lugar a "**adamante**" | cético F2 + fidelidade | Era o capítulo com mais verbetes do livro, e cinco deles estavam ancorados no corrido ou no box |
 | 10 | Cabeçalho padronizado ao formato Rev. 4 | cético P3, F1 | Os caps. 7–9 foram escritos contra a Rev. 3 e não declaravam página de ilustração, contagem por regra nem teto de figuras |
 
-**Mantidos por decisão de tom, contra a tentação de poda:** "Ficou só com a história." e
+**Mantidos por decisão de tom, contra a tentação de poda:** "Guardou só a história." e
 "E então o mundo ficou quieto." — as duas frases que fazem a elipse funcionar.
 **Pendências que saem daqui:** pp. 51–52 — a variante ovidiana registrada e não usada, e a
 procedência do escudo; p. 52 — as perguntas do avô, do rei e da velhinha; p. 53 — a chuva de

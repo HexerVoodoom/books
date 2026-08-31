@@ -2,7 +2,10 @@
 
 > Tipo: **geral** · Dossiê: `dossies/dossie-do-caos-ao-olimpo.md` ·
 > Teto vigente (livro-spec Rev. 5): **750–850 palavras** de texto corrido + **1 box, máx. 80**.
-> **Contagem declarada: texto corrido = 837 palavras · box "Você sabia?" = 65 palavras.** ✔
+> **Contagem declarada (recontada na onda P4, R4.4 corrigida): texto corrido = 832 palavras ·
+> box "Você sabia?" = 65 palavras.** ✔ (era 837; −9 do corte da quebra de quarta parede, −3 da
+> reescrita da frase-espelho, +7 dos cinco irmãos renomeados, e +4 do epíteto homérico.
+> **Margem sobre o teto de 850: 18 palavras.**)
 > (orçamento do dossiê: 820, com as 16 batidas inteiras + ≈45 palavras da dependência 2→10, que
 > o orçamento não previa. **Margem sobre o teto de 850: 13 palavras** — o revisor não acrescenta
 > nada aqui sem recontar. Primeira candidata a corte, se preciso: a batida 16.)
@@ -25,7 +28,7 @@ Antes de tudo, havia o Caos.
 
 Caos não quer dizer bagunça. Quer dizer abertura: uma fenda escancarada, um vazio enorme e escuro onde ainda não havia nada — e onde tudo ainda ia caber.
 
-Da abertura veio Gaia, a Terra de peito largo, que é chão firme para sempre. E Gaia, sozinha, gerou um filho do tamanho exato dela, para cobri-la inteira: Urano, o Céu estrelado. Depois gerou as montanhas, e depois o mar.
+Da abertura veio Gaia, a Terra de peito largo, assento firme de tudo o que existe. E Gaia, sozinha, gerou um filho do tamanho exato dela, para cobri-la inteira: Urano, o Céu estrelado. Depois gerou as montanhas, e depois o mar.
 
 Então Gaia e Urano tiveram filhos juntos.
 
@@ -59,15 +62,17 @@ O menino da gruta era Zeus, e cresceu longe do pai. Quando estava crescido, volt
 
 Primeiro saiu a pedra.
 
-Depois saíram os cinco, inteiros e vivos, do mesmo jeito que tinham entrado. E era essa a família: gente que cabe inteira dentro de alguém. Muito tempo depois, o próprio Zeus faria o que o pai fazia — e o que saiu dele saiu já crescido e já de armadura. Mas isso é outro capítulo, e você já leu.
+Depois saíram os cinco — Hera, Hades, Posêidon e as duas irmãs — inteiros e vivos, do mesmo jeito que tinham entrado.
 
 Agora eram seis contra os Titãs, e seis é pouco.
+
+Nessa família, um cabia inteiro dentro do outro. Muito tempo depois, o próprio Zeus faria o que o pai fazia — e o que saiu dele saiu já crescido e já de armadura.
 
 Zeus foi então até o lugar mais fundo debaixo da terra, onde Urano tinha acorrentado os Cem-Mãos, e soltou os três. Deu a eles néctar e ambrosia, a comida e a bebida dos deuses, até que ficassem fortes de novo. Coto, Briareu e Giges olharam a luz, que não viam havia tanto tempo, e disseram que lutariam.
 
 Zeus soltou também os Ciclopes.
 
-E os Ciclopes agradeceram do jeito que sabiam: acenderam a forja. Bateram naquelas bigornas até sair de lá o trovão, o relâmpago e o raio, e puseram o raio na mão de Zeus. Fizeram um tridente de três pontas e deram a Posêidon. E fizeram um elmo de deixar invisível quem o põe na cabeça, e deram a Hades — o mesmo elmo que, muitos e muitos anos depois, um rapaz chamado Perseu ia pedir emprestado.
+E os Ciclopes agradeceram do jeito que sabiam: acenderam a forja. Bateram naquelas bigornas até sair de lá o trovão, o relâmpago e o raio, e puseram o raio na mão de Zeus. Fizeram um tridente de três pontas e deram a Posêidon. E fizeram um elmo de deixar invisível quem o põe na cabeça, e deram a Hades — o mesmo elmo que, muitos e muitos anos depois, um rapaz chamado Perseu ia usar emprestado.
 
 A guerra durou dez anos inteiros.
 
@@ -101,7 +106,8 @@ capítulo" (livro-spec, paginação fechada).
 Vertical e cosmogônica, sem ação. **Gaia** emergindo do solo até a cintura, corpo continuando
 na paisagem, cabelo virando raiz e cordilheira, olhos abertos e serenos — **nunca** uma mulher
 de pé sobre o chão. Arqueado sobre ela, **Urano como céu com rosto**: o corpo é a própria
-abóbada noturna, as estrelas correm pelo ombro e pelo braço; rosto legível e distante. Entre os
+abóbada noturna, as estrelas correm pelo ombro e pelo braço; rosto legível e distante — ⚠️ **vinculante ao diretor de arte (adequação P4): sem olhar
+dirigido ao leitor, boca fechada em repouso.** Entre os
 dois, **o Caos: uma fenda escura e vazia**, não uma nuvem colorida de matéria misturada — é
 abertura, e a imagem tem de ler como abertura.
 
@@ -121,7 +127,11 @@ que o corrido só alcança na p. 47. Impressa depois, deixaria de ser promessa e
 
 **"Os libertados" — o instante anterior ao golpe decisivo.**
 
-**Zeus jovem ao centro**, de três quartos, rosto plenamente expressivo, o braço subindo com o
+**Zeus maduro ao centro** (⚠️ **X6, resolvido na onda P4:** o brief dizia "jovem" e a
+`sheet-zeus.png` diz *mature, tall* — **a sheet vence**, porque é a referência de continuidade
+e porque o cap. 1 já usa esse mesmo rosto três páginas antes de o leitor chegar aqui. O arco
+**bebê → rei** fica onde a fonte o sustenta: **no texto**, na gruta de Creta. Nesta página ele
+é o **mais novo dos três irmãos**, não um adolescente), de três quartos, rosto plenamente expressivo, o braço subindo com o
 **raio recém-forjado**, que ainda tem calor de forja: o gesto **não está completo**, o raio ainda
 não partiu. À esquerda, **um dos Ciclopes** em primeiro plano com o martelo já baixado, o olho
 único iluminado pelo próprio metal — expressão de **entrega**, não de ameaça (os outros dois
@@ -146,14 +156,23 @@ foice de Saturno ou alegoria do Tempo. **Hades não é demônio:** sem chifres, 
 livro** — os três irmãos barbados juntos pela primeira vez. Produzi-la cedo na onda P5 beneficia
 os caps. 1, 2, 6, 7 e 8.
 
+### Vinculantes de página emitidos por este capítulo (onda P4)
+
+- ⚠️ **Ao `mito-diagramador`:** a linha *"Depois saíram os cinco — Hera, Hades, Posêidon e as
+  duas irmãs — inteiros e vivos"* tem de cair no **alto da p. 47**, nunca no pé da p. 45 ou 46.
+  Se ela cair no pé, a criança vira a página segurando cinco bebês engolidos. É a única
+  restrição de **quebra de linha** do livro inteiro.
+- ⚠️ **Ao `mito-diretor-arte`, valendo para o livro todo:** **o engolimento não é ilustrado em
+  página nenhuma** — nem aqui, nem em viñeta, nem em abertura, nem na capa.
+
 ## Termos para o glossário
 
 - **Caos** (*Kháos*, "CA-os") — não é bagunça: é **abertura**, uma fenda escancarada. O vazio
   enorme que existia antes de tudo, e onde tudo coube depois.
 - **Gaia** (*Gaîa*, "GÁI-a") — a Terra, e ao mesmo tempo uma deusa. Os poetas a chamam de "a de
   peito largo" e "o assento firme de todos". É ela quem dá conselho em toda esta história.
-- **Urano** (*Ouranós*, "u-RA-no") — o Céu estrelado, filho de Gaia e depois companheiro dela.
-  Do nome dele vem o nome do planeta Urano.
+- **bramir** (*bra-MIR*) — dar um urro grave e comprido, como o de um bicho grande ou o de uma
+  tempestade. Na guerra dos deuses, "a terra bramia".
 - **Cronos** (*Krónos*, "CRO-nos") — o mais novo dos doze Titãs, pai de Zeus. ⚠️ Não é o Tempo:
   *Chronos*, com H, é outra palavra grega e outra figura. Confusão antiga, mas confusão.
 - **Cem-Mãos** ou **Hecatônquiros** (*Hekatónkheires*, "he-ca-TON-qui-ros") — Coto, Briareu e
@@ -163,7 +182,11 @@ os caps. 1, 2, 6, 7 e 8.
   quanto a terra está abaixo do céu. É uma prisão, e **não** é o mundo de baixo de Hades: são
   dois lugares diferentes.
 
-**6 verbetes ✔** (teto R5.2 = 6). **Dedup verificada contra os capítulos 1–9:** ficaram de fora
+**6 verbetes ✔** (teto R5.2 = 6). **Onda P4 (X5):** entrou **bramir** (a adequação O4 exigia
+âncora para "a terra bramia", e a tríade *fervia/bramia/rachava* é intocável) e, para pagá-lo
+dentro do teto, saiu **Urano** — que o corrido já ancora na própria linha em que o nomeia
+("Urano, o Céu estrelado") e que o glossário definia com pouco mais do que isso.
+**Dedup verificada contra os capítulos 1–9:** ficaram de fora
 **adamante** (verbete único do cap. 7), **Olimpo** (cap. 5), **Hades**, **Posêidon**, **tridente**
 e **Deméter** (caps. 2 e 6), **titânide** (cap. 3). Ficaram de fora por estarem ancorados no
 corrido: **Ciclopes** ("três ferreiros com um olho só no meio da testa"), **Reia** ("a mulher
@@ -184,7 +207,7 @@ e sem capítulo), **Titãs** ("doze irmãos enormes").
    foram Coto, Briareu e Giges — que um dia tinham estado presos ali."* Sem cadeias, sem
    tormento, sem eternidade dita, sem inferno.
 4. **A1 / A2 / A3 — os três presentes dos Ciclopes** numa batida só, com a citação correndo
-   **do cap. 10 para o cap. 7** ("um rapaz chamado Perseu ia pedir emprestado"), e nunca ao
+   **do cap. 10 para o cap. 7** ("um rapaz chamado Perseu ia usar emprestado"), e nunca ao
    contrário. **A4 — a partilha por sorteio** fecha o capítulo.
 5. **Elipse obrigatória da castração de Urano, na estratégia adotada pelo dossiê ("a noite em que
    o Céu se afastou"):** o texto entrega o crime, a dor de Gaia, a foice aceita — e **corta na
@@ -223,11 +246,12 @@ e sem capítulo), **Titãs** ("doze irmãos enormes").
 14. **R5.1 cumprida — o capítulo NÃO fecha em etiologia seca.** A cota do livro já estava em 3
     (caps. 1, 2 e 3). O fecho é a partilha, e depois dela vem uma **coda humana** de duas linhas
     — *"Ficou com um terço, e com dois irmãos."* —, na voz da história e não de professor. É a
-    **única** frase de eco do capítulo, e é o modelo dos caps. 7 e 9 ("Ficou só com a história.",
-    "E almoçou."). Nenhum "até hoje" na última linha: os dois "até hoje" do capítulo ficam no
-    meio (o Céu lá em cima), onde são fato de mundo e não fecho.
-15. **Reencontros: só origens e atributos.** Aparecem Zeus (bebê → rei, a única barba que muda de
-    estado no livro), Hera, Posêidon, Hades e Deméter **como irmãos engolidos e devolvidos**, mais
+    **única** frase de eco do capítulo, e é o modelo dos caps. 7 e 9 ("Guardou só a história.",
+    "E almoçou."). Nenhum "até hoje" na última linha: o **único** "até hoje" do capítulo fica no
+    meio (o Céu lá em cima), onde é fato de mundo e não fecho. *(A nota dizia "dois"; há um —
+    corrigido na onda P4.)*
+15. **Reencontros: só origens e atributos.** Aparecem Zeus (bebê → rei — arco **textual**; ⚠️ **na imagem ele é sempre o
+    Zeus maduro da sheet**, ver X6 na cena B), Hera, Posêidon, Hades e Deméter **como irmãos engolidos e devolvidos**, mais
     Héstia nomeada de passagem. **Não aparecem e não são citados como presentes:** Atena, Apolo,
     Ártemis, Hermes, Hefesto, Perséfone, Dioniso, Ares, Afrodite, Perseu, Teseu, Midas, Baucis e
     Filêmon. A única citação de um capítulo anterior é o **elmo → Perseu**, na direção permitida.
@@ -237,6 +261,24 @@ e sem capítulo), **Titãs** ("doze irmãos enormes").
 17. **Grafias (livro-spec, R2 · Torrano):** Caos, Gaia, Urano, Cronos, Reia, Héstia, Titãs,
     Ciclopes, Cem-Mãos, Coto, Briareu, Giges, Tártaro, Otris, Creta. Nenhuma forma latina
     (nunca Saturno, Cibele, Céu/Terra como nomes próprios).
-18. **Perguntas propostas para as pp. 52–53** (teto 3): *"Os irmãos não morreram lá dentro?"* ·
-    *"O Tártaro é o mesmo lugar que o mundo de baixo do Hades?"* · *"Por que Zeus dividiu, se
-    tinha ganhado sozinho?"*
+18. **Perguntas fechadas para as pp. 52–53** (teto 3, redigidas em `apendices.md`):
+    *"Os irmãos não morreram lá dentro?"* · *"O que Cronos fez com a foice?"* · *"Por que Zeus
+    dividiu, se tinha ganhado sozinho?"* ⚠️ **Onda P4, adequação O1 (bloqueante):** a cena da
+    foice **garante** a pergunta da foice, e ela não pode ficar sem resposta escrita para o
+    adulto. Saiu, por isso, a de **Tártaro/Hades**, que já está respondida no **verbete de
+    Tártaro** do glossário. **Zero palavra no corrido.**
+
+19. **Onda P4 — mudanças de montagem aplicadas pelo `mito-editor`** (nenhum fato de mito
+    alterado, nenhuma batida 🔒 tocada): (a) tom O1 — *"E era essa a família: gente que cabe
+    inteira dentro de alguém"* → *"Nessa família, um cabia inteiro dentro do outro"* (o
+    narrador deixa de classificar o que acabou de contar); (b) tom O2 — cortado *"Mas isso é
+    outro capítulo, e você já leu"* (quebra de quarta parede + pressuposição de ordem de
+    leitura que um livro ilustrado não garante); (c) tom O3 — *"que é chão firme para sempre"*
+    → *"assento firme de tudo o que existe"* (devolve o epíteto homérico); (d) adequação O2 —
+    o bloco da dependência 2→10 **mudou de lugar**, para depois de *"seis é pouco"*, porque
+    entre a devolução e a respiração ele matava o único beat de alívio do capítulo — **nenhuma
+    palavra do bloco foi alterada**; (e) adequação O3 — os cinco devolvidos passam a ser
+    **nomeados**, senão a criança de 7 anos não liga o Hades engolido ao Hades do elmo;
+    (f) X2 — *"ia pedir emprestado"* → *"ia usar emprestado"*, para que a prolepse do elmo
+    fique **sem destinatário nomeado** (fidelidade R3: em Apolodoro 2.4.2 Perseu recebe o elmo
+    **das ninfas**, e o cap. 7 mantém a cadeia correta).

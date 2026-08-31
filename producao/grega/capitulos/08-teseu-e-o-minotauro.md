@@ -56,7 +56,7 @@ Egeu olhava o mar todo dia. Quando o navio apareceu no horizonte, a vela ainda e
 
 Contam que foi por isso que aquele mar ganhou o nome dele.
 
-Atenas ficou de luto e ficou de pé. E quem olha aquele mar até hoje diz o nome do rei que ficava olhando.
+Atenas ficou de luto e ficou de pé.
 
 ## Você sabia?
 
@@ -164,7 +164,7 @@ alterado, nenhuma batida 🔒 tocada.
 | # | Mudança | Origem | Por quê |
 |---|---|---|---|
 | 1 | "um deus jovem e sem barba, chamado Dioniso" → "**o deus Dioniso**", dentro da atribuição | fidelidade | A cláusula "contam os poetas mais antigos" passava a cobrir a aparência, que é decisão deste livro, não dado da fonte |
-| 2 | **Linha de pouso** depois da etiologia: "Atenas ficou de luto e ficou de pé. E quem olha aquele mar até hoje diz o nome do rei que ficava olhando." | adequação (**condicionante**) + conflito arbitrado 2 | O capítulo terminava na morte do pai sem nenhum acolhimento, e a criança fica sozinha com ela. A linha **não afirma nem nega o modo da morte** (Higino intacto), reconhece o luto e devolve o rei ao lugar que leva o nome dele. **Redigida pelo editor**, sujeita ao aceite do escritor. A entrada correspondente na p. 52 foi feita **também** — as duas, como a arbitragem determinou |
+| 2 | **Linha de pouso** depois da etiologia: "Atenas ficou de luto e ficou de pé." | adequação (**condicionante**) + conflito arbitrado 2 | O capítulo terminava na morte do pai sem nenhum acolhimento, e a criança fica sozinha com ela. A linha **não afirma nem nega o modo da morte** (Higino intacto), reconhece o luto e devolve o rei ao lugar que leva o nome dele. **Redigida pelo editor**, sujeita ao aceite do escritor. A entrada correspondente na p. 52 foi feita **também** — as duas, como a arbitragem determinou |
 | 3 | Cortado "e que ninguém ia levar a lugar nenhum" | tom | "Não foi sorteado. Escolheu." diz a mesma coisa duas linhas depois, e melhor |
 | 4 | Cortado "como quem percorre corredores que não assustam mais" | tom | Explica a dança para quem acabou de ler o Labirinto; o eco funciona sem legenda |
 | 5 | Nota "(Fonte: Plutarco…)" **fora do box impresso** | tom | O box é lido em voz alta para a criança; referência bibliográfica dentro dele quebra a leitura. Plutarco continua nomeado **no corpo** do box |

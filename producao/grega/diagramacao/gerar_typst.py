@@ -96,18 +96,17 @@ def chapter_block(c, cfg):
         out.append("")
         out.append(box_and_gloss(c))
         for label, imgid, desc in fb_list:
-            out.append("#pagebreak()")
+            out.append("#pagebreak()")  # força a ilustração a começar página nova
             out.append(f'#fullbleed("{imgid}", "{label}", [{desc}])')
-        out.append("#pagebreak()")
+        # fullbleed() já deixa a página seguinte pronta (weak); nada mais a fechar aqui.
     else:
         # exceção: chunks[0] é a abertura (antes da 1ª imagem); demais chunks intercalam
         # com as imagens restantes; o ÚLTIMO chunk carrega box + glossário no final.
         for i, (label, imgid, desc) in enumerate(fb_list):
             out.append(paras_to_typ(chunks[i]))
             out.append("")
-            out.append("#pagebreak()")
+            out.append("#pagebreak()")  # força a ilustração a começar página nova
             out.append(f'#fullbleed("{imgid}", "{label}", [{desc}])')
-            out.append("#pagebreak()")
         out.append(paras_to_typ(chunks[-1]))
         out.append("")
         out.append(box_and_gloss(c))
@@ -132,7 +131,7 @@ for num in sorted(CHAPTERS_CFG):
     c = by_num[num]
     cfg = CHAPTERS_CFG[num]
     chapters_typ.append(chapter_block(c, cfg))
-    chapters_typ.append("#pagebreak()")
+    chapters_typ.append("#pagebreak(weak: true)")
 
 CHAPTERS_TYP = "\n\n".join(chapters_typ)
 

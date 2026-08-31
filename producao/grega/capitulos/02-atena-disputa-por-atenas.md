@@ -150,14 +150,13 @@ embaixo, o mar Egeu ao fundo. Luz de meio da manhã, alta e limpa; nenhum astro 
   distingue Posêidon de Zeus, que são os dois barbados e parecidos.
 - **égide** — o peitoral de Atena, franjado, com uma cabeça de monstro desenhada no meio. De
   onde veio essa cabeça, o capítulo de Perseu conta.
-- **oliveira** — árvore de folhas prateadas que dá azeitona e azeite. Vive séculos, aguenta seca
-  e brota de novo do toco.
-- **azeite** — óleo tirado da azeitona. Na Grécia antiga servia para cozinhar, para passar no
-  corpo e para **acender lamparina**: era comida e luz ao mesmo tempo.
 - **Cécrops** (Kékrops) — o primeiro rei de Atenas. Diziam que ele tinha nascido da própria
   terra da cidade e que, por isso, era homem de cima e serpente de baixo.
-- **testemunha** — quem estava presente e viu uma coisa acontecer, e pode contar depois o que
-  viu.
+
+**6 verbetes ✔** (teto R5.2 = 6; o capítulo tinha **9** e foi podado na onda P4). Saíram por
+estarem ancorados no corrido: **oliveira** ("Era uma oliveira, e já vinha carregada… quando se
+enterrava um galho dela na terra, nascia outra"), **azeite** ("azeite para cozinhar, azeite
+para acender lamparina") e **testemunha** ("contou o que tinha visto com os próprios olhos").
 
 ## Notas do escritor (para o gate da Fase 2)
 

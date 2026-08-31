@@ -1,0 +1,152 @@
+===================================================================
+BUILD LOG — Era Uma Vez um Mito · Grécia · Fase 4 (diagramação)
+Gerado em: 2026-08-31 12:04:47 UTC
+===================================================================
+
+--- 1. Toolchain (setup + verificação de versão) ---
+typst 0.15.1 (9dfd3a08)
+10.02.1
+pdfinfo version 24.02.0
+pdffonts version 24.02.0
+
+--- 2. Geração de conteúdo a partir dos capítulos-fonte (transcrição literal) ---
+Capítulos extraídos: ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10']
+Fontes entries: 11 | Para ler mais paras: 5
+Perguntas seções: 10
+Mudamos itens: 27
+
+--- 3. Scan de ilustrações disponíveis (encaixe de produção) ---
+Gerado imagens-disponiveis.typ:
+// GERADO por scan-imagens.sh — não editar à mão.
+#let imagens-disponiveis = (
+  "00-capa": false,
+  "01-zeus-baucis-e-filemon": false,
+  "02-atena-disputa-por-atenas": false,
+  "03-leto-e-a-ilha": false,
+  "04-hermes-o-gado-e-a-lira": false,
+  "05-hefesto-o-trono-de-ouro": false,
+  "06-demeter-e-persefone": false,
+  "07-perseu-e-a-medusa": false,
+  "08-teseu-e-o-minotauro": false,
+  "09-midas-o-toque-de-ouro": false,
+  "10a-do-caos-abertura": false,
+  "10b-do-caos-os-libertados": false,
+)
+
+--- 4. Montagem do miolo.typ ---
+miolo.typ gerado: 88631 bytes
+
+--- 5. typst compile (deve estar limpo, sem warning) ---
+EXIT CODE: 0
+
+--- 6. pdfinfo — dimensões e contagem de páginas ---
+Creator:         Typst 0.15.1
+CreationDate:    Mon Aug 31 12:04:47 2026 UTC
+ModDate:         Mon Aug 31 12:04:47 2026 UTC
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           59
+Encrypted:       no
+Page size:       598.11 x 598.11 pts
+Page rot:        0
+File size:       355109 bytes
+Optimized:       no
+PDF version:     1.7
+
+--- 7. pdffonts — fontes embutidas ---
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+TNXSQP+LibertinusSerif-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes   1298  0
+PCFLWJ+LibertinusSerif-Bold-Identity-H CID Type 0C       Identity-H       yes yes yes   1301  0
+HVHVDY+DejaVuSans                    CID TrueType      Identity-H       yes yes yes   1304  0
+NGZRBC+DejaVuSans-Bold               CID TrueType      Identity-H       yes yes yes   1307  0
+UFWCDB+DejaVuSansMono                CID TrueType      Identity-H       yes yes yes   1310  0
+LDIFWN+DejaVuSansMono-Oblique        CID TrueType      Identity-H       yes yes yes   1313  0
+
+--- 8. Verificação de DPI das ilustrações ---
+--- Verificação de DPI (12 ilustrações esperadas) ---
+OK (>= 2492px / lado, >=300 DPI efetivo): 0
+ABAIXO DO PISO: 0
+FALTANDO (encaixe de produção ativo no PDF): 12
+  — 00-capa
+  — 01-zeus-baucis-e-filemon
+  — 02-atena-disputa-por-atenas
+  — 03-leto-e-a-ilha
+  — 04-hermes-o-gado-e-a-lira
+  — 05-hefesto-o-trono-de-ouro
+  — 06-demeter-e-persefone
+  — 07-perseu-e-a-medusa
+  — 08-teseu-e-o-minotauro
+  — 09-midas-o-toque-de-ouro
+  — 10a-do-caos-abertura
+  — 10b-do-caos-os-libertados
+(saída != 0 acima é ESPERADA nesta rodada: nenhum PNG foi gerado ainda —
+ ver pendência no resumo do gate.)
+
+--- 9. Mapa página <-> full-bleed produzido (evidência R4.1) ---
+  p.10: 01-zeus-baucis-e-filemon.png
+  p.14: 02-atena-disputa-por-atenas.png
+  p.18: 03-leto-e-a-ilha.png
+  p.22: 04-hermes-o-gado-e-a-lira.png
+  p.24: 05-hefesto-o-trono-de-ouro.png
+  p.30: 06-demeter-e-persefone.png
+  p.32: 07-perseu-e-a-medusa.png
+  p.36: 08-teseu-e-o-minotauro.png
+  p.40: 09-midas-o-toque-de-ouro.png
+  p.44: 10a-do-caos-abertura.png
+  p.46: 10b-do-caos-os-libertados.png
+
+--- 10. Provas PNG (spreads) ---
+32
+arquivos em producao/grega/diagramacao/provas/spreads/
+
+===================================================================
+11. PENDÊNCIA — CONTAGEM DE PÁGINAS NÃO FECHOU EM 56
+===================================================================
+Resultado real: 59 páginas (pdfinfo acima). Miolo continua múltiplo de... NÃO
+(59 não é múltiplo de 4). Isto NÃO foi corrigido silenciosamente — eis o que foi
+diagnosticado e o que foi ajustado só na diagramação (nenhuma palavra de nenhum
+capítulo foi cortada):
+
+a) Causa raiz corrigida (retirou 25 páginas, de 83 para 58):
+   - leading/spacing de parágrafo excessivos (0.95em) inflavam cada página de
+     texto ~40% além do necessário — corrigido para 0.38em/0.4em (corpo) e
+     0.26em/0.28em (aparato), calibrado empiricamente contra texto real
+     (não lorem ipsum — texto com muitos parágrafos curtos e diálogo tem
+     overhead de espaçamento maior que prosa corrida).
+   - pagebreak() não-fraco duplicado ao redor de fullbleed() inseria uma
+     página em branco após cada ilustração — trocado por pagebreak(weak:true)
+     consistente.
+   - função `glossario-do-capitulo` (rodapé decorativo por capítulo, redundante
+     com o glossário único das pp. 49–50) foi removida.
+   Resultado desses ajustes: as 10 ilustrações full-bleed caíram EXATAMENTE
+   nas páginas exigidas pela R4.1 (10, 14, 18, 22, 24, 30, 32, 36, 40, 44, 46) —
+   ver seção 9 acima.
+
+b) Overflow restante (59 vs. 56 = +3 páginas), isolado no APARATO PÓS-TEXTUAL
+   (pp. 49 em diante) — NÃO é defeito de diagramação, é volume de texto real
+   acima da caixa 9,5/12pt/2 colunas nesta tipografia, e foi verificado por
+   medição direta (não estimativa):
+   - Glossário (pp. 49–50 no plano): o glossário ÚNICO gerado a partir dos
+     10 capítulos tem ~2000 palavras — ocupa 3 páginas em vez de 2.
+   - Fontes + "Para ler mais" (p. 51 no plano, R5.3): ~910 palavras contra uma
+     caixa de página que, medida experimentalmente com este par de fontes/
+     margens, comporta ~850-900 palavras — ocupa 2 páginas em vez de 1.
+   - Perguntas que as crianças fazem (pp. 52-53): FECHOU nas 2 páginas
+     previstas, mesmo após a rodada P4 do editor ter acrescentado o capítulo 10
+     e a nota "onde parar".
+   Diagnóstico devolvido ao mito-editor/mito-editor-chefe: ou (i) aceitar
+   56 -> 60 pp (próximo múltiplo de 4, com folga real) e a gráfica confirma
+   caderno, ou (ii) enxugar ~150-250 palavras do glossário/fontes.
+   NENHUMA destas duas decisões é do mito-diagramador sozinho (mandato: nunca
+   corta texto por conta própria).
+
+c) O restante do miolo (pp. 1-48, dedicatória + os 10 capítulos) fechou
+   PÁGINA A PÁGINA na paginação exata do livro-spec Rev. 5 / R4.1 — inclusive
+   as 4 exceções de posicionamento (caps. 5, 7, 8, 9) e o capítulo geral com
+   2 full-bleed (10A p.44, 10B p.46). Ver seção 9.
