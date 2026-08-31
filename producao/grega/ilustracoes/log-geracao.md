@@ -72,10 +72,30 @@ a diferença para não confundir os dois problemas).
    montagem da Fase 3a.** Ou seja: nenhum prompt executado até agora pediu quadrado ao
    gerador, porque o prompt congelado não pede.
 
-   **Hipótese a testar:** restaurar a linha do próprio guia resolve a proporção sem tocar
-   no formato do livro. **Não testei** — a sessão de navegador caiu antes (ver bloqueio
-   abaixo). **Não editei `prompts.md`** (fora do meu mandato; a correção é do
-   `mito-diretor-arte`, e é restauração do texto do guia, não invenção).
+   **✅ HIPÓTESE TESTADA E CONFIRMADA.** Prompt de teste curto, terminado pelas duas linhas
+   do guia §3.2. Resultado: **2048 × 2048 px — quadrado exato.**
+
+   | Teste | Linha `Square 1:1` no prompt? | Saída | Proporção |
+   |---|---|---|---|
+   | `10b` v1 | não | 1536 × 2752 | 0,56 ✘ |
+   | `10b` v2 | não | 1696 × 2528 | 0,67 ✘ |
+   | `sheet-zeus` v1 | não | 2816 × 1536 | 1,83 ✘ |
+   | **teste de proporção** | **sim** | **2048 × 2048** | **1,00 ✔** |
+
+   **Conclusão: o Gemini obedece à proporção quando ela é pedida. Não é limitação da
+   ferramenta e o formato físico do livro NÃO precisa mudar.** Além disso 2048 px é
+   exatamente a entrada que o guia §3.1 pressupõe para o upscale declarado
+   (2048 → 2492 = fator 1,22×, dentro do teto de 2×).
+
+   **Correção necessária, e é do `mito-diretor-arte`:** restaurar no `[BASE]` do
+   `prompts.md` as duas linhas finais que o guia §3.2 congelou —
+   `Warm, wonder-filled, gentle, suitable for ages 4-7. Square 1:1 full-bleed composition.`
+   Não é invenção de prompt: é devolver texto que o guia já define. **Não editei
+   `prompts.md`** (fora do meu mandato).
+
+   ⚠️ **As 3 imagens já geradas (`10b` v1/v2, `sheet-zeus` v1) nasceram sem essa linha e
+   estão fora de spec de proporção. Devem ser regeradas depois da correção** — não são
+   aproveitáveis para diagramação.
 
    **Por que isso importa antes de considerar mudar o livro:** o 1:1 vem do trim físico
    (20,5 × 20,5 cm). Alterá-lo derruba em cascata a paginação de 56 pp (múltiplo de 4 e de
