@@ -24,7 +24,10 @@ capa).
 
 ## Setup da toolchain (pré-condição da Fase 4 — provar por execução)
 
-O ambiente **não vem com nada disso instalado**. A Fase 4 abre instalando e provando:
+O ambiente **não vem com nada disso instalado**. A Fase 4 abre instalando e provando.
+**Instalado e verificado em 2026-08-31 neste ambiente:** `typst 0.15.1` · `gs 10.02.1` ·
+`pdfinfo`/`pdffonts` 24.02.0 — o BLOQUEIA B1 do QA da squad está resolvido. Nota: o
+`apt-get install` falha com 404 se o índice estiver velho; rode `apt-get update` antes.
 
 ```bash
 # Typst (binário oficial)
