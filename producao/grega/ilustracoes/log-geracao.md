@@ -61,6 +61,28 @@ a diferença para não confundir os dois problemas).
 
 ## Achados técnicos para o diretor de arte — bloqueiam a produção em lote das ~80 imagens restantes
 
+0. **CAUSA RAIZ DA PROPORÇÃO — encontrada por leitura, teste ainda pendente.**
+   O `guia-de-estilo.md` §3.2 define o prompt-base da série terminando assim, verbatim:
+   > `Warm, wonder-filled, gentle, suitable for ages 4-7. Square 1:1 full-bleed composition.`
+   > `No text, no watermark, no lettering.`
+
+   O bloco `[BASE]` que o `prompts.md` manda colar **termina antes dessas duas linhas** —
+   ele para depois de *"Silhouette figures are allowed only in the ornamental border and
+   for background crowds."*. **A linha `Square 1:1 full-bleed composition` se perdeu na
+   montagem da Fase 3a.** Ou seja: nenhum prompt executado até agora pediu quadrado ao
+   gerador, porque o prompt congelado não pede.
+
+   **Hipótese a testar:** restaurar a linha do próprio guia resolve a proporção sem tocar
+   no formato do livro. **Não testei** — a sessão de navegador caiu antes (ver bloqueio
+   abaixo). **Não editei `prompts.md`** (fora do meu mandato; a correção é do
+   `mito-diretor-arte`, e é restauração do texto do guia, não invenção).
+
+   **Por que isso importa antes de considerar mudar o livro:** o 1:1 vem do trim físico
+   (20,5 × 20,5 cm). Alterá-lo derruba em cascata a paginação de 56 pp (múltiplo de 4 e de
+   8, montada em torno do bloco de 6 páginas do cap. 10), os templates Typst da
+   diagramação e o **grid de capa da série inteira** — este livro é o piloto declarado.
+   Trocar tudo isso por causa de uma linha ausente seria caro pelo motivo errado.
+
 1. **Proporção entregue não é 1:1.** O guia de estilo (`guia-de-estilo.md` §3, §3.1)
    e a tabela de parâmetros de `prompts.md` exigem **quadrado 1:1** para toda cena e para
    a capa. As duas variações de `10b` saíram **retrato** (1536×2752 e 1696×2528 —
