@@ -23,6 +23,18 @@
 > **teto de figuras nítidas por ilustração**, **orçamento declarado das pp. 51–52** e
 > **regra de contagem de palavras**. Registro completo em `escrita/gate-onda-p1.md`.
 >
+> **Rev. 6 (2026-08-31)** — revisão pós-gate da **onda P4** (cap. 10 escrito e atacado; o
+> livro passa a ter **10 dos 10 capítulos e o aparato pós-textual em texto**). Cinco regras
+> novas, todas nascidas do que só é visível com o livro fechado: **R6.1** atributo prometido
+> tem de estar plantado, **R6.2** aparato só passa com prova de composição medida, **R6.3** a
+> extração para diagramação é posterior ao gate, **R6.4** vinculantes de página e de imagem
+> emitidos pelo texto, **R6.5** sheet vence brief. Alterações em regras existentes: **R4.1**
+> linha 10 declarada · **R4.4** comando de contagem **corrigido** (o antigo devolvia 3) ·
+> **R5.1** estado final e o cap. 8 sem a etiologia duplicada · **R5.2** poda executada nos
+> caps. 1, 2, 3 e 5 e **teto de 6 confirmado por prova** · **R4.3/R5.3** colisão de páginas
+> resolvida (fontes na **p. 51**, perguntas nas **pp. 52–53**). Registro completo em
+> `escrita/gate-onda-p4.md`.
+>
 > **Rev. 5 (2026-08-30)** — revisão pós-gate das **ondas P2 e P3 da Fase 2** (caps. 2, 4, 6, 7,
 > 8 e 9 escritos e atacados; o livro passa a ter **9 dos 10 capítulos em texto**). Três regras
 > novas, todas nascidas de padrões que **só aparecem quando existem seis capítulos lado a
@@ -30,6 +42,87 @@
 > a **mudança de natureza da p. 53**. Mais: **título do cap. 6 encurtado**, **mapa de ritmo
 > visual recontado na execução**, **páginas de ilustração declaradas para os nove capítulos** e
 > a **nota de ecos deliberados de série**. Registro completo em `escrita/gate-onda-p2-p3.md`.
+
+## Regras fechadas na Rev. 6 (vinculantes para escrita, arte e diagramação)
+
+### R6.1 — Atributo prometido no cap. 10 tem de estar **plantado** antes
+
+Falha encontrada no fechamento do livro (cético P4, F1): a justificativa do capítulo geral é
+"reencontro de **atributos** e origens (raio, tridente, elmo)", e `grep raio` nos caps. 1–9
+dava **zero**. Tridente e elmo estavam plantados; o raio, não — de modo que o box do cap. 10,
+a última linha do livro e a própria razão de existir do capítulo geral pediam à criança o
+reconhecimento de um objeto que o livro nunca lhe tinha mostrado.
+
+Regra, vinculante para todo livro da coleção: **todo objeto, nome ou gesto que o capítulo
+geral trata como reencontro tem de aparecer, ao menos uma vez, no corrido de um capítulo
+específico anterior.** A verificação é `grep`, é do `mito-editor`, e é feita **antes** do gate
+do capítulo geral — não depois, quando os capítulos específicos já estão gateados e cada
+palavra nova custa uma recontagem.
+
+Aplicação neste livro: **raio plantado no cap. 1** (+11 palavras: *"Quando Zeus falou, um
+trovão respondeu longe: o raio era dele."*). Escolhido o cap. 1 por ser a primeira aparição de
+Zeus e por dar ao pagamento a distância máxima. ⚠️ **O plantio é textual e a proibição visual
+do cap. 1 continua valendo**: o raio é luz insinuada, nunca objeto na mão — o objeto só existe
+na **10B**, onde é forjado, porque o box do capítulo geral afirma que ele **não** é poder de
+nascença.
+
+### R6.2 — Nada de aparato entra no livro sem **prova de composição**
+
+Duas das três objeções fatais do fechamento (glossário e aparato) eram objeções de **caixa**,
+não de texto — e nenhuma era decidível por contagem de palavras, porque **verbete e
+pergunta→resposta ocupam mais página que prosa** com o mesmo número de palavras. A R4.3
+orçava em palavras e acertou a ordem de grandeza; errou onde importava.
+
+Regra: **glossário, fontes e perguntas só passam no gate com uma página de teste composta e
+medida** — corpo e entrelinha reais, colunas reais, caixa real —, com a saída da medição
+colada no gate. Fonte de teste: pelo menos **três serifadas de livro** distintas, porque a
+tipografia serial ainda é decisão do humano. Arquivos de prova em
+`escrita/prova-composicao/` (`glossario.typ`, `p51.typ`, `p5253.typ`).
+
+Resultado desta prova (Typst 0.15.1, 20,5 × 20,5 cm, caixa 16,9 × 16,5 cm, 9,5/12 pt, 2
+colunas, goteira 0,8 cm):
+
+| Seção | Palavras impressas | Ocupação medida | Caixa | Veredito |
+|---|---|---|---|---|
+| Glossário (56 verbetes) | 1.414 | **1,73 pp** | 2 pp (49–50) | ✔ folga de ~0,27 p |
+| Fontes + bibliografia | 902 | **0,84 p** | 1 p (51) | ✔ folga de ~6 linhas |
+| Perguntas que as crianças fazem | 1.813 | **1,89 pp** | 2 pp (52–53) | ✔ folga de ~0,11 p |
+
+**Capacidade real medida da página do aparato: ~1.000 palavras de prosa · ~820 de verbete ·
+~960 de pergunta→resposta.** A R4.3 continua valendo como **teto de orçamento** (900/página):
+ela é conservadora por 10%, e a folga é o que absorve fólio, cabeço e a tipografia final.
+
+### R6.3 — A extração para diagramação é **sempre posterior ao gate**
+
+`diagramacao/conteudo/capitulos.json` tinha congelado uma frase que o gate de tom **proibiu**
+("Mas isso é outro capítulo, e você já leu"), porque `extrair.py` rodou antes da edição. Regra:
+**`extrair.py` só roda depois de o gate da onda estar escrito e fechado**, e o próprio script
+recusa-se a rodar em silêncio sobre esse ponto (aviso no cabeçalho e no README). Nenhum
+`.typ`/`.json` de conteúdo é fonte: a fonte é sempre `capitulos/*.md`.
+
+### R6.4 — Vinculantes de página e de imagem emitidos pelo texto
+
+O fechamento produziu três restrições que não são de escrita nem de arte, e que se perdiam por
+não ter onde morar. Ficam aqui, e são de cumprimento obrigatório:
+
+1. **Quebra de linha (ao `mito-diagramador`):** no cap. 10, *"Depois saíram os cinco — Hera,
+   Hades, Posêidon e as duas irmãs — inteiros e vivos"* cai no **alto da p. 47**, nunca no pé
+   da página anterior. É a única restrição de quebra do livro, e existe para que ninguém vire
+   a página segurando cinco bebês engolidos.
+2. **Ao `mito-diretor-arte`, livro inteiro:** **o engolimento não é ilustrado em página
+   nenhuma** — nem viñeta, nem abertura, nem capa, nem divulgação.
+3. **Ao `mito-diretor-arte`, cena 10A:** **Urano sem olhar dirigido ao leitor, boca fechada em
+   repouso.**
+
+### R6.5 — Conflito sheet × brief: **a sheet vence**
+
+O brief da cena 10B pedia "Zeus **jovem**" e a `sheet-zeus.png` diz *mature, tall* (X6). Regra
+serial: **quando a folha de personagem e o brief de cena divergirem sobre idade, corpo ou
+atributo, a folha de personagem prevalece** — ela é a referência de continuidade, e o brief é
+uma página só. Decisão registrada: **Zeus é maduro na 10B**, o arco **bebê → rei** fica no
+**texto** (a gruta de Creta) e **nenhuma página do livro mostra Zeus criança**. O motivo é de
+leitura: o Zeus disfarçado do cap. 1 é impresso **36 páginas antes** e é declarado "o mesmo
+rosto do cap. 10".
 
 ## Regras fechadas na Rev. 5 (vinculantes para escrita, arte e diagramação)
 
@@ -109,7 +202,7 @@ Quando não vale, a ilustração sobe para a p2 do bloco e o texto ocupa p1, p3 
 | 7 | **instante anterior** | **p. 32** (p2 do bloco 31–34) | **exceção — corrigida na Rev. 5 (era p. 34)** |
 | 8 | **instante anterior** | **p. 36** (p2 do bloco 35–38) | **exceção — corrigida na Rev. 5 (era p. 38)** |
 | 9 | transformação consumada / percepção | **p. 40** (p2 do bloco 39–42) | **exceção — corrigida na Rev. 5 (era p. 42)** |
-| 10 | — | a declarar no cabeçalho na onda P4 | — |
+| 10 | **A: estado · B: instante anterior** | **A: p. 44** (p2 do bloco 43–48) · **B: p. 46** | **A: default ✔ · B: exceção — a cena ilustra as batidas 9–10, que caem na p. 47** |
 
 **Confirmado na Rev. 5:** os caps. 7, 8 e 9 **herdaram a exceção**, como a Rev. 4 previa. O
 cap. 9 herdou-a por outro motivo: mesmo re-rotulado como "transformação consumada", a cena
@@ -177,8 +270,20 @@ O teto de 500–600 / 750–850 nunca disse **o que** era palavra. Regra fechada
 Comando de verificação (colar a saída no gate):
 
 ```
-python3 -c "t=open(F).read().split('## Texto')[1].split('## Você sabia?')[0]; print(len(t.replace('—',' ').split()))"
+python3 -c "t=open(F).read().split('\n## Texto\n')[-1].split('## Você sabia?')[0]; print(len(t.replace('—',' ').split()))"
 ```
+
+⚠️ **Comando corrigido na Rev. 6 (cético P4, X7).** A forma anterior era
+`split('## Texto')[1]`, que casa com a **menção da própria regra** no cabeçalho do capítulo
+("tudo entre `## Texto` e `## Você sabia?`") e devolvia **3** nos dez arquivos. A forma
+vigente ancora no cabeçalho de verdade — `split('\n## Texto\n')[-1]` — e é a única que vale
+citar em cabeçalho. Toda contagem declarada foi **refeita** por ela na onda P4.
+
+**Contagens vigentes (saída do comando corrigido, 10/10):**
+`594 · 533 · 556 · 562 · 519 · 509 · 578 · 545 · 503 · 832`
+— caps. 1 (+11, R6.1), 7 (era 579 na leitura do cético; é **578**), 8 (−15, X4) e 10 (−5, tom
+e adequação) mudaram nesta onda; os demais estão intactos. **Todos dentro do teto** (500–600 ·
+750–850).
 
 Toda contagem declarada em cabeçalho de capítulo passa a citar esta regra. As contagens da
 onda P1 foram **refeitas** por ela (o cap. 5 declarava 518/66 e é 519/62).
