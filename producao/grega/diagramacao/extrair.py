@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 """Extrai conteúdo final dos capítulos e do aparato para arquivos .typ parciais.
+
+⚠️ ORDEM OBRIGATÓRIA (livro-spec.md R6.3 · ver README.md deste diretório):
+    ESTE SCRIPT SÓ RODA DEPOIS DE O GATE DA ONDA ESTAR ESCRITO E FECHADO.
+    A fonte é sempre capitulos/*.md; conteudo/*.json é cópia congelada e envelhece em
+    silêncio. Na onda P4 o capitulos.json tinha congelado uma frase que o gate de tom
+    havia proibido, porque a extração rodou antes da edição. Se você está rodando isto
+    "para adiantar", pare: adiantar é exatamente o que produziu o erro.
+
 Transcrição literal — nenhuma palavra é alterada. Único trabalho de conversão:
 markdown ** bold ** -> typst *bold*, markdown *italic* -> typst _italic_,
 e remoção de linhas de metadado editorial (não destinadas à página impressa).

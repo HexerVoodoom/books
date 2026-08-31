@@ -1,7 +1,7 @@
 {
   "livro": "grega",
   "mitologia": "grega",
-  "fase_atual": "escrita",
+  "fase_atual": "escrita — CONCLUIDA (10/10 capitulos + aparato); proxima: ilustracao (onda P5)",
   "capitulos": [
     {
       "slug": "zeus-baucis-e-filemon",
@@ -66,7 +66,8 @@
       "slug": "do-caos-ao-olimpo",
       "ordem_leitura": 10,
       "ordem_producao": "P0",
-      "status": "pesquisado"
+      "status": "gate-aprovado",
+      "gate": "escrita/gate-onda-p4.md"
     }
   ],
   "pendencias": [
@@ -77,7 +78,6 @@
     "Confirmar com o humano o retítulo do cap. 3 para 'Leto e a ilha que ninguém queria' (muda sumário e quarta capa)",
     "Confirmar com o humano o teto novo de palavras: 500-600 (específico) / 750-850 (geral) / 1 box de até 80 palavras por capítulo",
     "Nome da série, tipografia serial e disclosure de IA — decisão do humano no checkpoint; a tipografia agora precisa funcionar em três corpos (14/21 miolo, 11/15 box, 9,5/12 aparato em 2 colunas)",
-    "p. 53 como lista telegráfica (máx. 4 itens por capítulo) — confirmar que fecha na diagramação; contingência é pp. 52-53 com a bibliografia comprimida na 51 (mito-diagramador, Fase 4)",
     "Cena do cap. 9: mesa aprovada, alternativa Pactolo delegada ao mito-diretor-arte na Fase 3, decidível só com as imagens 7, 8 e 9 lado a lado",
     "Régia de Minos (cornos, labrys) a declarar como extensão arqueológica de Cnossos, não como fonte literária (mito-historiador-arte, Fase 3)",
     "Verificar caps. 7 e 8 lado a lado depois de escritos — a diferenciação X7 não é verificável em dossiê (mito-editor, Fase 2)",
@@ -88,11 +88,16 @@
     "livro-spec Rev. 4 — R4.1 posicionamento do full-bleed (cap. 5 corrigido para p. 24), R4.2 teto de 5 figuras nitidas, R4.3 orcamento das pp. 51-52 (60 palavras/capitulo + ~300 de bibliografia), R4.4 regra de contagem de palavras; registro em escrita/gate-onda-p1.md",
     "Cabecalhos dos caps. 2, 4, 6-10 devem declarar a pagina da ilustracao (R4.1) — caps. 7, 8 e 9 sao 'instante anterior' e provavelmente herdam a excecao da p2",
     "Metafora da porta fechada = assinatura exclusiva do cap. 1; nenhum outro capitulo pode usa-la como imagem de recusa (retirada do cap. 3 na onda P1)",
-    "Reverificar a diferenciacao X2 (caps. 1 x 3, os dois capitulos de acolhimento) quando o cap. 2 estiver escrito entre eles (mito-editor, onda P2)"
+    "Reverificar a diferenciacao X2 (caps. 1 x 3, os dois capitulos de acolhimento) quando o cap. 2 estiver escrito entre eles (mito-editor, onda P2)",
+    "p. 52-53 = 'Perguntas que as criancas fazem' (R5.3), max 3 por capitulo, com rodape telegrafico; p. 51 = fontes + bibliografia. Formato antigo (lista telegrafica na p. 53 sozinha) REVOGADO. Caixa medida por prova de composicao (R6.2): 1,89 pp e 0,84 p — fecha.",
+    "HUMANO — regua da serie x regua deste livro: o cap. 10 tem 832 palavras e o piso serial para capitulo geral e 1.200-2.000. Ou serie-padroes.md baixa o piso na Fase 5, ou o formato do livro cresce. Tensao declarada, nao resolvida pelo editor.",
+    "HUMANO — 'Era Uma Vez um Mito' e nome de serie confirmado; falta o titulo do livro (trabalho: 'Mitos da Gracia') e a tipografia serial. A prova de composicao foi medida em tres serifadas de livro; uma face muito larga (tipo DejaVu Serif) estoura glossario e p. 51.",
+    "VINCULANTE ao mito-diagramador — colofao (p. 54) tem de receber o paragrafo de consulta na internet (Theoi, WHE) e o credito Open Access do Metropolitan, descidos da p. 51 na onda P4 por falta de caixa."
   ],
   "gates": {
     "fundacao": "aprovado",
-    "pesquisa": "aprovado"
+    "pesquisa": "aprovado",
+    "escrita": "aprovado"
   },
   "checkpoint": null,
   "decisoes": {
@@ -102,18 +107,25 @@
     "teto_palavras": "especifico 500-600 / geral 750-850 / 1 box por capitulo, max 80 palavras (X1, teto recalculado descontando o box)",
     "corpo_tipografico": "miolo narrativo 14/21 pt; box 11/15 pt; aparato pos-textual 9,5/12 pt em 2 colunas (~700-900 palavras/pagina) — o piso de 14 pt vale so para o miolo",
     "cap3_mensagem": "quem acolhe deixa de estar a deriva — pertencer (diferenciada do cap. 1)",
-    "cap10_justificativa": "reencontro de ATRIBUTOS e origens (raio, tridente, elmo, partilha), nao de personagens",
+    "cap10_justificativa": "reencontro de ATRIBUTOS e origens (raio, tridente, elmo, partilha), nao de personagens — o raio foi PLANTADO no cap. 1 na onda P4 (R6.1), sem o que a justificativa era falsa",
     "dupla_luz_sem_astros": "ADOTADA",
     "medusa_ovidiana": "FORA — exclusao declarada nas pp. de fontes",
     "dioniso": "jovem imberbe (confirmado pelo humano)",
     "egeu_etimologia": "Higino Fab. 43 inteiro na batida — Egeu vai ao mar e o mar ganha o nome; o rochedo de Plutarco sai do texto",
     "hermes_desfecho": "recebe o OFICIO de pastor; as vacas voltam a Apolo",
     "cena_cap6": "abraco consumado (alterado por X6)",
-    "ritmo_visual": "max 50% das cenas em 'instante anterior' — atual 5/11 = 45%",
-    "titulo_cap3": "Leto e a ilha que ninguém queria (confirmado)"
+    "ritmo_visual": "max 50% das cenas em 'instante anterior' — atual 4/11 = 36% (caps. 5, 7, 8 e 10B; o cap. 4 foi corrigido para 'durante' e o cap. 9 re-rotulado como 'transformação consumada' na Rev. 5 — os 45% eram contagem pre-correcao)",
+    "titulo_cap3": "Leto e a ilha que ninguém queria (confirmado)",
+    "aparato_paginacao": "glossario pp. 49-50 (56 verbetes, 1,73 pp medidas) · fontes+bibliografia p. 51 (0,84 p) · Perguntas que as criancas fazem pp. 52-53 (1,89 pp) · colisao 'pp. 51-52 x pp. 52-53' resolvida na Rev. 6",
+    "sheet_vence_brief": "X6 resolvido — Zeus MADURO na cena 10B (a sheet vence o brief); arco bebe->rei so no texto, nenhuma pagina mostra Zeus crianca"
   },
   "artefatos": [
-    "producao/grega/livro-spec.md (Rev. 3)",
+    "producao/grega/livro-spec.md (Rev. 6)",
+    "producao/grega/capitulos/ (10 capitulos + apendices.md)",
+    "producao/grega/escrita/gate-onda-p1.md · gate-onda-p2-p3.md · gate-onda-p4.md",
+    "producao/grega/escrita/prova-composicao/ (glossario.typ, p51.typ, p5253.typ)",
+    "producao/grega/ilustracoes/prompts.md · HANDOFF-geracao.md",
+    "producao/grega/diagramacao/README.md (R6.3 — extracao posterior ao gate)",
     "producao/grega/pesquisa/parecer-fidelidade.md",
     "producao/grega/pesquisa/gate.md",
     "producao/grega/pesquisa/batidas-intocaveis.md",

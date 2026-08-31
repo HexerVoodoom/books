@@ -143,6 +143,25 @@ primeiro é a mãe.") e **8** ("Atenas ficou de luto e ficou de pé…"). Fechos
 restantes: caps. **1, 2 e 3** = **3 ✔**. O cap. 10 fecha na partilha do mundo e **não pode**
 ser etiológico seco sem estourar a cota.
 
+**Estado final (Rev. 6, cético P4, X4 e X3) — a regra ganha duas precisões que só a execução
+podia dar:**
+
+- **X4 — a coda não pode ser o lugar da etiologia.** O cap. 8 dizia a etiologia **duas vezes**
+  ("Contam que foi por isso que aquele mar ganhou o nome dele" **e** "quem olha aquele mar até
+  hoje diz o nome do rei"), a segunda **dentro da própria coda**, que assim deixava de ser
+  coda. Escolhido, entre as duas saídas do cético, **cortar a redundância** em vez de reescrever
+  a regra: cai a **última** frase, e o capítulo termina em *"Atenas ficou de luto e ficou de
+  pé."* A forma canônica da conversão fica sendo **etiologia → coda humana**, nesta ordem, com
+  a etiologia **fora** da última frase. Bônus: some um dos "até hoje" do livro.
+- **X3 — a coda também tem cota.** Quatro codas em quatro capítulos seguidos usavam o mesmo
+  verbo: 7 *"Ficou só com a história"* · 8 *"ficou de luto e ficou de pé"* · 9 *"E almoçou"* ·
+  10 *"Ficou com um terço"*. A cura para o maneirismo etiológico virou maneirismo. Corrigido no
+  **cap. 7** — *"Guardou só a história."* —, e não no 8 nem no 10: o do cap. 10 é a **última
+  linha do livro** e está protegida pelo parecer de tom; a do cap. 8 é citação literal nas
+  pp. 52–53 e já estava sendo tocada por X4, e dois cortes na mesma frase é reescrita, não
+  edição. No cap. 7 a troca ainda **ganha** uma antítese que o capítulo não tinha: *devolveu*
+  o resto, *guardou* só a história. Restam **2 "ficou"** em 4 codas.
+
 ### R5.2 — Teto de verbetes de glossário: **≤ 6 por capítulo**, com dedup obrigatória
 
 O glossário estourava (51 termos / 1.103 palavras em 6 capítulos → projeção de ~1.840 em 10,
@@ -156,9 +175,31 @@ negrito, travessão e quebra, e ocupa mais que o mesmo número de palavras corri
   posterior e entra como nota).
 - **Não se glossa o que o corrido já ancora.** Se a frase explica a palavra, o verbete é
   redundância paga em página.
-- Dono: `mito-editor`. Contagem após a poda: cap. 2 = 6 · cap. 4 = 4 · cap. 6 = 6 · cap. 7 = 6
-  · cap. 8 = 6 · cap. 9 = 4. **Pendência aberta:** caps. 1 (10), 3 e 5 foram gateados antes da
-  regra e serão podados numa rodada própria, sem reabrir o texto.
+- Dono: `mito-editor`.
+
+**Poda executada e teto confirmado por prova (Rev. 6, cético P4, F2).** A R5.2 declarava o
+cap. 2 "podado a 6" e ele tinha **9**: a contagem real do livro fechado era **68 verbetes**,
+não a projetada. A poda da onda P4 fechou os quatro capítulos pendentes **sem reabrir uma
+linha de texto corrido**:
+
+| Cap. | Antes | Depois | O que saiu, e por quê |
+|---|---|---|---|
+| 1 | 10 | **6** | *choupana*, *faia*, *grinalda* — ancorados no corrido; *Frígia* → vira **linha do rodapé das pp. 52–53**, junto com a Frígia do cap. 9 |
+| 2 | 9 | **6** | *oliveira*, *azeite*, *testemunha* — os três ditos por extenso no corrido |
+| 3 | 8 | **6** | *lira* → **dedup** (a autoridade é o cap. 4, *lira de tartaruga*); *palmeira* — ancorada |
+| 5 | 9 | **6** | *Ares* — ancorado; *tenaz* e *tirso* **absorvidos** pelos verbetes de *Forja* e de *Dioniso* |
+| 10 | 6 | **6** | entrou *bramir* (adequação O4), saiu *Urano* (X5) — o corrido já o ancora na linha em que o nomeia |
+
+**Total do livro: 68 → 56 verbetes · 1.414 palavras impressas.** Absorver em vez de cortar é a
+técnica preferida quando a palavra é difícil e o corrido não a ancora: paga o teto sem perder
+a palavra.
+
+**O teto de 6 está PROVADO e não desce para 5.** A prova de composição da **R6.2** mede o
+glossário real em **1,73 página** de 2 (pp. 49–50), com folga de ~0,27 p em três serifadas de
+livro distintas. A hipótese do cético — "podar mais fundo, ou o glossário ganha a p. 51, ou
+sobe a paginação" — **não precisou ser acionada em nenhuma das três variantes**: nem a
+paginação muda, nem a p. 51 cede, nem o teto aperta. Fica registrado que a margem é de ~3 a 4
+verbetes: um 11º capítulo, numa edição ampliada, **não** cabe no glossário atual.
 
 ### R5.3 — A p. 53 muda de natureza: **"Perguntas que as crianças fazem"** (pp. 52–53)
 
@@ -170,7 +211,17 @@ coisas não cabem na mesma página.
 Decisão: a antiga "Nota sobre as adaptações" vira **"Perguntas que as crianças fazem"**, em
 **pergunta → resposta dizível em voz alta (1–2 linhas)**, ocupando **pp. 52–53**; a
 bibliografia comprime na **p. 51** (é o plano de contingência da Rev. 3, agora acionado). Teto
-de **3 perguntas por capítulo**. As declarações de adaptação que não viram pergunta descem ao
+de **3 perguntas por capítulo**.
+
+⚠️ **Colisão de páginas corrigida na Rev. 6 (cético P4, F3).** Os cabeçalhos do `apendices.md`
+diziam "pp. 51–52" (fontes) e "pp. 52–53" (perguntas): **duas seções reivindicavam a p. 52**, e
+a soma não fechava. Paginação vigente, medida e fechada: **fontes + bibliografia = p. 51
+(0,84 p ocupada)** · **perguntas = pp. 52–53 (1,89 pp ocupadas)**. Toda referência a
+"pp. 51–52" em cabeçalho de capítulo, dossiê ou parecer **lê-se p. 51**. Para a p. 51 fechar em
+uma página, a bibliografia geral caiu de ~300 para **203 palavras** e o parágrafo de consulta
+na internet + o crédito do acervo do Metropolitan **desceram para o colofão (p. 54)**, que é
+onde crédito de imagem mora — não foram cortados, e o `mito-diagramador` é responsável por
+eles chegarem lá. As declarações de adaptação que não viram pergunta descem ao
 **rodapé telegráfico** da mesma seção, no formato antigo. Entrega: `capitulos/apendices.md`.
 
 > **Por que isto não é cosmética:** a p. 53 é a página que o adulto lê **em voz alta, na hora,
