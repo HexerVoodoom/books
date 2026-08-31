@@ -42,4 +42,17 @@ em voz alta, cabe numa sessão.
   paginação real de 56 pp. Tensão declarada: a régua da série precisa ser atualizada na
   Fase 5 (`serie-padroes.md`) ou o formato do livro cresce. Decisão do humano.
 
-## Fidelidade — [aguardando]
+## Fidelidade — APROVADO COM RESSALVAS (nenhuma exige edição do corrido)
+**Zero DISTORÇÕES. Zero INVENÇÕES.** Conferidos e conformes: foice de adamante (Teog. 161–162);
+trezentas pedras (713–719 — "e mais trezentas" é ampliação de ritmo legítima sobre "one upon
+another"); inversão prisioneiro→guardião (734–735 + Apolodoro 1.2.1); partilha por sorteio
+(Il. XV.187–193, verso a verso); antecipação de Atena (886–900 + 924–926 — marcador temporal
+explícito, não nomeia Atena/Métis, e **afirma repetição, não ruptura**, que é o que a fonte
+diz); mensagem central sustentada por 154–160 / 459–467 / 617–663 / 881–885.
+- **R1** — declarar nas pp. 51–52 que a sequência aclamação (Hesíodo) → sorteio
+  (Homero/Apolodoro) é **harmonização do livro**, não de um texto único.
+- **R2 (condição de aprovação)** — a nota das pp. 51–52 sobre **Métis** como quem dá a droga
+  não é opcional: sem ela, transferir o agente para Zeus vira atribuição falsa.
+- **R3** — a prolepse do elmo fica **sem destinatário nomeado**; proibido escrever, aqui ou em
+  box/legenda, que Perseu pediu o elmo a Hades (em Apolodoro 2.4.2 ele o recebe das ninfas e
+  devolve a Hermes — o cap. 7 mantém a cadeia correta).
