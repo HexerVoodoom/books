@@ -453,3 +453,20 @@ no bloco original).
   Perséfone com rosto e roupas claros (não escurecidos) ✔ · flores abrindo a partir do ponto
   do abraço ✔ · sem correntes/susto/vilão/romã sendo comida ✔.
 - **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+### `07-perseu-e-a-medusa.png`
+
+- **Prompt colado verbatim**, conversa nova (`Perseus Preparing to Strike`). Duas tentativas
+  de colar+enviar antes de registrar; o clique final foi por coordenada no botão de envio
+  (o `find` não localizou "Enviar mensagem" como elemento nomeado nesse momento — anotado
+  como variação da UI a observar em sessões futuras).
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF). Sem
+  watermark/texto visível.
+- **Checklist de aceitação:** escudo de bronze como centro geométrico e de luz, com o reflexo
+  pequeno e adormecido da Medusa dentro dele ✔ · Medusa nunca de frente/em close/acordada ✔ ·
+  cena majoritariamente escura (a mais escura do livro) ✔ · sem Pégaso ✔ · sem gesto de
+  corte/sangue ✔. **Não confirmei com certeza absoluta, na resolução da miniatura, se o elmo
+  de Hades está na mão de Perseu e não na cabeça** (checklist crítico X5) — sinalizo para o
+  diretor de arte conferir na imagem em tamanho real antes de aprovar.
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
