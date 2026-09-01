@@ -78,3 +78,37 @@ C6 (sombrio não é risco em si; a quarta-capa é).
 3. **Série: mantém "um livro por mitologia"** — este volume é **aprofundamento/spin-off da
    Grécia**, com rotulagem/numeração própria. CONTRACT §0 não muda; `serie-padroes.md` ganha a
    regra de rotulagem de spin-off (registrar no livro-spec e atualizar na Fase 4/5 de capa).
+
+## 2º passe do loop adversarial (sobre sumário emendado + redação literal)
+
+- `pareceres/parecer-adequacao-etaria-2passe.md` — **APROVA sem emenda**. As 5 condições do 1º
+  passe satisfeitas; exigências de execução repassadas às Fases 2–3.
+- `pareceres/parecer-critico-tom-2passe.md` — **APROVA com 4 emendas pontuais** (teto de
+  repetição da frase-fio 2–3×; quarta-capa sem Hidra/Quimera como requisito duro; registro da
+  transferência do gancho Pégaso; plano B para Orfeu/Cérbero).
+- `pareceres/parecer-cetico-2passe.md` — **libera o gate**; as 3 travas CUMPRIDAS, condicionado
+  a 4 correções FIXÁVEIS pré-checkpoint (caps. 7–8 atualizados pela verificação; plano B do
+  Orfeu escrito; tempo do retrato final do cap. 8 definido; teto de repetição normativo).
+  Objeção nova N1 (retrato final não pode desfazer as 2 mortes) endereçada ao editor.
+
+**Nenhuma objeção FATAL sobreviveu ao 2º passe.** O enquadramento não foi reaberto por nenhuma lente.
+
+## Decisões delegadas (dono ausente; run sob objetivo "entregar o livro completo", 2026-09-01)
+
+O dono definiu como objetivo a entrega do livro completo e autorizou a continuidade sem parada
+por fase. As decisões pendentes que restavam no checkpoint são adotadas **pela recomendação da
+squad**, registradas aqui e reversíveis a pedido:
+
+1. **48 páginas** (não 56) — recomendação unânime: reinchar exigiria capítulo de enchimento, que
+   os três adversariais vetaram. 48 é múltiplo de 4, 8 e 16 (resolve também a pendência de
+   imposição herdada do livro 1, que fechou em 59).
+2. **Gancho Pégaso/Belerofonte transferido** a volume futuro nomeado ("Heróis da Grécia"),
+   registrado em `serie-padroes.md` como dívida de coleção assumida.
+3. **Hesíodo adotado** como variante da série para o destino de Equidna (a ninfa que não morre
+   nem envelhece); variante de Argos (Apolodoro 2.1.2) registrada como não adotada.
+4. **Direitos de texto:** mitos recontados a partir do enredo; nunca derivar texto, estrutura ou
+   seleção de tradução ou obra protegida.
+5. **Disclosure de IA:** a ficha técnica declara explicitamente que as ilustrações foram geradas
+   com IA sob direção de arte humana — mesma regra do livro 1.
+
+**Gate da Fase 0: APROVADO.** Exit bar cumprida com `livro-spec.md`.

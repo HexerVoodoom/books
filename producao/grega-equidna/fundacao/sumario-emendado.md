@@ -30,6 +30,11 @@ parentela incerta de Esfinge e Leão: se a Fase 1 os arbitrar como **netos**, o 
 Isto arbitra F2 × O2 (C3): a dor é texto (F2 ✔), mas racionada — 2 frases no livro inteiro,
 cada uma seguida de acolhimento concreto no mesmo capítulo (O2 ✔).
 
+**Teto de repetição da frase-fio (normativo, junto da regra-de-luto):** a frase-fio aparece
+literalmente no miolo **no máximo 2–3 vezes** (candidatas: abertura do cap. 1, fecho do cap. 8
+e, opcionalmente, o cap. 7). Fora disso, o fio opera por fato e imagem, nunca por refrão — o
+teste da 20ª releitura (X3) reprova qualquer 4ª ocorrência.
+
 ---
 
 ## 2. Sumário emendado — capítulo a capítulo
@@ -43,11 +48,20 @@ específico 500–600 · geral 750–850 · 1 box ≤80.
 | 1 | 7–10 | A caverna e as portas | Equidna | a caverna — a casa de onde todos saem | não | **Conto acumulativo de partidas**: um a um, cada filho recebe a sua porta e parte; refrão que cresce | Instala o fio e o mapa do livro; a mãe fica na porta dela |
 | 2 | 11–14 | O dragão que nunca dormia | Dragão da Cólquida | o Velo de Ouro | **não** (Medeia o adormece; o Velo vai, o dragão fica) | **Canção de ninar às avessas** — capítulo quase cantado; *música vence monstro, 1ª vez* | Prova cedo que perder a coisa guardada ≠ morrer; suaviza a antecipação |
 | 3 | 15–18 | Órtro e o gado vermelho | Órtro | o gado de Gerião | **✝ SIM (1/2)** — elipse; luto-texto nº 1; acolhimento no capítulo (as duas cabeças ganharam o costume da casa: até hoje cão bom dorme com um ouvido acordado — etiologia afetiva, a verificar redação na Fase 2) | não | **Dia de trabalho** do irmão mais simples, contado em rotina; Héracles chega como o inverno chega (sem fórmula da expiação — X1) | A primeira perda, no ponto do livro que a régua permite (não abre, não fecha) |
-| 4 | 19–22 | Ladon e o gigante que segurou o céu | Ladon | a árvore das maçãs de ouro | **não** — variante Atlas obrigatória (Apolodoro 2.5.11): ninguém toca o dragão | **Comédia de negociação**: Héracles × Atlas, a troca do céu pelos frutos; Ladon nem se desenrosca | Alívio no meio do livro; **box "Você sabia?" da expiação — a ÚNICA menção (1×)**, aqui porque é capítulo de Héracles SEM morte |
+| 4 | 19–22 | Ladon e o gigante que segurou o céu | Ladon | a árvore das maçãs de ouro | **não** — variante Atlas obrigatória e **✅ confirmada como o relato PRINCIPAL de Apolodoro 2.5.11** (a morte por flechas é a tradição concorrente, registrada, não adotada): ninguém toca o dragão | **Comédia de negociação**: Héracles × Atlas, a troca do céu pelos frutos; Ladon nem se desenrosca | Alívio no meio do livro; **box "Você sabia?" da expiação — a ÚNICA menção (1×)**, aqui porque é capítulo de Héracles SEM morte |
 | 5 | 23–26 | A pergunta da Esfinge | Esfinge · **posse incerta** (Hesíodo: filha de Órtro) | uma estrada, com uma pergunta | **não em cena** — a derrota é a resposta de Édipo; o destino dela sai da cena e vai declarado à página de fontes (risco nº 1, §4) | **Capítulo-enigma, quase todo diálogo**: abre na pergunta, o leitor tenta responder antes de Édipo | O jogo do livro (a adivinha é ouro para 4–7); nenhum Héracles |
 | 6 | 27–30 | O leão de pele impossível | Leão de Nemeia · **posse incerta** (idem) | o vale de Nemeia | **✝ SIM (2/2)** — sem armas, elipse; luto-texto nº 2; acolhimento no capítulo: **a marca emocional concreta de Héracles** — ele veste a pele e nunca mais a tira (fato de fonte); catasterismo (o Leão no céu) a verificar como fecho | **Fábula de propriedade impossível** ("nada atravessa a pele — então como?"), resolvida por abraço, não por arma | A perda mais próxima de Héracles; prepara a devolução do cap. 7 |
-| 7 | 31–34 | Cérbero volta para casa | Cérbero | o portão do mundo de baixo | **NÃO** — condição de Hades: sem armas; mostrado e **devolvido** (Apolodoro 2.5.12, verificação-relâmpago pendente) | **Viagem de ida e volta**; dentro dela, Orfeu adormece Cérbero com a lira — *música vence monstro, 2ª vez* (rima deliberada com o cap. 2) | **Âncora.** Última imagem de Héracles no livro: devolvendo um filho. O livro "termina em casa" antes do geral |
-| 8 | 35–40 | Tifão, o pai de tudo | Tifão (o pai) — **capítulo geral** | — | não em cena (Tifão não morre: é enterrado sob o Etna, que ferve até hoje) | **Grande narrativa de origem** (análogo do "Do Caos ao Olimpo"): quem é o pai, a tempestade contra Zeus, o Etna; fecha no retrato da família nas suas portas | Explica de onde vem todo mundo do livro; **fecho "Zeus poupou Equidna e os filhos" SOB VERIFICAÇÃO — plano B no §5** |
+| 7 | 31–34 | Cérbero volta para casa | Cérbero | o portão do mundo de baixo | **NÃO** — condição de Hades: sem armas; mostrado e **devolvido** — **✅ CONFIRMADO** (Apolodoro 2.5.12, trad. Frazer: *"carried him back to Hades"*; `verificacao-relampago.md`) | **Viagem de ida e volta**; dentro dela, Orfeu adormece Cérbero com a lira — *música vence monstro, 2ª vez* (rima deliberada com o cap. 2). Fonte da cena de Orfeu é **romana** (Virgílio, *Geórgicas* 4.481–484; Horácio, *Odes* 2.13.33–36), a confirmar em edição. **Plano B por escrito:** se a fonte romana cair na Fase 1, a cena de Orfeu sai, a rima música-vence-monstro fecha só com Medeia (cap. 2) e o capítulo se sustenta apenas no abraço sem armas + devolução, ambos confirmados em Apolodoro 2.5.12 | **Âncora.** Última imagem de Héracles no livro: devolvendo um filho. O livro "termina em casa" antes do geral |
+| 8 | 35–40 | Tifão, o pai de tudo | Tifão (o pai) — **capítulo geral** | — | não em cena (Tifão não morre: é enterrado sob o Etna, que ferve até hoje) | **Grande narrativa de origem** (análogo do "Do Caos ao Olimpo"): quem é o pai, a tempestade contra Zeus, o Etna; **retrato da família no tempo de origem** (ver nota abaixo) e volta ao presente para o fecho | Explica de onde vem todo mundo do livro; **fecho PRINCIPAL (hesiódico, confirmado): Equidna é *"a ninfa que não morre nem envelhece"*, na caverna que os próprios deuses lhe deram (Teog. ~295–305)** — sem atribuir intenção a Zeus. "Zeus poupou" está **DESCARTADO** (não confirmado; paráfrase moderna — `verificacao-relampago.md`). A variante de Argos (Apolodoro 2.1.2, Equidna morta) fica registrada no dossiê como tradição **não adotada** |
+
+**Tempo do retrato final do cap. 8 (objeção N1 do cético — decisão):** o retrato da família é
+**retrato de ORIGEM** — está no meio do capítulo, no tempo do nascimento da prole (o catálogo
+de Hesíodo, Teog. 306–319), antes das partidas do cap. 1. Razão: o cap. 8 é a história do pai,
+e o catálogo dos filhos pertence naturalmente a esse tempo; um retrato de origem não afirma
+nada sobre o presente, logo **não desfaz as duas mortes em cena nem insinua "continuam lá de
+algum jeito"** — e é o único tempo em que Hidra e Quimera podem aparecer vivas sem trapaça.
+Depois do retrato, a câmera volta ao presente e a **última imagem do capítulo (e do livro) é a
+caverna só com Equidna**, o fato hesiódico acima.
 
 **Contagem de mortes em cena: 2 (caps. 3 e 6) ✔ · nenhuma abre (cap. 1) nem fecha (caps. 7–8) ✔
 · luto-texto: 2 frases, uma por morte, cada qual com acolhimento no próprio capítulo ✔ ·
@@ -59,8 +73,9 @@ expiação: 1×, em box, num capítulo sem morte ✔ · rima estrutural música-
 duas guarda coisa alguma, e o alargamento "cada filho é a prova de um herói" reintroduziria
 por baixo a tese que F1 vetou. Em vez disso:
 
-- Ambas aparecem **de corpo presente e vivas** no retrato da família do capítulo geral (cap. 8
-  abre com a prole completa — fato de Hesíodo, *Teogonia* ~306 ss.), sem cena de morte.
+- Ambas aparecem **de corpo presente e vivas** no **retrato de origem** do capítulo geral
+  (o catálogo de Hesíodo, *Teogonia* 306–319, no tempo do nascimento da prole — ver a decisão
+  de tempo do retrato acima), sem cena de morte.
 - A Hidra leva o **box do cap. 8**: a matemática "corta uma, nascem duas" preservada como
   maravilha, não como batalha.
 - **Destino do gancho Pégaso/Quimera do livro 1 (C5): pago parcialmente aqui** — Quimera e
@@ -118,12 +133,12 @@ precisa de lombada e preço coerentes, decisão de produto que fica nomeada para
    (lançar-se da pedra) vai declarado à página de fontes, não à cena. Se `mito-fidelidade`
    julgar isso elisão excessiva, a saída desenhada é: a morte da Esfinge vira a 2ª em cena e a
    do Leão é elidida (troca 1-por-1, teto de 2 mantido) — mas a decisão é da Fase 2, não minha.
-2. **Dependências de fonte (C2), ainda sob verificação-relâmpago:** Cérbero devolvido
-   (Apolodoro 2.5.12) · expiação dos trabalhos · **"Zeus poupou Equidna e os filhos"**.
-   **Plano B do cap. 8, desenhado desde já:** se "Zeus poupou" não confirmar, o capítulo fecha
-   no Etna que ferve + na volta da câmera à caverna com os filhos nas suas portas (fatos que o
-   próprio livro já estabeleceu), **sem afirmar clemência de Zeus** — o fio fecha por imagem,
-   não por tese. Se confirmar, a frase sobe a fecho do livro.
+2. **Dependências de fonte (C2) — RESOLVIDAS pela verificação-relâmpago
+   (`verificacao-relampago.md`):** Cérbero devolvido ✅ (Apolodoro 2.5.12) · expiação dos
+   trabalhos ✅ (Apolodoro 2.4.12; variante de Eurípides registrada, não adotada) · "Zeus
+   poupou" ❌ descartado — substituído pelo fecho hesiódico como linha PRINCIPAL (§2).
+   Pendência residual: a cena de Orfeu (fonte romana) a confirmar em edição, com plano B
+   escrito no cap. 7.
 3. **Catasterismo do Leão** (o Leão no céu como acolhimento do cap. 6) — a verificar
    (Eratóstenes/Higino); se cair, o acolhimento do capítulo fica só na pele-que-Héracles-nunca-
    mais-tira, que é suficiente mas mais seco.
