@@ -425,3 +425,18 @@ no bloco original).
   ✔ · pegadas invertidas visíveis no chão, sem legenda ✔ · arco de prata baixado no chão ✔ ·
   bebê sem petasos/sandálias aladas/bastão na mão ✔.
 - **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+### `05-hefesto-o-trono-de-ouro.png`
+
+- **Prompt colado verbatim**, conversa nova (`The Return of Hephaestus`). Levou 3 tentativas
+  de colar+enviar para registrar (as duas primeiras não deixaram texto na caixa; a terceira
+  registrou e o clique no botão de enviar por `ref` funcionou).
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF). Sem
+  watermark/texto visível.
+- **Checklist de aceitação:** Hefesto de pé, entrando por vontade própria (não carregado,
+  não apoiado em ninguém) ✔ · pílos, exômide, martelo e bastão visíveis ✔ · Dioniso imberbe
+  com a mão no ombro dele ✔ · Ares ao fundo com elmo debaixo do braço ✔ · trono dourado com
+  Hera ✔ · cortejo em silhueta na porta, sem entrar no salão ✔ · nenhuma corrente/corda
+  visível ✔ · ninguém rindo de Hefesto ✔.
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
