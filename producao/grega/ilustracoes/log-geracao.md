@@ -193,9 +193,31 @@ dispara depois de alguns downloads seguidos do mesmo site.
 `chrome://settings/content/automaticDownloads`) e **permitir downloads automáticos** para o
 site. Sem isso a fila de ~80 imagens não anda.
 
-⚠️ A `10b` v3 **foi gerada** (conversa `689320fd19d7c503`) e está renderizada no Gemini —
-só não foi possível baixá-la. Ela não se perdeu: basta refazer o download quando a permissão
-estiver liberada.
+✅ **Resolvido.** Não era bloqueio de permissão — `automatic_downloads` para
+`gemini.google.com` e `lh3.googleusercontent.com` já estava `setting:1` (permitido) nas
+Preferences do Chrome, confirmado por leitura direta do arquivo. O problema real era
+timing: clicar sem `scroll_to` antes, e checar a pasta cedo demais (2–5 s). Correção:
+`scroll_to` no botão pelo `ref` + clique + esperar ~15 s antes de checar. Com isso os
+downloads passaram a cair de forma confiável — ver `10b` v3/v4 abaixo.
+
+### `10b` v3 e v4 — geradas, baixadas, mas REPROVADAS tecnicamente
+
+Duas rodadas seguidas (conversas `c2ed9cb7fdc02ad0` e a anterior) produziram o Cem-Mãos
+com **braços contáveis** (10 num caso) em vez da silhueta em arabesco não-anatômica que
+o prompt exige verbatim (`NEVER an anatomical count`). O próprio Gemini confessou o
+desvio nas duas respostas, e numa delas também admitiu que o fundo do Monte Otris não
+saiu em silhueta retroiluminada como pedido. **Falha sistemática do modelo com essa
+instrução específica, não do prompt** — mantida exatamente como está em `prompts.md`
+nas 4 tentativas.
+
+| Arquivo | Dimensões | Formato | Defeito |
+|---|---|---|---|
+| `10b-do-caos-os-libertados-v3-REPROVADA-bracos-contaveis.png` | 2048×2048 | JPEG | Cem-Mãos com braços contáveis |
+| `10b-do-caos-os-libertados-v4-REPROVADA-bracos-contaveis.png` | 2048×2048 | JPEG | Cem-Mãos com 10 braços contáveis + fundo do Otris não é silhueta pura |
+
+**Resultado da `10b`: 2 variações aprovável-candidatas (v1, v2) + 2 reprovadas mas
+entregues para registro (v3, v4).** Decisão de aceitar 2/4 ou insistir em mais rodadas é
+do `mito-diretor-arte` — não decido isso sozinho.
 
 ## Bloqueio operacional que interrompeu esta sessão
 
