@@ -356,3 +356,46 @@ regenerá-las do zero, em conversa nova, e baixar na hora resolveu todos os caso
 - **Bloqueio ativo:** proporção 1:1 não confirmada como alcançável nesta ferramenta/sessão
   sem decisão do diretor de arte sobre como fixar o parâmetro de aspect ratio. Gerar as
   ~80 imagens restantes sem resolver isso primeiro arrisca desperdiçar todo o lote.
+
+> **Atualização:** o bloqueio de proporção acima foi resolvido — a causa era a ausência da
+> linha de fechamento "Square 1:1 full-bleed composition." no bloco `[BASE]` congelado de
+> `prompts.md` (o `guia-de-estilo.md` §3.2 já tem essa linha no template-fonte). Não editei
+> `prompts.md` (fora do meu mandato) — em vez disso, acrescento essa linha manualmente no
+> fim de todo prompt colado no Gemini, a partir daqui. Confirmado por teste controlado:
+> saída exata 2048×2048.
+
+## Parte II — Cenas (01–09, 10a) + capa
+
+Todo prompt colado é o bloco `[BASE]` (verbatim) + bloco `[CHARACTERS]`/`[SCENE]`/`[LIGHT]`/
+`[MUST NOT APPEAR]` da cena (verbatim) + a linha de fechamento de proporção acrescentada
+manualmente (ver nota acima) + "no text, no watermark, no lettering" (verbatim, já presente
+no bloco original).
+
+### `01-zeus-baucis-e-filemon.png`
+
+- **Prompt colado verbatim**, conversa nova (`Baucis and Philemon Mucha Illustration`).
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (extensão `.png`, conteúdo JFIF — mesmo padrão de todos os
+  arquivos anteriores nesta sessão; formato PNG real é decisão fora do meu mandato, sinalizo
+  para o diretor de arte avaliar se precisa de conversão). Sem watermark/texto visível.
+  Verificação cruzada (raio nunca objeto na mão fora da forja): ✔ nenhum raio físico visível.
+  Zeus maduro: ✔.
+- **Variações obtidas: 1 de 4.** Seguindo a mesma priorização de amplitude sobre
+  profundidade já registrada na fase dos sheets — cobrir os 21 blocos primeiro, voltar para
+  variações extras depois se houver tempo.
+
+### `02-atena-disputa-por-atenas.png`
+
+- **Prompt colado verbatim**, conversa nova (`Attic Myth Illustration Prompt Expansion`).
+  Primeira tentativa de colar+enviar não registrou (padrão já conhecido: primeira tentativa
+  após `navigate` falha); segunda tentativa registrou normalmente.
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF). Sem
+  watermark/texto visível.
+- **⚠️ Observação técnica para o diretor de arte:** o prompt exige "Poseidon's trident
+  already lowered" (não em pose de ameaça) — na v1 obtida, o tridente de Poseidon aparece
+  erguido/na vertical, mais próximo de uma pose de possível ameaça do que "já baixado". Não
+  reformulei nem melhorei a cena por conta própria (fora do meu mandato); registro o desvio
+  para triagem do diretor. Cecrops (a figura anguípede) está presente e central na
+  composição, como exigido. Nenhum sol/lua/templo visível (correto, per must-not-appear).
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
