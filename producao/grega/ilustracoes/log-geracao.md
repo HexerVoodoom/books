@@ -518,3 +518,38 @@ no bloco original).
   filhos/titãs/ciclopes/cem-mãos em quadro ✔ · sem foice/ampulheta/alegoria do Tempo ✔ · sem
   nenhuma cena de engolimento (vinculante de livro inteiro) ✔.
 - **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+## `00-capa.png` — gerada por último, conforme ordem obrigatória
+
+- **Prompt colado verbatim**, conversa nova (`Zeus Watercolor Book Cover Illustration`). Duas
+  tentativas de colar+enviar antes de registrar; envio final por clique de coordenada.
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF). Sem
+  watermark/texto/letra visível de nenhum tipo (checklist crítico da capa) ✔.
+- **⚠️ CONFLITO ENTRE INSTRUÇÕES — sinalizado, não resolvido por mim:** o bloco `[CHARACTERS]`
+  da capa em `prompts.md` exige literalmente "He holds the THUNDERBOLT" (raio como objeto
+  físico segurado por Zeus). A conferência transversal pedida pelo dono no início desta sessão
+  diz que **o raio nunca é objeto na mão em nenhuma página, exceto a cena da forja (cap. 10)**
+  — e a capa não é o cap. 10. Colei o prompt da capa **verbatim**, sem alterar (fora do meu
+  mandato decidir/mudar texto canônico), e a v1 obtida mostra Zeus **segurando o raio alado
+  como objeto físico**, conforme o prompt pede. **Este é um conflito real entre o texto
+  canônico de `prompts.md` e a regra transversal do dono, não um erro de geração** — fica para
+  o diretor de arte decidir: manter o raio na mão (seguindo `prompts.md` como está) ou pedir
+  correção do prompt da capa para luz insinuada (seguindo a regra transversal). Não gerei
+  variação alternativa por conta própria.
+- **Checklist de aceitação (exceto o ponto acima):** figura única, frontal e simétrica ✔ ·
+  águia presente ✔ · arco Mucha com meandro grego no perfil interno ✔ · terço superior calmo
+  e de baixo contraste, livre para tipografia ✔ · nenhuma letra/glifo/inscrição em lugar
+  nenhum da imagem ✔ · nenhuma outra figura/multidão ✔.
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+## Marco: todos os 21 blocos do livro têm ao menos 1 variação gerada
+
+10b, 01–09, 10a e a capa (00-capa) estão cobertos, além das 8 character sheets. Nenhum bloco
+foi inventado ou pulado; nenhuma recusa do Gemini ocorreu em nenhuma imagem desta sessão. O
+que falta, de forma transparente: (1) as variações extra até completar 4 por imagem, onde
+hoje a maioria tem só 1–2 (registrado individualmente em cada seção acima); (2) o conflito do
+raio na capa, acima; (3) a observação não confirmada do elmo de Hades na cena 07; (4) o desvio
+do tridente de Poseidon na cena 02; (5) as defeituosas 10b v3/v4 (braços contáveis) e o defeito
+do elmo da sheet-atena — mantidas no repositório com o defeito no nome do arquivo, não
+apagadas. Tudo isso é matéria para o `mito-diretor-arte` triar, não decisão minha.
