@@ -399,3 +399,16 @@ no bloco original).
   para triagem do diretor. Cecrops (a figura anguípede) está presente e central na
   composição, como exigido. Nenhum sol/lua/templo visível (correto, per must-not-appear).
 - **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+### `03-leto-e-a-ilha.png`
+
+- **Prompt colado verbatim**, conversa nova (`Delos Anchors in Golden Light`). Primeira
+  tentativa não registrou (padrão conhecido); segunda tentativa registrou e enviou.
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF de todos os
+  arquivos anteriores). Sem watermark/texto visível.
+- **Checklist de aceitação:** rosto no penhasco visível ✔ · Leto de braços em volta da
+  palmeira ✔ · Ártemis e Apolo (recém-nascidos, já formados) presentes ✔ · penhasco
+  permanece pedra, não dourado/gilded ✔ (reprovação evitada) · sem sol/lua no céu ✔ · sem
+  composição de parto/dor/sangue ✔.
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
