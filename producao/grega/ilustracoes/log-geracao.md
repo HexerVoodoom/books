@@ -280,6 +280,17 @@ aba nova, grupo de abas novo, esperas de até 20s). Parando a tentativa mecânic
    cada `.jfif` para análise antes de liberar);
 3. `chrome://downloads` diretamente, que a automação não consegue abrir.
 
+## Prova final de que o bloqueio é do pipeline de download, não da UI do Gemini
+
+Testado um caminho totalmente diferente: `gemini.google.com/library` (Biblioteca — galeria
+de todas as gerações da conta, independente de conversa) tem seu próprio botão de download
+por imagem. **Também falhou**, no mesmo item (`sheet-apolo`) que já tinha falhado pelo botão
+da conversa. Dois mecanismos de download inteiramente diferentes na mesma sessão, ambos sem
+produzir arquivo — isso descarta problema de seletor, de timing e de conversa específica.
+**O bloqueio está no Chrome ou no sistema operacional, fora do alcance de qualquer automação
+de navegador.** Suspeito mais provável: verificação de download (Windows Defender / SmartScreen)
+enfileirada e represada.
+
 ## Status geral desta sessão
 
 - **Gerado:** `10b-do-caos-os-libertados` — 2/4 variações, ambas fora de especificação de
