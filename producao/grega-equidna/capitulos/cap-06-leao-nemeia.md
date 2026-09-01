@@ -61,7 +61,7 @@ Molorco tinha esperado trinta dias. Estava na porta, esperando o trinta.
 
 Foi assim que a pele impossível saiu do vale de Nemeia.
 
-Nada nunca tinha atravessado aquela pele — e nada nunca atravessou. Héracles pôs a pele em cima de si, e ela cobria ele inteiro, do ombro até o pé, porque o leão era grande daquele tamanho.
+Nada nunca tinha atravessado aquela pele — e nada nunca atravessou. Héracles pôs a pele em cima de si, e ela o cobria inteiro, do ombro até o pé, porque o leão era grande daquele tamanho.
 
 E daquele dia em diante ela foi junto. Para o trabalho seguinte, e para o outro, e para o outro. Por todos os caminhos que ainda faltavam.
 
@@ -71,7 +71,7 @@ A pele dele não parou mais.
 
 ## Você sabia?
 
-Um escritor romano chamado Higino contou este dia inteiro numa frase só: Héracles entrou naquela caverna **sem armas**. Guarde essa palavra. No capítulo que vem, no lugar mais fundo que existe, alguém vai fazer um pedido a Héracles — e o pedido vai ser exatamente esse: sem armas.
+Um escritor romano chamado Higino contou este dia inteiro numa frase só: Héracles entrou naquela caverna **sem armas**. Guarde essa palavra. No capítulo que vem, no fundo do mundo de baixo, alguém vai fazer um pedido a Héracles — e o pedido vai ser exatamente esse: sem armas.
 
 *(Fontes: Higino, *Astronomica* 2.24 — "killed him, unarmed"; a condição do dono da casa, em Apolodoro 2.5.12.)*
 
@@ -152,8 +152,10 @@ carregado.
    2.5.1 (a morte não é pela clava) e Higino, *Astr.* 2.24 (*"killed him, unarmed"*). **Rima
    deliberada com a condição de Hades no cap. 7** (Apolodoro 2.5.12).
 3. **REGRA-DE-LUTO — 2ª e última aplicação do livro.** Uma frase, na superfície, dentro do
-   capítulo: *"Longe dali, na caverna funda, Equidna sentiu que uma porta do mundo tinha
-   ficado vazia."* Não volta, não vira refrão, não vira subtexto, não reaparece no fecho.
+   capítulo: *"Longe dali, na caverna funda, Equidna virou a cabeça para o lado do vale. Ficou
+   assim um tempo, com o traço de luz da manhã atravessando o chão inteiro."* (redação final da
+   onda 1 — ver item 14; a abstração anterior, *"sentiu que uma porta do mundo tinha ficado
+   vazia"*, está revogada). Não volta, não vira refrão, não vira subtexto, não reaparece no fecho.
    **Estrutura em rima deliberada com o cap. 3** (a porta como FATO, nunca como virtude —
    guarda do F1). ⚠️ **O luto é criação nossa e está proibido no aparato** — não entra no
    box, nem no glossário, nem em "Perguntas que as crianças fazem".

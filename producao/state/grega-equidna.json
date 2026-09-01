@@ -1,26 +1,40 @@
 {
   "livro": "grega-equidna",
+  "titulo": "Equidna e as portas do mundo",
+  "titulo_anterior": "Equidna e seus filhos (título de trabalho, descartado na Fase 2 por declarar grau de parentesco)",
   "mitologia": "grega",
   "posicao_serie": "2 (spin-off da Grécia)",
-  "fase_atual": "escrita",
+  "fase_atual": "ilustracao",
   "capitulos": [
-    {"slug": "equidna-caverna", "cap": 1, "status": "pesquisado"},
-    {"slug": "dragao-colquida", "cap": 2, "status": "pesquisado"},
-    {"slug": "ortro", "cap": 3, "status": "pesquisado"},
-    {"slug": "ladon", "cap": 4, "status": "pesquisado"},
-    {"slug": "esfinge", "cap": 5, "status": "pesquisado"},
-    {"slug": "leao-nemeia", "cap": 6, "status": "pesquisado"},
-    {"slug": "cerbero", "cap": 7, "status": "pesquisado"},
-    {"slug": "tifao-geral", "cap": 8, "status": "pesquisado"}
+    {"slug": "equidna-caverna", "cap": 1, "status": "gate-aprovado", "palavras": 519},
+    {"slug": "dragao-colquida", "cap": 2, "status": "gate-aprovado", "palavras": 513},
+    {"slug": "ortro", "cap": 3, "status": "gate-aprovado", "palavras": 532},
+    {"slug": "ladon", "cap": 4, "status": "gate-aprovado", "palavras": 561},
+    {"slug": "esfinge", "cap": 5, "status": "gate-aprovado", "palavras": 512},
+    {"slug": "leao-nemeia", "cap": 6, "status": "gate-aprovado", "palavras": 511},
+    {"slug": "cerbero", "cap": 7, "status": "gate-aprovado", "palavras": 532},
+    {"slug": "tifao-geral", "cap": 8, "status": "gate-aprovado", "palavras": 791}
   ],
   "pendencias": [
-    "serie-padroes.md: regra de rotulagem de spin-off (Fase 4/5, dono mito-editor-chefe)",
-    "serie-padroes.md: registrar transferência do gancho Pégaso/Quimera para volume futuro",
-    "Página de Fontes: nome 'Ladon' vem de fonte não adotada; variantes não adotadas (Diodoro 4.48.3, Apolônio 4.1396, Argos 2.1.2); etiologia do cão é criação nossa",
-    "Arbitrar quem apresenta Euristeu (cap. 4 ou 6)",
-    "Fase 2: testar se a fórmula etiológica dos caps. 3/6 lê como rima ou muleta"
+    "Seção 'Perguntas que as crianças fazem' ainda não escrita (aparato da Fase 4)",
+    "Propagar o título novo: capa, lombada, serie-padroes.md",
+    "serie-padroes.md: rotulagem de spin-off; transferência do gancho Pégaso; formato de quarta capa da série; regra 'paratexto não usa a redação literal da 1ª nem da última frase do miolo'",
+    "Página de Fontes: variantes não adotadas (Diodoro 4.48.3, Apolônio 4.1396, Argos 2.1.2); o nome 'Ladon' vem de fonte não adotada; etiologia do cão e luto de Equidna são criação nossa",
+    "Fase 4: recontar os 8 capítulos por método único (orquestrador e revisor divergiram em 18 palavras no cap. 4)",
+    "Perfil ICC da gráfica (herdado do livro 1, em aberto)"
   ],
-  "gates": {"fundacao": "aprovado", "pesquisa": "aprovado"},
+  "decisoes_de_arte_fixadas": [
+    "Full-bleed do cap. 6 = leão VIVO no capim curto; caverna de duas bocas vira vinheta; pele vestida é OBRIGATÓRIA com espaço reservado no miolo.typ",
+    "Cabeças NÃO CONTÁVEIS: Cérbero, Hidra, Ladon (precedente Cem-Mãos reprovado no livro 1)",
+    "Pele do Leão como manto/silhueta, NUNCA rosto-sobre-rosto",
+    "Atlas segura uma ESFERA celeste, nunca mapa-múndi (anacronismo)",
+    "As DUAS cavernas (Equidna funda e de uma boca; Nemeia passante e de duas bocas) precisam ser visualmente distintas",
+    "Equidna: dignidade materna, sem sensualizar — a descrição canônica mais delicada do livro",
+    "Premissa NOVA (inversão do livro 1): as criaturas são protagonistas, rosto legível e amável na primeira olhada",
+    "Teste do cap. 7: o leitor de 4 anos deve dizer 'cachorro'. 'Monstro' ou 'fofinho' = refazer",
+    "Última página = a caverna aberta com Equidna, no enquadramento do cap. 1 (contrato feito com a criança no cap. 3)"
+  ],
+  "gates": {"fundacao": "aprovado", "pesquisa": "aprovado", "escrita": "aprovado"},
   "checkpoint": null,
-  "nota": "Fase 1 aprovada em 2026-09-01: 8 dossiês, todos APTOS, validados independentemente pelo mito-fidelidade (5 erros de fonte corrigidos no spec, 2 deles falsificações em potencial). Fase 2 aberta: 7 específicos em paralelo, cap. 8 por último."
+  "nota": "Fase 2 aprovada em 2026-09-01: 8 capítulos (4.471 palavras), quarta capa, título decidido. Loop adversarial quádruplo: nenhum capítulo reprovado; 5 FATAIS e ~30 fixáveis aplicadas. Fase 3a aberta."
 }

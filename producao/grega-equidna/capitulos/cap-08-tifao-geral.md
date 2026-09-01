@@ -2,7 +2,7 @@
 
 > Livro 2 · `grega-equidna` · Tipo: **GERAL** (o último a ser escrito) · 6 pp (35–40) ·
 > Dossiê: `pesquisa/dossie-tifao-geral.md` · Alvo: **750–850 palavras**.
-> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-conferência): texto corrido = 786 · box = 46.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-revisão final): texto corrido = 785 · box = 46.** ✔
 > (teto do geral 750–850 · box ≤80.)
 > Estrutura: **NARRATIVA DE ORIGEM**. **Sem morte em cena** (Tifão não morre em fonte nenhuma
 > — o capítulo não gasta nenhuma das 2 mortes do livro, que ficam nos caps. 3 e 6).
@@ -21,9 +21,9 @@ Ele era enorme. Tinha as mãos fortes e os pés que não cansavam nunca. Dos omb
 
 E cada cabeça tinha uma voz diferente.
 
-Uma falava a língua dos deuses, e os deuses entendiam o que ela dizia. Uma mugia como touro bravo. Uma rugia como leão. Uma assobiava tão alto que as montanhas devolviam o assobio de volta.
+Uma falava a língua dos deuses, e os deuses entendiam o que ela dizia. Uma mugia como touro bravo. Uma rugia como leão. Uma assobiava tão alto que as montanhas devolviam o assobio.
 
-E uma — e o poema mais antigo faz questão de contar isto — ganía como filhote de cachorro. Baixinho, do jeito que ganem os filhotes. O poeta escreveu que era uma maravilha de ouvir.
+E uma — e o poema mais antigo faz questão de contar isto — gania como filhote de cachorro. Baixinho, do jeito que ganem os filhotes. O poeta escreveu que era uma maravilha de ouvir.
 
 Todos os que saíram daquela caverna acabaram numa porta do mundo. Tifão, não. Tifão não quis uma porta. Tifão quis o céu inteiro.
 
@@ -200,8 +200,9 @@ composição que declare que todos nasceram juntos.
   ficaram no box do cap. 7, que é o lugar autorizado).
 - **Regra do não-contável aplicada três vezes** no mesmo capítulo (Tifão, Cérbero, Hidra) com a
   fórmula já plantada no cap. 1: "mais do que se consegue contar".
-- **Camada adulta, uma frase, sem sentença:** *"E o pai de todos eles, o único que quis tomar
-  em vez de guardar, é o único que não ficou em porta nenhuma."* É contraste de fato
+- **Camada adulta, uma frase, sem sentença:** *"E o maior de todos, o único que quis tomar
+  em vez de guardar, é o único que não ficou em porta nenhuma."* (redação corrigida na
+  conferência da onda 1 — "o pai de todos eles" está revogado.) É contraste de fato
   (820–868 × 306–336), não julgamento moral, e vem **antes** da frase-fio, não depois.
 - **Material amável com fonte:** a cabeça que **ganie como filhote** (*Teog.* 833) é fonte
   primária e sustenta o "pai amável" da inversão de arte — no texto ela vem sem diminutivo e

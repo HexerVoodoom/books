@@ -30,7 +30,7 @@ Um dia desceu a escada um homem com uma pele de leão nos ombros.
 
 Desceu devagar, contando os degraus, porque no escuro não há muito mais o que fazer.
 
-Héracles tinha uma lista de serviços para cumprir, e este era o último, e o mais fundo de todos: levar o cão do portão para mostrar a um rei chamado Euristeu — que estava lá em cima, e não tinha descido nenhum degrau.
+Héracles tinha uma lista de serviços para cumprir, e este era o último, e o que descia mais fundo: levar o cão do portão para mostrar a um rei chamado Euristeu — que estava lá em cima, e não tinha descido nenhum degrau.
 
 Héracles foi falar com o dono da casa. E o dono da casa disse que sim, com uma condição.
 

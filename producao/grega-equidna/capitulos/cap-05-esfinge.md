@@ -2,7 +2,7 @@
 
 > Tipo: **específico** · Dossiê: `pesquisa/dossie-esfinge.md` · Livro 2 (`grega-equidna`)
 > Teto vigente (livro-spec): **500–600 palavras** de texto corrido + **1 box, máx. 80**.
-> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 507 · box = 62.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-revisão final): texto corrido = 505 · box = 62.** ✔
 > (teto 500–600 · box ≤80.)
 > Estrutura: **ENIGMA-DIÁLOGO**. **1 full-bleed, p. 24** (a pergunta) · **a resposta vira a página**.
 > Regra de contagem R4.4: palavras separadas por espaço entre `## Texto` e `## Você sabia?`;
@@ -12,7 +12,7 @@
 
 Isso aconteceu numa estrada.
 
-A estrada subia até a cidade de Tebas (Thêbai), e era a única. Quem quisesse entrar passava por ali. Quem quisesse sair, também.
+A estrada subia até a cidade de Tebas, e era a única. Quem quisesse entrar passava por ali. Quem quisesse sair, também.
 
 E ninguém passava.
 
@@ -30,7 +30,7 @@ Quem chegava ouvia a pergunta. Quem não sabia a resposta não passava. E a cida
 
 Passou tempo assim. As feiras de Tebas ficaram sem as coisas que vinham de longe. As cartas não chegavam. Os parentes que moravam do outro lado do monte continuaram morando do outro lado do monte. Uma cidade inteira parada por causa de uma frase.
 
-Até que um viajante subiu o caminho e parou embaixo da pedra. O nome dele era Édipo (Oidípous).
+Até que um viajante subiu o caminho e parou embaixo da pedra. O nome dele era Édipo.
 
 A Esfinge abriu as asas. E perguntou:
 

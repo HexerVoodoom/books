@@ -3,7 +3,7 @@
 > Tipo: **específico** · Dossiê: `pesquisa/dossie-ortro.md` ·
 > Teto vigente (livro-spec `grega-equidna`): **500–600 palavras** de texto corrido +
 > **1 box, máx. 80**.
-> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 524 · box = 55.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-revisão final): texto corrido = 525 · box = 55.** ✔
 > (teto 500–600 · box ≤80.)
 > **MORTE EM CENA 1 de 2 do livro** — regra-de-luto cumprida: **uma** frase de elipse digna,
 > uma única vez, dentro deste capítulo. Estrutura: **ROTINA DE TRABALHO**.
@@ -58,7 +58,7 @@ Mas a caverna continuou aberta.
 
 Ela continua aberta até a última página deste livro. A mãe está lá dentro, e a porta não se fechou.
 
-E do outro lado do mundo, no lugar mais fundo que existe, naquele mesmo dia havia outro cão daquela mesma família parado na porta dele, com as orelhas viradas para fora e o pelo cheirando a fumaça.
+E do outro lado do mundo, lá no fundo do mundo de baixo, naquele mesmo dia havia outro cão daquela mesma família parado na porta dele, com as orelhas viradas para fora e o pelo cheirando a fumaça.
 
 Esse aí você ainda vai encontrar, mais para a frente.
 

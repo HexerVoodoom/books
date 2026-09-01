@@ -3,7 +3,7 @@
 > Tipo: **específico** · Dossiê: `pesquisa/dossie-dragao-colquida.md` ·
 > Livro: `grega-equidna` · pp. 11–14 · Teto (livro-spec): **500–600 palavras** de texto
 > corrido + **1 box, máx. 80**.
-> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 509 · box = 51.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-revisão final): texto corrido = 510 · box = 51.** ✔
 > (teto 500–600 · box ≤80.)
 > Estrutura declarada: **canção de ninar às avessas** · **o dragão NÃO morre** ·
 > 1ª metade da rima "música vence monstro" (aqui: **faz dormir**; cap. 7: **faz parar**).
@@ -18,7 +18,7 @@ Longe, num lugar chamado Cólquida, havia um bosque escuro à beira de um rio. N
 
 Em volta do carvalho, enrolado, estava o dragão.
 
-Ele guardava aquele ouro havia tanto tempo que ninguém na Cólquida lembrava do começo. A história dele cabe em três frases:
+Ele guardava aquele ouro havia tanto tempo que ninguém na Cólquida se lembrava do começo. A história dele cabe em três frases:
 
 Nunca fechou os olhos.
 
@@ -159,7 +159,7 @@ Em grego, o dragão da Cólquida tinha um apelido: *áypnos* — "sem sono". Nã
   de Medeia, sem nenhum prenúncio.
 - **Grafias:** **Medeia** (nunca "Medéia"), Jasão, Velo de Ouro, Cólquida, Ares, zimbro.
 - **Anti-infantilização:** um único diminutivo, "raminho", que é medida e não carinho
-  (medida, não carinho); "baixinho" descreve volume de voz. ⚠️ **"do tamanho de um dedo"
+; "baixinho" descreve volume de voz. ⚠️ **"do tamanho de um dedo"
   cortado do box** — a medida não está na fonte.
   Zero exclamação, zero moral de fecho — a última palavra do capítulo é uma imagem, não uma
   lição.

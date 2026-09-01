@@ -3,9 +3,12 @@
 > Livro 2 · `grega-equidna` · Tipo: **específico** · Dossiê: `pesquisa/dossie-ladon.md` ·
 > Teto vigente (livro-spec): **500–600 palavras** de corrido + **1 box, máx. 80**.
 > Estrutura declarada: **comédia de negociação.** Mortes em cena: **zero**.
-> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 543 · box = 67.** ✔
-> (teto 500–600 · box ≤80. A abertura da motivação + Euristeu custou +15; o fecho de Euristeu
-> e duas ocorrências de "rei" pagaram −5. Sobram **57 palavras** de folga até o teto.)
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-revisão final): texto corrido = 561 · box = 67.** ✔
+> (teto 500–600 · box ≤80. Folga real: **39 palavras**. ⚠️ O cabeçalho anterior declarava 543
+> por um script que contava as 9 linhas de fala de forma diferente — este é o único capítulo do
+> livro com diálogo longo (90 palavras em fala). Contagem vigente pela R4.4 literal: tokens com
+> ao menos um caractere alfanumérico entre `## Texto` e `## Você sabia?`, travessão de fala não
+> conta. **Recontar por este método na Fase 4.**)
 > **Ilustração: 1 full-bleed** (o pedido da almofada — brief em "Cena da ilustração").
 > Regra de contagem R4.4: palavras separadas por espaço entre `## Texto` e `## Você sabia?`;
 > o travessão de fala não conta.
@@ -64,7 +67,7 @@ Atlas abaixou-se e pôs as três maçãs no chão, ele mesmo, com todo o cuidado
 
 Héracles ajeitou a almofada. Pegou as maçãs do chão. Disse tchau.
 
-E foi assim que o herói mais forte da Grécia atravessou o fim do mundo, chegou à árvore mais bem guardada que já existiu, e voltou com as maçãs sem tocar num único galho.
+E assim o herói mais forte da Grécia atravessou o fim do mundo, chegou à árvore mais bem guardada que já existiu, e voltou com as maçãs sem tocar num único galho.
 
 Euristeu recebeu as três maçãs de ouro e devolveu-as a Héracles, porque nem um rei consegue ficar com uma coisa dessas.
 

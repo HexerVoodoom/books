@@ -9,7 +9,12 @@
 
 ## Identidade
 
-- Título de trabalho: *Equidna e seus filhos* · Slug: `grega-equidna`
+- **Título: *Equidna e as portas do mundo*** · Slug: `grega-equidna`
+  (Decidido na Fase 2 — o título de trabalho *Equidna e seus filhos* declarava **grau de
+  parentesco**, que virou requisito de fidelidade na Fase 1, e era falso em 3 dos 8 capítulos.
+  Defesa completa em `capitulos/quarta-capa.md` §Decisão de título. Reversível a pedido.)
+- Subtítulo de frente (fórmula serial): *Oito histórias gregas recontadas para ler em voz alta*
+- Tagline: *Do lado de dentro da porta.*
 - Posição na série: **livro 2 da coleção — SPIN-OFF / aprofundamento da Grécia.**
   Decisão humana do gate: a série **mantém "um livro por mitologia"** (CONTRACT §0 não muda);
   este volume recebe **rotulagem/numeração própria de spin-off**.
