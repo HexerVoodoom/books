@@ -3,7 +3,7 @@
 > Tipo: **específico** · Dossiê: `pesquisa/dossie-dragao-colquida.md` ·
 > Livro: `grega-equidna` · pp. 11–14 · Teto (livro-spec): **500–600 palavras** de texto
 > corrido + **1 box, máx. 80**.
-> **Contagem declarada: texto corrido = 566 palavras · box "Você sabia?" = 66 palavras.** ✔
+> **Contagem declarada: texto corrido = 508 palavras · box "Você sabia?" = 57 palavras.** ✔
 > Estrutura declarada: **canção de ninar às avessas** · **o dragão NÃO morre** ·
 > 1ª metade da rima "música vence monstro" (aqui: **faz dormir**; cap. 7: **faz parar**).
 > **Ilustração: 1 full-bleed, p. 14.**
@@ -45,7 +45,7 @@ Ela cantou.
 
 Cantou baixinho, chamando o Sono, pedindo que viesse. Não pediu que o dragão fosse embora. Não pediu que ele largasse a árvore. Não mandou nele. Pediu só o sono — que é o que se pede para quem está acordado há tempo demais.
 
-Era uma canção de ninar. Foi a primeira que aquele bicho ouviu.
+Era uma canção de ninar, cantada para quem nunca tinha dormido.
 
 E o corpo enorme começou a afrouxar. Devagar. Anel por anel.
 
@@ -61,7 +61,7 @@ Jasão tirou o Velo do carvalho.
 
 Medeia não saiu de perto. Ficou com a mão na cabeça daquele bicho, cantando ainda — depois de ele já estar dormindo, depois de já ter dado certo. A canção não parou quando o trabalho acabou. Continuou mais um pouco, do jeito que se faz.
 
-Aí Jasão a chamou. E os dois foram embora pelo caminho, com o ouro, rio abaixo.
+Aí Jasão a chamou, e ela veio. Os dois foram embora pelo mesmo caminho por onde tinham chegado, com o ouro, rio abaixo, até o barulho dos passos sumir.
 
 O Velo foi embora.
 

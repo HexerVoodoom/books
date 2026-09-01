@@ -2,7 +2,7 @@
 
 > Livro 2 · `grega-equidna` · Tipo: específico · 4 pp (7–10) ·
 > Dossiê: `pesquisa/dossie-equidna-caverna.md` · Alvo: 500–600 palavras.
-> **Contagem declarada: texto corrido = 566 palavras · box = 66 palavras.** ✔
+> **Contagem declarada: texto corrido = 528 palavras · box = 52 palavras.** ✔
 > Estrutura: conto acumulativo de partidas (refrão que cresce). **Sem morte. Sem luto.**
 > Frase-fio literal: **1ª de 2–3 ocorrências do livro** (abertura).
 > **Ilustração: 1 full-bleed, p. 10.**
