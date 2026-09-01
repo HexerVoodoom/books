@@ -500,3 +500,21 @@ no bloco original).
   de comida onde não houve contato (sem ouro se espalhando) ✔ · colunas da porta já douradas
   ao fundo ✔ · servidores em silhueta, sem rir ✔ · sem coroa, sem aura divina ✔.
 - **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+### `10a-do-caos-abertura.png`
+
+- **Gate da Fase 2 do cap. 10 confirmado fechado** (`prompts.md` linha 823: "✅ LIBERADO —
+  gate da Fase 2 fechado em 2026-08-31"), portanto gerável sem pendência.
+- **Prompt colado verbatim**, conversa nova (`Cosmic Origins Illustration Prompt`). Duas
+  tentativas de colar+enviar antes de registrar; envio final por clique de coordenada no
+  botão de enviar.
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF). Sem
+  watermark/texto visível.
+- **Checklist de aceitação:** Gaia até a cintura, corpo continuando na paisagem, olhos
+  abertos e serenos ✔ · Urano arqueado sobre ela, corpo = abóbada noturna com estrelas ✔ ·
+  **olhar de Urano não dirigido ao leitor, boca fechada em repouso** ✔ (vinculante de
+  adequação etária) · Caos como fenda escura entre os dois, não nebulosa colorida ✔ · sem
+  filhos/titãs/ciclopes/cem-mãos em quadro ✔ · sem foice/ampulheta/alegoria do Tempo ✔ · sem
+  nenhuma cena de engolimento (vinculante de livro inteiro) ✔.
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
