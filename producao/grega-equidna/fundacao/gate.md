@@ -66,3 +66,15 @@ C6 (sombrio não é risco em si; a quarta-capa é).
 3. **Modelo da série** (handoff §5): mantém "um livro por mitologia" (este vira aprofundamento/spin-off) ou muda para temático agrupado (com plano 3–5)?
 
 *(2º passe do loop ocorrerá sobre o sumário emendado + frase-fio, depois das decisões humanas.)*
+
+## Decisões do humano (checkpoint de 2026-09-01)
+
+1. **Enquadramento: A-condicional aprovado** — direção "Os Guardiões" emendada; as 3 travas do
+   cético (sumário com contagem provada; verificação-relâmpago das 3 dependências com plano B;
+   frase-fio + regra-de-luto em redação literal aprovada pelos verificadores) devem ser cumpridas
+   ainda na Fase 0, antes de qualquer texto.
+2. **Héracles: proposta consolidada aprovada** — narrador não julga; expiação 1× (box); marca
+   emocional concreta; Cérbero como última imagem dele.
+3. **Série: mantém "um livro por mitologia"** — este volume é **aprofundamento/spin-off da
+   Grécia**, com rotulagem/numeração própria. CONTRACT §0 não muda; `serie-padroes.md` ganha a
+   regra de rotulagem de spin-off (registrar no livro-spec e atualizar na Fase 4/5 de capa).
