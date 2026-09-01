@@ -3,7 +3,8 @@
 > Tipo: **específico** · Dossiê: `pesquisa/dossie-dragao-colquida.md` ·
 > Livro: `grega-equidna` · pp. 11–14 · Teto (livro-spec): **500–600 palavras** de texto
 > corrido + **1 box, máx. 80**.
-> **Contagem declarada: texto corrido = 508 palavras · box "Você sabia?" = 57 palavras.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 509 · box = 51.** ✔
+> (teto 500–600 · box ≤80.)
 > Estrutura declarada: **canção de ninar às avessas** · **o dragão NÃO morre** ·
 > 1ª metade da rima "música vence monstro" (aqui: **faz dormir**; cap. 7: **faz parar**).
 > **Ilustração: 1 full-bleed, p. 14.**
@@ -17,7 +18,7 @@ Longe, num lugar chamado Cólquida, havia um bosque escuro à beira de um rio. N
 
 Em volta do carvalho, enrolado, estava o dragão.
 
-Ele guardava aquele ouro havia tanto tempo que ninguém na Cólquida lembrava do começo. Contavam a história dele de três maneiras, e as três eram a mesma:
+Ele guardava aquele ouro havia tanto tempo que ninguém na Cólquida lembrava do começo. A história dele cabe em três frases:
 
 Nunca fechou os olhos.
 
@@ -27,13 +28,13 @@ Nunca soltou os anéis.
 
 De dia era assim. De noite era igual. O sol passava por cima das folhas, ia embora, voltava. As estações trocavam de lugar. A água do rio subia no inverno e baixava no verão. E nada mudava: os olhos abertos, a cabeça alta, os anéis apertados em volta da árvore.
 
-Pense em quanto tempo você fica acordado. Uma noite inteira, talvez, numa festa, numa viagem. Agora pense em nunca.
+Uma noite inteira acordado já é muito tempo, numa festa ou numa viagem, e mesmo assim vem o dia seguinte e a pessoa dorme. Com ele não vinha. Nunca é outra coisa.
 
 Até que uma noite duas pessoas vieram pelo caminho, pisando devagar nas folhas.
 
 O dragão ouviu antes de ver — ele sempre ouvia antes. Esticou o pescoço comprido para fora do escuro e soltou um assobio tão grande que o som foi correndo pela margem do rio, atravessou o bosque inteiro e voltou.
 
-Repare numa coisa: ele não atacou. Ele avisou.
+Ele não atacou. Ele avisou.
 
 Jasão parou onde estava. Estava com medo, e não escondeu.
 
@@ -77,7 +78,7 @@ soltou os anéis.
 
 ## Você sabia?
 
-Em grego, o dragão da Cólquida tinha um apelido: *áypnos* — "sem sono". Não era que ele resolvesse ficar acordado. Ele não conseguia fechar os olhos, nunca, de jeito nenhum. Por isso o que Medeia levou até lá não foi uma espada: foi um raminho molhado, do tamanho de um dedo, para passar exatamente nos olhos dele.
+Em grego, o dragão da Cólquida tinha um apelido: *áypnos* — "sem sono". Não era que ele resolvesse ficar acordado. Ele não conseguia fechar os olhos, nunca, de jeito nenhum. Por isso o que Medeia levou até lá não foi uma espada: foi um raminho molhado, para passar exatamente nos olhos dele.
 
 *(Fonte: Apolônio de Rodes, Argonáutica IV — dossiê, §4, candidato 1.)*
 
@@ -136,8 +137,13 @@ Em grego, o dragão da Cólquida tinha um apelido: *áypnos* — "sem sono". Nã
   O fecho vira os três do avesso, na mesma ordem, em minúscula e sem ponto final até o último
   — é para ser lido descendo a voz.
 - **"O dragão não ataca, ele avisa"** é leitura direta de Apolônio IV ~127–136 (vigilância
-  sonora, não predação). O comentário "Repare numa coisa" fica na voz do narrador contando,
-  sem "os gregos diziam" e sem "é por isso que".
+  sonora, não predação). ⚠️ **Onda 1:** a marca de endereço ao leitor ("Repare numa coisa")
+  **saiu** — a frase fica no fato puro, sem "os gregos diziam" e sem "é por isso que". Também
+  saiu o "Pense em quanto tempo você fica acordado…" (as duas ocorrências de "repare/pense"
+  deste capítulo; os sobreviventes do livro são o do cap. 3 e um do cap. 6).
+- **Moldura de antiguidade removida (fidelidade):** "Contavam a história dele de três maneiras"
+  → **"A história dele cabe em três frases"** — a alegação de que se contava de três maneiras
+  era invenção nossa.
 - **Não afirma que ele acordou.** A fonte é silente sobre o depois. O texto afirma só o que
   Apolônio garante: **o Velo foi embora, o dragão ficou, ninguém o matou.** Nenhum verbo de
   futuro, nenhum "um dia acordaria".
@@ -153,7 +159,8 @@ Em grego, o dragão da Cólquida tinha um apelido: *áypnos* — "sem sono". Nã
   de Medeia, sem nenhum prenúncio.
 - **Grafias:** **Medeia** (nunca "Medéia"), Jasão, Velo de Ouro, Cólquida, Ares, zimbro.
 - **Anti-infantilização:** um único diminutivo, "raminho", que é medida e não carinho
-  ("do tamanho de um dedo", no box, ancora a escala); "baixinho" descreve volume de voz.
+  (medida, não carinho); "baixinho" descreve volume de voz. ⚠️ **"do tamanho de um dedo"
+  cortado do box** — a medida não está na fonte.
   Zero exclamação, zero moral de fecho — a última palavra do capítulo é uma imagem, não uma
   lição.
 - **Pendências que saem daqui, para a página de Fontes (p. 43):** (1) a associação do dragão à

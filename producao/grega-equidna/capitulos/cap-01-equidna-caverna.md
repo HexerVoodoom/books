@@ -2,7 +2,9 @@
 
 > Livro 2 · `grega-equidna` · Tipo: específico · 4 pp (7–10) ·
 > Dossiê: `pesquisa/dossie-equidna-caverna.md` · Alvo: 500–600 palavras.
-> **Contagem declarada: texto corrido = 528 palavras · box = 52 palavras.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 516 · box = 51.** ✔
+> (teto 500–600 · box ≤80. Método: tokens com ao menos uma letra entre `## Texto` e
+> `## Você sabia?`; travessão de fala e linha de fonte não contam.)
 > Estrutura: conto acumulativo de partidas (refrão que cresce). **Sem morte. Sem luto.**
 > Frase-fio literal: **1ª de 2–3 ocorrências do livro** (abertura).
 > **Ilustração: 1 full-bleed, p. 10.**
@@ -15,27 +17,27 @@ Comecemos pela caverna.
 
 Ela ficava funda, debaixo de uma pedra oca, longe dos deuses e longe dos homens. Foram os deuses que deram aquela casa a Equidna, e era uma casa gloriosa. Metade mulher, de olhos vivos e faces bonitas; metade serpente enorme, de pele malhada. Não parecia com gente nem parecia com deus. Parecia com ela mesma.
 
-Ali dentro, com Tifão (Typhôn), a família foi crescendo.
+Ali dentro, com Tifão, a família foi crescendo.
 
 E o mundo, lá fora, estava cheio de coisas preciosas sem ninguém na porta. Coisas que qualquer um podia levar, num mundo que ainda estava sendo arrumado.
 
-Órtro (Órthros) foi o primeiro a ir. No fim do mar havia um gado vermelho, o gado de Gerião, pastando sem ninguém por perto. Passou a ter alguém.
+Órtro foi o primeiro a ir. No fim do mar havia um gado vermelho, o gado de Gerião, pastando sem ninguém por perto. Passou a ter alguém.
 
 Uma porta ocupada.
 
-Depois foi Cérbero (Kérberos). O mundo de baixo tinha um portão, e aquele portão era o mais sério de todos, e estava aberto para qualquer um. Passou a ter alguém.
+Depois foi Cérbero. O mundo de baixo tinha um portão, e aquele portão era o mais sério de todos, e estava aberto para qualquer um. Passou a ter alguém.
 
 O gado. O portão. Duas portas ocupadas.
 
-Depois foi a Hidra (Hýdra), até um pântano chamado Lerna, de água escura e junco alto, que ninguém guardava. Passou a ter alguém.
+Depois foi a Hidra, até um pântano chamado Lerna, de água escura e junco alto, que ninguém guardava. Passou a ter alguém.
 
 O gado. O portão. O pântano. Três portas ocupadas.
 
-Depois foi a Quimera (Khímaira), para as montanhas da Lícia, onde o vento chega quente e a rocha é vermelha, e onde não havia guarda nenhuma. Passou a ter alguém.
+Depois foi a Quimera, para as montanhas da Lícia, onde o vento chega quente e a rocha é vermelha, e onde não havia guarda nenhuma. Passou a ter alguém.
 
 O gado. O portão. O pântano. A montanha. Quatro portas ocupadas.
 
-E depois foi Ladon (Ládōn), até o lugar mais longe que existe, onde uma árvore dá maçãs de ouro. Ninguém tomava conta daquela árvore. Passou a ter alguém.
+E depois foi Ladon, até o lugar mais longe que existe, onde uma árvore dá maçãs de ouro. Ninguém tomava conta daquela árvore. Passou a ter alguém.
 
 O gado. O portão. O pântano. A montanha. A árvore. Cinco portas ocupadas.
 
@@ -53,13 +55,13 @@ Seis portas. Em cada uma, alguém.
 
 E o mundo não parou por aí. Mais tarde vieram, pela linha de Órtro, mais dois. Uma estrada ganhou porta. Um vale ganhou porta.
 
-Você vai encontrar todos eles neste livro, um por capítulo, cada um no lugar que lhe coube. Alguns são enormes. Alguns têm mais bocas do que se consegue contar. Um deles faz uma pergunta.
+Neste livro você vai encontrar vários deles, cada um no lugar que lhe coube. Alguns são enormes. Alguns têm mais bocas do que se consegue contar. Um deles faz uma pergunta.
 
 E, se algum dia alguém lhe disser que eram todos monstros, você já vai saber a única coisa que o poema mais antigo diz sobre eles: onde ficavam.
 
 ## Você sabia?
 
-A caverna de Equidna não era um esconderijo: era **presente**. O poeta grego **Hesíodo** escreveu, há quase três mil anos, que "os deuses lhe destinaram uma casa gloriosa para morar" (*Teogonia*, verso 303). Na mesma passagem ele conta outra coisa: que ela **guarda** ali. A mãe dos guardiões também era uma guardiã.
+A caverna de Equidna não era um esconderijo: era **presente**. O poeta grego **Hesíodo** escreveu, há quase três mil anos, que "os deuses lhe destinaram uma casa gloriosa para morar" (*Teogonia*, verso 303). Na mesma passagem ele conta outra coisa: que ela **guarda**. A primeira daquela família também era uma guardiã.
 
 *(Fonte: Hesíodo, Teogonia 303–304 — dossiê §5, fatos 1 e 2.)*
 
@@ -110,5 +112,9 @@ Momento: **depois** das partidas. Nada em curso. Ninguém acena, ninguém olha p
 - **Camada adulta:** a última frase entrega a ironia da distribuição ("a única coisa que o poema
   mais antigo diz sobre eles: onde ficavam") **sem sentença moral** e sem tocar em dor. É eco
   em voz de história, uma frase só.
-- **1ªs ocorrências com transliteração**, todas aqui: Equidna, Tifão, Órtro, Cérbero, Hidra,
-  Quimera, Ladon. Topônimos: Lerna, Lícia, Gerião.
+- **Transliteração: só Equidna (Ékhidna)** — decisão de tom (onda 1) para baixar a densidade da
+  abertura. As demais migraram para a 1ª ocorrência no capítulo próprio: **Órtro (Órthros)** no
+  cap. 3, **Cérbero (Kérberos)** no cap. 7, **Tifão (Typhôn)**, **Hidra (Hýdra)**,
+  **Quimera (Khímaira)** e **Ladon (Ládōn)** no cap. 8.
+- **C-1 aplicada:** a promessa "um por capítulo" saiu (era falsa — Hidra e Quimera não têm
+  capítulo, e o Dragão da Cólquida tem capítulo e não está no mapa). Fica "vários deles".

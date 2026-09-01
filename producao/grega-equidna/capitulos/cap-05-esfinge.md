@@ -2,7 +2,8 @@
 
 > Tipo: **específico** · Dossiê: `pesquisa/dossie-esfinge.md` · Livro 2 (`grega-equidna`)
 > Teto vigente (livro-spec): **500–600 palavras** de texto corrido + **1 box, máx. 80**.
-> **Contagem declarada: texto corrido = 525 palavras · box "Você sabia?" = 64 palavras.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 507 · box = 62.** ✔
+> (teto 500–600 · box ≤80.)
 > Estrutura: **ENIGMA-DIÁLOGO**. **1 full-bleed, p. 24** (a pergunta) · **a resposta vira a página**.
 > Regra de contagem R4.4: palavras separadas por espaço entre `## Texto` e `## Você sabia?`;
 > travessão de fala não conta.
@@ -25,7 +26,7 @@ Ela não tinha corrente. Não tinha tranca. Não tinha portão de ferro.
 
 Ela tinha uma pergunta.
 
-Quem chegava ouvia a pergunta. Quem não sabia a resposta voltava por onde veio. E a cidade inteira ficou presa do lado de dentro, com uma estrada na frente e ninguém andando nela.
+Quem chegava ouvia a pergunta. Quem não sabia a resposta não passava. E a cidade inteira ficou presa do lado de dentro, com uma estrada na frente e ninguém andando nela.
 
 Passou tempo assim. As feiras de Tebas ficaram sem as coisas que vinham de longe. As cartas não chegavam. Os parentes que moravam do outro lado do monte continuaram morando do outro lado do monte. Uma cidade inteira parada por causa de uma frase.
 
@@ -37,7 +38,7 @@ A Esfinge abriu as asas. E perguntou:
 
 *(virada de página)*
 
-É difícil mesmo.
+Era difícil mesmo.
 
 Todo mundo que subiu aquela estrada ficou parado ali embaixo com essa pergunta na cabeça. Uma voz só, e três jeitos de andar. Quatro pés, dois pés, três pés.
 
@@ -61,7 +62,7 @@ E a resposta estava ali o tempo todo. Não estava escondida no fundo do mar, nem
 
 A Esfinge escutou até o fim.
 
-Todos os outros guardiões daquele mundo foram vencidos por alguém que chegou com força, ou com música, ou com uma boa conversa. Esta porta não. Esta porta abriu porque alguém soube.
+Esta porta não abriu com força, nem com música, nem com uma boa conversa. Abriu porque alguém soube.
 
 E a estrada abriu.
 
@@ -106,12 +107,23 @@ Momento: a Esfinge acabou de abrir as asas e está perguntando. Ninguém se mexe
 - **T3 — pendência que não é minha:** a página de Fontes deve trazer, literal, a declaração do dossiê §3.3: *"Apolodoro conta que, depois que Édipo respondeu, a Esfinge se lançou do alto do monte. Este livro para na resposta — Hesíodo, que é a fonte principal aqui, não conta o fim dela."* Sem isso, a elipse deixa de ser declarada e vira escondida.
 - **Moldura "manhã/tarde/noite": ausente.** O enigma é o de Apolodoro 3.5.8 — só a voz e os pés. O 2º enigma (as duas irmãs) não entrou em lugar nenhum.
 - **Parentesco:** "alguém da família de Equidna, pela linha de Órtro". Zero ocorrência de "filha", "neta" ou "avó" — requisito de fidelidade, não estilo (gate da Fase 1).
-- **Viajantes devorados: corte total.** No lugar, o efeito que a fonte também registra: *"voltava por onde veio"* e *"a cidade inteira ficou presa do lado de dentro"*. Nenhuma consequência de errar é declarada — a criança vai tentar responder junto, e a penalidade recairia sobre ela.
-- **Acolhimento de quem não acertou:** a virada de página abre em **"É difícil mesmo."**, antes de qualquer resposta, e a linha seguinte diz que todo mundo ficou parado ali. Nada premia o acerto.
+- **Viajantes devorados: corte total.** ⚠️ **Onda 1 (fidelidade):** *"voltava por onde veio"*
+  **afirmava o contrário da fonte** (eram devorados) e foi trocado por **"não passava"**, que é
+  elipse e não contrafação. Fica o efeito que a fonte também registra: *"a cidade inteira ficou
+  presa do lado de dentro"*. Nenhuma consequência de errar é declarada — a criança vai tentar responder junto, e a penalidade recairia sobre ela.
+- **Acolhimento de quem não acertou:** a virada de página abre em **"Era difícil mesmo."** (pretérito, correção de tom da onda 1: no presente a frase era endereçada ao leitor e morria na 2ª leitura), antes de qualquer resposta, e a linha seguinte diz que todo mundo ficou parado ali. Nada premia o acerto.
 - **Édipo entra só como o viajante que respondeu.** Sem Laio, sem Creonte, sem Jocasta, sem "o rei que não sabia quem era". O nome dele chega **depois** da ação ("um viajante subiu… O nome dele era Édipo"), para não pedir carga que o capítulo não paga.
 - **Hera:** "Foi Hera quem a mandou para lá." Ponto. A causa do castigo fica fora, e o fato alivia a criatura da culpa.
 - **Topônimo omitido:** "o monte Fício" não aparece — só "a pedra alta", pela mesma régua do Arima.
 - **Frase-fio:** **não** enunciada aqui (guarda do F1 — as ocorrências literais são do cap. 1 e do cap. 8). O encaixe é feito por dentro: a coisa preciosa é a estrada, a porta é a pergunta.
-- **Mensagem encenada, não enunciada:** o parágrafo "a resposta estava ali o tempo todo… de pé no meio da estrada, com dois pés" e o contraste com os outros guardiões (força, música, conversa) fazem o trabalho. Zero "e assim aprendemos que…".
+- **Mensagem encenada, não enunciada:** o parágrafo "a resposta estava ali o tempo todo… de pé no meio da estrada, com dois pés" e a tríplice negativa (força, música, conversa) fazem o trabalho. Zero "e assim aprendemos que…".
+- ⚠️ **C-3 aplicada (FATAL).** *"Todos os outros guardiões daquele mundo foram vencidos por
+  alguém que chegou com força, ou com música, ou com uma boa conversa"* era **falso** (Ladon
+  não é tocado; Cérbero é devolvido) e **antecipava os caps. 6 e 7**. Substituída, literal, por:
+  *"Esta porta não abriu com força, nem com música, nem com uma boa conversa. Abriu porque
+  alguém soube."* A negativa continua fazendo a comparação sem afirmar nada sobre os outros.
+- **"bem velhinho": MANTIDO** por arbitragem da onda 1 (adequação e tom convergiram — é fala de
+  personagem, registro afetuoso corrente). Se um dia mexer, mexa na linha do narrador ("o avô
+  com a bengala"), **não** na de Édipo.
 - **Camada adulta:** *o que é uma pessoa?* em itálico, sem sentenciar; e o box, com a pergunta emprestada das Musas.
 - **Ressalva de tom registrada:** "bem velhinho" é diminutivo, e a régua do livro proíbe diminutivo gratuito. Mantido **por ser a redação da resposta fixada no dossiê §2.2 e no briefing da Fase 2** — é fala de personagem explicando a charada, e "bem velho" endurece a batida no ouvido. **Se o `mito-tom` reprovar, a troca é de uma palavra** ("quando fica bem velho") e não afeta mais nada.

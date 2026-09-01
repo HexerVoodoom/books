@@ -3,7 +3,8 @@
 > Tipo: **específico** (CAPÍTULO-ÂNCORA) · Dossiê: `pesquisa/dossie-cerbero.md` ·
 > Livro: `grega-equidna` · pp. 31–34 · Teto (livro-spec): **500–600 palavras** de texto
 > corrido + **1 box, máx. 80**.
-> **Contagem declarada: texto corrido = 532 palavras · box "Você sabia?" = 52 palavras.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 527 · box = 53.** ✔
+> (teto 500–600 · box ≤80.)
 > Estrutura declarada: **viagem de ida e volta** · **Cérbero NÃO morre — é devolvido**
 > (Apolodoro 2.5.12, literal) · 2ª metade da rima "música vence monstro"
 > (cap. 2: **faz dormir** / cap. 7: **faz PARAR** — Virgílio, *Geórgicas* 4.481–484).
@@ -15,7 +16,7 @@
 
 O portão do mundo de baixo fica no fim de uma escada muito comprida.
 
-Não tem tranca. Não precisa. Tem Cérbero.
+Não tem tranca. Não precisa. Tem Cérbero (Kérberos).
 
 Ele fica sentado ali, de frente para quem chega. É um cão enorme, com mais cabeças do que se consegue contar — algumas bem na frente, nítidas, e outras que se perdem no pelo e na sombra. Ao longo das costas, cabeças de serpentes de toda sorte. E a cauda dele é de dragão, e se mexe sozinha, com vontade própria.
 
@@ -39,7 +40,7 @@ Héracles olhou para o arco. Olhou para a clava.
 
 E largou as duas no chão.
 
-Depois foi até o portão, de mãos vazias, e pôs os braços em volta do pescoço de Cérbero.
+Depois foi até o portão, de mãos vazias, e pôs os braços em volta da cabeça de Cérbero.
 
 E não soltou.
 
@@ -51,9 +52,9 @@ Até que o cão parou.
 
 Subiram juntos a escada comprida. Lá em cima havia sol, e o cão do portão ficou de olhos apertados.
 
-Euristeu olhou. Foi só isso que ele fez: olhou. E mandou levar de volta.
+Euristeu olhou. Foi só isso que ele fez: olhou.
 
-Então Héracles desceu a escada outra vez, com o cão do lado. Passaram pelo escuro, e pelos degraus, e pelo lugar quieto onde não havia mais ninguém. O cão ia na frente. Sabia o caminho melhor do que ele.
+Então Héracles desceu a escada outra vez, com o cão do lado. Passaram pelo escuro, e pelos degraus, e pelo lugar quieto onde não havia ninguém. O cão ia na frente. Sabia o caminho melhor do que ele.
 
 No fim da escada estava o portão, exatamente onde tinha ficado.
 
@@ -69,14 +70,17 @@ Não voltou para pegar.
 
 ## Você sabia?
 
-Ninguém nunca combinou quantas cabeças Cérbero tinha. Um poeta grego, Hesíodo, escreveu que eram **cinquenta**. Um poeta romano, Horácio, escreveu **cem**. E Apolodoro escreveu três, mais as cabeças de serpente das costas. Os antigos discordavam entre si, e cada um contou do seu jeito. É por isso que, neste livro, ninguém conta.
+Ninguém nunca combinou quantas cabeças Cérbero tinha. Um poeta grego escreveu um número. Um poeta romano escreveu outro, muito maior. E Apolodoro escreveu outro, bem menor, mais as cabeças de serpente das costas. Cada poeta contou um número diferente, e nenhum bateu com o outro. É por isso que, neste livro, ninguém conta.
+
+*(Fontes: Hesíodo, *Teogonia* 312; Horácio, *Odes* 2.13; Apolodoro 2.5.12.)*
 
 ## Cena da ilustração — full-bleed, p. 33
 
 **O abraço sem armas.** É a única imagem do livro em que Héracles e uma criatura se tocam sem que uma delas morra.
 
 - **Os dois de lado**, em perfil, ocupando a largura da página: Héracles com os **braços em
-  volta do pescoço** de Cérbero, o rosto encostado no pelo. **Nenhum dos dois de dentes à
+  volta da cabeça** de Cérbero (⚠️ **cabeça, não pescoço** — Apolodoro 2.5.12; é a frase-âncora
+  do livro e o brief tem de dizer o mesmo que o corrido), o rosto encostado no pelo. **Nenhum dos dois de dentes à
   mostra.** O esforço aparece nos **ombros e nas mãos de Héracles** — nunca na cara do cão.
 - **A pele de leão** sobre os ombros dele: **manto/silhueta, nunca rosto-sobre-rosto**
   (restrição aprovada do spec — o rosto do Leão não aparece sobre a cabeça dele). Sem comentar
@@ -84,8 +88,9 @@ Ninguém nunca combinou quantas cabeças Cérbero tinha. Um poeta grego, Hesíod
 - **Cérbero:** 2–3 cabeças em foco nítido, as demais dissolvendo em pelo, sombra e movimento —
   **não contáveis**. Serpentes **no dorso**, não no pescoço. Postura de cão que **reage e
   cede**, jamais em bote nem em investida. Se der para mostrar **uma orelha começando a
-  baixar**, é o melhor sinal de docilidade que existe para um leitor de 4 anos — e é da fonte
-  (Horácio 2.13.34–35).
+  baixar**, é o melhor sinal de docilidade que existe para um leitor de 4 anos. ⚠️ **Onda 1:
+  é ESCOLHA DE ARTE, não fato de fonte** — o crédito a Horácio 2.13.34–35 sai daqui (aquela ode
+  tem por cantores Safo e Alceu, não Orfeu, e o latim não foi lido em edição).
 - **A cauda de dragão é a válvula do perigo:** é o **único agente hostil** do quadro, mordendo
   o braço ou o flanco de Héracles. **Sem sangue, sem ferimento visível, sem dor no rosto dele.**
   Todo o risco visual mora na cauda; as cabeças ficam livres para ser legíveis e amáveis.
@@ -131,6 +136,25 @@ degraus, portão.
 - **Zero número de bocas ou cabeças no corrido.** "As bocas", "mais cabeças do que se consegue
   contar". Os três números só existem no box, creditados aos poetas que os escreveram — que é
   exatamente o que autoriza a arbitragem "não contáveis".
+- ⚠️ **Onda 1 (fidelidade) — o abraço é NA CABEÇA, não no pescoço** (Apolodoro 2.5.12). Era o
+  mesmo desvio do cap. 4 (almofada: cabeça → ombro), agora corrigido nos dois lugares e no
+  brief de ilustração. Sendo esta a **frase-âncora do livro**, não pode voltar a derivar: a
+  varredura "cabeça/ombro/pescoço" dos 8 capítulos está registrada no relatório da onda 1.
+- ⚠️ **Onda 1 (fidelidade) — `E mandou levar de volta` CORTADA.** Inventava uma ordem de
+  Euristeu que a fonte não tem e tirava a agência de Héracles. Fica o que a fonte garante:
+  *"Então Héracles desceu a escada outra vez, com o cão do lado."*
+- ⚠️ **Onda 1 (tom) — "onde não havia mais ninguém" → "onde não havia ninguém"**: o "mais"
+  insinuava que houvera alguém.
+- ⚠️ **Onda 1 (adequação) — BOX SEM NUMERAIS.** O box entregava três números contáveis
+  (cinquenta, cem, três) e depois proibia contar: a criança ficava com "três", que é
+  justamente o que o brief manda **não** desenhar. Agora: *"cada poeta contou um número
+  diferente, e nenhum bateu com o outro"*, com as três fontes creditadas na linha de rodapé,
+  fora do corpo do box. **53 palavras ≤ 80 ✔.**
+- **Piada de Euristeu diferenciada (tom):** o "olhou" fica **só aqui**, e aqui ele é sobre
+  **o rei que nunca desceu** ("que estava lá em cima, e não tinha descido nenhum degrau").
+  No cap. 4 a piada passou a ser sobre o objeto impossível de possuir.
+- **Fechos gêmeos 6/7:** este mantém o movimento (imagem/gesto que não aconteceu); **quem
+  mudou foi o cap. 6**, que já não fecha em antítese revelada.
 - **O domínio é abraço, palavra por palavra da fonte:** *braços em volta* + *não soltou* +
   *até ceder*. Nenhuma ocorrência de bater, socar, lutar, vencer, derrotar, dominar,
   estrangular. O único que apanha na cena é **Héracles**, e a mordida da cauda entra sem

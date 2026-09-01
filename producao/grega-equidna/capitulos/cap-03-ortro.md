@@ -3,7 +3,8 @@
 > Tipo: **específico** · Dossiê: `pesquisa/dossie-ortro.md` ·
 > Teto vigente (livro-spec `grega-equidna`): **500–600 palavras** de texto corrido +
 > **1 box, máx. 80**.
-> **Contagem declarada: texto corrido = 526 palavras · box "Você sabia?" = 57 palavras.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 524 · box = 55.** ✔
+> (teto 500–600 · box ≤80.)
 > **MORTE EM CENA 1 de 2 do livro** — regra-de-luto cumprida: **uma** frase de elipse digna,
 > uma única vez, dentro deste capítulo. Estrutura: **ROTINA DE TRABALHO**.
 > **Ilustração: 1 full-bleed, p. 18** — cena de **turno de trabalho**, sem Héracles, sem
@@ -51,7 +52,7 @@ Héracles (Hēraklês) chegou como o inverno chega. Atravessou a água, pisou na
 
 Órtro correu para a frente do rebanho, como fazia todo dia. Só que dessa vez foi o último dia — e na caverna longe dali, Equidna chorou o seu primeiro filho.
 
-Depois disso o gado vermelho atravessou o mar, e em Eritia não sobrou ninguém para contar as vacas de tarde.
+Depois disso o gado vermelho atravessou o mar, e em Eritia não houve mais gado para contar de tarde.
 
 Mas a caverna continuou aberta.
 
@@ -65,7 +66,7 @@ E esse aí volta para casa.
 
 ## Você sabia?
 
-Órtro é o **primeiro**. No catálogo do poeta Hesíodo — a lista mais antiga que temos dessa família —, quando chega a vez de nomear os filhos, o nome que aparece antes de todos os outros é o dele: o cão de Gerião. O guardião de vaca vem antes do guardião do portão do mundo de baixo.
+Órtro é o **primeiro**. No catálogo do poeta Hesíodo — a lista mais antiga que temos dessa família —, quando chega a vez de nomear aquela família, o nome que aparece antes de todos os outros é o dele: o cão de Gerião. O guardião de vaca vem antes do guardião do portão do mundo de baixo.
 
 *(Fonte: Hesíodo, Teogonia 309 — dossiê §9, fato 1.)*
 
@@ -139,7 +140,15 @@ Gerião quase nunca aparecia") e entra no verbete único do livro, no cap. 8.
   **"alguém daquela família"** e **"outro cão daquela mesma família"** — nunca "irmão", nunca
   "filho de", nunca "avô". A **única** palavra de parentesco no capítulo é **"filho"** dentro
   da frase de luto aprovada, onde é literal em Hesíodo 309 e vem sem árvore em volta. **"A mãe
-  está lá dentro"** é referência à mesma frase, sem montar grau novo.
+  está lá dentro"** é referência à mesma frase, sem montar grau novo. ⚠️ **Onda 1 (C-2):** o
+  box furava o contrato ("quando chega a vez de nomear **os filhos**") e foi corrigido para
+  **"quando chega a vez de nomear aquela família"**. O corrido é a **única exceção autorizada**
+  do livro, registrada no gate.
+- **Onda 1 (adequação):** *"em Eritia não sobrou ninguém para contar as vacas"* matava o boieiro
+  Euritião por elipse não declarada → **"não houve mais gado para contar de tarde"**.
+- **"repare" — sobrevivente fixado do livro (1 de 2).** A comparação com o cachorro de hoje é
+  obrigatória por decisão de fidelidade: a etiologia do cão só existe como comparação do
+  narrador. Não pode ser cortada na revisão.
 - **Etiologia do cão — comparação, não origem.** "Se você tem um cachorro em casa, repare nele
   dormindo…" está na voz do narrador, sobre o mundo de hoje, e a frase seguinte é sobre Órtro,
   não sobre os cães de hoje. **Zero** ocorrência de "os gregos diziam", "é por isso que",

@@ -3,7 +3,9 @@
 > Livro 2 · `grega-equidna` · Tipo: **específico** · Dossiê: `pesquisa/dossie-ladon.md` ·
 > Teto vigente (livro-spec): **500–600 palavras** de corrido + **1 box, máx. 80**.
 > Estrutura declarada: **comédia de negociação.** Mortes em cena: **zero**.
-> **Contagem declarada (R4.4): texto corrido = 533 palavras · box = 67 palavras.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 543 · box = 67.** ✔
+> (teto 500–600 · box ≤80. A abertura da motivação + Euristeu custou +15; o fecho de Euristeu
+> e duas ocorrências de "rei" pagaram −5. Sobram **57 palavras** de folga até o teto.)
 > **Ilustração: 1 full-bleed** (o pedido da almofada — brief em "Cena da ilustração").
 > Regra de contagem R4.4: palavras separadas por espaço entre `## Texto` e `## Você sabia?`;
 > o travessão de fala não conta.
@@ -18,7 +20,7 @@ Dentro da árvore morava um dragão que não podia morrer.
 
 Ele falava. Falava com muitas vozes diferentes ao mesmo tempo, e o murmúrio saía de dentro das folhas como a água sai de dentro da pedra. Ninguém sabia quantas vozes eram. Ninguém nunca contou.
 
-Héracles precisava de três daquelas maçãs.
+Um rei chamado Euristeu mandava em Héracles, e Euristeu tinha mandado buscar três daquelas maçãs. Héracles não podia voltar sem elas.
 
 Então foi procurar Prometeu, que era o mais inteligente de todos, e perguntou como se entrava naquele jardim.
 
@@ -42,7 +44,7 @@ Atlas voltou com três maçãs de ouro na mão.
 
 — Ótimo — disse Héracles, debaixo do céu.
 
-— Sabe de uma coisa? — disse Atlas. — Você já fez demais. Eu mesmo levo as maçãs até o rei Euristeu. Fica bem mais fácil para você.
+— Sabe de uma coisa? — disse Atlas. — Você já fez demais. Eu mesmo levo as maçãs até Euristeu. Fica bem mais fácil para você.
 
 Héracles não respondeu na hora.
 
@@ -52,7 +54,7 @@ O céu pesava. Pesava tanto que os joelhos dele afundavam no chão como afundam 
 
 — Um instante — repetiu Atlas.
 
-— É que eu não vou aguentar assim. Eu preciso pôr uma almofada no ombro, senão isto me machuca. Segura só enquanto eu ajeito.
+— É que eu não vou aguentar assim. Eu preciso pôr uma almofada na cabeça, senão isto me machuca. Segura só enquanto eu ajeito.
 
 Foi o pedido mais razoável do mundo. Qualquer um teria dito que sim.
 
@@ -60,11 +62,11 @@ E Atlas disse que sim.
 
 Atlas abaixou-se e pôs as três maçãs no chão, ele mesmo, com todo o cuidado, para ficar com as duas mãos livres. Depois tomou o céu de volta.
 
-Héracles ajeitou o ombro. Pegou as maçãs do chão. Disse tchau.
+Héracles ajeitou a almofada. Pegou as maçãs do chão. Disse tchau.
 
 E foi assim que o herói mais forte da Grécia atravessou o fim do mundo, chegou à árvore mais bem guardada que já existiu, e voltou com as maçãs sem tocar num único galho.
 
-O rei Euristeu recebeu as três maçãs de ouro, olhou para elas e devolveu-as a Héracles, porque não sabia o que fazer com aquilo.
+Euristeu recebeu as três maçãs de ouro e devolveu-as a Héracles, porque nem um rei consegue ficar com uma coisa dessas.
 
 Aí Atena veio buscá-las. Aquelas maçãs não podiam ficar em lugar nenhum do mundo — nem numa mão, nem numa mesa, nem num palácio. Ela as levou de volta para o fim do mundo, para o jardim aos pés do gigante, e pendurou as três de novo na árvore.
 
@@ -123,6 +125,21 @@ por aposição no corrido ("um gigante", "muito ao norte de tudo").
   Euristeu — gentileza que é fuga, e o texto não a comenta; (4) a almofada ("*put a pad on his
   head*"); (5) Atlas **larga as maçãs no chão sozinho**, com as duas mãos, para poder retomar o
   céu. Fecho de fonte pura: **Atena devolve as maçãs à árvore.**
+- **Onda 1 (fidelidade) — a almofada é NA CABEÇA** (Apolodoro 2.5.11, *"put a pad on his head"*).
+  Corrigido nos dois pontos: o pedido ("uma almofada **na cabeça**") e a execução
+  (`ajeitou o ombro` → **`ajeitou a almofada`**). Faz parte da varredura transversal
+  cabeça/ombro/pescoço, que pegou o mesmo desvio no cap. 7 (pescoço → cabeça).
+- **Onda 1 (F-6) — o capítulo passa a se sustentar lido isolado:** a motivação e a apresentação
+  de Euristeu entram na abertura (*"Um rei chamado Euristeu mandava em Héracles, e Euristeu
+  tinha mandado buscar três daquelas maçãs. Héracles não podia voltar sem elas."*), no lugar de
+  *"Héracles precisava de três daquelas maçãs."* **Orçamento pago dentro do próprio capítulo**:
+  o fecho de Euristeu foi enxugado ("O rei Euristeu recebeu… olhou para elas e devolveu-as…
+  porque não sabia o que fazer com aquilo" → "Euristeu recebeu as três maçãs de ouro e
+  devolveu-as a Héracles, porque nem um rei consegue ficar com uma coisa dessas") e o "rei"
+  saiu da fala de Atlas.
+- **Piada de Euristeu diferenciada (tom):** aqui o riso é sobre **o objeto impossível de
+  possuir** — o verbo "olhou", que era a mesma piada nos caps. 4, 6 e 7, saiu deste capítulo e
+  fica reservado ao cap. 7, onde é sobre **o rei que nunca desceu**.
 - **Ladon não é tocado, não acorda e não luta.** Ele aparece três vezes e nas três só murmura.
   Héracles **nem chega ao jardim** — a colheita é contada na voz passiva ("as maçãs foram
   colhidas"), porque quem colheu foi Atlas e a cena não é dele.

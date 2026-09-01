@@ -1,8 +1,9 @@
-# Capítulo 08 — Tifão, o pai de tudo
+# Capítulo 08 — Tifão, o maior de todos
 
 > Livro 2 · `grega-equidna` · Tipo: **GERAL** (o último a ser escrito) · 6 pp (35–40) ·
 > Dossiê: `pesquisa/dossie-tifao-geral.md` · Alvo: **750–850 palavras**.
-> **Contagem declarada: texto corrido = 787 palavras · box "Você sabia?" = 46 palavras.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-conferência): texto corrido = 786 · box = 46.** ✔
+> (teto do geral 750–850 · box ≤80.)
 > Estrutura: **NARRATIVA DE ORIGEM**. **Sem morte em cena** (Tifão não morre em fonte nenhuma
 > — o capítulo não gasta nenhuma das 2 mortes do livro, que ficam nos caps. 3 e 6).
 > Frase-fio literal: **2ª e última ocorrência do livro** (fecho).
@@ -14,7 +15,7 @@
 
 Este livro começou numa caverna, e vai terminar nela. Mas falta o maior de todos.
 
-Quando o céu já estava arrumado e os deuses já tinham tomado os seus lugares, a Terra teve o seu filho mais novo. O pai dele era Tártaro (Tártaros) — o lugar mais fundo que existe, mais fundo até que o mundo de baixo. E o filho se chamava Tifão.
+Quando o céu já estava arrumado e os deuses já tinham tomado os seus lugares, a Terra teve o seu filho mais novo. O pai dele era Tártaro (Tártaros) — o lugar mais fundo que existe, mais fundo até que o mundo de baixo. E o filho se chamava Tifão (Typhôn).
 
 Ele era enorme. Tinha as mãos fortes e os pés que não cansavam nunca. Dos ombros lhe nasciam cabeças de serpente, mais do que se consegue contar, de línguas escuras e trêmulas, e debaixo das sobrancelhas de cada uma faiscava fogo.
 
@@ -24,7 +25,7 @@ Uma falava a língua dos deuses, e os deuses entendiam o que ela dizia. Uma mugi
 
 E uma — e o poema mais antigo faz questão de contar isto — ganía como filhote de cachorro. Baixinho, do jeito que ganem os filhotes. O poeta escreveu que era uma maravilha de ouvir.
 
-Todos os filhos daquela caverna acabaram numa porta do mundo. Tifão, não. Tifão não quis uma porta. Tifão quis o céu inteiro.
+Todos os que saíram daquela caverna acabaram numa porta do mundo. Tifão, não. Tifão não quis uma porta. Tifão quis o céu inteiro.
 
 Zeus desceu do Olimpo. E depois daquele dia Tifão não subiu mais.
 
@@ -46,21 +47,21 @@ Equidna no meio.
 
 Cérbero, com as bocas que ninguém consegue contar, e a cauda de dragão que se mexia sozinha antes mesmo de ele saber o que era um portão.
 
-A Hidra de Lerna, enrolada, com as cabeças subindo do chão como junco sobe da água — e ainda sem pântano nenhum para chamar de seu.
+A Hidra (Hýdra) de Lerna, enrolada, com as cabeças subindo do chão como junco sobe da água — e ainda sem pântano nenhum para chamar de seu.
 
-A Quimera, a mais estranha de todos: leão na frente, cabra no meio, serpente atrás, e um fio de fumaça saindo dela sem que ninguém tivesse acendido nada. Um dia essa aí ainda ia encontrar no céu um cavalo com asas. Mas essa história é de outro livro.
+A Quimera (Khímaira), a mais estranha de todos: leão na frente, cabra no meio, serpente atrás, e um fio de fumaça saindo dela sem que ninguém tivesse acendido nada. Um dia essa aí ainda ia encontrar no céu um cavalo com asas. Mas essa história é de outro livro.
 
-E Ladon, comprido, falando com muitas vozes ao mesmo tempo, ensaiando o murmúrio que um pomar no fim do mundo ia escutar durante séculos.
+E Ladon (Ládōn), comprido, falando com muitas vozes ao mesmo tempo, ensaiando o murmúrio que um pomar no fim do mundo ia escutar durante séculos.
 
 Ali, todos juntos, ninguém guardava coisa nenhuma. Ainda não havia porta atrás de ninguém. Havia só a caverna, e o eco, e a luz de manhã.
 
 E depois, pela linha de Órtro, vieram mais dois: uma que ia sentar numa pedra alta com uma pergunta na boca, e um que ia deitar no capim curto de um vale onde o vento não parava nunca.
 
-Repare no que este livro inteiro é.
+E é disto que este livro inteiro é feito.
 
 Cada um deles saiu daquela caverna e foi ficar num lugar do mundo que não tinha ninguém. Um foi para o fim do mar, onde pastava o gado vermelho. Um foi para o portão lá embaixo. Um foi para o pântano de água escura. Um foi para a montanha vermelha. Um foi para a árvore de maçãs de ouro. Um foi para a estrada de Tebas. Um foi para o vale de Nemeia.
 
-E o pai de todos eles, o único que quis tomar em vez de guardar, é o único que não ficou em porta nenhuma.
+E o maior de todos, o único que quis tomar em vez de guardar, é o único que não ficou em porta nenhuma.
 
 Toda coisa preciosa do mundo antigo tinha uma porta — e em cada porta, alguém da família de Equidna.
 
@@ -175,10 +176,24 @@ composição que declare que todos nasceram juntos.
 - **Box da HIDRA, creditado a APOLODORO 2.5.2** (não a Hesíodo — erro corrigido na Fase 1) e
   com o verbo da fonte: **esmagada**, não cortada. Enquadrado como **maravilha**, não como
   batalha: não há herói no box, não há arma, não há quem tenha vencido. 46 palavras ≤ 80 ✔.
-- **Nenhum grau de parentesco declarado** (requisito de fidelidade, gate da Fase 1). O capítulo
-  usa "a Terra teve o seu filho mais novo" (literal em *Teog.* 821, sobre Tifão), "os filhos
-  daquela caverna", "a família", "**pela linha de Órtro**". ⚠️ **Zero** ocorrência de irmão,
-  irmã, neto, avó, primo, e zero "filhos de Tifão e Equidna" para Esfinge ou Leão.
+- **Nenhum grau de parentesco declarado** (requisito de fidelidade, gate da Fase 1).
+  ⚠️ **CONFERÊNCIA DA ONDA 1 — o capítulo furava o contrato em três pontos e foi corrigido:**
+  (a) o **título** *"Tifão, o pai de tudo"* → **"Tifão, o maior de todos"**; (b) *"E o **pai de
+  todos eles**, o único que quis tomar…"* → *"E o **maior de todos**…"* — a redação antiga
+  declarava grau justamente por cima do **crux de Teog. 326** (Esfinge e Leão: duas das três
+  testemunhas leem "filha", não "neta"), que é o caso em que a regra mais custa; (c) *"Todos os
+  **filhos** daquela caverna"* → *"Todos os **que saíram** daquela caverna"*. O capítulo mantém
+  *"a Terra teve o seu filho mais novo"* e *"o pai dele era Tártaro"* — literais em *Teog.*
+  821–822, sobre o **próprio Tifão**, sem árvore em volta: mesmo estatuto da exceção autorizada
+  do cap. 3, e registrada como tal no gate. Fora isso: **zero** ocorrência de irmão, irmã, neto,
+  avó, primo, e zero "filhos de Tifão e Equidna" para Esfinge ou Leão.
+- ⚠️ **"repare" — a ocorrência deste capítulo saiu.** *"Repare no que este livro inteiro é."* →
+  *"E é disto que este livro inteiro é feito."* O cap. 8 não passou pelo loop e carregava uma 6ª
+  ocorrência da fórmula; os sobreviventes fixados do livro são o do cap. 3 e o do cap. 6.
+- **Transliterações migradas do cap. 1** (decisão de tom da onda 1, que reduziu a densidade da
+  abertura): estreiam aqui **Tifão (Typhôn)**, **Hidra (Hýdra)**, **Quimera (Khímaira)** e
+  **Ladon (Ládōn)** — nenhuma tem capítulo próprio antes deste. **Tártaro (Tártaros)** já era
+  daqui. Órtro fica no cap. 3 e Cérbero no cap. 7.
 - **Cortes honrados:** "carne crua" (Teog. 301) — fora; **Arima** — fora; variante de **Argos**
   (Apolod. 2.1.2) — fora do miolo e de todo o aparato infantil; parentela materna de Equidna —
   não citada (A0.2); número de cabeças de qualquer criatura — nunca no corrido (o 50 e o 100
@@ -195,8 +210,9 @@ composição que declare que todos nasceram juntos.
   regra-de-luto do spec cumpre-se ali, uma vez por morte, e **não volta**.
 - **Grafias conferidas:** Tifão, Equidna, Gaia (preferida no corrido como **"a Terra"**),
   Tártaro, Zeus, Olimpo, Etna, Sicília, Píndaro, Hidra, Lerna, Quimera, Cérbero, Órtro, Ladon,
-  Tebas, Nemeia. Transliterações de 1ª ocorrência já gastas no cap. 1; aqui só **Tártaro
-  (Tártaros)**, que estreia como nome próprio.
+  Tebas, Nemeia. Transliterações de 1ª ocorrência: **Tártaro (Tártaros)**, **Tifão (Typhôn)**,
+  **Hidra (Hýdra)**, **Quimera (Khímaira)**, **Ladon (Ládōn)** — todas migradas do cap. 1 na
+  onda 1, por não terem capítulo próprio antes deste.
 - **Pendências que saem daqui (para a p. de Fontes, dono `mito-editor`):** creditar o Etna a
   **Píndaro, Pítica 1.15–28** (e registrar que Hesíodo diz Tártaro, *Teog.* 868); creditar
   "corta uma, nascem duas" a **Apolodoro 2.5.2**; registrar que **Hesíodo dá outros pais a
