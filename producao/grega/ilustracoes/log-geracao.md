@@ -312,6 +312,22 @@ trava" nem "tudo funciona", é intermitente por imagem, como no início da sess�
 - `sheet-apolo` — conversa `f50278f2ade5a6be`
 - `sheet-dioniso` — conversa `6b198d31742211aa`
 
+## Confirmado por `gemini.google.com/library`: as imagens pendentes existem, geradas
+
+Fui à Biblioteca (galeria de tudo já gerado na conta) e confirmei visualmente que
+`sheet-hades`, `sheet-atena`, `sheet-apolo` e `sheet-dioniso` **estão todas lá, completas e
+corretas** — não se perdeu nenhuma gerarão. O que falta é só o passo mecânico de baixar,
+que continua intermitente (tentei o botão da Biblioteca também, mesmo resultado instável).
+`sheet-demeter-persefone` ainda não foi gerada (a tentativa de enviar o prompt não deixou
+registro de conversa nova — reenviar do zero na próxima sessão).
+
+**Diagnóstico final, sem mais dúvida:** as imagens do livro estão sendo produzidas
+corretamente pelo Gemini. O único ponto de falha remanescente é o download do arquivo do
+navegador para o disco, que oscila entre "funciona de primeira" e "não funciona em 6+
+tentativas por horas", sem relação aparente com a imagem, a conversa ou o método (botão da
+conversa vs. botão da Biblioteca). Isso é comportamento do Chrome/SO nesta máquina, não do
+processo de geração nem do prompt.
+
 ## Status geral desta sessão
 
 - **Gerado:** `10b-do-caos-os-libertados` — 2/4 variações, ambas fora de especificação de
