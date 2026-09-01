@@ -485,3 +485,18 @@ no bloco original).
   iluminado entre os dois) ✔ · espirais minoicas nas paredes ✔ · nenhum azul Aegeu na
   imagem ✔ (proibição específica do capítulo).
 - **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+### `09-midas-o-toque-de-ouro.png`
+
+- **Prompt colado verbatim**, conversa nova (`Midas Realizes His Touch`). Duas tentativas de
+  colar+enviar antes de registrar; a extensão Chrome caiu momentaneamente entre o clique de
+  envio e a confirmação (mensagem "extension disconnected", transitório) — o envio já havia
+  sido registrado no servidor e a geração prosseguiu normalmente após reconectar.
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF). Sem
+  watermark/texto visível.
+- **Checklist de aceitação:** pão erguido a meio caminho da boca, já metal ✔ · mão como
+  centro óptico ✔ · barrete frígio, traje frígio (não grego) ✔ · comida na mesa ainda em cor
+  de comida onde não houve contato (sem ouro se espalhando) ✔ · colunas da porta já douradas
+  ao fundo ✔ · servidores em silhueta, sem rir ✔ · sem coroa, sem aura divina ✔.
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
