@@ -412,3 +412,16 @@ no bloco original).
   permanece pedra, não dourado/gilded ✔ (reprovação evitada) · sem sol/lua no céu ✔ · sem
   composição de parto/dor/sangue ✔.
 - **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+### `04-hermes-o-gado-e-a-lira.png`
+
+- **Prompt colado verbatim**, conversa nova (`Hermes and Apollo Lyre Handover`). Primeira
+  tentativa não registrou (padrão conhecido); segunda tentativa registrou e enviou.
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF). Sem
+  watermark/texto visível.
+- **Checklist de aceitação:** uma mão de Hermes e uma de Apolo tocando a lira ao mesmo tempo
+  ✔ (não está flutuando) · cordas contáveis na lira ✔ · rebanho de vacas sem número legível
+  ✔ · pegadas invertidas visíveis no chão, sem legenda ✔ · arco de prata baixado no chão ✔ ·
+  bebê sem petasos/sandálias aladas/bastão na mão ✔.
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
