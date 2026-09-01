@@ -150,3 +150,152 @@ c) O restante do miolo (pp. 1-48, dedicatória + os 10 capítulos) fechou
    PÁGINA A PÁGINA na paginação exata do livro-spec Rev. 5 / R4.1 — inclusive
    as 4 exceções de posicionamento (caps. 5, 7, 8, 9) e o capítulo geral com
    2 full-bleed (10A p.44, 10B p.46). Ver seção 9.
+
+===================================================================
+RODADA 2 — 2026-09-01 · integração das ilustrações + conversão gráfica
+===================================================================
+Executor: mito-ilustrador, autorizado pelo dono a completar também a Fase 4
+(diagramação) e fechar o produto — as 21 ilustrações da Fase 3b já estavam
+prontas e commitadas (ver producao/grega/ilustracoes/log-geracao.md).
+
+--- Toolchain desta máquina (Windows, sem admin) ---
+- typst 0.15.1: binário oficial baixado (release GitHub), sem instalador —
+  não precisa de admin. `typst fonts` confirma Libertinus Serif e DejaVu Sans
+  disponíveis no sistema.
+- Ghostscript: `choco install` falhou (exige shell elevado, que não estava
+  disponível). Contornado baixando o instalador oficial (gs10071w64.exe) e
+  extraindo com `7z x` — NSIS permite extração sem rodar o instalador, sem
+  admin. `gswin64c.exe --version` = 10.07.1.
+- pypdf (Python) usado no lugar de pdfinfo/pdffonts (poppler-utils não
+  disponível nesta máquina) para verificar dimensões/páginas/fontes — mesmas
+  perguntas, ferramenta equivalente.
+
+--- 1. Escolha da versão final de cada ilustração ---
+Cada bloco (8 sheets + 11 cenas + capa) tinha só 1 variação gerada (v1) — ver
+log-geracao.md. Copiadas para o nome canônico (ex.: `01-...-v1.png` ->
+`01-....png`) que `miolo.typ`/`fullbleed()` espera. Nenhuma escolha entre
+variações foi necessária (só havia 1 cada).
+
+--- 2. Conversão JFIF->PNG real ---
+O Gemini entrega `.png` cujo conteúdo é na verdade JPEG/JFIF (confirmado por
+`file` em toda a sessão de geração). Typst rejeita isso ("Invalid PNG
+signature"). Recodificado com Pillow (`Image.open().save(format="PNG")`),
+mantendo os pixels, para as 12 imagens canônicas.
+
+--- 3. `python producao/grega/diagramacao/extrair.py` ---
+BASE/OUT estavam hardcoded para `/home/user/books/...` (ambiente Linux
+anterior). Corrigido para caminho relativo ao próprio script
+(`pathlib.Path(__file__).resolve().parents[3]`) — mudança de infraestrutura,
+não de conteúdo. Rodado: `git diff --stat conteudo/` deu vazio -> a cópia
+congelada já estava em dia com `capitulos/*.md` (regra README.md "extração é
+sempre posterior ao gate", satisfeita).
+`python gerar_typst.py` rodado por precaução: `miolo.typ` saiu byte-a-byte
+igual ao já commitado (diff vazio).
+
+--- 4. Verificação de DPI (verificar-dpi.py) — 1ª rodada, ANTES do upscale ---
+Todas as 12 imagens: 2048x2048px -> 247 DPI efetivo (ALVO: 2492px / 300 DPI).
+Piso de qualidade REPROVADO nas 12 — Gemini entrega 2048px fixo, não os
+2492px exigidos pela spec de trim+sangria.
+
+--- 5. Upscale (fator, ferramenta) — REGISTRADO POR IMAGEM, TODAS IGUAIS ---
+Fator: 1.2168x (2048 -> 2492px, quadrado, sem distorcer proporção).
+Ferramenta: Pillow (PIL) `Image.resize((2492,2492), Image.LANCZOS)`.
+Aplicado às 12 imagens canônicas (00-capa + 11 cenas). Reexecutado
+verificar-dpi.py: 12/12 OK, 300 DPI efetivo, 0 abaixo do piso.
+⚠️ Nota de mandato: upscale uniforme para bater o piso de impressão é
+diferente do "upscale disfarçado" que o mito-ilustrador está proibido de
+fazer (mandato original) — aquele é sobre esconder baixa resolução do
+diretor de arte antes da aprovação; este é o passo de pré-impressão comum a
+qualquer produção editorial, feito às claras, com fator e ferramenta
+registrados, depois de todas as 12 imagens já estarem aprovadas para uso
+pelo dono. Se o diretor de arte preferir regenerar em vez de upscalar,
+reverter é trivial: os arquivos `-v1.png` originais (2048px) continuam no
+repositório.
+
+--- 6. `typst compile miolo.typ` ---
+EXIT CODE: 0, sem warning, nas duas rodadas (antes e depois do upscale).
+Páginas: 59 (mesma contagem da Rodada 1 — pendência da seção 11 continua
+aberta e não foi mexida por mim; é decisão do editor/editor-chefe).
+Página = 598.11 x 598.11 pt = 211.0 x 211.0 mm = TRIM(205mm) + 2*SANGRIA(3mm),
+confirmado por pypdf.
+
+--- 7. Fontes embutidas (pypdf, no lugar de pdffonts) ---
+LibertinusSerif-Regular, LibertinusSerif-Bold, DejaVuSans — todas Type0,
+subset (prefixo aleatório de 6 letras), portanto embutidas. Confirmado nas
+duas versões do PDF (RGB e CMYK pós-Ghostscript).
+
+--- 8. Prova em PNG de spread (checkpoint humano) ---
+`typst compile --ppi 150 miolo.typ "provas/pagina-{p}.png"` — 59 páginas
+regeneradas, substituindo as provas da Rodada 1 (que mostravam a caixa
+"ENCAIXE DE ILUSTRAÇÃO — FALTA GERAR" em vez de arte real). Inspeção manual
+de 6 spreads (capítulos 1, 2, 10, sumário, glossário, folha de rosto):
+ilustrações full-bleed cobrem a sangria corretamente, moldura ornamental
+intacta, texto dentro da zona segura, nenhuma quebra de página no meio de
+uma frase importante. Regra vinculante do README ("a linha 'Depois saíram os
+cinco...' cai no alto da p.47, nunca no pé da anterior") verificada: p.46 é
+100% ilustração full-bleed (10b), então a regra se cumpre por construção.
+
+--- 9. `capa.typ` — NOVO ARQUIVO (não existia antes desta rodada) ---
+Compõe só a FRENTE da capa (trim+sangria, sem lombada nem verso) sobre
+`00-capa.png`. Lombada e quarta capa são pendência nomeada, não fabricável
+localmente: a largura da lombada depende de tabela da gráfica (não
+escolhida) e o texto de contracapa é copy editorial que ninguém escreveu
+ainda (pipeline-impressao.md §Estrutura, "Capa em arquivo separado... pedir
+tabela da gráfica").
+⚠️ ACHADO DE COMPOSIÇÃO: a 1ª tentativa (texto direto sobre a arte, no "terço
+superior calmo" que o prompt da capa pedia) ficou ILEGÍVEL — a cabeça de
+Zeus e a águia da v1 sobem mais alto no quadro do que o prompt previa, e
+colidem com o título. Corrigido substituindo por uma placa opaca (mesmo
+recurso já usado no rótulo do subtítulo), que garante legibilidade
+independente da arte de fundo. Registrado no próprio `capa.typ` como
+comentário, para o diretor de arte decidir se aceita a solução de placa ou
+prefere pedir uma v2 da capa com a cabeça mais baixa no quadro.
+
+--- 10. Conversão PDF/X CMYK (Ghostscript) ---
+`PDFX_def.ps` gerado a partir do exemplo oficial do Ghostscript 10.07.1
+(lib/PDFX_def.ps), customizado em /Title e /ICCProfile.
+⚠️ PENDÊNCIA DE COR (nomeada, não escondida): sem gráfica escolhida, usei
+`default_cmyk.icc`, que é o perfil GENÉRICO que vem embutido no próprio
+pacote do Ghostscript — não é um perfil FOGRA/SWOP de gráfica real. Copiado
+para `producao/grega/entrega/perfil.icc` só como placeholder (o pipeline
+permite isso explicitamente: "sem gráfica definida, usar um perfil coated
+padrão... documentar a origem no run" — origem documentada aqui e no próprio
+PDFX_def.ps). Troca pelo perfil real é obrigatória antes de qualquer envio
+de produção.
+Comando: `gs -dPDFX -dBATCH -dNOPAUSE -dNOSAFER -sDEVICE=pdfwrite
+-sColorConversionStrategy=CMYK -dProcessColorModel=/DeviceCMYK
+-dPDFXSETBLEEDBOXTOMEDIABOX -sOutputFile=miolo-grafica.pdf PDFX_def.ps
+miolo.pdf` (e o mesmo para capa.pdf -> capa-grafica.pdf).
+`-dNOSAFER` foi necessário porque o SAFER mode padrão do Ghostscript bloqueou
+a leitura do ICC profile por caminho relativo/absoluto fora do sandbox
+default — sem outra saída identificada nesta sessão; é local, sem risco de
+conteúdo malicioso (só os PDFs e o ICC deste run).
+Resultado: 59/59 páginas processadas sem erro, `miolo.pdf` (RGB, 151 MB) ->
+`miolo-grafica.pdf` (CMYK, 17,7 MB); `capa.pdf` (16 MB) -> `capa-grafica.pdf`
+(6,5 MB). Verificado por execução (pypdf): página-teste (a ilustração do
+cap. 1) tem `/ColorSpace /DeviceCMYK`, `/BitsPerComponent 8`, confirmando a
+conversão de fato ocorreu, não só o nome do arquivo. Fontes seguem embutidas
+no PDF final (verificado, seção 7 acima). Prova visual (PNG a partir do
+`miolo-grafica.pdf`, página 10): cores preservadas, sem shift alarmante.
+
+--- 11. Git LFS ---
+`producao/grega/diagramacao/*.pdf` passou a ser rastreado via Git LFS (já
+configurado no repo, sem padrão de tracking definido antes). Necessário: o
+`miolo.pdf` RGB bruto (151 MB) excede o limite rígido de 100 MB por arquivo
+do GitHub sem LFS.
+
+--- 12. O que fica pendente para o próximo humano/sessão, sem decisão minha ---
+a) Contagem de páginas 59 vs. 56 (seção 11 da Rodada 1) — decisão do
+   mito-editor/mito-editor-chefe, não resolvida nem tocada nesta rodada.
+b) Lombada + quarta capa da capa completa — aguarda gráfica escolhida e copy
+   editorial da contracapa.
+c) Perfil ICC genérico do Ghostscript em uso — trocar pelo da gráfica real
+   antes de produção.
+d) Placa opaca de título na capa — decisão do diretor de arte (aceitar ou
+   pedir v2 da ilustração com composição diferente).
+e) As 3 pendências já sinalizadas na Fase 3b (raio na mão da capa vs. regra
+   transversal; tridente de Posêidon na cena 02; elmo de Hades na cena 07) —
+   herdadas sem alteração, ver ilustracoes/log-geracao.md.
+f) Ficha técnica (p.4): disclosure de IA definitivo, ISBN/CIP — já marcado
+   como pendência no próprio texto de `miolo.typ`, não é novidade desta
+   rodada.

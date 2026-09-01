@@ -14,8 +14,10 @@ e remoção de linhas de metadado editorial (não destinadas à página impressa
 """
 import re, glob, os, json
 
-BASE = "/home/user/books/producao/grega/capitulos"
-OUT = "/home/user/books/producao/grega/diagramacao/conteudo"
+import pathlib
+_ROOT = pathlib.Path(__file__).resolve().parents[3]
+BASE = str(_ROOT / "producao" / "grega" / "capitulos")
+OUT = str(_ROOT / "producao" / "grega" / "diagramacao" / "conteudo")
 os.makedirs(OUT, exist_ok=True)
 
 def md_to_typ(s):
