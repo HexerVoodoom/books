@@ -264,6 +264,22 @@ verificação de download do Windows/antivírus enfileirando, ou proteção do C
 checar a barra de downloads do Chrome e o histórico de verificação do Windows Defender**
 antes da próxima sessão de geração.
 
+## `sheet-apolo.png` — gerada, download também travado
+
+Conversa `f50278f2ade5a6be`. 2 tentativas, sem sucesso. **Confirma que o bloqueio de
+download deixou de ser por-imagem e virou sistêmico**: Hades, Atena e agora Apolo — três
+conversas diferentes, geradas normalmente, download sempre falhando. A geração em si
+continua funcionando (o Gemini processa e devolve a imagem); só o disparo do arquivo para
+`E:\dowload` parou de completar. **Isso está fora do que consigo resolver por automação de
+navegador** — não é seletor errado nem timing (já tentei ref, coordenada, hover antes,
+aba nova, grupo de abas novo, esperas de até 20s). Parando a tentativa mecânica aqui.
+
+**Ação recomendada ao usuário antes da próxima sessão:** verificar
+1. a barra de downloads do Chrome (pode haver itens represados aguardando confirmação);
+2. se o Windows Defender/antivírus está em varredura pesada (pode estar enfileirando
+   cada `.jfif` para análise antes de liberar);
+3. `chrome://downloads` diretamente, que a automação não consegue abrir.
+
 ## Status geral desta sessão
 
 - **Gerado:** `10b-do-caos-os-libertados` — 2/4 variações, ambas fora de especificação de
