@@ -328,6 +328,24 @@ tentativas por horas", sem relação aparente com a imagem, a conversa ou o mét
 conversa vs. botão da Biblioteca). Isso é comportamento do Chrome/SO nesta máquina, não do
 processo de geração nem do prompt.
 
+## ✅ AS 8 CHARACTER SHEETS ESTÃO COMPLETAS
+
+Padrão que resolveu o download intermitente: **baixar imediatamente após a imagem
+renderizar, sem navegar para fora da conversa antes.** Conversas "envelhecidas" (com
+falhas de download anteriores) continuaram travadas mesmo após várias tentativas —
+regenerá-las do zero, em conversa nova, e baixar na hora resolveu todos os casos.
+
+| Sheet | Variações salvas | Observação |
+|---|---|---|
+| `sheet-zeus` | 2 | 4:3 correto |
+| `sheet-poseidon` | 1 | 4:3 correto |
+| `sheet-hades` | 1 | 4:3 correto (3ª geração; 1ª e 2ª geraram mas travaram no download) |
+| `sheet-atena` | 1 | ⚠️ elmo não totalmente para trás (autoavaliação do próprio Gemini) |
+| `sheet-apolo` | 1 | 4:3 correto, bebê incluído |
+| `sheet-hermes` | 1 | 4:3 correto, dois estados (adulto + bebê) |
+| `sheet-dioniso` | 1 | 4:3 correto (2ª geração) |
+| `sheet-demeter-persefone` | 1 | 4:3 correto, mãe e filha na mesma folha |
+
 ## Status geral desta sessão
 
 - **Gerado:** `10b-do-caos-os-libertados` — 2/4 variações, ambas fora de especificação de
