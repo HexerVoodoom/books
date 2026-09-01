@@ -440,3 +440,16 @@ no bloco original).
   Hera ✔ · cortejo em silhueta na porta, sem entrar no salão ✔ · nenhuma corrente/corda
   visível ✔ · ninguém rindo de Hefesto ✔.
 - **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+### `06-demeter-e-persefone.png`
+
+- **Prompt colado verbatim**, conversa nova (`Demeter and Persephone Reunion
+  Illustration`). Primeira tentativa não registrou; segunda registrou e enviou.
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF). Sem
+  watermark/texto visível.
+- **Checklist de aceitação:** abraço completo e consumado ✔ · tochas caídas e apagadas atrás
+  de Deméter ✔ · carruagem dourada vazia recuando para a sombra, Hades fora de quadro ✔ ·
+  Perséfone com rosto e roupas claros (não escurecidos) ✔ · flores abrindo a partir do ponto
+  do abraço ✔ · sem correntes/susto/vilão/romã sendo comida ✔.
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
