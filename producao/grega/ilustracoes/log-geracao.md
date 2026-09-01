@@ -470,3 +470,18 @@ no bloco original).
   de Hades está na mão de Perseu e não na cabeça** (checklist crítico X5) — sinalizo para o
   diretor de arte conferir na imagem em tamanho real antes de aprovar.
 - **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
+
+### `08-teseu-e-o-minotauro.png`
+
+- **Prompt colado verbatim**, conversa nova (`Mucha Style Children's Illustration`). Duas
+  tentativas de colar+enviar antes de registrar (mesma variação da UI já notada: clique por
+  `ref` funcionou na segunda vez).
+- **Recusa:** nenhuma.
+- **v1:** 2048×2048, JPEG (mesmo padrão de extensão `.png`/conteúdo JFIF). Sem
+  watermark/texto visível.
+- **Checklist de aceitação:** Teseu com as duas mãos no fio, sem espada/armadura ✔ · fio
+  atravessando a página com voltas no chão ✔ · fresta vertical de luz fria ao fundo ✔ ·
+  sombra de chifres e ombros do Minotauro numa parede lateral, **sem tocar Teseu** (chão
+  iluminado entre os dois) ✔ · espirais minoicas nas paredes ✔ · nenhum azul Aegeu na
+  imagem ✔ (proibição específica do capítulo).
+- **Variações obtidas: 1 de 4** — mesma priorização de amplitude já registrada acima.
