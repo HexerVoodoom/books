@@ -291,6 +291,27 @@ produzir arquivo — isso descarta problema de seletor, de timing e de conversa 
 de navegador.** Suspeito mais provável: verificação de download (Windows Defender / SmartScreen)
 enfileirada e represada.
 
+## `sheet-hermes.png` — ✅ feito, 2400×1792
+
+Conversa `bce1a00523b0b608`. Download caiu de primeira depois do intervalo do wakeup —
+confirma que o bloqueio anterior era temporário/externo (não foi corrigido por mim, só
+passou). Salvo em `character-sheets/sheet-hermes-v1.png`.
+
+## Bloqueio de download voltou a ser intermitente (não mais 100% travado, nem 100% livre)
+
+Depois do Hermes cair de primeira, tentei recuperar `sheet-hades` (regerada do zero,
+conversa `aff2ea9a63e9355c`, pois a antiga `e9faf0d81ca9d2c1` seguia sem baixar mesmo com
+o pipeline liberado — suspeita de blob expirado do lado do Gemini) e gerar `sheet-dioniso`
+(conversa `6b198d31742211aa`) — **nenhuma das duas baixou, 2 tentativas cada.** Ou seja: o
+pipeline de download está funcionando de novo, mas de forma instável — não é mais "tudo
+trava" nem "tudo funciona", é intermitente por imagem, como no início da sessão.
+
+**Pendentes de download (imagens existem, geradas, só falta baixar):**
+- `sheet-hades` — regerada, conversa `aff2ea9a63e9355c`
+- `sheet-atena` — conversa `1a37953a6718fbd0`
+- `sheet-apolo` — conversa `f50278f2ade5a6be`
+- `sheet-dioniso` — conversa `6b198d31742211aa`
+
 ## Status geral desta sessão
 
 - **Gerado:** `10b-do-caos-os-libertados` — 2/4 variações, ambas fora de especificação de
