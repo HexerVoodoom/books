@@ -245,6 +245,25 @@ referência de imagem com segurança.
   das referências do Met Museum (API bloqueada na sessão de fundação). Não teve rede
   liberada para verificar nesta sessão de execução; segue pendente.
 
+## `sheet-hades.png` — gerada, download pendente
+
+Conversa `e9faf0d81ca9d2c1`: sheet renderizada corretamente (elmo em dois ângulos,
+Cérbero de olhar amigável, manto verde-escuro/ocre). **6 tentativas de clique no botão de
+download não produziram arquivo** — mesmo padrão intermitente descrito acima, mas desta
+vez não cedeu. Não se perdeu: a imagem continua na conversa, só falta o download. Retomar
+depois.
+
+## `sheet-atena.png` — gerada, download pendente (mesmo padrão do Hades)
+
+Conversa `1a37953a6718fbd0`. 4 tentativas de download sem sucesso. **A partir da Hades a
+taxa de falha do download subiu visivelmente** (Zeus e Posêidon caíram em 1–2 tentativas;
+Hades e Atena não caíram em 6+ e 4+ tentativas respectivamente) — não parece mais
+coincidência pontual, e sim algo se acumulando ao longo da sessão (possíveis suspeitos:
+verificação de download do Windows/antivírus enfileirando, ou proteção do Chrome contra
+"vários downloads" com gatilho por tempo/volume, não só contagem). **Recomendo ao usuário
+checar a barra de downloads do Chrome e o histórico de verificação do Windows Defender**
+antes da próxima sessão de geração.
+
 ## Status geral desta sessão
 
 - **Gerado:** `10b-do-caos-os-libertados` — 2/4 variações, ambas fora de especificação de
