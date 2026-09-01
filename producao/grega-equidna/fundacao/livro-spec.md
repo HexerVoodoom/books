@@ -110,7 +110,58 @@ pela R4.4. Orçamento total ≈ 4.650 palavras de corrido.
 | 5 | Hesíodo, Teog. 326–332 (posse via Órtro); tradição tebana (Édipo) | Ambiguidade do pronome "ela" registrada no dossiê |
 | 6 | Hesíodo, Teog. 327–332 (posse via Órtro; "vencido pela força de Héracles") | Catasterismo (Leão no céu — Eratóstenes/Higino) **a verificar** |
 | 7 | **Apolodoro 2.5.12 ✅** (sem armas; mostrado; *"carried him back to Hades"*) | Orfeu: Virgílio, *Geórgicas* 4.481–484 + Horácio, *Odes* 2.13.33–36 (romana, a confirmar; **plano B escrito**: sem Orfeu, a rima fecha só com Medeia) |
-| 8 | Hesíodo, Teog. 306–332 (catálogo) + 820ss (Tifão) + 295–305 (fecho) | Cérbero "de cinquenta cabeças" em Hesíodo — arbitrar com a Fase 3a; Argos (Apolod. 2.1.2) não adotada |
+| 8 | Hesíodo, Teog. 306–332 (catálogo) + 820ss (Tifão) + 295–305 (fecho) | Cérbero: **cabeças não contáveis** (arbitrado na Fase 1); Argos (Apolod. 2.1.2) não adotada |
+
+### ⚠️ Correções de fonte da Fase 1 (dossiê do cap. 8 — este spec estava errado)
+
+1. **O Etna NÃO está em Hesíodo.** Teog. 868 diz **Tártaro**; a fonte do Etna é **Píndaro,
+   Pítica 1.15–28**. Corrigir aqui e na página de Fontes.
+2. **"Corta uma, nascem duas" não é de Hesíodo** (que só diz que Hera criou a Hidra) — é
+   **Apolodoro 2.5.2**. O box do cap. 8 estava creditado errado.
+3. **Ladon:** divergência de parentela não registrada — Hesíodo 333–336 dá Ceto+Fórcis;
+   **a série adota Apolodoro 2.5.11** (filho de Tifão+Equidna). Declarar nas Fontes.
+4. **Dragão da Cólquida (cap. 2): filiação frágil** — ausente do catálogo de Hesíodo, só em
+   **Higino, Fabulae**. Marcado como **posse incerta**; o fio "alguém da família" cobre.
+   Variante de morte (**Diodoro Sículo 4.48.3**, Medeia o mata) declarada como NÃO adotada.
+   Orfeu adormecendo o dragão (Valério Flaco VIII) **não usar** — duplicaria o cap. 7 e mataria
+   a rima em duas metades.
+6. **⚠️ Orfeu NÃO adormece Cérbero.** Virgílio, *Geórgicas* 4.481–484 (latim verificado) diz
+   que Cérbero ficou **de bocas abertas, pasmo** (*tenuitque inhians tria Cerberus ora*) — a
+   roda de Íxion parou. "Adormece", como estava no spec e no sumário, é **falsificação de
+   fonte**. A rima "música vence monstro" continua em duas metades, com **operações
+   distintas**: cap. 2 faz **dormir** (Medeia), cap. 7 faz **parar** (Orfeu). Plano B **não**
+   acionado. Horácio *Odes* 2.13.33–36 sai da atribuição da cena (quem canta são **Safo e
+   Alceu**, não Orfeu); fica só como fonte das cem cabeças e das orelhas que baixam. O miolo
+   nunca traduz o número de bocas — usa "as bocas".
+7. **Lícia (destino da Quimera) é Apolodoro 2.3.1**, não Hesíodo (Teog. 319–324 não dá lugar).
+8. **Esfinge:** a elipse é **defensável** (Hesíodo não narra o fim dela) — **a troca 1-por-1
+   NÃO é acionada**; o teto de 2 mortes em cena permanece nos caps. 3 e 6. Mas "ela foi
+   embora" / "desceu do rochedo" são **falsificação** (Apolodoro 3.5.8: ela se lança da
+   cidadela): nenhum verbo de destino, fechar na estrada aberta, destino só na página de
+   Fontes. O enigma **não** usa a moldura "manhã/tarde/noite" (não é antiga); o 2º enigma
+   (duas irmãs) não tem fonte grega — cortado. Apolodoro 3.5.8 a faz filha **direta** de
+   Equidna — mais um motivo para o miolo nunca declarar grau.
+9. **Box do cap. 1 não pode usar "não morre nem envelhece"** — é a carta do fecho do cap. 8.
+   "Comedora de carne crua" (Teog. 301) **cortada** de miolo, arte, glossário e "Perguntas".
+   Topônimo **Arima omitido** (incerteza antiga irresolvível). **Achado que resolve o
+   requisito 1:** Teog. 304 diz que a própria Equidna **guarda** — o refrão fecha com seis
+   portas ocupadas, não cinco portas e uma casa vazia.
+10. **Nome "Ladon"** só existe na fonte **não adotada** (Apolônio 4.1396); Apolodoro diz apenas
+   "um dragão". Nota obrigatória na página de Fontes. "Enrolado na árvore" **não tem
+   passagem** — só iconografia ática declarada, proibido como "as fontes contam". A pele do
+   Leão é **proibida no cap. 4** (nasce no cap. 6). **"Não-contável" é regra do livro** —
+   vale para Ladon, Cérbero e Hidra.
+5. **Etiologia do cão do cap. 3 ("dorme com um ouvido acordado"): criação nossa, sem lastro
+   antigo.** Só pode entrar como comparação na voz do narrador ("se você tem um cachorro,
+   repare…"), **jamais** com "os gregos diziam" / "é por isso que" / "desde então" — e
+   declarada na página de fontes.
+
+**Contrato de parentela (Fase 1, fechado — ninguém renegocia):** Gaia+Tártaro → Tifão (821).
+Tifão+Equidna (306–307) → **filhos diretos**: Órtro (309), Cérbero (310–312), Hidra (313),
+Quimera (319). Órtro + "ela" (326, crux resolvido como Quimera) → **Esfinge e Leão = netos**.
+Ladon: filho por Apolodoro 2.5.11. Dragão da Cólquida: **não é filho** — só guardião.
+**Regra de redação:** o miolo **nunca declara grau de parentesco** — usa "alguém da família",
+"pela linha de Órtro".
 
 **Grafia PT-BR:** régua do livro 1 (`producao/grega/livro-spec.md`, "Autoridade de grafia
 R2"): Houaiss → tradição de tradução (**Torrano para Hesíodo**) → VOLP; forma aportuguesada +
@@ -184,7 +235,15 @@ livro 1 (`mito-sensibilidade-cultural` não acompanha as fases 2–4; registrado
 
 1. Elipse da Esfinge × fidelidade — mecanismo de troca 1-por-1 já desenhado (requisito 4).
 2. Cena de Orfeu com fonte romana, a confirmar — plano B por escrito no cap. 7.
-3. Catasterismo do Leão a verificar — se cair, o acolhimento do cap. 6 fica só na pele.
+3. ~~Catasterismo do Leão a verificar~~ — **DESCARTADO na Fase 1** (Higino *Astr.* 2.24 põe o
+   Leão no céu "por ser o rei dos animais", sem agente e sem ligação firme com Nemeia;
+   Ps.-Eratóstenes não verificável). O acolhimento do cap. 6 fica **na pele que continua
+   andando pelo mundo** (Diodoro 4.11.4), com Molorco como reserva. **A fonte da pele vestida
+   NÃO é Apolodoro 2.5.1** (que não a tem) — é Diodoro 4.11.4 + Higino *Fáb.* 30; a fórmula
+   "scalp as a helmet" é de **outro leão** (Apolodoro 2.4.10) e confirma a proibição de arte
+   rosto-sobre-rosto. Higino 2.24 dá 2ª fonte para "sem armas", que rima com o cap. 7.
+   **Alerta de arte:** o livro tem duas cavernas (Equidna, funda e de uma boca × Nemeia,
+   passante e de duas bocas) — precisam ser visualmente distintas.
 4. Posse incerta Esfinge/Leão — mitigada no fio; a Fase 1 arbitra a frase de parentela.
 5. Gancho Pégaso pago só em menção — a quarta-capa tem de vender por Cérbero e pela adivinha.
 6. 48 ≠ 56 pp: espessura/preço/lombada divergem do livro 1 — decisão de produto (pendência 1).

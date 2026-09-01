@@ -1,16 +1,26 @@
 {
   "livro": "grega-equidna",
   "mitologia": "grega",
-  "posicao_serie": 2,
-  "fase_atual": "fundacao",
-  "capitulos": [],
-  "pendencias": [
-    "Decisão de enquadramento (handoff §3) — gate humano",
-    "Problema do Héracles (handoff §4) — gate humano",
-    "Modelo da série: um livro por mitologia vs. temático agrupado (handoff §5) — gate humano; se sim, atualizar CONTRACT §0 + serie-padroes.md",
-    "Direitos de texto + disclosure de IA (METODO, eixo transversal) — decidir no gate da Fase 0"
+  "posicao_serie": "2 (spin-off da Grécia)",
+  "fase_atual": "escrita",
+  "capitulos": [
+    {"slug": "equidna-caverna", "cap": 1, "status": "pesquisado"},
+    {"slug": "dragao-colquida", "cap": 2, "status": "pesquisado"},
+    {"slug": "ortro", "cap": 3, "status": "pesquisado"},
+    {"slug": "ladon", "cap": 4, "status": "pesquisado"},
+    {"slug": "esfinge", "cap": 5, "status": "pesquisado"},
+    {"slug": "leao-nemeia", "cap": 6, "status": "pesquisado"},
+    {"slug": "cerbero", "cap": 7, "status": "pesquisado"},
+    {"slug": "tifao-geral", "cap": 8, "status": "pesquisado"}
   ],
-  "gates": {"fundacao-enquadramento": "loop-adversarial-1o-passe-concluido"},
-  "checkpoint": "aguardando humano — 3 decisões de enquadramento (fundacao/gate.md)",
-  "nota": "Fase 0 aberta em 2026-09-01 a partir de producao/grega-equidna/HANDOFF-FASE-0.md. Primeiro item de pauta: enquadramento, antes do sumário."
+  "pendencias": [
+    "serie-padroes.md: regra de rotulagem de spin-off (Fase 4/5, dono mito-editor-chefe)",
+    "serie-padroes.md: registrar transferência do gancho Pégaso/Quimera para volume futuro",
+    "Página de Fontes: nome 'Ladon' vem de fonte não adotada; variantes não adotadas (Diodoro 4.48.3, Apolônio 4.1396, Argos 2.1.2); etiologia do cão é criação nossa",
+    "Arbitrar quem apresenta Euristeu (cap. 4 ou 6)",
+    "Fase 2: testar se a fórmula etiológica dos caps. 3/6 lê como rima ou muleta"
+  ],
+  "gates": {"fundacao": "aprovado", "pesquisa": "aprovado"},
+  "checkpoint": null,
+  "nota": "Fase 1 aprovada em 2026-09-01: 8 dossiês, todos APTOS, validados independentemente pelo mito-fidelidade (5 erros de fonte corrigidos no spec, 2 deles falsificações em potencial). Fase 2 aberta: 7 específicos em paralelo, cap. 8 por último."
 }
