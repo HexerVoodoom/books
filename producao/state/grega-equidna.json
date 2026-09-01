@@ -1,0 +1,16 @@
+{
+  "livro": "grega-equidna",
+  "mitologia": "grega",
+  "posicao_serie": 2,
+  "fase_atual": "fundacao",
+  "capitulos": [],
+  "pendencias": [
+    "Decisão de enquadramento (handoff §3) — gate humano",
+    "Problema do Héracles (handoff §4) — gate humano",
+    "Modelo da série: um livro por mitologia vs. temático agrupado (handoff §5) — gate humano; se sim, atualizar CONTRACT §0 + serie-padroes.md",
+    "Direitos de texto + disclosure de IA (METODO, eixo transversal) — decidir no gate da Fase 0"
+  ],
+  "gates": {"fundacao-enquadramento": "loop-adversarial-1o-passe-concluido"},
+  "checkpoint": "aguardando humano — 3 decisões de enquadramento (fundacao/gate.md)",
+  "nota": "Fase 0 aberta em 2026-09-01 a partir de producao/grega-equidna/HANDOFF-FASE-0.md. Primeiro item de pauta: enquadramento, antes do sumário."
+}
