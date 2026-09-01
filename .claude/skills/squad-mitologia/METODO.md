@@ -44,12 +44,17 @@ o editor-chefe apenas a aprova na montagem (Fases 4–5).
     capítulo + capa em `producao/<livro>/ilustracoes/`, nos pixels da spec (upscale
     declarado permitido — ver `estilo-ilustracao.md` §Resolução).
   Se houver ferramenta de geração invocável na sessão, 3a e 3b colapsam num gate só.
+  **Confirmado invocável (livro Grécia, 2026-08-31/09-01):** o MCP `claude-in-chrome`
+  dirige o Chrome real do dono, já logado no Gemini web — gera, faz a checagem técnica e
+  baixa as 21 imagens do livro sem round-trip humano. Ver `estilo-ilustracao.md` §Execução.
 - **Fase 4** → PDF compilado via Typst com miolo completo (capa, sumário, capítulos com
   full-bleed, glossário, fontes), **verificado por execução**: compilação limpa + checagem
   de sangria/resolução. Log em `producao/<livro>/diagramacao/build.log`.
 - **Fase 4 (pré-condição)** → toolchain provisionada e provada por execução
-  (`pipeline-impressao.md` §Setup): `typst`, `gs`, `pdfinfo`, `pdffonts` instalados no run.
-  Sem toolchain, a fase abre **instalando**, não diagramando.
+  (`pipeline-impressao.md` §Setup): `typst`, `gs` instalados no run, mais `pdfinfo`/
+  `pdffonts` (Linux) ou `pypdf` como substituto equivalente (Windows sem poppler-utils —
+  ver §Setup, achado 2026-09-01). Sem toolchain, a fase abre **instalando**, não
+  diagramando; sem admin, ver a via de instalação sem privilégios elevados na mesma seção.
 - **Fase 5** → PDF/X CMYK gerado (Ghostscript, com o perfil ICC **fornecido pela gráfica ou
   decidido no checkpoint** — pendência aberta desde a Fase 0), checklist de gráfica 100%
   verde ou com itens explicitamente marcados `delegado à gráfica/humano` (nunca verde

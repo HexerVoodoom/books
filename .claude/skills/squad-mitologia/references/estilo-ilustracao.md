@@ -19,11 +19,17 @@ expressivos, sem estilização que apague a emoção.
 - 1 ilustração de **página inteira** por capítulo + arte de capa.
 - Tamanho final + 3 mm de sangria por lado, **300 DPI** (calcular pixels pelo trim size do
   `livro-spec.md`; ex.: 20,5×20,5 cm + sangria ≈ 2610×2610 px @300 DPI).
-- **Resolução e upscale:** geradores como Midjourney saem em ~1024–2048 px — chegar aos
-  pixels finais **exige upscale, e isso é permitido** desde que declarado: ferramenta de
-  upscale nomeada no guia de estilo, fator ≤2× a partir da maior saída nativa, e inspeção
-  visual de nitidez num recorte a 100% (metadado de DPI não prova nada). Acima de 2×,
-  reduza o trim size ou troque a ferramenta — nunca upscale disfarçado.
+- **Resolução e upscale:** o Gemini web (ver §Execução abaixo) sai fixo em **2048×2048 px**
+  por variação, **sempre**, independente do trim size pedido — não dá para pedir mais pelo
+  prompt. Isso fica abaixo do piso de 300 DPI para um trim de 20,5 cm+sangria (2492×2492 px
+  necessários). **Upscale é necessário e é permitido**, desde que declarado: ferramenta
+  nomeada (verificado nesta coleção: Pillow, `Image.resize(..., Image.LANCZOS)`), fator
+  registrado por imagem (2048→2492 = 1,2168×, bem abaixo do teto de 2×), e conferência por
+  `verificar-dpi.py` antes de fechar o gate. **Distinção que importa:** isto é diferente do
+  "upscale disfarçado" que o `mito-ilustrador` está proibido de fazer sozinho — aquele é
+  sobre esconder baixa resolução do diretor de arte *antes* da aprovação; o upscale de
+  pré-impressão acontece *depois*, sobre imagem já aceita, com fator e ferramenta expostos
+  no `build.log`. Quem faz esse upscale é o `mito-diagramador`, na Fase 4, não o ilustrador.
 - Zona segura: nada essencial a menos de 10 mm da borda; prever a margem interna (lombada).
 - A cena retrata **o momento central do capítulo**, com os personagens **fiéis à descrição
   canônica do dossiê** (atributos: raio de Zeus, martelo de Thor…).
@@ -42,44 +48,33 @@ expressivos, sem estilização que apague a emoção.
 5. Estilo aquarelado tolera microvariações; o que não pode variar: atributos, paleta
    pessoal, proporções e identidade facial.
 
-## Execução via Chrome + Gemini (decisão do humano, 2026-08-31)
+## Execução via Chrome + Gemini (método verificado em produção, 2026-08-31/09-01, livro Grécia)
 
-A geração deixa de ser "pacote para o humano executar" e passa a ser **dirigida por agente
-no navegador**: Chromium (Playwright) abre o Gemini, cola o prompt do
-`templates/prompt-ilustracao.md`, gera as variações, baixa os PNGs para
-`producao/<livro>/ilustracoes/` e o diretor de arte cura.
+**A geração é dirigida pelo agente no navegador REAL do dono**, autenticado — não um
+Chromium isolado via Playwright/proxy (essa via foi tentada antes e não conseguia gerar
+imagem deslogada; abandonada). O método que funcionou fim-a-fim, usado para as 21
+ilustrações do livro-piloto:
 
-**Estado verificado em 2026-08-31, após o humano pôr o environment em "Full" network access:**
+- Ferramenta: **`claude-in-chrome` MCP** (extensão do Chrome do próprio usuário, já logada
+  em `gemini.google.com/app`, modo Pro) — **nunca** a Claude_Browser/browser em sandbox do
+  agente, que é uma origem isolada e não-autenticada.
+- Processo completo, com todos os achados de confiabilidade da UI (aba em primeiro plano,
+  nova conversa por variação, 1ª tentativa de colar falha, download imediato sem navegar
+  para fora): ver a seção **"Gerar várias imagens via Gemini"** em `~/.claude/CLAUDE.md`
+  (config global do usuário, fora deste repo) — é o registro canônico e reutilizável entre
+  projetos, não duplicado aqui.
+- **Achado específico desta coleção:** o Gemini entrega o arquivo com extensão `.png`, mas
+  o **conteúdo real é JPEG/JFIF** (confirmado com `file` em toda imagem baixada nesta
+  sessão). Isso quebra qualquer ferramenta que valide a assinatura do PNG (Typst inclusive:
+  "Invalid PNG signature"). Recodificar sempre antes de usar: `PIL.Image.open(...).save(
+  format="PNG")` preserva os pixels e resolve.
+- **Aspect ratio:** o prompt tem que terminar com uma linha explícita de proporção
+  ("Square 1:1 full-bleed composition." ou equivalente) — sem ela a saída vem em proporção
+  aleatória. Ver nota em `templates/prompt-ilustracao.md` se o `[BASE]` do livro ainda não
+  tiver essa linha.
 
-| Item | Estado |
-|---|---|
-| Rede até `google.com` / `gemini.google.com` | ✅ liberada (200) |
-| Chromium alcança a web pelo proxy | ✅ **só com as flags abaixo** |
-| Gemini abre e responde texto **deslogado** | ✅ (modelo Flash-Lite) |
-| Gemini **gera imagem** deslogado | ❌ recusa: *"Você está conectado? …não consigo criar nenhuma"* |
-| `generativelanguage.googleapis.com` (API) | ✅ alcançável (403 = falta chave, não bloqueio) |
-
-**Flags obrigatórias do Chromium neste ambiente.** Sem elas o túnel abre e morre no handshake
-TLS (`ws_closed_mid_exchange`, ~39 B de volta) e tudo dá `ERR_CONNECTION_RESET` — inclusive
-`example.com`. A causa é ECH/TLS 1.3 contra o proxy que retermina TLS:
-
-```python
-executable_path="/opt/pw-browsers/chromium-1194/chrome-linux/chrome"  # versão do binário ≠ do pacote playwright
-proxy={"server": os.environ["HTTPS_PROXY"]}   # a porta MUDA quando a política de rede é alterada — sempre ler do env
-args=["--no-sandbox", "--ignore-certificate-errors", "--disable-quic",
-      "--disable-features=EncryptedClientHello,UseDnsHttpsSvcb,AsyncDns,PostQuantumKyber,TLS13EarlyData",
-      "--ssl-version-max=tls1.2"]
-```
-
-**Credencial — decisão pendente do humano.** A geração de imagem exige conta. Caminhos, do
-mais limpo ao menos:
-1. **Chave da API do Gemini** (aistudio.google.com/apikey) em variável de ambiente, nunca
-   commitada: credencial escopada, revogável, feita para uso programático, e o endpoint já
-   está alcançável. Modelo de imagem: `gemini-2.5-flash-image`.
-2. **Rodar localmente:** o humano executa o script de geração na própria máquina, com o
-   Chrome já logado, e devolve os PNGs ao repositório para a curadoria (3b) acontecer aqui.
-3. ~~Transferir cookies de sessão do Google~~ — **não recomendado**: é acesso completo à
-   conta, não é escopado nem revogável isoladamente.
+**Credencial:** a conta do Gemini é a do dono, já logada no Chrome real — não há chave de
+API nem cookie a gerenciar; o MCP opera a sessão do navegador como está.
 
 ## Esqueleto de prompt de cena
 ```
@@ -87,5 +82,12 @@ mais limpo ao menos:
 composition with ornamental frame, soft watercolor rendering, paper grain —
 [CAMADA CULTURAL do livro] — [DESCRIÇÃO CANÔNICA do(s) personagem(ns), verbatim] —
 [CENA: ação + emoção + cenário + luz] — warm, wonder-filled, suitable for ages 4-7,
-no text, no watermark
+Square 1:1 full-bleed composition. no text, no watermark, no lettering
 ```
+⚠️ **A linha de proporção ("Square 1:1 full-bleed composition." ou o equivalente 4:3 para
+character sheets) é obrigatória e vai no FIM do prompt, sempre.** No livro grego, o
+`[BASE]` congelado em `prompts.md` saiu sem essa linha (só teve o resto do esqueleto) e o
+Gemini devolveu proporções aleatórias (retrato, paisagem, nunca quadrado) até a linha ser
+adicionada manualmente pelo executor a cada prompt colado. Ao congelar o `[BASE]` de um
+livro novo, copiar este esqueleto por extenso, com a linha de proporção incluída — não
+confiar em "o resto do prompt já implica quadrado".
