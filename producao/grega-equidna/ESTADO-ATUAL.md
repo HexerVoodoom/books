@@ -43,10 +43,32 @@ botão responde ao clique, e nenhum arquivo cai em `E:\dowload`. Sem erro, sem `
 Distinguir das três vezes anteriores: aquelas eram **degradação de aba/CDP** (7 abas abertas) e
 foram resolvidas fechando abas. Esta persiste com **uma aba limpa**, recém-aberta.
 
-**O que fazer:**
-1. `chrome://settings/content/automaticDownloads` → permitir para `gemini.google.com`
-2. Conferir a **barra de downloads** no rodapé do Chrome — prompt nativo "Manter/Descartar"
-   para `.jfif` é invisível à extensão.
+### ⭐ CAUSA REAL ENCONTRADA — o disco C: está cheio
+
+    C:  223G total · 221G usados · **2,2G livres · 100%**
+    E:  448G total · 357G usados · 91G livres · 80%
+
+O Chrome **baixa para uma área temporária em `C:`** e só depois move o arquivo para
+`E:\dowload`. Com o C: em 100%, ele aborta **em silêncio** — sem erro, sem `.crdownload`, sem
+nada na barra de downloads. É exatamente o sintoma observado, e explica por que o problema **vai
+e volta** sem ninguém mexer na permissão do Chrome.
+
+**Não é** a proteção contra downloads automáticos (essa mordeu na sessão 1 e foi resolvida).
+**Não é** degradação de aba (essa mordeu nas sessões 4 e 5 e se resolve fechando abas).
+
+**O que fazer — liberar espaço em C:**
+- Limpar `C:\Users\spera\AppData\Local\Temp`
+- Limpar o cache do Chrome (`chrome://settings/clearBrowserData` → apenas *arquivos em cache*)
+- Executar a Limpeza de Disco do Windows (`cleanmgr`), incluindo *Arquivos temporários* e
+  *Arquivos de instalação anteriores do Windows*, se existirem
+
+Alvo: **pelo menos 10–15 GB livres**. Assim que houver espaço, o download volta sozinho e a
+Fase 3b retoma de onde parou — nenhuma imagem precisa ser regerada.
+
+**Descartado como causa** (verificado):
+- `chrome://settings/content/automaticDownloads` — já liberado pelo dono na sessão 1
+- barra de downloads com prompt "Manter/Descartar" pendente — nenhuma aparece
+- degradação de aba/CDP — testado com aba nova e limpa, o sintoma persiste
 
 **Imagem esperando:** a Esfinge refeita, na conversa `e18660aafee4dada`
 ("Refining the Sphinx Illustration") — baixável sem regerar.
