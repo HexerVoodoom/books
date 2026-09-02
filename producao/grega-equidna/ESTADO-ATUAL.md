@@ -8,10 +8,27 @@
 > Nada se perde ao reiniciar: as conversas do Gemini ficam no servidor, e as 7 peças que faltam
 > têm prompt pronto. A Esfinge já está gerada e esperando em `e18660aafee4dada`.
 >
-> **Por que não reiniciei eu mesmo:** é o navegador do dono e a hipótese do gerenciador travado
-> é a melhor que tenho, **não** um fato provado — as três causas que eu podia testar já foram
-> eliminadas (permissão, espaço no destino, degradação de aba). Reiniciar o Chrome de outra
-> pessoa com base em palpite fecharia as abas dela por uma aposta minha.
+> ### A evidência que fecha o diagnóstico
+>
+> Nas Preferências do perfil: **`profile.exit_type: "Crashed"`** — o Chrome registrou o último
+> encerramento como **travamento**. É exatamente o estado em que o gerenciador de downloads fica
+> corrompido: o botão responde, a requisição sai, e o arquivo nunca é gravado. Explica o
+> bloqueio ir e voltar sem ninguém mexer em configuração.
+>
+> Descartadas por teste, nesta ordem: **permissão do site** (concedida para `gemini.google.com`
+> e `lh3.googleusercontent.com`, `setting: 1`), **espaço no destino** (`E:\dowload`, 91 GB
+> livres), **diálogo nativo** (`prompt_for_download` não setado), **degradação de aba/CDP**
+> (persiste com aba nova e limpa).
+>
+> ### Por que não reiniciei eu mesmo
+>
+> **`session.restore_on_startup` não está setado** — ou seja, não há garantia de que o Chrome
+> reabra as abas do dono. Reiniciar o navegador de outra pessoa, sem ela por perto e sem
+> certeza de que as abas voltam, custaria o trabalho aberto dela para resolver um problema meu.
+> A conta não fecha: o livro espera, as abas dela não voltam.
+>
+> Se o dono preferir que a squad faça isso sozinha numa próxima vez, basta dizer — ou ligar
+> "Continuar de onde parou" nas configurações do Chrome, que elimina o risco de vez.
 
 **2026-09-02 · bloqueado na Fase 3b, aguardando o dono.**
 
