@@ -1841,7 +1841,16 @@ na outra). **Não existe caminho por prompt.**
 
 **Piso: 1 conversa, com direito a 2ª se reprovar.**
 
-### PROMPT
+> 🔴 **PROMPT VIGENTE: `prompts/A2v2-06v1-as-duas-bocas.txt`.** O prompt transcrito abaixo está
+> **SUPERADO na linha de fechamento** (`Square 1:1` reprova pelo §0.1c) e **não tem o bloco
+> `[THE SAFE BAND]`**. A regra de vinheta (`curadoria-3b.md` §29.2, guia v2.5 §0.1c) fixa:
+> destino **169 × 24 mm ≈ 7:1**, geração em **`Wide panoramic 16:9`**, faixa segura de **1/5 da
+> altura** com objetos nomeados, **máx. 2 elementos nítidos**, **sem banda ornamental**,
+> **nenhum rosto**. Asset final = faixa recortada à mão em **2000 × 284 px**; o bruto vai para
+> `brutos/`. **Cena, `[MUST NOT APPEAR]` (os mesmos 7 itens), referência e checklist abaixo
+> seguem válidos e inalterados.**
+
+### PROMPT (superado — ver `A2v2` acima)
 
 ```
 [BASE — colar §0.2 verbatim aqui]
@@ -1899,7 +1908,17 @@ sem ela e sem A3.
 
 **Piso: 1 conversa, com direito a 2ª.** Espaço **reservado no `miolo.typ`** (D1).
 
-### PROMPT
+> 🔴 **PROMPT VIGENTE: `prompts/A3v2-06v2-a-pele.txt`.** O prompt transcrito abaixo está
+> **SUPERADO na linha de fechamento** (`Square 1:1` reprova pelo §0.1c) e **não tem o bloco
+> `[THE SAFE BAND]`**. A regra de vinheta (`curadoria-3b.md` §29.2, guia v2.5 §0.1c) fixa:
+> destino **169 × 44 mm ≈ 4:1**, geração em **`Wide panoramic 16:9`**, faixa segura de **metade
+> da altura** com objetos nomeados, **máx. 2 elementos nítidos**, **sem banda ornamental**,
+> **nenhum rosto legível** (Héracles lê como **manto-silhueta**). Asset final = faixa recortada
+> à mão em **2000 × 520 px**; o bruto vai para `brutos/`. **Cena, `[MUST NOT APPEAR]` (os mesmos
+> 7 itens), referências (S3 + S4) e checklist abaixo seguem válidos e inalterados** — a
+> dependência de `sheet-heracles` aprovada continua de pé.
+
+### PROMPT (superado — ver `A3v2` acima)
 
 ```
 [BASE — colar §0.2 verbatim aqui]
