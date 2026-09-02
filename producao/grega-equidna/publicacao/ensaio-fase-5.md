@@ -60,6 +60,16 @@ E, no mesmo ambiente, **chamando o `gs` dentro de um pipe (`| tail`), o `$?` lid
 com o arquivo saindo a 1.263 bytes. Confirmação de campo da regra:
 **conferir o TAMANHO do arquivo, nunca só o código de saída.**
 
+## ⚠️ Correção de rota (mesmo dia, pelo coordenador)
+
+**A primeira redação deste relatório delegou os 247 dpi à gráfica. Errado.**
+`references/estilo-ilustracao.md` §Resolução já tinha o caso resolvido e o dono nomeado:
+o upscale de pré-impressão é permitido, é necessário, e **"quem faz esse upscale é o
+`mito-diagramador`, na Fase 4, não o ilustrador"**. 247 dpi é o estado **esperado** no fim
+da Fase 3b, não um defeito a escalar. Como fica depois da correção está na seção
+[Upscale executado](#upscale-de-pré-impressão-executado) — o diagnóstico abaixo fica de pé
+como registro do que foi medido antes.
+
 ## O achado que ninguém queria: 247 dpi
 
 Medido no arquivo de origem **e** dentro do PDF gerado, pela matriz de transformação de
@@ -74,18 +84,49 @@ A conta: 21,10 cm = 8,3071 in; 2048 ÷ 8,3071 = **246,5 dpi**. Para 300 dpi seri
 **2492 px**, e o Gemini entrega 2048. **As full-bleeds saem a 82 % do piso da série.**
 A vinheta passa só porque é impressa menor.
 
-Isso não é problema de diagramação e não se corrige no `miolo.typ`. As três saídas:
+## Upscale de pré-impressão — executado
 
-- **(a) a gráfica aceitar 240 dpi** — piso comum em offset a 150 lpi. É pergunta para ela,
-  e é a saída mais barata se a resposta for sim;
-- **(b) upscale por IA antes do encaixe** — decisão do `mito-diretor-arte`; é interpolação,
-  não resolução nativa, e precisa ser declarada como tal;
-- **(c) reduzir o trim** — a 17,3 cm as 2048 px dariam 300 dpi, mas isso muda a spec física
-  da **série inteira**, com o livro 1 já fechado a 20,5 cm. Praticamente vetado.
+Ferramenta declarada, como a referência exige: **Pillow 12.0.0,
+`Image.resize((2492,2492), Image.LANCZOS)`**, alvo 300 DPI, teto de 2×.
+Script novo e reutilizável: `diagramacao/upscale-preimpressao.py`.
 
-**Nenhuma foi tomada aqui.** O item está `🔶 delegado` no checklist. O valor de ter rodado o
-ensaio é exatamente este: a pergunta chega à gráfica com semanas de antecedência, e não na
-véspera do envio — e vale para **todas as 12** ilustrações, não só para as 5 que já existem.
+A regra que ele implementa, e que a contagem de pixels sozinha não enxerga: **decide-se
+pelo TAMANHO IMPRESSO, não pelo número de px.** A tabela `TAMANHO_IMPRESSO_CM` é a fonte
+da decisão, e o `verificar-dpi.py` foi reescrito para ler a **mesma** tabela — antes ele
+usava um piso cego de 2492 px e reprovava a vinheta à toa.
+
+| id | antes | depois | fator | decisão |
+|---|---|---|---|---|
+| `01-equidna-a-caverna-e-as-portas` | 2048×2048 (247 dpi) | **2492×2492 (300 dpi)** | 1,2168× | upscalado |
+| `02-dragao-da-colquida` | 2048×2048 (247 dpi) | **2492×2492 (300 dpi)** | 1,2168× | upscalado |
+| `03-ortro-o-turno-de-trabalho` | 2048×2048 (247 dpi) | **2492×2492 (300 dpi)** | 1,2168× | upscalado |
+| `04-ladon-e-o-pedido-da-almofada` | 2048×2048 (247 dpi) | **2492×2492 (300 dpi)** | 1,2168× | upscalado |
+| `08c-a-caverna-final` (vinheta, 16,90 cm) | 2048×2048 (**308 dpi**) | — | 1,0× | **NÃO upscalado** |
+
+1,2168× é **61 % do teto de 2×**. A vinheta ficou intacta de propósito: esticá-la seria
+interpolar pixel sem ganho nenhum, só para bater um número de px.
+
+**Rastro do aprovado:** os PNGs que o diretor de arte aprovou foram copiados **antes** de
+qualquer escrita para `ilustracoes/originais/<id>.png`, com md5 no `build.log`, e o script
+lê de lá quando reexecutado — **rodar duas vezes não empilha interpolação**.
+
+### Reverificação dentro do PDF (número real, não esperado)
+
+Medido por pilha `q`/`Q` na matriz de transformação acumulada de cada imagem em
+`miolo-grafica.pdf` — não pelo arquivo de origem:
+
+    p.10  2492px em 598.11 pts = 21.10 cm -> 300.0 dpi   /DeviceCMYK
+    p.14  2492px em 598.11 pts = 21.10 cm -> 300.0 dpi   /DeviceCMYK
+    p.18  2492px em 598.11 pts = 21.10 cm -> 300.0 dpi   /DeviceCMYK
+    p.22  2492px em 598.11 pts = 21.10 cm -> 300.0 dpi   /DeviceCMYK
+    p.40  2048px em 479.06 pts = 16.90 cm -> 307.8 dpi   /DeviceCMYK
+
+`typst` EXIT=0 sem warning · `miolo.pdf` 70.921.806 bytes · `gs` 48 páginas, GS_EXIT=0 ·
+`miolo-grafica.pdf` **7.340.608 bytes** · 48 páginas · mediabox 21,10 cm · OutputIntent
+`/GTS_PDFX` com ICC `/N 4` intacto · `verificar-dpi.py` → `ABAIXO DO PISO: 0`, EXIT=0.
+
+**No checklist, o item de dpi saiu de `🔶 delegado à gráfica` e virou ✅ verde com
+evidência** (A9 e A10). O antigo B2 fica riscado, com o registro do erro e da correção.
 
 ## Observação lateral de qualidade
 
@@ -103,6 +144,8 @@ publicação do miolo é:
 export PATH="/e/tools/typst-x86_64-pc-windows-msvc:/e/tools/gs_extracted/bin:$PATH"
 export MSYS2_ARG_CONV_EXCL="*"
 cd producao/grega-equidna/diagramacao
+PYTHONIOENCODING=utf-8 python upscale-preimpressao.py   # upscale só do que precisa
+PYTHONIOENCODING=utf-8 python verificar-dpi.py          # tem de sair EXIT=0
 bash scan-imagens.sh
 typst compile --root .. miolo.typ miolo.pdf
 gswin64c -dPDFX -dBATCH -dNOPAUSE -dNOSAFER -sDEVICE=pdfwrite \
@@ -111,6 +154,11 @@ gswin64c -dPDFX -dBATCH -dNOPAUSE -dNOSAFER -sDEVICE=pdfwrite \
 ls -l miolo-grafica.pdf     # ← TAMANHO, não exit code
 ```
 
+Se um id novo não estiver em `TAMANHO_IMPRESSO_CM` (`upscale-preimpressao.py`),
+**acrescentar o tamanho impresso dele na tabela antes** — os dois scripts leem a mesma, e
+id ausente é ignorado em silêncio.
+
 Continuam abertos, e nenhum é de diagramação: **capa/lombada** (não existem como arquivo),
-**provas em PNG + revisão humana**, **perfil ICC da gráfica**, **ISBN/CIP**, e a pergunta
-do dpi. Checklist completo em `publicacao/checklist-grafica.md`.
+**provas em PNG + revisão humana**, **perfil ICC da gráfica**, **ISBN/CIP**, e a escolha
+entre PDF/X-3 e X-1a. O dpi **saiu** dessa lista. Checklist completo em
+`publicacao/checklist-grafica.md`.

@@ -27,13 +27,15 @@ chegou · `⬜ não iniciado`.
 | A6 | Fontes embutidas em subset | ✅ verificado | §6 — 6 fontes `/Type0`, todas com `/FontFile*` e prefixo de subset de 6 letras |
 | A7 | OutputIntent PDF/X presente com perfil embutido | ✅ verificado | §6 — `/S /GTS_PDFX`, `/N 4`, 187.484 bytes de ICC no `/DestOutputProfile`; `/GTS_PDFXVersion PDF/X-3:2002` |
 | A8 | `/Title` e `/Trapped` corretos no DocInfo | ✅ verificado | §6 — `Equidna e as portas do mundo — Era Uma Vez um Mito — Grecia I`, `/Trapped /False` |
+| A9 | **Todas as imagens encaixadas ≥ 300 dpi no tamanho impresso** | ✅ **verificado** | Seção “UPSCALE DE PRÉ-IMPRESSÃO” — medido **dentro do PDF**, pela matriz de transformação: pp. 10/14/18/22 = **300,0 dpi** (2492 px em 21,10 cm) e p. 40 = **307,8 dpi** (2048 px em 16,90 cm). `verificar-dpi.py` → `ABAIXO DO PISO: 0`, EXIT=0 |
+| A10 | Upscale de pré-impressão declarado conforme `estilo-ilustracao.md` §Resolução | ✅ verificado | Pillow 12.0.0 · `Image.resize(..., Image.LANCZOS)` · **fator 1,2168×** (61 % do teto de 2×) nas 4 full-bleeds · vinheta da p. 40 **não** upscalada (já dava 308 dpi) · originais aprovados preservados com md5 em `ilustracoes/originais/` |
 
 ## B. Miolo — o que este ensaio NÃO pode fechar
 
 | # | Item | Estado | Por quê |
 |---|---|---|---|
 | B1 | **12 ilustrações encaixadas** (hoje 5) | ⛔ bloqueado | Downloads do Chrome — pendência do dono. 7 páginas ainda com placeholder de encaixe. Além disso `05`, `06` e `07` existem só como variante `-A`, não promovida ao id canônico (decisão do `mito-diretor-arte`). |
-| B2 | **Todas as imagens ≥ 300 dpi efetivos** | 🔶 **delegado à gráfica** | **Medido: 246,5 dpi.** 2048 px em 21,10 cm = 8,3071 in → 247 dpi; 300 dpi exigiriam 2492 px. As 4 full-bleeds ficam a **82 % do piso**. Só a vinheta da p. 40 passa (16,9 cm → 308 dpi). Saídas: a gráfica aceitar 240 dpi; upscale por IA (interpolação, decisão de arte); ou reduzir o trim (mudaria a spec da série). **Nenhuma tomada aqui.** |
+| ~~B2~~ | ~~Todas as imagens ≥ 300 dpi efetivos~~ | **RESOLVIDO → ver A9/A10** | O ensaio tinha marcado isto `delegado à gráfica`. **Errado, e corrigido no mesmo dia:** `estilo-ilustracao.md` §Resolução já resolve o caso — 247 dpi é o estado esperado no fim da Fase 3b (o Gemini sai fixo em 2048 px) e **o dono do upscale de pré-impressão é o `mito-diagramador`, na Fase 4**. Não era decisão de gráfica; era um passo meu. Feito e verificado. |
 | B3 | Nada essencial fora da zona segura (inspeção de cada spread) | ⬜ não iniciado | Precisa das provas em PNG e de olho humano; e das 7 páginas que ainda são placeholder |
 | B4 | Sem transparência viva (exigência do X-1a) | 🔶 delegado à gráfica | Saímos em **PDF/X-3:2002**, que admite transparência. Se a gráfica exigir X-1a, refazer com `-dPDFX=1` e reverificar. Ninguém perguntou à gráfica ainda. |
 | B5 | Compressão das imagens aceita pela gráfica | 🔶 delegado à gráfica | O `pdfwrite` recomprimiu de `/FlateDecode` (sem perda) para `/DCTDecode` (JPEG), sem downsample (2048 px preservados). Reversível com `-dAutoFilterColorImages=false -dColorImageFilter=/FlateEncode` |
@@ -67,10 +69,16 @@ chegou · `⬜ não iniciado`.
 
 ## Resumo honesto
 
-**8 itens verdes com evidência de execução. 6 delegados (2 ao dono, 4 à gráfica). 1
+**10 itens verdes com evidência de execução. 5 delegados (2 ao dono, 3 à gráfica). 1
 bloqueado pelas imagens. 7 não iniciados** (capa, provas, gate).
 
 O que este ensaio comprou: quando as 7 ilustrações restantes chegarem, a publicação do
-miolo é **um comando de scan + um de typst + um de gs**, e não uma descoberta de problema
-no fim. O que ele desenterrou antes da hora: **o dpi das full-bleeds fica em 247, não em
-300** — decisão de gráfica que agora aparece com semanas de antecedência, e não na véspera.
+miolo é a sequência mecânica de 5 comandos deixada pronta no fim do `build.log`, e não uma
+descoberta de problema no fim.
+
+O que ele desenterrou antes da hora: **as full-bleeds saíam a 247 dpi**. O ensaio errou ao
+marcar isso como decisão de gráfica — a referência de estilo já dava o dono (o
+diagramador) e a saída (upscale LANCZOS declarado, fator registrado, teto de 2×). Corrigido
+no mesmo dia: **1,2168× nas 4 full-bleeds, a vinheta deixada intacta porque já dava 308
+dpi, e o resultado medido dentro do PDF em 300,0 dpi.** Se o ensaio não tivesse rodado
+agora, esse passo só apareceria com as 12 imagens na mão e a gráfica esperando.

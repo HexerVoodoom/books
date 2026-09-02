@@ -251,3 +251,98 @@ O pdfwrite recomprimiu as 5 imagens de `/FlateDecode` (sem perda) para `/DCTDeco
 (JPEG, com perda), mantendo os 2048 px (não houve downsample). Se a gráfica reclamar de
 artefato, o parâmetro é `-dAutoFilterColorImages=false -dColorImageFilter=/FlateEncode`
 no mesmo comando — testado como conhecido, NÃO executado neste ensaio.
+
+## 2026-09-02 — UPSCALE DE PRÉ-IMPRESSÃO (correção do achado dos 247 dpi) · mito-diagramador
+
+Correção de rota do coordenador: **os 247 dpi NÃO são para delegar à gráfica.**
+`references/estilo-ilustracao.md` §Resolução já resolve — "Upscale é necessário e é
+permitido", declarado, e **"quem faz esse upscale é o `mito-diagramador`, na Fase 4"**.
+247 dpi é o estado ESPERADO no fim da Fase 3b (o Gemini sai fixo em 2048×2048); o conserto
+é um passo meu que ainda não tinha tido a vez.
+
+Ferramenta: **Pillow 12.0.0 · `Image.resize((2492,2492), Image.LANCZOS)`** · alvo 300 DPI ·
+teto de fator 2× (regra da referência). Script novo e reutilizável:
+`upscale-preimpressao.py`.
+
+**Regra que o script implementa e que a contagem de px não enxerga: decide-se pelo
+TAMANHO IMPRESSO, não pelo número de pixels.** Por isso a tabela `TAMANHO_IMPRESSO_CM`
+(full-bleed 21,10 cm · vinhetas 2,40 / 4,40 / 16,90 cm) é a fonte da decisão — e o
+`verificar-dpi.py` foi reescrito para ler a MESMA tabela, em vez do piso cego de 2492 px
+que reprovava a vinheta à toa.
+
+### Registro por imagem (saída real)
+
+    --- Upscale de pré-impressão · Pillow 12.0.0 · filtro LANCZOS · alvo 300 DPI · teto 2.0x ---
+      ↑  01-equidna-a-caverna-e-as-portas: 2048x2048 (247 DPI) -> 2492x2492 (300 DPI) | fator 1.2168x | Pillow Image.resize LANCZOS | impresso a 21.10 cm
+      ↑  02-dragao-da-colquida:            2048x2048 (247 DPI) -> 2492x2492 (300 DPI) | fator 1.2168x | Pillow Image.resize LANCZOS | impresso a 21.10 cm
+      ↑  03-ortro-o-turno-de-trabalho:     2048x2048 (247 DPI) -> 2492x2492 (300 DPI) | fator 1.2168x | Pillow Image.resize LANCZOS | impresso a 21.10 cm
+      ↑  04-ladon-e-o-pedido-da-almofada:  2048x2048 (247 DPI) -> 2492x2492 (300 DPI) | fator 1.2168x | Pillow Image.resize LANCZOS | impresso a 21.10 cm
+      ✔  08c-a-caverna-final: 2048x2048 em 16.90 cm = 308 DPI — JÁ PASSA de 300, NÃO upscalado
+    --- upscalados: 4 · já acima do piso: 1 · ausentes: 7 ---
+
+**A vinheta da p. 40 foi deixada intacta de propósito** — 2048 px em 16,90 cm dão 308 dpi.
+Esticá-la seria interpolar pixel sem ganho nenhum, só para bater um número de px.
+
+Fator único usado: **1,2168×** — 61 % do teto de 2×.
+
+### Rastro do original aprovado
+
+Os PNGs que o diretor de arte aprovou foram copiados ANTES de qualquer escrita para
+`ilustracoes/originais/<id>.png`, e o script lê de lá quando reexecutado — **rodar duas
+vezes não empilha interpolação**.
+
+    originais (aprovados, 2048px)                     | atuais (2492px, LANCZOS)
+    4cd5a37b… originais/01-equidna-a-caverna-e-as-portas.png | f83833535… 01-…png
+    bb6e35ec… originais/02-dragao-da-colquida.png            | 04711bf10… 02-…png
+    31ea0e84… originais/03-ortro-o-turno-de-trabalho.png     | c8de62cfd… 03-…png
+    16562301… originais/04-ladon-e-o-pedido-da-almofada.png  | 0700d2b9c… 04-…png
+    (08c-a-caverna-final.png intocado, md5 66496c5f30948e98c16a3abcd1543ff3)
+
+### Recompilação e reverificação (números reais, não esperados)
+
+    $ typst compile --root .. miolo.typ miolo.pdf
+    TYPST_EXIT=0        (sem warning)   ·  70.921.806 bytes (era 48.890.351)
+
+    $ gswin64c -dPDFX … PDFX_def.ps miolo.pdf
+    Processing pages 1 through 48.  ·  48 linhas "Page N"  ·  GS_EXIT=0
+    -rw-r--r-- 7.340.608 miolo-grafica.pdf     (era 5.838.520 — plausível ✔)
+
+    $ python (pypdf) — paginas: 48 | mediabox 598.1100 x 598.1100 pts = 21,10 cm
+
+**DPI real medido DENTRO do `miolo-grafica.pdf`**, pela matriz de transformação acumulada
+por pilha `q`/`Q` (não pelo arquivo de origem, não pela contagem de px):
+
+    p.10 /R218: 2492px em 598.11 pts = 21.10 cm -> 300.0 dpi   /DeviceCMYK
+    p.14 /R317: 2492px em 598.11 pts = 21.10 cm -> 300.0 dpi   /DeviceCMYK
+    p.18 /R410: 2492px em 598.11 pts = 21.10 cm -> 300.0 dpi   /DeviceCMYK
+    p.22 /R505: 2492px em 598.11 pts = 21.10 cm -> 300.0 dpi   /DeviceCMYK
+    p.40 /R987: 2048px em 479.06 pts = 16.90 cm -> 307.8 dpi   /DeviceCMYK
+
+    $ PYTHONIOENCODING=utf-8 python verificar-dpi.py
+    OK (>= 300 DPI no tamanho impresso): 5 · ABAIXO DO PISO: 0 · FALTANDO: 7
+    EXIT=0
+
+**As 5 ilustrações encaixadas passam. O item de dpi do checklist saiu de `delegado à
+gráfica` e virou ✅ verde com evidência.** OutputIntent `/GTS_PDFX` e ICC `/N 4` seguem
+intactos; o `entrega/perfil.icc` provisório não foi mexido.
+
+### COMANDO PRONTO — rodar quando as 7 ilustrações que faltam chegarem
+
+Execução mecânica, nesta ordem, sem pensar:
+
+    export PATH="/e/tools/typst-x86_64-pc-windows-msvc:/e/tools/gs_extracted/bin:$PATH"
+    export MSYS2_ARG_CONV_EXCL="*"
+    cd /e/books/producao/grega-equidna/diagramacao
+
+    PYTHONIOENCODING=utf-8 python upscale-preimpressao.py       # 1. upscale (só o que precisa)
+    PYTHONIOENCODING=utf-8 python verificar-dpi.py              # 2. deve sair EXIT=0
+    bash scan-imagens.sh                                        # 3. registra os ids presentes
+    typst compile --root .. miolo.typ miolo.pdf                 # 4. --root .. é obrigatório
+    gswin64c -dPDFX -dBATCH -dNOPAUSE -dNOSAFER -sDEVICE=pdfwrite \
+      -sColorConversionStrategy=CMYK -dProcessColorModel=/DeviceCMYK \
+      -dPDFXSETBLEEDBOXTOMEDIABOX -sOutputFile=miolo-grafica.pdf PDFX_def.ps miolo.pdf
+    ls -l miolo-grafica.pdf                                     # 5. TAMANHO, não exit code
+
+Se uma ilustração nova vier com id que não está em `TAMANHO_IMPRESSO_CM`
+(`upscale-preimpressao.py`), **acrescentar o tamanho impresso dela na tabela antes** —
+os dois scripts leem a mesma, e id ausente é ignorado silenciosamente.
