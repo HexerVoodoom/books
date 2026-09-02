@@ -775,3 +775,91 @@ mesmo botão da mesma conversa baixou sem erro.
 Isso não revoga o alerta do `CLAUDE.md` (a proteção do Chrome existe e já mordeu na sessão 1,
 quando o dono precisou liberar `chrome://settings/content/automaticDownloads`). O que muda é a
 **ordem de diagnóstico**: aba degradada é muito mais frequente, e custa 3 cliques descartar.
+
+---
+
+# SESSÃO 6 (2026-09-02, tarde) — 1 geração, 0 downloads
+
+## O que foi preparado antes do navegador
+
+- **`F5v3-05-esfinge.txt`** — reescrito a partir de `F5v2` pela §27.6: coluna jônica → **rocha
+  alta e rachada** (`no capital, no volute, no fluting, no base, no dressed stone`), **câmera
+  contre-plongée**, **uma asa mais alta que a outra / never mirrored**, **Édipo ao pé da rocha
+  olhando para cima**, bloco `[ATTACHED REFERENCE - THE ONE CHANGE]`, e a lista negativa ganhou
+  `no column, no pedestal, no statue, no monument, no perfect symmetry`. Rosto, asas, paleta,
+  estrada, Tebas e moldura mandados manter verbatim.
+- **`F7v3-07-cerbero-abraco.txt`** — reescrito a partir de `F7v2` pela §27.6: cauda-dragão
+  **`GROWS OUT OF HIS HINDQUARTERS and is ATTACHED TO HIS BODY`** + a cláusula `MOUTH CLOSED`
+  integral; **`IT IS THE ONLY OTHER CREATURE-SHAPE ON THE PAGE`**; abraço reescrito para
+  **`BOTH of his arms wrapped right around the TOP of the dog head, high up BETWEEN THE TWO
+  EARS, hands meeting over the crown, his own face pressed into the fur`** com negação explícita
+  de mão-no-focinho/braço-no-pescoço/um-braço-só; bloco novo **`[THE RUFF IS THE ONE IN THE
+  ATTACHED SHEET]`** (`NOBODY CAN COUNT HEADS IN IT — not six, not three, not two`); e o bloco
+  **`[HOW THIS IS PAINTED]`** do §22.3 aplicado **a Héracles e à leontê**, fechando com
+  `THE MAN AND THE DOG ARE PAINTED IN ONE AND THE SAME TECHNIQUE`.
+- `referencias/05-a-pergunta-da-esfinge-A.jpg` gerada (1600 px) para anexo.
+- Ambos os prompts abrem com `Generate this illustration as an image now.` (achado da sessão 5).
+
+## `05-a-pergunta-da-esfinge` rodada 2 — GERADA, NÃO BAIXADA
+
+Conversa nova: **`e18660aafee4dada`** ("Refining the Sphinx Illustration"). Anexo: `05-A.jpg`.
+Imagem renderizada e conferida por screenshot.
+
+**Leitura da imagem na tela (não é curadoria, é registro):** rocha alta e rachada no lugar da
+coluna ✔ · nenhum capitel, base ou pedestal ✔ · Édipo ao pé da rocha, próximo, de cajado e
+**com o rosto virado para cima olhando para ela** ✔ · estrada larga em curva, Tebas ao fundo à
+direita, moldura de meandro e friso de felinos preservados ✔ · aquarela, paleta mantida ✔.
+
+🔴 **DECLARAÇÃO DE SACRIFÍCIO DO GEMINI, verbatim:**
+> *"However, the specific composition constraints proved challenging to isolate; the wings
+> remain perfectly mirrored rather than showing one raised higher, and the camera is a direct
+> head-on view instead of the low-angle shot looking up. Therefore, the dynamic sense of
+> movement you described is less pronounced than intended."*
+
+**2 dos 4 redirecionamentos da §27.6 falharam por declaração** (asa assimétrica e
+contre-plongée). Pela régua da squad, declaração de sacrifício = **reprova**. A peça consumiu a
+rodada 2 de 2 sem entregar; a decisão sobre uma 3ª rodada é do diretor.
+
+## 🔴 BLOQUEIO DE DOWNLOAD — desta vez esgotado o procedimento novo, e ele NÃO resolveu
+
+O procedimento da sessão 5 (fechar abas → aba nova → tentar de novo) foi executado **inteiro**
+e o arquivo continua não caindo. Registro do que foi tentado, para o dono não repetir:
+
+| # | Contexto | Ação | Resultado |
+|---|---|---|---|
+| 1 | aba `368136985`, 1 aba aberta | reload por URL + clique por `ref` | nada em `E:\dowload` |
+| 2 | **aba nova `368136988`, as outras 2 fechadas com `tabs_close_mcp`** | reload por URL + clique por `ref` | nada |
+| 3 | mesma aba nova | clique **por coordenada** no ícone de download (1204, 361) | nada |
+| 4 | mesma aba nova | reload por URL + clique por `ref` | nada |
+| 5 | — | conferidas **as duas** pastas (`E:\dowload` e `C:\Users\spera\Downloads`) | último arquivo é o de **11:50** (o `06-o-leao-antes` recuperado pelo dono) |
+
+**Nunca houve mais de 2 abas abertas nesta sessão** — a hipótese de degradação de CDP por
+excesso de abas está descartada como causa desta vez. A aba responde: `find` acha o botão,
+o clique registra, o screenshot mostra a imagem renderizada em tamanho cheio.
+
+**Sintoma restante = exatamente o descrito no `CLAUDE.md`:** botão responde, imagem pronta,
+nenhum arquivo cai, sem erro nenhum. As duas causas que **só o dono** pode verificar:
+1. **`chrome://settings/content/automaticDownloads`** — a proteção contra vários downloads
+   automáticos do mesmo site (já mordeu na sessão 1).
+2. **A barra de downloads do Chrome** (canto inferior da janela) — o prompt nativo
+   *"Manter / Descartar"* para `.jfif`. A extensão de automação **não enxerga nem clica nisso**.
+
+**Pedido ao dono, antes da sessão 7:** abrir a janela do Chrome, olhar a barra de downloads e
+a permissão de downloads automáticos, e recuperar `e18660aafee4dada` (a Esfinge rodada 2) —
+a imagem está viva na conversa e é a única peça produzida nesta sessão.
+
+## Estado ao parar — sessão 6
+
+| Peça | Status |
+|---|---|
+| `05-a-pergunta-da-esfinge` r2 | 🔴 **gerada em `e18660aafee4dada`, renderizada, NÃO baixada** · **declaração de sacrifício** em asa e câmera |
+| `07-cerbero-o-abraco-sem-armas` r2 | **não iniciada** — prompt `F7v3` pronto, bloqueada pelo download |
+| `08a-tifao` · `08b-retrato` | **não iniciadas** — `F8v2` / `F9v2` prontos, bloqueadas |
+| vinhetas `06v1` / `06v2` | **não iniciadas** — bloqueadas |
+| `sheet-heracles` r3 | **não iniciada** — bloqueada |
+
+⚠️ **Divergência de briefing a resolver:** o orquestrador instruiu *"proporção das vinhetas: não
+são 1:1"*, mas os pacotes **A2** e **A3** fecham os dois prompts com `Square 1:1 full-bleed
+composition` e a §0.1 do guia trata essa linha como **reprovação automática se ausente**.
+Nenhuma emenda do guia (v2.3 / v2.4) muda a proporção de vinheta. **Segui o pacote (1:1);
+se o diretor quiser outra proporção, ela precisa entrar no guia antes da geração.**
