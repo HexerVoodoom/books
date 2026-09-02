@@ -43,7 +43,35 @@ botão responde ao clique, e nenhum arquivo cai em `E:\dowload`. Sem erro, sem `
 Distinguir das três vezes anteriores: aquelas eram **degradação de aba/CDP** (7 abas abertas) e
 foram resolvidas fechando abas. Esta persiste com **uma aba limpa**, recém-aberta.
 
-### ⭐ CAUSA REAL ENCONTRADA — o disco C: está cheio
+### ⚠️ CORREÇÃO — a hipótese do disco NÃO se confirmou
+
+Verificado nas Preferências do Chrome, depois de escrever a seção abaixo:
+
+- **`download.default_directory` = `E:\dowload`** — e o E: tem **91 GB livres**. O destino
+  não está sem espaço.
+- **`prompt_for_download` não está setado** — não há diálogo "onde salvar" travando.
+- **A permissão de download automático ESTÁ concedida**, tanto para `gemini.google.com` quanto
+  para `lh3.googleusercontent.com` (`setting: 1` = permitir). O dono resolveu isso na sessão 1 e
+  continua valendo.
+
+Ou seja: **destino com espaço, permissão concedida, sem diálogo nativo — e ainda assim nada cai.**
+
+**Hipótese mais provável agora: o gerenciador de downloads do Chrome travou.** Bate com o
+comportamento observado ao longo do run — o bloqueio **vai e volta sozinho**, sem ninguém mexer
+em configuração nenhuma. É o estado interno do Chrome, não uma regra.
+
+**Primeira coisa a tentar, e é barata: fechar e reabrir o Chrome.** As conversas do Gemini são
+salvas no servidor — **nenhuma imagem se perde**, inclusive a Esfinge que está esperando.
+
+**Segunda, independente disso: liberar espaço em C:** ele está a 100% (2,2 GB de 223 GB), o que
+deixa o Windows instável mesmo sem ser a causa direta aqui. Medido: `Temp` tem só 170 MB e o
+cache do Chrome 245 MB — juntos não resolvem. O peso está em
+`AppData\Local\Google` (7,2 GB), `Packages` (4,2 GB), `Android` (4,0 GB) e `Roblox` (2,0 GB),
+que são arquivos do dono e não cabe a esta squad mexer.
+
+---
+
+### Hipótese anterior (registrada, não confirmada) — disco C: cheio
 
     C:  223G total · 221G usados · **2,2G livres · 100%**
     E:  448G total · 357G usados · 91G livres · 80%
