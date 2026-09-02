@@ -1,4 +1,8 @@
-# Handoff — Livro 2 da coleção: Equidna e seus filhos
+# Handoff — Livro 2 da coleção: Equidna e as portas do mundo
+
+> ℹ️ Este documento foi escrito com o título de trabalho *Equidna e seus filhos*, descartado na
+> Fase 2 (declarava grau de parentesco). O título corrente é ***Equidna e as portas do mundo***
+> — decisão em `capitulos/quarta-capa.md` §Decisão de título.
 
 > **Status: run NÃO iniciado.** Não existe `producao/state/grega-equidna.json` e nenhuma fase
 > foi aberta. Este documento é a **entrada da Fase 0**, escrito por quem fechou o livro 1

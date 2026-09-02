@@ -1,4 +1,4 @@
-# Spec do livro — Equidna e seus filhos (`grega-equidna`)
+# Spec do livro — Equidna e as portas do mundo (`grega-equidna`)
 
 > **Fase 0 — Fundação · Rev. 1 (2026-09-01) · elaborado pelo `mito-editor`.**
 > Status: **aguardando checkpoint humano** (2º passe do loop já rodado: verificadores da onda 1
