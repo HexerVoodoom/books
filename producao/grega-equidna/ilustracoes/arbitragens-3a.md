@@ -121,3 +121,71 @@ as resolve:
   (de "idêntico" para "mesmo enquadramento e mesma idade")?
 
 O resultado entra no guia **antes** de a 3a fechar.
+
+---
+
+# RESULTADO DOS PILOTOS (executados no Gemini, 3 imagens, 2048×2048)
+
+## A8 — Não-contabilidade: o modelo obedece contagem POSITIVA, ignora negação
+
+**O que o piloto 1 mostrou.** A camada 1 foi obedecida à risca — pedimos 3 cabeças nítidas e
+vieram exatamente 3. A fileira equidistante que reprovou o Cem-Mãos **não** se repetiu. O teste
+"cachorro" passou com folga: bicho amável, sem nenhum item da lista proibida. **Mas reprovou o
+item 11:** em 10 segundos dá para chegar a ~7 cabeças. A camada 2 saiu como "menos detalhada"
+em vez de borda molhada — várias cabeças de trás **fecham contorno** e ficam separadas por vão
+de fundo escuro, que são as duas proibições explícitas. E a camada 3 (multidão → ornamento) foi
+**ignorada por completo**, então toda a multidão foi parar na anatomia.
+
+**Diagnóstico, e ele é geral:** o que este gerador obedece é **contagem positiva com teto**; o
+que ele ignora — de novo, como no Cem-Mãos — é **negação de contabilidade**. "Não contável" é
+uma instrução que o modelo não sabe seguir.
+
+**Decisão: a regra vira positiva e geométrica.** A fórmula deixa de ser escrita como negação e
+passa a ser escrita como descrição do que pintar:
+1. **Camada 1** — número explícito e baixo, afirmado ("exactly three sharp heads in front").
+   Comprovadamente obedecido.
+2. **Camada 2** — descrita **pela técnica**, não pela ausência: uma massa contínua de aquarela
+   molhado-sobre-molhado, sem contorno, dissolvendo **para a luz** (creme/ocre) e nunca para o
+   preto — o que também satisfaz o FIXÁVEL-1 da adequação (nenhum olho na camada dissolvida).
+   Proibido descrevê-la como "menos detalhada": foi assim que ela virou anatomia contável.
+3. **Camada 3** — sai do parágrafo descritivo e vira **bloco imperativo separado** no prompt,
+   apontando para o **friso orientalizante** (a peça CC0 já verificada: olpe coríntio, Met
+   246565). Diluída no meio do texto, o modelo a ignora inteira.
+
+O teto de rodadas continua 3, mas o guia agora tem **plano B escrito com gatilho** (era a
+exigência do cético): se uma peça poli-cefálica reprovar 2 vezes por contagem, adota-se o
+desenho de Ladon — **uma** cabeça nítida e o resto na folhagem/pelo —, que é a variante mais
+fácil e já está no guia.
+
+## A9 — D9 (a mesma Equidna na p. 10 e na p. 40): não é cumprível por prompt
+
+**O que o piloto 2 mostrou.** Duas conversas, prompt idêntico: **duas mulheres diferentes**.
+Idade ~25 contra ~33; caverna azul-petróleo contra ocre quente (não lê como a mesma casa); o
+feixe de luz da manhã presente numa e **ausente** na outra — justamente "o único movimento da
+página"; plano médio contra quase inteiro; e a cauda saindo do quadro numa e inteira e
+mensurável na outra, desobedecendo a ficha canônica. O que se manteve foi a **família** visual
+(postura de guarda, veste sem cintura, cabelo preso, pele malhada, arco ático) — nunca a
+identidade. Sem seed, e com "Refazer" comprovadamente não regenerando, **não há caminho por
+prompt**.
+
+**Decisão: D9 fica, e ganha o mecanismo que nunca foi executado neste pipeline.** A p. 40 não é
+gerada do zero: é gerada **anexando a p. 10 já aprovada como imagem de referência**. Isso é
+exatamente o que o guia do livro 1 sempre disse ser a receita de consistência
+(sheet + descrição verbatim + **referência anexada**) e que o livro 1 nunca chegou a executar —
+as 21 imagens saíram sem anexo nenhum. Agora há motivo e há material.
+
+**Fallback declarado, com gatilho** (a barra é rebaixada por escrito, nunca em silêncio): se o
+anexo falhar em 2 tentativas, D9 é rebaixada de *"o mesmo rosto sem uma ruga a mais"* para
+**"o mesmo enquadramento, a mesma idade aparente e a mesma paleta de caverna"**. Isso ainda
+honra o contrato que o cap. 3 faz com a criança — que ela **reconheça** a caverna e a mãe na
+última página —, e o texto sustenta o resto. O que não se admite é descobrir isso na página 40.
+
+## A10 — O que os pilotos confirmaram de bom (registrar, para não se perder)
+
+- **A linha de proporção do §0 funciona:** 2048×2048 exato nas três imagens. Manter.
+- **Os 3 downloads caíram de primeira** — sem o bloqueio de Chrome que travou o livro 1.
+- **A régua de não-sensualização de Equidna (D6) passou item a item nas duas gerações**, e o
+  modelo não recusou nada. Era a descrição canônica mais delicada do livro; está resolvida.
+- Desgaste conhecido da aba: 3 timeouts de CDP e até 3 tentativas para o texto entrar —
+  compatível com o histórico, não é bloqueio.
+- **Nenhum bloqueio que exija o dono.**
