@@ -1327,3 +1327,209 @@ baixo vazio e quieto ✔ · o rosto do cão **recebendo a luz quente** contra o 
 **Pendência do dono, aberta desde a 1ª sessão (§1.4b):** nomear a criança do teste de nomeação,
 quem aplica e onde o veredito é gravado. **A capa depende dela para deixar de ser "proxy".**
 
+
+---
+
+# CURADORIA 3b — SEXTA SESSÃO (2026-09-02, noite) · geração BLOQUEADA
+
+> Peças julgadas: `06-o-leao-antes-A` (cap. 6, p. 28).
+> Decisão de método: **a proporção das vinhetas** (`06v1`, `06v2`) — divergência de briefing
+> levantada pelo ilustrador, decidida contra `diagramacao/miolo.typ` e `publicacao/preparo-fase-4.md`.
+> Julgado contra `guia-de-estilo.md` v2.4 (§0.1, §1.2b, §1.3a, §1.5d, §1.5e, §6(2) generalizada),
+> `DIRECAO-DO-DONO.md` (vence o guia em tratamento), `pacotes-de-geracao.md` (A2/A3) e o cap. 6.
+> ⚠️ **A geração está bloqueada** (downloads do Chrome — pendência do dono). Nada aqui dispara
+> geração; tudo aqui é direção escrita para quando destravar.
+
+## 28. 🟡 `06-o-leao-antes-A` (p. 28) — REDIRECIONAR: 1 geração, 1 mudança
+
+### 28.1 O que a peça acerta — e é quase tudo que a decisão de gate da Fase 3a comprou
+
+A troca da full-bleed (o buraco virou o **leão vivo**) está entregue, e entregue bem.
+
+| Item da decisão de gate | Veredito |
+|---|---|
+| **O leão VIVO, deitado no capim curto** | ✅ deitado, patas à frente, capim curto e seco, colinas abertas |
+| **Héracles, clava, flecha, sombra ameaçadora FORA DE QUADRO** | ✅ **nenhum dos quatro na página.** Ninguém na estrada |
+| **A caverna não aparece** (virou vinheta) | ✅ |
+| **Plano médio, à altura dos olhos da criança** | ✅ câmera baixa, o bicho ocupa a página sem esmagá-la |
+| **Amável na primeira olhada, sem mascote** | ✅ boca fechada, zero dente, zero rugido, zero bote, zero contraluz de vilão; proporções de animal adulto, sem olho de filhote |
+| **Teto R4.2 = 1 nítida** | ✅ só o leão |
+| **A estrada longe e vazia** | ✅ ela está lá, clara, serpenteando até o horizonte, sem uma alma |
+| **Luz no rosto (§1.2b)** | ✅ luz alta batendo em cheio; **os dois olhos legíveis**, âmbar quente |
+| **Nomeação (§1.4a)** | ✅ P1 → **"leão"** · P2 → afirmativa — **proxy, sem leitor real** |
+| **Moldura (§1.3a)** | ✅ Banda A meandro + palmetas nas quatro cercaduras, **sem criatura dentro**; Banda B (felinos e caprinos chapados em perfil sobre rosetas) em **faixa própria separada por filete** |
+| C1 2048×2048 · C3 zero texto/numeral/seta · C8 PNG real | ✅ |
+| **Continuidade com `sheet-leao-nemeia-A`** | ✅ é o mesmo leão da folha-âncora: mesma juba, mesma cor local, mesma postura deitada do estudo 1 |
+| **Tratamento do dono** | ✅ **aquarela molhada** no céu, nas colinas e no capim — lavagens sangrando, grão do papel visível, borda molhada; **zero chapado de fundo** |
+
+### 28.2 🔴 O defeito, e é um só: **ELE OLHA PARA A CRIANÇA, NÃO PARA A ESTRADA**
+
+O leão está **frontal, com as duas pupilas travadas em quem olha**. E a estrada — que é o
+assunto do quadro — corre **atrás e à direita dele**, fora do rumo do olhar.
+
+Isso reprova por dois caminhos independentes, e é por serem dois que eu não deixo passar:
+
+1. 🔴 **Régua do guia.** A emenda v2.4 item 5 generalizou a trava §6(2) da capa: **rosto animal
+   grande e frontal = olhar fora do eixo, nunca no leitor.** Foi aplicada à cabeça do leão no
+   peito de Héracles; não há razão para dispensá-la justamente no **rosto de leão maior do
+   livro**, que ocupa um terço de uma página cheia.
+2. 🔴 **Enredo.** O corrido diz *"o dono estava lá em cima, nas colinas, deitado no capim curto,
+   **olhando a estrada**"*, e o brief pede a estrada **"no rumo do olhar dele"**. Um leão que
+   olha o leitor é um **retrato**; um leão que olha a estrada é **a página**: ele está esperando
+   alguém que ainda não chegou, e é disso que o capítulo trata. A imagem hoje perde o único
+   verbo que ela tinha.
+
+**Isto é conserto de composição, não de conceito.** Nada mais sai da página.
+
+### 28.3 A correção — 1 geração, D9-A (§11), com `06-o-leao-antes-A.jpg` anexada
+
+> ```
+> [THE ONE CHANGE]
+> HIS HEAD IS TURNED IN PROFILE TO ONE SIDE, LOOKING ALONG THE EMPTY ROAD, and the road runs
+> away from him in the direction he is looking; his eyes are NEVER turned to the viewer.
+> This is the ONLY change. Nothing else in the picture changes.
+> ```
+>
+> **Blindar verbatim, porque é o que se perde numa regeração:** deitado no capim curto · boca
+> fechada, sem dente · a estrada vazia, sem ninguém nela · nenhum Héracles, nenhuma clava,
+> nenhuma flecha, nenhuma sombra · a moldura e as duas bandas · a cor local · a aquarela molhada.
+
+### 28.4 Duas ressalvas que **viajam junto** na mesma geração, e não valem uma sozinhas
+
+1. 🟡 **"Couro de pedra" ainda não está desenhado.** O fato de fonte do capítulo é a
+   **invulnerabilidade**, não a ferocidade, e ela é **direção de desenho**: o flanco deve ler
+   **denso, fechado e sem brilho**, como a *amostra de couro* do `sheet-leao-nemeia-A` — o
+   estudo que existe exatamente para isso. Hoje o flanco lê como pelo macio comum. Acrescentar
+   à mesma geração, sem outro bloco:
+   `his hide is DENSE AND CLOSED, like worn stone: a flat matt wash with no shine, no highlight and no gloss anywhere on the flank - exactly the hide sample of the attached lion sheet.`
+   ⚠️ **Não é adjetivo de ferocidade** e não autoriza careta, músculo tenso nem rugido.
+2. 🟡 **O alto do céu está frio demais.** A faixa superior é um azul-petróleo escuro, e o cap. 6
+   pede **luz alta e seca, o contrário da luz da caverna** — o azul-petróleo é justamente a cor
+   que a `DIRECAO-DO-DONO.md` institui para a **caverna de Equidna**. Duas casas com a mesma cor
+   de céu é o risco de continuidade que o contrato D5 protege. `the sky is HIGH, DRY AND PALE`,
+   sem a lavagem escura no topo. **Não reprova sozinho** (a diagramação também clareia).
+
+> ### VEREDITO: 🟡 **REDIRECIONAR — rodada 2 de 3, 1 geração, quando a geração destravar.**
+> A peça cumpre a decisão de gate inteira e falha num item de olhar. **Não vai a `brutos/`:**
+> `06-o-leao-antes-A` fica como **candidata viva** e vai ao `gate.md` junto da `B`. Se a `B`
+> perder o que a `A` acertou, **a `A` como está é encaixável** — o defeito é de composição, não
+> de fidelidade, de fonte nem de adequação etária.
+
+---
+
+## 29. 🔴 A DIVERGÊNCIA DAS VINHETAS — DECIDIDA. As duas **NÃO** são 1:1.
+
+**O ilustrador está certo em levantar, e a contradição é minha.** Os pacotes A2 e A3 fecham
+`06v1` e `06v2` com `Square 1:1 full-bleed composition.`, o §0.1 reprova automaticamente todo
+prompt sem linha de proporção, e eu disse a ele em briefing que as vinhetas não são 1:1.
+Nenhuma emenda tinha resolvido isso. **Resolvo aqui, e o dado que decide vem da página.**
+
+### 29.1 O dado que decide — o que o Typst faz de fato
+
+`diagramacao/miolo.typ` §3.2:
+
+```
+#let vinheta(id, label, desc, altura: VINHETA-H) = { ...
+  block(width: 100%, height: altura, clip: true, ...)[
+    #image(caminho, width: 100%, height: altura, fit: "cover") ] ... }
+```
+
+- `#vinheta("06v1-as-duas-bocas", …, altura: 24mm)` · `#vinheta("06v2-a-pele", …, altura: 44mm)`
+- Página `PAGE = 20,5 cm + 2×3 mm = 211 mm`; `MARGEM-MIOLO` inside 24 mm, outside 18 mm →
+  **largura da coluna de texto = 211 − 24 − 18 = 169 mm**, e `width: 100%` é essa largura.
+- E o orçamento de páginas (`preparo-fase-4.md`, 7 caps × 4 pp): **v1 = 24 mm e v2 = 44 mm**;
+  acima de ~70 mm somados o cap. 6 estoura para 5 pp. **As alturas não são negociáveis.**
+
+> **Portanto a vinheta é uma FAIXA de `169 × 24 mm` (≈ 7:1) e uma de `169 × 44 mm`
+> (≈ 3,84:1, na prática 4:1). Não são páginas cheias, e nunca foram.**
+
+🔴 **E `fit: "cover"` com `clip: true` é o que torna o 1:1 fatal:** o Typst escala a imagem
+até **cobrir os dois lados** e **recorta o excedente pelo centro**. Uma peça quadrada entregue
+à `06v1` é escalada pela largura e **perde 86% da própria altura** — sobra uma tira central de
+14%. Em `06v2`, sobram 26%. **As duas bocas da caverna, a clava no chão, os telhados de Cleonas
+e a colina de Héracles seriam cortados pelo Typst sem aviso e sem erro de compilação.**
+Não é preferência de proporção: **é a peça inteira sendo jogada fora na diagramação.**
+
+### 29.2 🔴 A REGRA (vinculante; substitui a linha de fechamento de A2 e A3)
+
+> ### REGRA DAS VINHETAS — proporção, linha de fechamento e legibilidade
+>
+> **1. Proporção de destino (a do papel, não a da geração):**
+> `06v1-as-duas-bocas` = **169 × 24 mm ≈ 7:1** · `06v2-a-pele` = **169 × 44 mm ≈ 4:1**.
+> Vale para **toda** peça encaixada por `vinheta()` — hoje também `08c-a-caverna-final` (44 mm)
+> e `vinheta-8-1-a-montanha-que-ferve` (A4).
+>
+> **2. Linha de fechamento do prompt** — o §0.1 exige **uma linha de proporção explícita**, e
+> ela deixa de ser a quadrada. Substituir, verbatim, nas peças de vinheta:
+> ```
+> Warm, wonder-filled, gentle, suitable for ages 4-7. Wide panoramic 16:9 full-bleed composition.
+> No text, no watermark, no lettering.
+> ```
+> `16:9` — e **não** 7:1 — porque a proporção precisa ser uma que o gerador honre: 1:1 é a única
+> **provada** neste livro (§0.1, pilotos), e 16:9 é a mais larga do conjunto padrão. **Pedir 7:1
+> é convidar de volta a proporção aleatória que o §0.1 existe para matar.** A faixa final sai do
+> recorte, não da geração.
+>
+> **3. Como ela cabe em 24 mm e 44 mm — a FAIXA SEGURA, dentro do prompt:** a diferença entre
+> 16:9 e 7:1 é resolvida **na composição**, com bloco imperativo (§1.5e), nunca por sorte de
+> recorte:
+> ```
+> [THE SAFE BAND - MANDATORY, COMPOSE IT THIS WAY]
+> COMPOSE THIS AS A FRIEZE: everything that must be seen - <nomear aqui os objetos da peça> -
+> sits INSIDE THE CENTRAL HORIZONTAL BAND of the picture, side by side along one horizontal
+> line, and the band is ONE FIFTH of the height for a 24 mm vignette (HALF the height for a
+> 44 mm one). Leave the top of the picture as EMPTY SKY and the bottom as EMPTY GROUND, with
+> nothing in either that the story needs. Nothing important touches the left or right edge.
+> ```
+> Nomear os objetos, sempre: **`06v1`** → as duas bocas, a boca entulhada, a boca negra, a
+> clava no chão · **`06v2`** → Héracles de costas, o manto até o chão, os telhados de Cleonas.
+>
+> **4. O asset é a faixa RECORTADA, não a geração.** Depois de aprovada, a peça é recortada
+> **na proporção exata do destino** e reamostrada — `06v1` → **2000 × 284 px** · `06v2` →
+> **2000 × 520 px** (169 mm a 300 dpi = 1996 px). O bruto vai para `brutos/`. **Resolução nunca
+> é o problema** (mesmo um 2048² recortado a 7:1 dá 2048 × 291 px, acima de 300 dpi):
+> o problema é sempre composição. **É o arquivo recortado que entra em `imagens-disponiveis.typ`.**
+> Com o recorte feito à mão, `fit: "cover"` passa a não cortar nada — e o `miolo.typ` **não se
+> mexe**: as alturas são do orçamento de páginas, não da arte.
+>
+> **5. Legibilidade a 24 mm — a régua do papel.** 24 mm é a altura de uma unha. Portanto:
+> **no máximo 2 elementos nítidos**, separados por vão claro · leitura por **silhueta e valor**,
+> nunca por detalhe fino · o negro da boca aberta é a nota mais escura da faixa e é o que dá o
+> assunto de longe · **sem banda ornamental** (A2/A3 já dizem "não se aplica" — a 24 mm ela
+> comeria a imagem) · **nenhum rosto** em `06v1` e **nenhum rosto legível** em `06v2` (ele está
+> de costas — o que se lê é o **manto como silhueta**). A 44 mm, `06v2` tem ~44 mm para uma
+> figura de costas e os telhados: sobra.
+>
+> **6. Reprovação automática, dos dois lados:** vinheta gerada com a linha `Square 1:1` **ou**
+> sem nenhuma linha de proporção → reprova (§0.1). Vinheta cujo objeto essencial cai fora da
+> faixa segura → reprova, **mesmo bonita**: o Typst a decapita e ninguém vê o corte.
+
+### 29.3 O que muda no guia — emenda **v2.5**
+
+1. 🆕 **§0.1c NOVA — A LINHA DE PROPORÇÃO DAS VINHETAS.** O §0.1 deixa de ter uma exceção
+   (character sheets, 4:3) e passa a ter duas: **peça de vinheta = `Wide panoramic 16:9`**, com
+   faixa segura obrigatória e recorte para a proporção de destino. Full-bleed de página continua
+   **`Square 1:1`, intocada**.
+2. 🆕 **A proporção de destino de toda peça é lida no `miolo.typ`, não suposta.** `fit: "cover"`
+   recorta pelo centro **em silêncio**: peça entregue na proporção errada não gera erro de
+   compilação, gera perda de conteúdo. **Conferir `altura:` e a largura da coluna antes de
+   escrever qualquer prompt de vinheta** é etapa de briefing, minha.
+3. 🆕 **A faixa segura é bloco imperativo com objetos nomeados** — aplicação direta do §1.5e
+   (o objeto de `COMPOSE`/`PAINT` tem de ser coisa que se desenha; "vinheta pequena" não é).
+4. ✅ **Os pacotes A2 e A3 ficam válidos em tudo o mais** — cena, `[MUST NOT APPEAR]`, checklists
+   e dependências não mudam. Muda a linha de fechamento e entra o bloco da faixa segura.
+
+---
+
+## 30. Próximos passos (sessão 7) — **tudo represado pela geração bloqueada**
+
+1. ⛔ **Pendência do dono, bloqueante:** liberar os downloads automáticos do Chrome
+   (`chrome://settings/content/automaticDownloads`) — **nenhuma peça avança sem isso.**
+2. `mito-ilustrador`, quando destravar: **`06` — 1 geração**, com `06-o-leao-antes-A.jpg`
+   anexada + `[THE ONE CHANGE]` (§28.3) + as duas ressalvas do §28.4.
+3. `mito-ilustrador`: **`06v1` e `06v2` — destravadas de briefing** pela regra §29.2
+   (`06v2` continua dependendo de `sheet-heracles` aprovada).
+4. Fila anterior inalterada: `05` (rodada 2), `07` (rodada 2), `sheet-heracles` (rodada 3 de 3),
+   `04-B` opcional.
+5. Pendência do dono, aberta desde a 1ª sessão (§1.4b): **nomear a criança do teste de nomeação,
+   quem aplica e onde o veredito é gravado.**

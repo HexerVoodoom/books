@@ -15,6 +15,13 @@
 > 10 MB, anexar cópia `.jpg` q95) · **§2.1/D9-A confirmada empiricamente** e promovida de regra
 > proposta a regra provada.
 >
+> 🔴 **EMENDA v2.5 (Fase 3b, 6ª sessão — `curadoria-3b.md` §28–§30).** **§0.1c NOVA — a linha
+> de proporção das vinhetas:** peça encaixada por `vinheta()` **não é 1:1**; fecha com
+> `Wide panoramic 16:9 full-bleed composition.`, carrega o bloco obrigatório `[THE SAFE BAND]` e
+> é recortada para a proporção de destino lida no `miolo.typ` (`06v1` 169×24 mm ≈ 7:1 ·
+> `06v2` 169×44 mm ≈ 4:1). Corrige a contradição entre os pacotes A2/A3 e o §0.1. A full-bleed
+> de página continua `Square 1:1`, intocada.
+>
 > **Este guia é um DELTA.** Ele **herda integralmente** `producao/grega/guia-de-estilo.md`
 > (livro 1) — fórmula Mucha + aquarela, camada cultural de cerâmica ática, hierarquia X5
 > ("a cerâmica emoldura; Mucha atua"), paleta hex §2, parâmetros de geração §3, entrega e
@@ -47,10 +54,61 @@ Warm, wonder-filled, gentle, suitable for ages 4-7. Square 1:1 full-bleed compos
 No text, no watermark, no lettering.
 ```
 
-Character sheets são a única exceção (4:3, folha de referência, não é asset de página).
+Character sheets são a **primeira** exceção (4:3, folha de referência, não é asset de página);
+as **peças de vinheta** são a segunda — ver §0.1c.
 **Nenhuma imagem deste livro pode ser gerada por um prompt sem essa linha.** Reprovação
 automática de entrega.
 ✅ **Verificado nos pilotos (A10):** 2048 × 2048 exato nas três imagens. **Manter sem tocar.**
+
+### 🔴 0.1c A LINHA DE PROPORÇÃO DAS VINHETAS (emenda v2.5 — `curadoria-3b.md` §29)
+
+Vale para **toda** peça encaixada pela função `vinheta()` do `miolo.typ`: hoje
+`06v1-as-duas-bocas` (24 mm), `06v2-a-pele` (44 mm), `08c-a-caverna-final` (44 mm) e
+`vinheta-8-1-a-montanha-que-ferve` (A4). **A full-bleed de página não muda: continua `Square 1:1`.**
+
+> **1. Proporção de DESTINO — lida no `miolo.typ`, nunca suposta.** A vinheta ocupa a largura
+> da coluna de texto: `PAGE 211 mm − inside 24 − outside 18 = **169 mm**`. Logo
+> **`06v1` = 169 × 24 mm ≈ 7:1** e **`06v2` = 169 × 44 mm ≈ 4:1**. As alturas vêm do orçamento
+> de páginas (`publicacao/preparo-fase-4.md`: o cap. 6 só fecha em 4 pp com 24 + 44 mm; acima de
+> ~70 mm somados ele estoura para 5 pp) — **não são negociáveis pela arte.**
+>
+> **2. Por que 1:1 é fatal aqui.** `vinheta()` encaixa com `fit: "cover"` e `clip: true`: o
+> Typst escala a imagem até cobrir os dois lados e **recorta o excedente pelo centro, em
+> silêncio**. Uma peça quadrada em `06v1` perde **86%** da altura (sobra a tira central de 14%);
+> em `06v2`, perde 74%. Não há erro de compilação — há conteúdo jogado fora.
+>
+> **3. Linha de fechamento do prompt de vinheta**, verbatim, no lugar da quadrada:
+> ```
+> Warm, wonder-filled, gentle, suitable for ages 4-7. Wide panoramic 16:9 full-bleed composition.
+> No text, no watermark, no lettering.
+> ```
+> `16:9` e **não** 7:1: a linha só serve se o gerador honrar a proporção — 1:1 é a única provada
+> neste livro, 16:9 é a mais larga do conjunto padrão, e pedir 7:1 devolve a proporção aleatória
+> que o §0.1 existe para matar. **A faixa final sai do recorte, não da geração.**
+>
+> **4. Bloco obrigatório da FAIXA SEGURA** (é o que faz a peça caber em 24/44 mm; §1.5e — objeto
+> nomeado, nunca "vinheta pequena"):
+> ```
+> [THE SAFE BAND - MANDATORY, COMPOSE IT THIS WAY]
+> COMPOSE THIS AS A FRIEZE: everything that must be seen - <objetos da peça, nomeados> - sits
+> INSIDE THE CENTRAL HORIZONTAL BAND of the picture, side by side along one horizontal line,
+> and the band is ONE FIFTH of the height for a 24 mm vignette (HALF the height for a 44 mm
+> one). Leave the top of the picture as EMPTY SKY and the bottom as EMPTY GROUND, with nothing
+> in either that the story needs. Nothing important touches the left or right edge.
+> ```
+>
+> **5. O asset é a faixa RECORTADA.** Aprovada a peça, recorta-se na proporção exata do destino e
+> reamostra-se: `06v1` → **2000 × 284 px**, `06v2` → **2000 × 520 px** (169 mm a 300 dpi ≈ 1996 px).
+> O bruto vai para `brutos/`; o recorte é o que entra em `imagens-disponiveis.typ`. Com o recorte
+> feito, `fit: "cover"` deixa de cortar. **Resolução nunca é o gargalo — composição é.**
+>
+> **6. Legibilidade no papel a 24 mm:** no máximo **2 elementos nítidos**, separados por vão
+> claro; leitura por **silhueta e valor**, nunca por detalhe fino; **sem banda ornamental**;
+> nenhum rosto em `06v1` e nenhum rosto legível em `06v2` (Héracles é o **manto como silhueta**).
+>
+> **7. Reprovação automática:** vinheta com a linha `Square 1:1`, ou sem linha de proporção
+> nenhuma, reprova pelo §0.1; e vinheta cujo objeto essencial cai fora da faixa segura reprova
+> **mesmo bonita** — o Typst a decapita e ninguém vê o corte.
 
 ### 0.2 🔴 RECODIFICAÇÃO OBRIGATÓRIA — o achado que faltava (A6)
 
