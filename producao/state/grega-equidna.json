@@ -58,8 +58,10 @@
   "pendencias": [
     "DONO: nomear a crianca de 4 anos para o teste de aceitacao (quem, idade, quem aplica, onde registra) - capa etiquetada aguardando teste com leitor real",
     "Seção 'Perguntas que as crianças fazem' ainda não escrita (aparato da Fase 4)",
-    "Propagar o título novo: capa, lombada, serie-padroes.md",
-    "serie-padroes.md: rotulagem de spin-off; transferência do gancho Pégaso; formato de quarta capa da série; regra 'paratexto não usa a redação literal da 1ª nem da última frase do miolo'",
+    "FEITO 2026-09-01: título propagado em livro-spec.md e HANDOFF-FASE-0.md; capa e lombada nascem corretas na Fase 4/5",
+    "FEITO 2026-09-01: serie-padroes.md ganhou §Spin-offs, §Dívidas de coleção assumidas (D-1 Pégaso/Quimera -> 'Heróis da Grécia'), §Paratexto (formato + regra do paratexto virgem) e §Fidelidade (nunca declarar grau)",
+    "FEITO 2026-09-01: toolchain da Fase 4 provada por execução (typst 0.15.1, gs 10.07.1, pypdf 6.13.1) - relatório em publicacao/preparo-fase-4.md",
+    "DONO: confirmar ou vetar o volume 'Heróis da Grécia' (Grécia · II) - decide se a dívida D-1 é promessa ou calote retroativo",
     "Página de Fontes: variantes não adotadas (Diodoro 4.48.3, Apolônio 4.1396, Argos 2.1.2); o nome 'Ladon' vem de fonte não adotada; etiologia do cão e luto de Equidna são criação nossa",
     "Fase 4: recontar os 8 capítulos por método único (orquestrador e revisor divergiram em 18 palavras no cap. 4)",
     "Perfil ICC da gráfica (herdado do livro 1, em aberto)"

@@ -31,6 +31,21 @@ admin):** `typst 0.15.1` · `gs 10.02.1`/`10.07.1` · `pdfinfo`/`pdffonts` 24.02
 está resolvido nos dois SOs. Nota: o `apt-get install` falha com 404 se o índice estiver
 velho; rode `apt-get update` antes.
 
+⚠️ **No Windows os binários NÃO estão no PATH** (reconfirmado 2026-09-01, livro 2). Eles
+existem, extraídos pelo run do livro 1 — não reinstale, só exporte o PATH:
+
+```bash
+export PATH="/e/tools/typst-x86_64-pc-windows-msvc:/e/tools/gs_extracted/bin:$PATH"
+export MSYS2_ARG_CONV_EXCL="*"    # senão o MSYS2 quebra /DeviceCMYK
+# typst 0.15.1 · gswin64c 10.07.1 · ICC e PDFX_def.ps em /e/tools/gs_extracted/{iccprofiles,lib}
+```
+
+`pdfinfo`/`pdffonts` continuam **ausentes** no Windows; o substituto é `pypdf` (6.13.1,
+Python 3.14 — já instalado). Cuidado com o `PDFX_def.ps` do pacote: a linha 45 vem com
+`/ICCProfile (ISO Coated sb.icc)`, arquivo que **não existe** — sem trocar por um caminho
+real o `gs` morre com `/undefinedfilename`, e ainda assim sai um PDF de 1 KB (exit code do
+pipe engana). Sempre conferir o **tamanho** do PDF de saída, não só o exit code.
+
 ```bash
 # Linux — Typst (binário oficial)
 curl -fsSL https://github.com/typst/typst/releases/latest/download/typst-x86_64-unknown-linux-musl.tar.xz \

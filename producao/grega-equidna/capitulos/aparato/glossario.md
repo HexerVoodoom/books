@@ -38,9 +38,9 @@ Euritião era o boieiro de Gerião, e trabalhava ao lado de Órtro.
 **caverna gloriosa** — a expressão é do próprio poema grego: a caverna de Equidna não é um
 esconderijo, é um presente que os deuses lhe deram.
 
-**Cérbero** (*Kérberos*, "CÉR-be-ro") — o cão enorme que fica sentado no portão do mundo de
-baixo. Tem mais cabeças do que se consegue contar, cabeças de serpente ao longo das costas e
-uma cauda de dragão que se mexe sozinha.
+**Cérbero** (*Kérberos*, "CÉR-be-ro") — o cão enorme sentado no portão do mundo de baixo. Tem
+mais cabeças do que se consegue contar, serpentes ao longo das costas e uma cauda de dragão que
+se mexe sozinha.
 
 **clava** (*CLA-va*) — pedaço de madeira grosso e pesado, mais largo numa ponta. Era a arma que
 Héracles carregava no ombro para todo lado — e que largou no chão, no capítulo 7.
@@ -62,7 +62,7 @@ serpente enorme, de pele malhada. Mora numa caverna funda que os deuses lhe dera
 essa caverna. Não morre e não envelhece.
 
 **Eritia** (*Erýtheia*, "e-ri-TI-a") — ilha no lugar mais a oeste que os gregos conseguiam
-imaginar, do outro lado do Oceano, onde o sol se deita. Grafia fixada; não usar "Eriteia".
+imaginar, onde o sol se deita. Grafia fixada; não usar "Eriteia".
 
 **Esfinge** (*Sphínx*, "es-FIN-je") — criatura de rosto de mulher, corpo de leoa e asas de ave,
 que guardou a estrada de Tebas com uma pergunta. A esfinge do Egito é outra coisa: é de pedra,
@@ -84,8 +84,7 @@ páginas deste livro ela aparece só como "a Terra".
 aparecia. *(Verbete prometido no capítulo 3.)*
 
 **Héracles** (*Hēraklês*, "É-ra-cles") — o herói mais forte da Grécia, que cumpriu doze anos de
-serviços para o rei Euristeu. Em português nunca se escreve "Hércules" neste livro: Héracles é
-o nome grego dele.
+serviços para o rei Euristeu. Héracles é o nome grego dele; neste livro nunca "Hércules".
 
 **Hera** (*Hḗra*, "É-ra") — deusa grega, a maior das deusas do Olimpo. Foi ela quem mandou a
 Esfinge para a estrada de Tebas e quem escolheu o vale de Nemeia para o leão.
@@ -129,8 +128,7 @@ elas que a Esfinge aprendeu o enigma.
 É a porta do leão de pele impossível.
 
 **ninfa** (*NIN-fa*) — nas histórias gregas, uma moça que não é bem deusa e não é bem gente:
-vive muito mais do que uma pessoa e costuma pertencer a um lugar — uma fonte, uma árvore, um
-jardim. As Hespérides são ninfas.
+vive muito mais do que uma pessoa e costuma pertencer a um lugar. As Hespérides são ninfas.
 
 **Olimpo** (*Ólympos*, "o-LIM-po") — montanha altíssima do norte da Grécia. É de lá que descem
 os deuses.
@@ -157,8 +155,7 @@ mundo de baixo. É de lá que vem Tifão, e é para lá que ele volta.
 que a Esfinge guardou.
 
 **Tifão** (*Typhôn*, "ti-FÃO") — o maior de todos: mãos fortes, pés que não cansam, cabeças de
-serpente nascendo dos ombros, cada uma com uma voz diferente. O único que não quis guardar uma
-porta — quis o céu inteiro.
+serpente nascendo dos ombros, cada uma com uma voz. O único que não quis guardar uma porta.
 
 **Velo de Ouro** — a pele de um carneiro, toda de ouro, pendurada num carvalho da Cólquida. É a
 coisa preciosa que o dragão que nunca dormia guardava.
