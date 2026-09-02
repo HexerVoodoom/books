@@ -23,7 +23,43 @@ em `DIRECAO-APROVADA-DONO.jpg`), com as palavras: *"mais aquarelada e colorida �
 A imagem escolhida viola dois itens que **não** foram escolha estética da squad: foram proteções
 aprovadas nos gates. Registro aqui em vez de quebrá-las em silêncio ou de ignorar o dono.
 
-### C1 — Os anéis da serpente avançam para o leitor
+> ## ✅ RESOLUÇÃO (2026-09-02) — C1 CAIU; C2 CUMPRIDA
+>
+> A `mito-adequacao-etaria` rejulgou a página `01-C-dono` e **concluiu que a própria trava estava
+> mal calibrada**: *"eu mirei a ocupação de primeiro plano quando o que assusta é a intenção de
+> avanço"*. O que está na página são anéis **deitados, em repouso, com o eixo paralelo à borda**,
+> sem cabeça de serpente, sem boca, sem língua, sem olho de réptil, sem bote, contidos dentro da
+> moldura. O gatilho aos 4 anos é **cabeça + direção de avanço**, não proximidade.
+>
+> Nas palavras dela: *"se eu aplicasse a minha regra ao pé da letra aqui, eu estaria vetando um
+> caracol enrolado porque caracóis também têm concha grande no primeiro plano. Isso é régua sem
+> leitura, o meu próprio anti-padrão."*
+>
+> **FIXÁVEL-3 revisada (vale para `01`, `08b`, p. 40 e toda peça com Equidna):**
+> *Proibido:* cabeça de serpente visível com a criança-leitora de frente; boca aberta, língua
+> bífida, presa, olho de réptil; corpo erguido em S ou em bote; qualquer segmento **em escorço**
+> apontando o eixo para fora da página; corpo atravessando a borda inferior ou a moldura.
+> *Permitido:* anéis deitados, enrolados, eixo paralelo à base, contidos na moldura, **ainda que
+> grandes e no primeiro plano**. Manchas grandes, arredondadas, macias — nunca losango.
+> ⚠️ **A permissão depende do rosto calmo.** Se em alguma peça o rosto endurecer, os anéis voltam
+> a pesar.
+>
+> **A imagem que o dono escolheu está APROVADA como está.** Não há o que corrigir, e não é preciso
+> brigar com o gerador (que já recusou uma vez) por um risco que não existe.
+>
+> **Ressalva honesta registrada:** há uma criança em cada dez que trava com qualquer cobra, mesmo
+> dormindo — mas essa criança trava com `01-A` e `01-B` também. Não é risco desta composição; é do
+> próprio mito, e o mito é o livro.
+>
+> **Também aprovados na mesma passada:** a caverna fria (*"os azuis estão atrás e em volta,
+> formando um arco que abraça a figura… a leitura não é 'está frio', é 'está fundo, e ela mora
+> aqui'"* — e a aquarela molhada tira todo o gume, sem sombra dura nem canto preto onde algo se
+> esconda); o feixe de luz (⚠️ **pedido à diagramação: +10–15% de contraste contra a rocha**, ou
+> some no papel impresso); a manga (C2 cumprida); e o friso das cinco portas, que *"adianta, não
+> gasta"* — ⚠️ **pedido: clarear o painel do pântano um ponto**, é o único sem céu e o menos
+> convidativo.
+
+### ~~C1 — Os anéis da serpente avançam para o leitor~~ (RESOLVIDA — ver acima)
 
 A adequação etária (FIXÁVEL-3, Fase 3a) exigiu, com cenário concreto: *"o corpo serpente fica ao
 lado e atrás dela, indo para dentro da caverna — **nunca avança para o leitor**, nunca atravessa
