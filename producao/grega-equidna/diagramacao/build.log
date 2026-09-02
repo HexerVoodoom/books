@@ -94,3 +94,25 @@ perguntas 2 pp (24 perguntas) ................. CABE (45-46, hoje deslocadas +1)
 colofao   1 pp (+ reserva bibliografia PT-BR e credito de acervo) ... CABE
 guardas   2 pp ................................ CABE
 TOTAL COMPILADO: 49 pp. Deficit unico e nomeado: 3 linhas na p. de Fontes.
+
+## 2026-09-02 — 1ª ilustração encaixada (p. 10)
+
+⚠️ **ACHADO DE PIPELINE — o comando de build mudou.** O placeholder nunca exercitou o caminho
+da imagem, então o defeito só apareceu quando a 1ª ilustração real entrou:
+
+    error: path "../ilustracoes/01-...png" would escape the project root
+    hint: you can adjust the project root with the `--root` argument
+
+O `miolo.typ` mora em `diagramacao/` e as imagens em `ilustracoes/` — irmãs, não filhas. O Typst
+isola o projeto na pasta do arquivo por padrão.
+
+**Comando correto, e é este que a Fase 4/5 tem de usar:**
+
+    typst compile --root .. miolo.typ miolo.pdf
+
+Sem `--root ..`, a compilação falha em TODA página com ilustração — ou seja, teria falhado nas
+12 de uma vez, no fim da produção. Registrado em `pipeline-impressao.md` para o livro 3 não
+repetir.
+
+**Resultado com a p. 10 encaixada:** EXIT=0 · 48 páginas ✔ · mediabox 21,10 cm ✔ ·
+10.609.158 bytes (era 275.370 com placeholders — a diferença é a imagem real).
