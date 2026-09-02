@@ -331,6 +331,68 @@ não ancora capa nem cena. **Item de checklist de toda folha poli-cefálica**, a
 exigia de Equidna. Redação a acrescentar ao `[SHEET LAYOUT]`: `every study on this sheet shows
 the same animal with the same three sharp heads and the same ruff behind them.`
 
+##### 🔴 EMENDA v2.2 (Fase 3b, 2ª sessão, `curadoria-3b.md` §9) — o objeto de `PAINT` tem de existir no repertório de desenho
+
+**O que a rodada 2 (`sheet-cerbero-C-r2`) provou:** com o bloco v2.1 a **gola apareceu** —
+massa creme/ocre contínua, molhada, sem contorno, zero olho, sem vão escuro, critério de área
+cumprido. **Mas veio LISA — uma juba de leão — e um adulto conta TRÊS em menos de 10 s.**
+Os `FOUR OR FIVE SOFT ROUNDED SWELLINGS` não se materializaram: o modelo aplicou "inchaço"
+como **textura do que já havia desenhado**, exatamente o que fizera com `mass`.
+
+> **A regra geral, mais dura que "bloco imperativo": o objeto de `PAINT` tem de ser UMA COISA
+> QUE EXISTE NO REPERTÓRIO DE DESENHO DO MODELO.** `RUFF` é (gola de pelo: um ilustrador
+> desenha sem pensar). `SWELLING` não é — é topologia. **Palavra que não nomeia coisa
+> desenhável é rebaixada a acabamento.**
+
+**A palavra da camada 2 deixa de ser um volume e passa a ser UMA CABEÇA DE COSTAS —
+`CROWN AND NAPE`.** Cabeça vista por trás sugere "mais cão" (uma nuca com orelha **é** mais cão)
+e **não tem rosto por construção**, não por proibição. Evidência: o gerador fez isso sozinho em
+`sheet-cerbero-B` (orelhas a mais atrás das cabeças), sem que ninguém pedisse.
+
+🔴 **Revogação explícita:** `no ear` **SAI** do bloco da camada 2 — a orelha é o dispositivo,
+não o defeito. Continuam proibidos **olho, nariz, boca, focinho, rosto e contorno fechado**;
+a régua de adequação etária fica intacta (nada olha para a criança).
+
+**Redação verbatim v2.2 — substitui integralmente o `[THE FUR BEHIND]` da v2.1:**
+```
+[MORE DOG BEHIND - MANDATORY, PAINT THIS]
+PAINT A GREAT RUFF behind the three sharp heads: one single continuous body of wet-on-wet
+watercolour fur, as WIDE as two more dogs and as TALL as the sharp heads themselves, filling
+the whole space behind them so that no empty paper and no dark gap is ever seen between one
+head and the next.
+NOW PAINT, RISING OUT OF THAT RUFF, FOUR OR FIVE MORE HEADS SEEN FROM BEHIND - only the CROWN
+AND THE NAPE of each one, every one of them TURNED AWAY from the viewer, so that not one face
+is ever shown. Give SOME of them a single soft ear and give OTHERS no ear at all; set every
+one at a DIFFERENT HEIGHT and at a DIFFERENT ANGLE, none of them level with another, none of
+them evenly spaced. Let EACH ONE SINK BACK INTO THE RUFF before its neck is finished, with a
+soft bleeding edge and NO closed outline: no eye, no nose, no mouth, no muzzle, no face on any
+of them, and none of them is ever whole.
+Paint all of it in warm cream #EDD9B4 and ochre #C88A3D, dissolving INTO THE LIGHT, never into
+black. THE RUFF AND THE TURNED-AWAY HEADS TOGETHER MUST COVER MORE OF THE PICTURE THAN THE
+THREE SHARP HEADS.
+```
+
+**Tabela de substantivos, atualizada — a gola FICA e ganha a segunda camada:**
+
+| Criatura | Camada 2 = a massa | Camada 2 = "mais, de costas" |
+|---|---|---|
+| Cérbero (sheet r3, capa, p. 33, 8A/8B) | `RUFF` | `CROWNS AND NAPES TURNED AWAY` |
+| Tifão | `THICKET / NEST OF COILS` | `SHOULDERS AND BACKS OF COILS TURNING AWAY` — dorsos mergulhando, nenhuma boca |
+| Ladon | `FOLIAGE` | `COILS SLIDING BEHIND THE LEAVES` — uma cabeça nítida (é o Plano B) |
+
+**Alavanca de amabilidade a reforçar junto (§1.5a-1):** `on EVERY study the black ears of the
+three sharp heads HANG DOWN, heavy and soft, folded against the cheek; no pricked ear and no
+pointed ear on any of the three sharp heads.` — na `C-r2` só o estudo 3 tinha a orelha caída;
+os outros dois vieram com orelha ereta, que lê "alerta" e não "dócil".
+
+##### 🔴 GATILHO DO PLANO B — armado para a rodada 3 do `sheet-cerbero`
+
+> A rodada 2 **não** armou o gatilho por excesso de contagem, mas **falhou o item 11 pela
+> segunda vez, por gola lisa**. **Se a rodada 3 entregar de novo uma camada 2 em que um adulto
+> chega a um número em 10 s, o Plano B é acionado NA HORA, sem quarta rodada e sem nova
+> curadoria:** `sheet-cerbero` é rebaixada ao desenho de Ladon (uma cabeça nítida, o resto
+> dissolvido) e a folha vai ao `gate.md` com as três candidatas.
+
 **Camada 3 — BLOCO IMPERATIVO SEPARADO no prompt.**
 No piloto ela foi **ignorada por completo** por estar diluída como terceiro item de uma lista.
 Passa a ser um bloco próprio, com cabeçalho próprio, colado **depois** de `[SCENE]`:
@@ -403,6 +465,33 @@ O método é **subtrair o vocabulário da pose e devolver o vocabulário do retr
 
 ---
 
+### 🔴 1.5d ESCOPO DA DIREÇÃO DO DONO NOS CHARACTER SHEETS (Fase 3b, 2ª sessão)
+
+`DIRECAO-DO-DONO.md` vence este guia em conflito de **tratamento**. Mas a direção do dono foi
+dada sobre **uma cena** (a caverna). Um character sheet **não é cena**: é referência de atributo
+sobre papel liso, com luz plana. A regra abaixo é vinculante para os 4 sheets restantes.
+
+> **CARREGA para o sheet — é tratamento e é ficha:**
+> 1. **Aquarela molhada de verdade** — lavagens transparentes que sangram uma na outra,
+>    granulação do papel visível, bordas molhadas. **Nunca preenchimento chapado.**
+> 2. **A cor local da criatura**, saturada e quente, com **hex declarado na ficha**. Pele e pelo
+>    **nunca** saem cinza-bege por omissão — a folha ancora a cor de todas as páginas (foi o
+>    cinza-bege de `sheet-equidna-B` que reapareceu em `01-A`/`01-B`).
+> 3. Moldura leve (meandro + palmetas) e friso em banda própria, separada por filete.
+>
+> **NÃO CARREGA — é cena, e o sheet não tem cena:**
+> 4. **A paleta fria da caverna** (azul-petróleo, verdes-cinza) é a luz **daquele lugar**.
+>    O `[SHEET LAYOUT]` fica como está: **fundo de papel quente liso `#F6EFE2`, luz plana, sem
+>    sombra dramática, sem painel de cena, sem ambiente.**
+> 5. Feixe de luz diagonal, atmosfera e profundidade: nada disso entra na folha.
+>
+> **Colisão resolvida:** se a cor escolhida contra o papel quente não ler contra a caverna fria,
+> **quem manda é a página**. Por isso a folha traz um estudo pequeno da criatura sob a luz fria
+> da caverna, no canto, **como amostra de cor** — um retângulo de amostra, **não um painel de
+> cena** (painel de cena foi o que reprovou o layout de `sheet-equidna-A`).
+
+---
+
 ## 2. As 9 decisões de arte fixadas — incorporadas como regras duras
 
 Vêm de `producao/state/grega-equidna.json` §`decisoes_de_arte_fixadas`. **Não são reabertas
@@ -452,6 +541,45 @@ a p. 10 anexada**, na mesma sessão.
 > e a mãe na última página — e o texto sustenta o resto.
 > **O que não se admite é descobrir isso na página 40.** Por isso a p. 10 e a p. 40 são P1 na
 > ordem de produção (§5.3).
+
+#### 🔴 D9-A — REGRA ANTI-SACRIFÍCIO (Fase 3b, 2ª sessão; obrigatória em TODA peça com anexo)
+
+**O risco, medido no teste da conversa `e550a7156935215a`:** o mecanismo da D9 preserva rosto,
+idade, luz, ângulo e paleta com **delta praticamente nulo** — mas **quando a mudança pedida
+colide com a anatomia do personagem, o gerador sacrifica o personagem e declara que fez isso.**
+Verbatim: *"there is an inherent contradiction … I have focused on the placement constraints."*
+Resultado: Equidna **de pernas humanas e sandálias**. Repetir a ficha junto do bloco de mudança
+é necessário e **não basta** — a ficha não diz **quem ganha** no empate, e ele já provou que
+escolhe a composição. Por isso: **precedência declarada + válvula de escape**.
+
+Todo prompt com imagem anexada abre com estes três blocos, nesta ordem, antes de qualquer outro:
+```
+[WHO SHE IS - UNCHANGED. THIS OUTRANKS EVERYTHING BELOW]
+<ficha canônica §3.x colada VERBATIM, em inglês>
+She is STILL half woman and half serpent: NO human legs, NO feet, NO knees, NO sandals.
+Everything in the attached picture stays exactly as it is - the same face, the same age, the
+same light, the same framing, the same palette, the same border.
+
+[THE ONE CHANGE]
+<bloco imperativo da mudança, com verbo de desenho e critério de área>
+This is the ONLY change. Nothing else in the picture changes.
+
+[IF THEY DO NOT FIT]
+If the change above cannot be painted without changing WHO SHE IS, then PAINT HER AS SHE IS
+and paint the change only as far as it fits, and SAY SO IN YOUR ANSWER.
+Never change her body to make the composition work.
+```
+
+**Três exigências de validação que vêm junto:**
+1. **A ficha entra verbatim, nunca resumida.** O anexo carrega aparência; a ficha carrega o
+   cânone. **Anexo não substitui ficha.**
+2. **A lista negativa nomeia a anatomia em risco NAQUELA peça** — Equidna: pernas, pés, joelhos,
+   sandálias · Cérbero: quarta face nítida, coleira · Tifão: rosto de homem inteiro. Genérico
+   não segura.
+3. 🔴 **LER O TEXTO DA RESPOSTA É PARTE DA CHECAGEM TÉCNICA.** Em 10 gerações o modelo declarou
+   a desobediência **duas vezes por escrito**. **Resposta que declara ter sacrificado o
+   personagem = REPROVA AUTOMÁTICA, sem olhar a imagem**; a conversa seguinte reforça o bloco
+   `[WHO SHE IS]` em vez de repetir a mudança. Transcrever o verbatim no `log-geracao.md`.
 
 ---
 

@@ -271,3 +271,243 @@ Duas regras mudam, e uma se esclarece. Aplicadas em `guia-de-estilo.md` §1.5(b)
    no `log-geracao.md`, com o rótulo **"proxy, sem leitor real"**.
 4. Pendência do dono, inalterada e ainda aberta (§1.4b): **nomear a criança, quem aplica o teste
    e onde o veredito é gravado.**
+
+---
+
+# CURADORIA 3b — SEGUNDA SESSÃO (2026-09-02, tarde)
+
+> Peças julgadas: `sheet-cerbero-C-r2`. Decisões de método: substantivo da camada 2 (r3),
+> escopo da direção do dono nos character sheets, regra anti-sacrifício da D9.
+> Julgado contra `guia-de-estilo.md` v2.1, `DIRECAO-DO-DONO.md` (que **vence o guia** em
+> conflito de tratamento) e `log-geracao.md` sessão 2.
+
+## 8. `sheet-cerbero-C-r2` — veredito
+
+### 8.1 O que eu confirmo olhando a folha
+
+- ✅ **A gola existe.** Massa creme/ocre contínua, molhada, sem contorno, atrás das três
+  cabeças nas três vistas, dissolvendo para a luz, **zero olho, zero rosto, zero focinho
+  extra**, e **sem vão escuro** entre uma cabeça e a seguinte. O modo de falha da rodada 1
+  (camada 2 ausente) **não se repetiu**.
+- ✅ **Critério de área cumprido** nos estudos 1 e 3; no estudo 2 (perfil sentado) a gola é
+  larga mas o corpo do cão ocupa mais — aceitável para uma vista de perfil.
+- ✅ **Os dois defeitos que apontei foram corrigidos:** 3/3/3 cabeças nas três vistas (a folha
+  agora sabe quantas cabeças o animal tem) · serpentes correndo **no dorso** no estudo 2 ·
+  cauda-dragão de boca fechada, sem dente, **sem olhar ao leitor**.
+- ✅ Banda A (meandro + palmetas) e Banda B (friso orientalizante de felinos sobre rosetas)
+  em faixas próprias, separadas por filete. C3, C4, C5, C6, C7 passam. 2400×1792 (4:3) ✔.
+- 🔴 **Um adulto conta TRÊS em menos de 10 s nos três estudos.** Os `FOUR OR FIVE SOFT ROUNDED
+  SWELLINGS` **não se materializaram**: a gola veio **lisa e única — uma juba de leão**.
+  Ocupa área e não sugere "mais cão". **O item 11 (não-contável) continua não entregue.**
+- 🟡 **A orelha caindo perdeu terreno.** Só o estudo 3 traz as orelhas pretas pesadas caídas;
+  nos estudos 1 e 2 as orelhas vêm **eretas e pontudas**. O pacote S2 pede que a orelha caída
+  seja *a coisa mais legível da folha* — na rodada 1 (folha A) era; aqui divide a folha com
+  orelhas eretas, que puxam a leitura para "alerta" e não para "dócil". Não reprova sozinho,
+  mas **entra no redirecionamento**: é a alavanca 1 da amabilidade (§1.5a).
+
+### 8.2 VEREDITO: 🟡 **REDIRECIONAR — rodada 3 de 3. NÃO aciono o Plano B agora.**
+
+**Por que não aciono.** O Plano B troca três rostos amáveis por um — é a renúncia ao rosto do
+livro. Só se paga se a falha for **do conceito**. Ela não é: é **da minha redação**, e desta vez
+eu consigo apontar a linha exata que a causou.
+
+> No bloco `[THE FUR BEHIND]` que eu mesmo escrevi está a cláusula
+> **`no outline, no ear, no eye, no nose, no face on any of them`**.
+> E o único momento em que este gerador sugeriu "mais cabeça" espontaneamente foi em
+> `sheet-cerbero-B`, quando desenhou **pares de orelhas a mais atrás das cabeças** — o achado
+> que registrei no §3 desta mesma curadoria e **proibi na linha seguinte**.
+> **Eu proibi o único dispositivo que o gerador demonstrou saber usar.** Isso é erro de direção,
+> não limite do modelo. Uma rodada gasta para corrigir um erro meu não é rodada perdida.
+
+Somam-se dois argumentos de custo: a rodada 2 **provou o método** (o bloco imperativo fez a
+camada 2 existir, o que duas rodadas anteriores não conseguiram) e **corrigiu 100% dos defeitos
+que nomeei** — um gerador que obedece 3/3 ao que é dito concretamente merece a instrução
+concreta que faltava. E o Plano B (desenho de Ladon) **não some**: continua armado.
+
+### 8.3 O gatilho, agora explícito e automático
+
+> **Se a rodada 3 entregar de novo uma gola lisa em que um adulto chega a três em 10 s, o Plano
+> B é acionado NA HORA, sem nova curadoria e sem quarta rodada** — `sheet-cerbero` é rebaixada
+> ao desenho de Ladon (uma cabeça nítida, o resto dissolvido na gola), a folha vai ao `gate.md`
+> com as três candidatas (A, C-r2, r3) e o dono decide entre a folha rebaixada e abrir
+> orçamento de geração extra. **Colar este parágrafo no `log-geracao.md` antes de disparar a
+> rodada 3.**
+
+---
+
+## 9. 🔴 A PERGUNTA DE MÉTODO — o substantivo concreto de "mais cão sem rosto"
+
+### 9.1 O diagnóstico: `SWELLING` é `MASS` um andar abaixo
+
+`RUFF` funcionou porque é **substantivo de desenho de animal**: o modelo tem referente pictórico
+para "gola de pelo" e a pintou de primeira. `SOFT ROUNDED SWELLING` **não é** — é descrição de
+topologia, não coisa que se desenha. O modelo fez com ela o que já tinha feito com `mass`:
+**aplicou como textura do que já havia desenhado**, ondulando o pelo da própria gola. Repeti o
+erro da rodada 1 um nível abaixo.
+
+> **A regra que a sessão compra é mais dura que "bloco imperativo": o objeto de `PAINT` tem de
+> ser UMA COISA QUE EXISTE NO REPERTÓRIO DE DESENHO DO MODELO. Se a palavra não nomeia algo que
+> um ilustrador saberia desenhar sozinho, o modelo a rebaixa a acabamento.**
+
+### 9.2 A palavra: `THE BACK OF A HEAD TURNED AWAY` — **`CROWN AND NAPE`**
+
+O substantivo concreto de "mais cão sem rosto" **não é um volume: é uma cabeça de costas.**
+Uma cabeça vista por trás — **calota e nuca**, `CROWN AND NAPE` — é objeto que qualquer
+ilustrador desenha sem pensar, e **não tem rosto por construção**, não por proibição.
+
+| Problema | Como `CROWN AND NAPE` resolve |
+|---|---|
+| "Sugerir mais cão" | uma nuca com orelha **é** mais cão; um inchaço não é |
+| "Sem rosto" | vem de graça: cabeça virada não tem olho, nariz nem boca a mostrar |
+| Não-contável | as nucas afundam na gola em **alturas diferentes**, umas com **uma** orelha só, outras com **nenhuma** — não há mapeamento 1:1 para contar |
+| Evidência a favor | o gerador **já fez isso sozinho** em `sheet-cerbero-B` (orelhas a mais atrás), sem que ninguém pedisse |
+
+🔴 **E isto revoga a minha própria proibição:** `no ear` **sai** do bloco da camada 2. A orelha
+**é o dispositivo**, não o defeito. Continua proibido **olho, nariz, boca, focinho, rosto e
+contorno fechado** — a régua de adequação etária permanece intacta (nada olha para a criança).
+
+### 9.3 Redação exata a colar — substitui o `[THE FUR BEHIND]` da v2.1
+
+```
+[MORE DOG BEHIND - MANDATORY, PAINT THIS]
+PAINT A GREAT RUFF behind the three sharp heads: one single continuous body of wet-on-wet
+watercolour fur, as WIDE as two more dogs and as TALL as the sharp heads themselves, filling
+the whole space behind them so that no empty paper and no dark gap is ever seen between one
+head and the next.
+NOW PAINT, RISING OUT OF THAT RUFF, FOUR OR FIVE MORE HEADS SEEN FROM BEHIND - only the CROWN
+AND THE NAPE of each one, every one of them TURNED AWAY from the viewer, so that not one face
+is ever shown. Give SOME of them a single soft ear and give OTHERS no ear at all; set every
+one at a DIFFERENT HEIGHT and at a DIFFERENT ANGLE, none of them level with another, none of
+them evenly spaced. Let EACH ONE SINK BACK INTO THE RUFF before its neck is finished, with a
+soft bleeding edge and NO closed outline: no eye, no nose, no mouth, no muzzle, no face on any
+of them, and none of them is ever whole.
+Paint all of it in warm cream #EDD9B4 and ochre #C88A3D, dissolving INTO THE LIGHT, never into
+black. THE RUFF AND THE TURNED-AWAY HEADS TOGETHER MUST COVER MORE OF THE PICTURE THAN THE
+THREE SHARP HEADS.
+```
+
+**Linha a linha:**
+
+| Linha | O que corrige |
+|---|---|
+| `PAINT A GREAT RUFF …` (parágrafo 1 intacto) | é a parte que **funcionou** — não se mexe no que passou |
+| `FOUR OR FIVE MORE HEADS SEEN FROM BEHIND` | substantivo de desenho + contagem positiva com teto; o que ele conta agora **é cabeça**, e é por serem cabeças que a folha lê "mais cão" |
+| `only the CROWN AND THE NAPE` | impede a cabeça de fechar em anatomia inteira (erro do piloto 1) |
+| `TURNED AWAY … not one face is ever shown` | o "sem rosto" vira **geometria**, não proibição — e mata a quarta face nítida |
+| `SOME a single soft ear, OTHERS no ear at all` | devolve o dispositivo que a folha B provou **e** quebra o par orelha↔cabeça que permitiria contar |
+| `DIFFERENT HEIGHT / ANGLE, none level, none evenly spaced` | mata a fileira equidistante, que é o que faz um adulto contar |
+| `SINK BACK … before its neck is finished` · `none of them is ever whole` | garante que nenhuma vira cabeça número 4 |
+| `no eye, no nose, no mouth, no muzzle, no face` | régua de adequação etária intacta — **`no ear` foi retirado de propósito** |
+| cláusula de área somando gola + nucas | critério verificável a olho nu na validação |
+
+### 9.4 As duas emendas de layout da rodada 3
+
+1. `[SHEET LAYOUT]`, estudos (1) e (2), acrescentar:
+   `on EVERY study the black ears of the three sharp heads HANG DOWN, heavy and soft, folded
+   against the cheek; no pricked ear and no pointed ear on any of the three sharp heads.`
+2. `[MUST NOT APPEAR]`: manter os itens da rodada 2 e **trocar** `no ear` por
+   `no fourth sharp face; no eye, no nose and no mouth anywhere behind the three sharp heads.`
+
+### 9.5 Vale para as 6 peças poli-cefálicas restantes
+
+O esqueleto do bloco é fixo; muda **a coisa vista de costas**:
+
+| Criatura | Camada 2 = gola | Camada 2 = "mais, de costas" |
+|---|---|---|
+| Cérbero (sheet r3, capa, p. 33, 8A/8B) | `RUFF` | `CROWNS AND NAPES TURNED AWAY` |
+| Tifão | `THICKET / NEST OF COILS` | `SHOULDERS AND BACKS OF COILS TURNING AWAY` — dorsos de anéis mergulhando, nenhuma boca |
+| Ladon | `FOLIAGE` | `COILS SLIDING BEHIND THE LEAVES` — uma cabeça nítida; é o Plano B, dissolvido por natureza |
+
+---
+
+## 10. 🔴 REGRA DE ESCOPO — a direção do dono vale até onde, nos character sheets?
+
+**Confirmo a leitura do ilustrador e a torno mais dura em dois pontos.** A direção do dono é de
+**tratamento**; a paleta fria é de **cena**. Um sheet não é cena — é referência de atributo em
+fundo de papel liso e luz plana. Mas o dono também comprou **cor na criatura**, e isso é ficha,
+não cena: se a folha-âncora sair dessaturada, toda página herda o cinza (foi o que aconteceu com
+a pele cinza-bege de `sheet-equidna-B` e reapareceu em `01-A`/`01-B`).
+
+> ### REGRA DE ESCOPO DOS CHARACTER SHEETS (vinculante para os 4 sheets restantes)
+>
+> **CARREGA para o sheet — é tratamento e é ficha:**
+> 1. **A aquarela molhada de verdade** — lavagens transparentes que sangram uma na outra,
+>    granulação do papel visível, bordas molhadas. **Nunca o preenchimento chapado.**
+> 2. **A cor local da criatura**, saturada e quente, com hex declarado na ficha. Pele e pelo
+>    **nunca** saem cinza-bege por omissão: é a folha que ancora a cor das páginas.
+> 3. A moldura leve (meandro + palmetas) e o friso em banda própria, separada por filete.
+>
+> **NÃO CARREGA — é cena, e o sheet não tem cena:**
+> 4. **A paleta fria da caverna** (azul-petróleo, verdes-cinza): é a luz **daquele lugar**.
+>    O sheet mantém o `[SHEET LAYOUT]` como está — **fundo de papel quente liso `#F6EFE2`, luz
+>    plana, sem sombra dramática, sem painel de cena, sem ambiente.**
+> 5. O feixe de luz diagonal, a atmosfera e qualquer profundidade: nada disso entra na folha.
+>
+> **A colisão, resolvida:** se a cor escolhida contra o papel quente não ler contra a caverna
+> fria, quem manda é a **página**. Por isso a ficha declara o hex **e** a folha traz um estudo
+> pequeno da criatura sob a luz fria da caverna, no canto, **como amostra de cor** — um
+> retângulo de amostra, **não um painel de cena** (painel de cena foi o que reprovou o layout de
+> `sheet-equidna-A`).
+>
+> **Consequência imediata:** `sheet-leao-nemeia` e `sheet-heracles` estão **DESTRAVADOS**.
+
+---
+
+## 11. 🔴 REGRA ANTI-SACRIFÍCIO — toda peça gerada por ANEXO (D9)
+
+**O risco, medido:** pedindo uma mudança de composição na p. 40, o gerador devolveu Equidna
+**de pernas humanas e sandálias** e **declarou por escrito** que escolheu a composição em vez do
+personagem (*"there is an inherent contradiction … I have focused on the placement
+constraints"*). O mecanismo da D9 preserva rosto, idade, luz, ângulo e paleta com delta
+praticamente nulo — **mas não protege a anatomia canônica quando a mudança colide com ela.**
+
+**A proposta do ilustrador (repetir a ficha canônica junto do bloco de mudança) está APROVADA —
+e é insuficiente sozinha.** Repetir a ficha não diz ao modelo **quem ganha** quando as duas
+instruções não cabem juntas, e ele já provou que, no empate, escolhe a composição. Acrescento
+uma **cláusula de precedência** e uma **válvula de escape declarada**: como este gerador
+**declara** o conflito no texto da resposta, é melhor mandá-lo declarar **em vez de** resolver.
+
+> ### REGRA D9-A (anti-sacrifício) — obrigatória em TODO prompt com imagem anexada
+>
+> ```
+> [WHO SHE IS - UNCHANGED. THIS OUTRANKS EVERYTHING BELOW]
+> <ficha canônica §3.x colada VERBATIM, em inglês>
+> She is STILL half woman and half serpent: NO human legs, NO feet, NO knees, NO sandals.
+> Everything in the attached picture stays exactly as it is - the same face, the same age, the
+> same light, the same framing, the same palette, the same border.
+>
+> [THE ONE CHANGE]
+> <bloco imperativo da mudança, com verbo de desenho e critério de área>
+> This is the ONLY change. Nothing else in the picture changes.
+>
+> [IF THEY DO NOT FIT]
+> If the change above cannot be painted without changing WHO SHE IS, then PAINT HER AS SHE IS
+> and paint the change only as far as it fits, and SAY SO IN YOUR ANSWER.
+> Never change her body to make the composition work.
+> ```
+>
+> **Três exigências de validação que vêm junto:**
+> 1. **A ficha entra verbatim, nunca resumida.** O anexo carrega aparência; a ficha carrega o
+>    cânone. Anexo **não substitui** ficha.
+> 2. **A lista negativa nomeia a anatomia em risco NAQUELA peça** — Equidna: pernas, pés,
+>    joelhos, sandálias · Cérbero: quarta face nítida, coleira · Tifão: rosto de homem inteiro.
+>    Genérico não segura.
+> 3. 🔴 **LER O TEXTO DA RESPOSTA É PARTE DA CHECAGEM TÉCNICA, e é obrigatório.** Em 10 gerações
+>    o modelo declarou a desobediência **duas vezes por escrito** (os anéis de C1; as pernas
+>    humanas). **Resposta que declara ter sacrificado o personagem = REPROVA AUTOMÁTICA, sem
+>    olhar a imagem**; a conversa seguinte reforça o bloco `[WHO SHE IS]` em vez de repetir a
+>    mudança. Transcrever o verbatim no `log-geracao.md`.
+
+---
+
+## 12. Próximos passos (sessão 3)
+
+1. `mito-ilustrador`: **rodada 3 de 3 do `sheet-cerbero`** — prompt da r2 + bloco
+   `[MORE DOG BEHIND]` (§9.3) + as duas emendas de layout (§9.4). Conversa nova, 1 variação.
+   **Antes de disparar, colar o §8.3 no `log-geracao.md`.**
+2. `sheet-leao-nemeia` e `sheet-heracles`: **destravados** pela regra §10 — geram já.
+3. `01` (p. 10): refazer a correção de C1 **sob a regra D9-A** — `D-dono-C1` está reprovada por
+   pernas humanas e não vira asset. Sem `01` fechada não existe p. 40.
+4. Guia atualizado nesta sessão: emenda **v2.2** (§1.5b), **§1.5d** (escopo dos sheets) e
+   **D9-A** (§2.1, anti-sacrifício).
+
