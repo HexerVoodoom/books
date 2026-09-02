@@ -1,0 +1,110 @@
+%!
+% PDFX_def.ps — Era Uma Vez um Mito · Grécia (mito-diagramador, Fase 4)
+% Gerado a partir do exemplo oficial do Ghostscript 10.07.1 (lib/PDFX_def.ps),
+% conforme pipeline-impressao.md. Customizado apenas em /Title e /ICCProfile.
+%
+% ⚠️ PENDÊNCIA DE GRÁFICA: /ICCProfile aponta para producao/grega/entrega/perfil.icc,
+% que é o perfil default_cmyk.icc BUNDLED do próprio Ghostscript (genérico, não é um
+% FOGRA/SWOP oficial de gráfica nenhuma) — usado aqui só porque nenhuma gráfica foi
+% escolhida ainda (pipeline-impressao.md §Dependências de cor). Trocar por o perfil da
+% gráfica real antes de qualquer envio para produção.
+
+systemdict /ColorConversionStrategy known {
+  systemdict /ColorConversionStrategy get cvn dup /Gray ne exch /CMYK ne and
+} {
+  (\nERROR: ColorConversionStrategy not set.)=
+  true
+} ifelse
+{ (ERROR: ColorConversionStrategy must be /DeviceGray or /DeviceCMYK.)=
+  /ColorConversionStrategy cvx /rangecheck signalerror
+} if
+
+systemdict /PDFX known {systemdict /PDFX get}{3} ifelse
+
+dup 1 eq {
+  [ /GTS_PDFXVersion (PDF/X-1a:2001)
+    /Title (Era Uma Vez um Mito - Grecia)
+    /Trapped /False
+  /DOCINFO pdfmark
+} if
+dup 3 eq {
+  [ /GTS_PDFXVersion (PDF/X-3:2002)
+    /Title (Era Uma Vez um Mito - Grecia)
+    /Trapped /False
+  /DOCINFO pdfmark
+} if
+4 eq {
+  [ /GTS_PDFXVersion (PDF/X-4)
+    /Title (Era Uma Vez um Mito - Grecia)
+    /Trapped /False
+  /DOCINFO pdfmark
+} if
+
+/ICCProfile (E:/books/producao/grega/entrega/perfil.icc) def
+
+currentdict /ICCProfile known {
+  [/_objdef {icc_PDFX} /type /stream /OBJ pdfmark
+
+  [{icc_PDFX} <<
+  systemdict /ColorConversionStrategy known {
+    systemdict /ColorConversionStrategy get cvn dup /Gray eq {
+      pop /N 1 false
+    }{
+      dup /RGB eq {
+        systemdict /PDFX known {systemdict /PDFX get}{3} ifelse
+        4 lt {
+          (RGB is not a valid ColorConversionStrategy for PDF/X output)=
+          /ColorConversionStrategycvx /rangecheck signalerror
+        } if
+      }{
+        /CMYK eq {
+          /N 4 false
+        }{
+          (ColorConversionStrategy not a device space, falling back to ProcessColorModel, output may not be valid PDF/X.)=
+          true
+        } ifelse
+      } ifelse
+    } ifelse
+  } {
+    (ColorConversionStrategy not set, falling back to ProcessColorModel, output may not be valid PDF/X.)=
+    true
+  } ifelse
+
+  {
+    currentpagedevice /ProcessColorModel get
+    dup /DeviceGray eq {
+      pop /N 1
+    }{
+      dup /DeviceRGB eq {
+        systemdict /PDFX known {systemdict /PDFX get}{3} ifelse
+        4 lt {
+          (RGB is not a valid ProcessColorModel for PDF/X output)=
+          /ColorConversionStrategycvx /rangecheck signalerror
+        } if
+      }{
+        dup /DeviceCMYK eq {
+          pop /N 4
+        } {
+          (ProcessColorModel not a device space.)=
+          /ProcessColorModel cvx /rangecheck signalerror
+        } ifelse
+      } ifelse
+    } ifelse
+  } if
+  >> /PUT pdfmark
+  [{icc_PDFX} ICCProfile (r) file /PUT pdfmark
+} if
+
+[/_objdef {OutputIntent_PDFX} /type /dict /OBJ pdfmark
+[{OutputIntent_PDFX} <<
+  /Type /OutputIntent
+  /S /GTS_PDFX
+  /OutputCondition (Commercial and specialty printing - perfil generico, pendente grafica)
+  /Info (Ghostscript default_cmyk.icc - substituir pelo perfil da grafica escolhida)
+  /OutputConditionIdentifier (none)
+  /RegistryName (http://www.color.org)
+  currentdict /ICCProfile known {
+    /DestOutputProfile {icc_PDFX}
+  } if
+>> /PUT pdfmark
+[{Catalog} <</OutputIntents [ {OutputIntent_PDFX} ]>> /PUT pdfmark

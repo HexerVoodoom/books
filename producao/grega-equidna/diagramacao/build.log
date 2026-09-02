@@ -1,0 +1,96 @@
+# build.log — miolo grega-equidna (Equidna e as portas do mundo)
+# mito-diagramador · Fase 4 antecipada (sem as 22 peças de arte; toda posição sai como encaixe nomeado)
+Tue Sep  1 22:13:17 ESAST 2026
+
+$ export PATH="/e/tools/typst-x86_64-pc-windows-msvc:/e/tools/gs_extracted/bin:$PATH"
+$ typst --version
+typst 0.15.1 (9dfd3a08)
+
+$ python gerar_miolo.py
+miolo.typ gerado
+
+$ typst compile miolo.typ miolo.pdf
+EXIT=0  (sem warning)
+
+$ ls -l miolo.pdf
+-rw-r--r-- 1 Sperandio 197609 276383 Sep  1 22:13 miolo.pdf
+
+$ python (pypdf) — paginas / mediabox / fontes / mapa real de paginas
+paginas: 49  (orcado: 48)
+mediabox pts: 598.1102 x 598.1102  (= 21,1 cm = trim 20,5 + 2 x 3 mm de sangria)
+
+   /ARLSIO+LibertinusSerif-Regular-Identity-H     | /Type0 | embutida: True
+   /AZSKXC+LibertinusSerif-Bold-Identity-H        | /Type0 | embutida: True
+   /HNCEJW+DejaVuSansMono                         | /Type0 | embutida: True
+   /IEOGQJ+DejaVuSans                             | /Type0 | embutida: True
+   /JNTYAU+DejaVuSans-Oblique                     | /Type0 | embutida: True
+   /TIUJTR+DejaVuSans-Bold                        | /Type0 | embutida: True
+
+--- mapa real de paginas (prova de composicao R6.2) ---
+  1 | E R A U M A V E Z U M M I T O
+  2 | 
+  3 | E R A U M A V E Z U M M I T O · G R É C I A · H I S T Ó R I A S D E D E 
+  4 | Ficha técnica Equidna e as portas do mundo Coleção “Era Uma Vez um Mito”
+  5 | Sumário 1 · A caverna e as portas 7 2 · O dragão que nunca dormia 11 3 ·
+  6 | Para quem já pediu “de novo” antes de o livro fechar. Estas histórias vê
+  7 | C A P Í T U L O 1 A caverna e as portas T oda coisa preciosa do mundo an
+  8 | O gado. O portão. O pântano. A montanha. Quatro portas ocupadas. E depoi
+  9 | A caverna de Equidna não era um esconderijo: era presente. O poeta grego
+ 10 | ENCAIXE DE ILUSTRAÇÃO — FAL TA GERAR arquivo esperado: 01-equidna-a-cave
+ 11 | C A P Í T U L O 2 O dragão que nunca dormia Longe, num lugar chamado Cól
+ 12 | Ela era uma moça, e chegou perto do bicho, e fez a única coisa que ningu
+ 13 | deitou a cabeça, soltou os anéis. Você sabia? Em grego, o dragão da Cólq
+ 14 | ENCAIXE DE ILUSTRAÇÃO — FAL TA GERAR arquivo esperado: 02-dragao-da-colq
+ 15 | C A P Í T U L O 3 Órtro e o gado vermelho O que Órtro (Órthros) guardava
+ 16 | Aí o boieiro ia dormir, e Órtro ficava mais um pouco na porteira, olhand
+ 17 | Você sabia? Órtro é o primeiro. No catálogo do poeta Hesíodo — a lista m
+ 18 | ENCAIXE DE ILUSTRAÇÃO — FAL TA GERAR arquivo esperado: 03-ortro-o-turno-
+ 19 | C A P Í T U L O 4 Ladon e o gigante que segurou o céu No fim do mundo, m
+ 20 | O dragão viu o gigante chegar. Viu o gigante sair. Não se mexeu. Atlas v
+ 21 | Lá dentro, as folhas ainda murmuravam com muitas vozes. Você sabia? Héra
+ 22 | ENCAIXE DE ILUSTRAÇÃO — FAL TA GERAR arquivo esperado: 04-ladon-e-o-pedi
+ 23 | C A P Í T U L O 5 A pergunta da Esfinge Isso aconteceu numa estrada. A e
+ 24 | ENCAIXE DE ILUSTRAÇÃO — FAL TA GERAR arquivo esperado: 05-a-pergunta-da-
+ 25 | Ela tinha uma pergunta. Quem chegava ouvia a pergunta. Quem não sabia a 
+ 26 | Uma voz só. Três jeitos de andar. O bebê, a pessoa crescida e o avô com 
+ 27 | C A P Í T U L O 6 O leão de pele impossível Um rei mandou buscar uma pel
+ 28 | ENCAIXE DE ILUSTRAÇÃO — FAL TA GERAR arquivo esperado: 06-o-leao-antes.p
+ 29 | No caminho, Héracles parou numa cidade chamada Cleonas, na casa de um ho
+ 30 | Héracles saiu pela boca aberta e desceu as colinas devagar, porque o pes
+ 31 | C A P Í T U L O 7 Cérbero volta para casa O portão do mundo de baixo fic
+ 32 | — Pode levá-lo — disse. — Se conseguir segurá-lo sem usar nenhuma das ar
+ 33 | ENCAIXE DE ILUSTRAÇÃO — FAL TA GERAR arquivo esperado: 07-cerbero-o-abra
+ 34 | E não soltou. A cauda de dragão mordeu. Ele não soltou. As serpentes das
+ 35 | C A P Í T U L O 8 Tifão, o pai de tudo Este livro começou numa caverna, 
+ 36 | ENCAIXE DE ILUSTRAÇÃO — FAL TA GERAR arquivo esperado: 08a-tifao.png (p.
+ 37 | Zeus desceu do Olimpo. E depois daquele dia Tifão não subiu mais. Ele fi
+ 38 | ENCAIXE DE ILUSTRAÇÃO — FAL TA GERAR arquivo esperado: 08b-o-retrato-de-
+ 39 | Cérbero, com as bocas que ninguém consegue contar, e a cauda de dragão q
+ 40 | E a caverna continua lá. Funda, debaixo da pedra oca, com o teto alto e 
+ 41 | Glossário Nomes, grafia, transliteração e palavras difíceis do livro, em
+ 42 | Ladon (Ládōn, “LA-don”) — o dragão que morava dentro da árvore das maçãs
+ 43 | De onde vêm estas histórias Este livro foi recontado a partir do enredo 
+ 44 | Nenhuma linha aqui foi traduzida de edição prote- gida: os capítulos for
+ 45 | Perguntas que as crianças fazem Estas são as perguntas que aparecem de v
+ 46 | — Por que a Hera mandou ela para lá? A história não conta o motivo, e a 
+ 47 | Colofão Composto em T ypst, nas famílias Libertinus Serif (títulos) e De
+ 48 | 
+ 49 | F I M
+
+--- VEREDITO DA OCUPACAO ---
+pp. 1-6   pre-texto ............................ CABE (6/6)
+caps. 1-4 4 pp cada, full-bleed na 4a pagina ... CABE (7-10 / 11-14 / 15-18 / 19-22)
+cap. 5    4 pp, full-bleed na p. 24 ............ CABE (23-26)
+cap. 6    4 pp, full-bleed p.28 + 2 vinhetas ... CABE (27-30) com v1=24mm e v2=44mm;
+          acima de ~70 mm somados de vinheta o capitulo estoura para 5 pp.
+cap. 7    4 pp, full-bleed na p. 33 ............ CABE (31-34)
+cap. 8    6 pp, 2 full-bleeds (36 e 38) ........ CABE (35-40)
+glossario 2 pp (48 verbetes) .................. CABE (41-42)
+fontes    1 pp orcada ......................... ESTOURA: ocupa 2 pp (43-44).
+          Excedente medido: 3 linhas / 17 palavras ("Nenhuma linha aqui foi
+          traduzida de edicao protegida: os capitulos foram recontados a partir
+          do enredo."). Corte de ~20 palavras devolve a pagina unica -> 48 pp.
+perguntas 2 pp (24 perguntas) ................. CABE (45-46, hoje deslocadas +1)
+colofao   1 pp (+ reserva bibliografia PT-BR e credito de acervo) ... CABE
+guardas   2 pp ................................ CABE
+TOTAL COMPILADO: 49 pp. Deficit unico e nomeado: 3 linhas na p. de Fontes.
