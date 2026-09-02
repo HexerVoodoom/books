@@ -765,3 +765,337 @@ duas páginas.
 5. Pendência do dono, inalterada desde a 1ª sessão (§1.4b): **nomear a criança do teste de
    nomeação, quem aplica e onde o veredito é gravado.** Todo "proxy, sem leitor real" deste
    arquivo depende dela.
+
+---
+
+# CURADORIA 3b — QUARTA SESSÃO (2026-09-02, fim de tarde)
+
+> Peças julgadas: `sheet-cerbero-G-planoB3` · `sheet-heracles-B` ·
+> `02-dragao-da-colquida-A` (p. 14) · `03-ortro-o-turno-de-trabalho-A` (p. 18).
+> Julgado contra `guia-de-estilo.md` v2.3 (§1.2b, §1.3a, §1.4a, §1.5b, §1.5d, §1.5e, §5.1b, §6),
+> `DIRECAO-DO-DONO.md` (que **vence o guia** em conflito de tratamento) e os caps. 2, 3 e 7.
+> **O ilustrador não aprova a própria imagem. Estes vereditos são meus.**
+
+## 20. Veredito em uma linha
+
+| Peça | Veredito |
+|---|---|
+| **`sheet-cerbero-G-planoB3`** | ✅ **APROVADA COM ERRATA** — é a folha-âncora de Cérbero. **A CAPA ESTÁ DESTRAVADA.** |
+| `sheet-heracles-B` | ❌ **REPROVADA — C4 de novo, pelo modo OPOSTO.** Rodada 3 de 3 |
+| **`03-ortro-o-turno-de-trabalho-A`** | ✅ **APROVADA como asset** — sai como está |
+| `02-dragao-da-colquida-A` | 🟡 **REDIRECIONAR — 1 geração, 1 mudança.** Tudo o mais está certo |
+
+---
+
+## 21. 🔴 `sheet-cerbero-G-planoB3` — CONFIRMO A LEITURA PRÉVIA, E A FOLHA FECHA
+
+### 21.1 Confirmação item a item da leitura prévia do dono
+
+**Confirmo os cinco pontos, sem emenda.** Ampliei a gola do estudo 1 e o que está pintado é
+exatamente o que a leitura prévia descreve:
+
+1. ✅ **Os perfis caninos SOBREVIVERAM à regeração.** Estão lá como **linha** — testa, focinho,
+   orelha — em traço fino ocre dentro da juba pálida, **sem olho, sem pupila, sem boca, sem
+   narina**, cada um nascendo da volta anterior e morrendo na franja externa. O bloco
+   `[THE RUFF IS MADE OF DOGS]` (§14.4) **fez exatamente o que foi escrito para fazer** — a
+   blindagem do que já estava certo funcionou, que era o risco nomeado da regeração.
+2. ✅ **Contorno aberto.** Cada perfil é linha contínua no alto e **dissolve na massa** embaixo;
+   nenhum fecha em cabeça. A régua do §1.5e (o não-contável sai do ornamento) segue cumprida.
+3. ✅ **Teste de nomeação (proxy, sem leitor real):** P1 → **"cachorro"**, com orelhas caídas
+   escuras · P2 → afirmativa. À primeira olhada lê **um** cão de juba grande; os perfis só
+   aparecem no segundo olhar. É a hierarquia certa: a criança vê cachorro, o adulto vê muitos.
+4. ✅ **Os numerais sumiram** — C3 passa, e era a única reprova de `E`.
+5. ✅ **As cercaduras laterais estão limpas** — meandro puro, **as duas vinhetas azuis de mar
+   sumiram**. A linha anti-paisagem funcionou.
+6. ✅ **O friso orientalizante de baixo está exemplar** — felinos chapados em perfil, todos para
+   o mesmo lado, sobre campo denso de rosetas, em banda própria separada por filete. C4 e C5 ✅.
+7. ✅ **A orelha caída voltou a ser a coisa mais legível da folha** nos estudos 1 e 3 — pretas,
+   pesadas, dobradas contra a face. Luz quente nos rostos, olhos castanhos legíveis (C6 ✅).
+8. ✅ **A cauda-dragão do estudo 1** — a grande, a que está presa ao corpo, a que as páginas vão
+   copiar — está **de boca fechada, sem dente, sem olho voltado ao leitor**.
+   🔴 **Guardar este fato: ele decide o §21.2.**
+
+**Ressalva registrada, que NÃO reprova:** o **estudo 2 (perfil, corpo inteiro) não traz gola
+nenhuma** — é vista de anatomia e postura, com uma cabeça e as serpentes corretamente no
+**dorso**. A regra do §6.3 ("todas as vistas mostram o mesmo número de cabeças") continua
+cumprida, porque no Plano B o número é **um**; o que falta ali é o atributo da gola, e o atributo
+está resolvido em tamanho grande no estudo 1, que é a vista que ancora a capa. Não gasto uma
+folha inteira por isso.
+
+### 21.2 🔴 O VEREDITO SOBRE OS DENTES DA CAUDA — não reprova a folha, e eu digo por quê
+
+**Confirmo o defeito, e ele é real:** o **estudo pequeno da cauda-dragão, à direita**, está de
+**boca aberta com presas superiores e inferiores à mostra**, e ainda por cima com um **olho claro
+alaranjado**. Isso viola o §5.1b(1) (*"a cauda não mostra dente"*), viola o §6(3) da capa
+(*"sem boca, sem dente, sem olho voltado para o leitor"*) e é **regressão**: `E-planoB` passou
+neste mesmo item e eu o marquei ✅ no §14.3. Não é preciosismo — é a válvula do perigo virando o
+segundo objeto que o olho da criança encontra.
+
+**E mesmo assim NÃO reprovo a folha. Três razões, em ordem de peso:**
+
+1. 🔴 **A folha contém a versão CERTA do mesmo atributo, e ela é a maior.** A cauda do estudo 1
+   é de boca fechada, sem dente e sem olho ao leitor — e é **essa** que ocupa a área grande, é
+   essa que está presa ao corpo do animal, e é essa que um prompt de página copia ao dizer "a
+   cauda como na folha". A folha não ensina o erro; ela o carrega num canto.
+2. 🔴 **O custo da correção é assimétrico, e o risco é o que eu já nomeei.** Uma quarta geração
+   para limpar 4% da área é apostar os **perfis caninos** — o único ativo que cinco candidatas
+   não conseguiram produzir e que esta acabou de conservar. Foi exatamente o risco que escrevi
+   no §14.4 (*"se os perfis se perderem e voltar juba lisa"*). **Não se arrisca o achado da fase
+   para consertar uma vinheta.**
+3. 🔴 **O defeito é removível SEM geração.** O estudo está isolado sobre papel liso `#F6EFE2`,
+   sem sobreposição com nada. Sai por edição, como os numerais de `E` sairiam na diagramação.
+
+> ### ERRATA VINCULANTE DA FOLHA (grava junto do asset; não é opcional)
+>
+> 1. 🔴 **O estudo pequeno da cauda-dragão à direita está ANULADO como referência.** A cauda
+>    canônica de Cérbero é **a do estudo 1**: boca fechada, sem dente, sem olho ao leitor.
+> 2. 🔴 **Gerar o arquivo `sheet-cerbero-G-REF.png`** — cópia da folha com aquele estudo
+>    **apagado para o papel de fundo** (edição, zero geração). **É essa cópia, e só ela, que vai
+>    anexada** nos prompts da capa, de `07`/p. 33 e de `08a`/`08b`. A folha integral fica
+>    arquivada como registro da sessão.
+> 3. 🔴 **Cláusula obrigatória em todo prompt que carregue a cauda** (capa, p. 33, 08a/08b),
+>    verbatim:
+>    `the dragon tail has its MOUTH CLOSED: no open jaw, no teeth, no fang, no tongue, no red eye, and its eye is never turned to the viewer. It COILS AROUND AND HOLDS; it does not bite.`
+> 4. **Se a página `07` repetir o dente, a página reprova — sozinha e sem discussão.** A
+>    tolerância é do estudo de atributo, **não** da página. Este parágrafo é o que separa as duas.
+>
+> **Sem esta errata escrita, a folha NÃO está aprovada.** Com ela, está.
+
+### 21.3 Checklist de `G` — item a item
+
+| Item | Veredito |
+|---|---|
+| C1 4:3 · C2 2360×1792 · C8 PNG real | ✅ |
+| **C3 texto / numeral / rótulo / seta** | ✅ **limpo** — a reprova de `E` está corrigida |
+| C4 hierarquia X5 | ✅ aquarela nas figuras; chapado só no friso e na gola-ornamento |
+| C5 criatura na faixa geométrica | ✅ meandro e palmeta puros nas quatro cercaduras |
+| C6 luz no rosto (§1.2b) | ✅ estudos 1, 2 e 3; olhos castanhos quentes, legíveis |
+| C7 teto ≤5 nítidas | ✅ uma cabeça nítida por estudo |
+| **Item 11 — não-contável** | ✅ **entregue** — os perfis se fundem, não há fronteira |
+| Camada 2 presente, área maior que a nítida | ✅ com folga no estudo 1 |
+| Zero olho / boca / pupila dentro da gola | ✅ |
+| Orelha caída, a coisa mais legível da folha | ✅ estudos 1 e 3 |
+| Serpente no dorso, não no pescoço | ✅ estudo 2 |
+| **Cauda-dragão do estudo 1** | ✅ boca fechada, sem dente, não olha o leitor |
+| **Cauda-dragão do estudo pequeno** | 🔴 **boca aberta, dentes, olho claro — ANULADA pela errata §21.2** |
+| Coleira / chama / baba / língua / sorriso / olho vermelho | ✅ nenhum |
+| Cor local quente e saturada (§1.5d) | ✅ ocre/terracota; cinza-bege não voltou |
+| Papel liso, luz plana, sem cena (§1.5d) | ✅ |
+| Nomeação (§1.4a) | ✅ P1 → "cachorro" · P2 → afirmativa — **proxy, sem leitor real** |
+| 🟡 Ressalva | estudo 2 sem gola — vista de anatomia; não reprova (§21.1) |
+
+> ### 🔴 `sheet-cerbero-G-planoB3` É A FOLHA-ÂNCORA DE CÉRBERO. A CAPA ESTÁ DESTRAVADA.
+> Sete candidatas (A · B · C-r2 · D-r3 · E · F · G). `E-planoB` fica arquivada em `brutos/` como
+> a candidata que provou o conceito; `F` como registro do erro. **O gatilho do §8.3 morre aqui,
+> cumprido.** `00-capa` pode ser briefada agora, com `sheet-cerbero-G-REF.png` anexada.
+
+---
+
+## 22. `sheet-heracles-B` — ❌ REPROVADA. A técnica capotou para o outro lado
+
+**A chamada da pele continua derrubada e não volta à mesa** (§16.1). O que julgo aqui é técnica.
+
+### 22.1 O que a regeração conseguiu
+
+- ✅ **O estudo de costas entrou e está certo** (§16.2 item 3): a leontê caindo dos ombros **até
+  o chão** como manto inteiro, lida como silhueta. É o ativo que faltava ao acervo — **guardar
+  esta composição na próxima rodada.**
+- ✅ D3 cumprida: nunca sobre a cabeça, sem capuz, sem elmo, sem escalpo. Clava presente e baixa;
+  a figura da esquerda sem a pele; zero sangue, zero ferida, zero leão morto, zero pose
+  triunfal. Zero texto, zero numeral.
+- ✅ O rosto realista-renderizado da folha `A` **sumiu**.
+
+### 22.2 🔴 O que reprova: a folha não é mais aquarela **nenhuma**
+
+Pedi *"a técnica da folha anexada"* e o gerador entregou **o oposto exato do defeito anterior**:
+saiu do rendering fotográfico e caiu em **vetor chapado / cel-shading** — **contorno preto duro e
+de espessura uniforme em volta de tudo**, **preenchimentos chapados sem variação de valor dentro
+da forma**, sombra em degrau, **zero sangramento de borda, zero granulação de papel, zero lavagem
+transparente**. Não há uma única aresta molhada na folha inteira.
+
+> **Isto colide de frente com a `DIRECAO-DO-DONO.md`, item 1** — que institui *"aquarela de
+> verdade, molhada… **não o preenchimento chapado**"* — e a direção do dono **vence o guia**.
+> Não é discordância de gosto: é a única regra do projeto que não é minha para flexibilizar.
+
+E o problema original **não foi resolvido**: contra `sheet-leao-nemeia-A`, aprovada na sessão 3
+como *"a melhor peça da fase"*, esta continua sendo **outra técnica**. Héracles divide a abertura
+da p. 33 com o leão e com Cérbero. **Duas técnicas na mesma abertura continua sendo o defeito que
+o leitor vê antes de qualquer outro.** Resposta à pergunta desta sessão: **não, elas ainda não
+convivem.**
+
+**Diagnóstico de redação, e ele é meu:** eu escrevi a instrução como **lista de negações**
+(*"NO photographic modelling, NO rendered muscle, NO shiny skin"*). O gerador obedeceu as três
+negações e escolheu sozinho o estilo que mais barato as satisfaz — o chapado. **Pela regra §1.5e
+que esta curadoria comprou, negação não é objeto de `PAINT`.** A técnica precisa virar **bloco
+imperativo com substantivo de desenho e critério verificável**, como a gola virou.
+
+### 22.3 Direção para a rodada 3 de 3 (1 geração, conversa nova)
+
+> 1. Anexar `sheet-leao-nemeia-A.jpg` de novo, e **trocar a lista de negações** por bloco próprio:
+>
+> ```
+> [HOW THIS IS PAINTED - MANDATORY, PAINT IT THIS WAY]
+> PAINT EVERY FIGURE AS A WATERCOLOUR WASH ON ROUGH PAPER, exactly like the attached sheet:
+> lay each area as ONE TRANSPARENT WASH that is LIGHTER AT ONE EDGE AND DARKER AT THE OTHER,
+> and let the wash BLEED SOFTLY INTO THE WASH BESIDE IT so the two colours mix where they meet.
+> The GRAIN OF THE PAPER MUST SHOW THROUGH every colour, and every edge must be a SOFT WET EDGE.
+> The drawing line is a THIN BROKEN PENCIL LINE that appears and disappears - NEVER a black
+> outline of even thickness, and NEVER a flat area of one single colour.
+> NO cel shading, NO vector art, NO digital fill, NO step shadow.
+> ```
+> 2. Manter o bloco Mucha do §16.2 (**cabelo e barba como MECHAS ORNAMENTAIS de cachos
+>    correntes**) — na `B` ele só apareceu como onda chapada.
+> 3. **Manter intacto o estudo de costas da `B`**, repetido verbatim: é o único ganho da rodada,
+>    e é o que se perde numa regeração.
+> 4. 🆕 **A cabeça do leão no peito vira três-quartos e o olhar sai do eixo:**
+>    `the lion head on his chest is turned THREE-QUARTERS AWAY, its eyes looking slightly to one side, never at the viewer; mouth closed, no teeth.`
+>    Frontal e travada, ela lê como **segunda face olhando a criança** — é a mesma trava do
+>    §6(2) da capa, e vale para qualquer rosto animal grande do livro.
+> 5. 🆕 **Devolver a Banda B** (friso orientalizante em faixa própria, separada por filete): a
+>    `B` só tem meandro, e o §1.3a pede as duas bandas numa folha de modelo.
+> 6. Não mexer na pele, na clava, na figura sem a pele, nem na lista negativa. **Rodada 3 de 3:
+>    se falhar de novo em C4, a folha vai ao `gate.md` com A e B, e o dono decide.**
+
+---
+
+## 23. ✅ `03-ortro-o-turno-de-trabalho-A` (p. 18) — APROVADA como asset
+
+Sai como está. É a leitura mais limpa de "turno de trabalho" que o livro podia pedir.
+
+| Item | Veredito |
+|---|---|
+| **Duas cabeças** (obrigatório, Apolod. 2.5.10) | ✅ duas, nítidas, no mesmo peito largo, junção resolvida sem costura |
+| **Uma baixa contando o rebanho, a outra erguida para o horizonte do mar** | ✅ **literal** — é a expressão que carrega o capítulo, e ela está no quadro |
+| Amável na primeira olhada, sem desenho animado | ✅ boca fechada, zero dente, orelhas caídas macias, porte grande e sério |
+| **Nomeação (§1.4a)** | ✅ P1 → **"cachorro"** · P2 → afirmativa — **proxy, sem leitor real** |
+| Luz no rosto (§1.2b) | ✅ luz baixa e quente nas **duas** cabeças; olhos castanhos legíveis |
+| **Gado vermelho de fim de tarde** | ✅ vermelho-tijolo saturado, não terracota apagado — o título vive dessa cor e ela está lá |
+| Rebanho **sem número legível** | ✅ o friso **é cortado pela cercadura à esquerda**: a conta fica aberta, a imagem não afirma quantas |
+| Rebanho descendo para a água | ✅ |
+| **Euritião com o cajado no ombro**, colega de trabalho | ✅ ao fundo à esquerda, roupa simples, atento ao mesmo rebanho — figurante nenhum |
+| **Héracles fora de quadro** | ✅ **sem Héracles, sem clava, sem sombra ameaçadora, sem sangue, sem corpo** |
+| Gerião ausente | ✅ |
+| **Sem cauda de serpente** (proibida — sem lastro textual) | ✅ cauda de cão |
+| Eritia, sol baixo sobre o Oceano | ✅ faixa dourada no horizonte, rastro de luz na água |
+| Continuidade: paisagem aberta e marítima × as duas cavernas | ✅ inconfundível |
+| ≤5 nítidas (R4.2) | ✅ Órtro · Euritião · o rebanho como massa |
+| **Tratamento do dono** | ✅ **aquarela molhada de verdade** — lavagens sangrando, grão do papel no céu e no mar, borda molhada; **zero chapado** |
+| Cor local da criatura (§1.5d) | ✅ ocre quente e saturado; cinza-bege não voltou |
+| Moldura | ✅ meandro + palmetas em faixa própria, **nenhuma criatura dentro** |
+| C1 quadrado 2048² (formato de `01-C-dono` e `08c-40`) · C3 zero texto | ✅ |
+
+**Duas ressalvas registradas, nenhuma reprova:** (i) o **alto do céu está mais de meio-dia que de
+entardecer** — o poente resolve-se só na faixa do horizonte; a rima "vermelho do gado × vermelho
+do poente" existe, mas fica por conta do gado. Se a diagramação puder aquecer o alto do céu meio
+ponto, ganha; **não vale uma geração.** (ii) a cabeça baixa tem sobrancelha pesada e lê um toque
+melancólica — **a favor da página**, não contra: o capítulo é um turno de trabalho que vai
+acabar, e a criança lê "atento", não "triste". **Fica.**
+
+---
+
+## 24. 🟡 `02-dragao-da-colquida-A` (p. 14) — REDIRECIONAR: 1 geração, 1 mudança
+
+**Quase tudo está certo, e o que está certo é o difícil.** Não se refaz do zero.
+
+### 24.1 O que a peça acerta — e acerta o coração do capítulo
+
+- ✅ **O instante é o instante:** a **mandíbula tocando o chão**, a cabeça enorme no baixo do
+  quadro, o pescoço comprido cedendo. **Os olhos estão FECHADOS**, pálpebra macia, sem pupila.
+  A leitura é **"bicho exausto que finalmente descansa"**, não "fera domada" — que é a rota
+  honesta que o capítulo exigia e o item mais difícil do brief.
+- ✅ **Zero língua, zero baba, zero dente exibido.** Há **uma presa curta** saindo da mandíbula
+  **fechada e encostada no chão**, e ela lê como dente de bicho grande em repouso, não como
+  ameaça. **Passa** — e é o contraste que prova o §21.2: lá a boca está aberta, aqui não.
+- ✅ **Medeia é o centro e o herói é a margem** — a hierarquia que o capítulo pede, invertida em
+  relação a qualquer livro de herói. **Boca entreaberta: ela ainda está cantando.** Mão pousada
+  na cabeça do bicho ✅. **Ramo de zimbro legível** na outra mão ✅. Sem gestual de feiticeira,
+  sem pote erguido ✅. É **uma moça** — não uma bruxa, não uma criança ✅.
+- ✅ **Nenhuma arma no quadro. Nenhum sangue, nenhuma ferida, nenhum corpo.**
+- ✅ **Os anéis se desenrolam para trás e somem atrás dos troncos** — o corpo mede o bosque e não
+  se segue a espiral até o fim. **Não-contável ✅.** Manchas grandes e arredondadas, **zero
+  losango** ✅.
+- ✅ **O Velo é a única fonte de luz forte**, alta, como uma aurora presa num galho ✅.
+- ✅ **Continuidade:** mata aberta e vertical, com água ao lado — inconfundível com as duas
+  cavernas ✅. Noite de **escuro quente**, azul aliado da canção, nada de terror ✅.
+- ✅ **Tratamento do dono:** aquarela molhada, lavagens sangrando, grão do papel na água e nas
+  copas; criatura com **cor local saturada** (verde-mata com manchas laranja-queimado e ocre) ✅.
+- ✅ Moldura meandro + palmetas em faixa própria, sem criatura dentro ✅. **4 nítidas** (dragão,
+  Medeia, Jasão, o carvalho com o Velo) ✔ teto R4.2. Zero texto ✅.
+- ✅ **Nomeação (proxy, sem leitor real):** P1 → "dragão dormindo" / "bicho grande" · P2 →
+  afirmativa.
+
+### 24.2 🔴 O defeito, e é um só: **O VELO APARECE DUAS VEZES**
+
+Há **dois Velos de Ouro no mesmo quadro**: o **pendurado no galho**, inteiro, aceso, com cabeça e
+patas — e um **segundo**, nos braços de Jasão, à direita. São dois objetos distintos, os dois
+dourados, os dois legíveis.
+
+**Isso reprova a composição, e não é rigor de guia — é o enredo.** O capítulo tem **um** Velo, e a
+frase é *"Jasão tirou o Velo do carvalho"*. Duas peças de ouro na mesma página é a única pergunta
+sem resposta que a imagem cria, e é exatamente do tipo que a criança faz e o adulto não sabe
+responder. Some-se: a mão erguida de Jasão pousa **no tronco**, não no galho — o gesto não lê como
+"tirando", lê como "encostado na árvore", o que deixa o segundo Velo ainda mais órfão.
+
+**A origem é minha, e registro:** o brief do capítulo pede o Velo *"ainda pendurado"* **e** Jasão
+*"com o Velo nos braços **ou** no gesto de tirá-lo do galho"*. O gerador cumpriu as duas metades
+ao pé da letra. **Onde a spec oferece "ou", este gerador entrega "e".**
+
+**A escolha é o Velo pendurado.** O instante da página é *"a mandíbula toca o chão"*, e ele
+acontece **antes** de Jasão tirar o Velo. Além disso o Velo no galho é a **única fonte de luz
+forte** do quadro — tirá-lo apagaria a página.
+
+### 24.3 Direção para a próxima geração (1 geração, conversa nova, `02-A` anexada)
+
+> **Sob a régua D9-A (§11): a ficha da cena entra verbatim, e a mudança é bloco próprio.**
+>
+> ```
+> [THE ONE CHANGE]
+> There is ONLY ONE Golden Fleece in this picture, and it is STILL HANGING ON THE OAK BRANCH,
+> alight, the only strong light in the whole picture. PAINT JASON WITH BOTH HANDS EMPTY,
+> REACHING UP TOWARD THE HANGING FLEECE, his weight on his back foot, his shoulders drawn in,
+> looking at the sleeping dragon and not at the fleece - a man who is afraid and goes anyway.
+> NO second fleece, NO fleece in his arms, NO gold cloth anywhere else in the picture.
+> This is the ONLY change. Nothing else in the picture changes.
+> ```
+>
+> **Blindar verbatim, porque é o que se perde numa regeração:** os olhos fechados do dragão · a
+> mandíbula tocando o chão · a boca fechada, sem língua e sem dente exibido · Medeia com a mão na
+> cabeça, cantando, o ramo de zimbro na outra mão · nenhuma arma no quadro · os anéis sumindo
+> entre os troncos · o Velo aceso como única luz forte · a aquarela molhada e a paleta.
+
+---
+
+## 25. O que muda no guia — emenda **v2.4**
+
+1. 🆕 **§5.1b ganha a cláusula de transmissão:** a trava da cauda-dragão passa a ser **cláusula
+   obrigatória de prompt**, colada verbatim em toda peça que carregue a cauda (capa, p. 33,
+   08a/08b) — redação no §21.2 item 3. A folha de modelo **não** dispensa a cláusula.
+2. 🆕 **REGRA DO ANEXO SANEADO:** quando uma folha aprovada contiver um estudo com defeito
+   tolerado, **gera-se uma cópia `-REF` com o estudo apagado**, e é a cópia que vai anexada.
+   Defeito tolerado numa folha **nunca** viaja para uma página por anexo. (Instituída em §21.2.)
+3. 🔴 **§1.5e estendida à TÉCNICA:** negação não é objeto de `PAINT`. Uma lista de "NO x, NO y"
+   faz o gerador escolher o estilo mais barato que as satisfaz — foi assim que `sheet-heracles-B`
+   caiu no chapado. **Toda instrução de técnica vira bloco imperativo com substantivo de desenho
+   e critério verificável a olho nu** (redação no §22.3).
+4. 🆕 **"A OU B" NÃO EXISTE EM PROMPT DE PÁGINA.** Onde o brief do capítulo oferece alternativa,
+   o prompt **escolhe uma e proíbe a outra por nome**. Foi o que duplicou o Velo em `02-A`.
+5. 🆕 **Rosto animal grande = olhar fora do eixo.** A trava do §6(2), escrita para a capa, passa a
+   valer para **qualquer** rosto animal grande e frontal do livro — inclusive a cabeça do leão no
+   peito de Héracles.
+
+---
+
+## 26. Próximos passos (sessão 5)
+
+1. **Editar (zero geração):** `sheet-cerbero-G-REF.png` — cópia da folha sem o estudo pequeno da
+   cauda. **Bloqueia a capa até existir.**
+2. `mito-ilustrador`: **`00-capa` — DESTRAVADA.** Briefar com `sheet-cerbero-G-REF.png` anexada,
+   as travas do §6 e a cláusula de cauda do §21.2 item 3.
+3. `mito-ilustrador`: **`02` — 1 geração**, com `02-A` anexada + o bloco `[THE ONE CHANGE]` (§24.3).
+4. `mito-ilustrador`: **`sheet-heracles` — rodada 3 de 3**, com `sheet-leao-nemeia-A.jpg` anexada
+   + o bloco `[HOW THIS IS PAINTED]` (§22.3). Se falhar de novo em C4, vai ao gate.
+5. **Aprovadas e liberadas para a Fase 4:** `sheet-cerbero-G-planoB3` (com a errata §21.2) ·
+   `03-ortro-o-turno-de-trabalho-A` · `sheet-leao-nemeia-A` · `08c-40-a-caverna-ultima-pagina-A` ·
+   `01-C-dono`.
+6. Pendência do dono, aberta desde a 1ª sessão (§1.4b): **nomear a criança do teste de nomeação,
+   quem aplica e onde o veredito é gravado.** Todo "proxy, sem leitor real" depende dela.
