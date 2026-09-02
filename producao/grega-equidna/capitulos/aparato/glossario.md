@@ -45,14 +45,14 @@ se mexe sozinha.
 **clava** (*CLA-va*) — pedaço de madeira grosso e pesado, mais largo numa ponta. Era a arma que
 Héracles carregava no ombro para todo lado — e que largou no chão, no capítulo 7.
 
-**Cleonas** (*Kleōnaí*, "cle-Ô-nas") — cidade pequena da Grécia, no caminho do vale de Nemeia.
-É onde mora Molorco.
+**Cleonas** (*Kleōnaí*, "cle-Ô-nas") — cidade pequena no caminho do vale de Nemeia. É onde mora
+Molorco.
 
 **Cólquida** (*Kolkhís*, "CÓL-qui-da") — terra distante, no fim do mar Negro, onde ficava o
 bosque do Velo de Ouro.
 
-**Delfos** (*Delphoí*, "DÉL-fos") — o lugar mais famoso da Grécia para se fazer uma pergunta
-aos deuses. Foi lá que Héracles perguntou onde deveria morar.
+**Delfos** (*Delphoí*, "DÉL-fos") — o oráculo mais famoso da Grécia. Foi lá que Héracles
+perguntou onde deveria morar.
 
 **enigma** (*e-NIG-ma*) — pergunta feita de propósito para ser difícil, com uma resposta só.
 Também se diz adivinha.
@@ -93,8 +93,8 @@ Esfinge para a estrada de Tebas e quem escolheu o vale de Nemeia para o leão.
 ouro, no fim do mundo. O nome delas quer dizer, mais ou menos, "as moças do poente".
 
 **Hesíodo** (*Hēsíodos*, "he-SÍ-o-do") — poeta grego de quase três mil anos atrás. É dele o
-poema mais antigo que se conservou sobre esta família, e é dele quase tudo o que se sabe sobre
-onde cada um foi ficar.
+poema mais antigo sobre esta família, e é dele quase tudo o que se sabe sobre onde cada um foi
+ficar.
 
 **Hidra** (*Hýdra*, "HI-dra") — criatura de muitas cabeças que foi guardar o pântano de Lerna.
 Quando uma cabeça era esmagada, nasciam duas no lugar.
@@ -114,8 +114,8 @@ Turquia. É a porta da Quimera.
 **Medeia** (*Mḗdeia*, "me-DEI-a") — a moça da Cólquida que chegou perto do dragão que nunca
 dormia e cantou para ele pedindo o sono. Nunca se escreve "Medéia".
 
-**Molorco** (*Mólorkhos*, "mo-LOR-co") — homem de Cleonas que trabalhava por dia, não tinha
-quase nada e hospedou Héracles. Contou trinta dias e estava na porta no trigésimo.
+**Molorco** (*Mólorkhos*, "mo-LOR-co") — homem de Cleonas que trabalhava por dia e hospedou
+Héracles. Contou trinta dias e estava na porta no trigésimo.
 
 **mundo de baixo** — o lugar para onde vão os que já viveram. Fica no fim de uma escada muito
 comprida e tem um portão, e no portão fica Cérbero. Os gregos chamavam esse lugar — e o dono
