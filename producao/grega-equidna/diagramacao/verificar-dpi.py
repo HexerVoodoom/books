@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verifica o DPI efetivo de cada PNG em producao/grega/ilustracoes/ contra o
+"""Verifica o DPI efetivo de cada PNG em producao/grega-equidna/ilustracoes/ contra o
 tamanho final exigido (21,1 x 21,1 cm @ 300 DPI = 2492 x 2492 px — spec da Fase 3).
 Rodar sempre que novas ilustrações chegarem, antes de fechar o gate da Fase 4."""
 import os, struct, sys
@@ -8,10 +8,11 @@ ILUS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "ilust
 ALVO_PX = 2492
 TRIM_MAIS_SANGRIA_CM = 21.1
 
-IDS = ["00-capa", "01-zeus-baucis-e-filemon", "02-atena-disputa-por-atenas",
-       "03-leto-e-a-ilha", "04-hermes-o-gado-e-a-lira", "05-hefesto-o-trono-de-ouro",
-       "06-demeter-e-persefone", "07-perseu-e-a-medusa", "08-teseu-e-o-minotauro",
-       "09-midas-o-toque-de-ouro", "10a-do-caos-abertura", "10b-do-caos-os-libertados"]
+IDS = ["01-equidna-a-caverna-e-as-portas", "02-dragao-da-colquida",
+       "03-ortro-o-turno-de-trabalho", "04-ladon-e-o-pedido-da-almofada",
+       "05-a-pergunta-da-esfinge", "06-o-leao-antes", "06v1-as-duas-bocas",
+       "06v2-a-pele", "07-cerbero-o-abraco-sem-armas", "08a-tifao",
+       "08b-o-retrato-de-origem", "08c-a-caverna-final"]
 
 def png_size(path):
     with open(path, "rb") as f:

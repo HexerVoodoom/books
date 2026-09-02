@@ -116,3 +116,138 @@ repetir.
 
 **Resultado com a p. 10 encaixada:** EXIT=0 · 48 páginas ✔ · mediabox 21,10 cm ✔ ·
 10.609.158 bytes (era 275.370 com placeholders — a diferença é a imagem real).
+
+## 2026-09-02 — ENSAIO DA FASE 5 (cadeia completa até PDF/X CMYK) · mito-diagramador
+
+Prefixo da sessão:
+    export PATH="/e/tools/typst-x86_64-pc-windows-msvc:/e/tools/gs_extracted/bin:$PATH"
+    export MSYS2_ARG_CONV_EXCL="*"
+
+### 1. scan-imagens.sh — reescrito para os 12 ids reais do miolo
+O script era herança do livro 1 (ids da Grécia). Agora varre os 12 ids que `miolo.typ`
+chama (9 fullbleed + 3 vinhetas). Saída real:
+
+    01-equidna-a-caverna-e-as-portas: true
+    02-dragao-da-colquida:            true
+    03-ortro-o-turno-de-trabalho:     true
+    04-ladon-e-o-pedido-da-almofada:  true
+    05-a-pergunta-da-esfinge:         false
+    06-o-leao-antes:                  false
+    06v1-as-duas-bocas:               false
+    06v2-a-pele:                      false
+    07-cerbero-o-abraco-sem-armas:    false
+    08a-tifao:                        false
+    08b-o-retrato-de-origem:          false
+    08c-a-caverna-final:              true
+
+**5 encaixadas, 7 placeholders** — não 6/6. Existem em `ilustracoes/` os arquivos
+`05-a-pergunta-da-esfinge-A.png`, `06-o-leao-antes-A.png` e
+`07-cerbero-o-abraco-sem-armas-A.png`, mas com sufixo de variante `-A`: são candidatos
+de curadoria ainda **não promovidos** ao id canônico. Renomear é decisão do
+mito-diretor-arte, não do diagramador.
+
+### 2. Typst
+    $ typst compile --root .. miolo.typ miolo.pdf
+    EXIT=0            (nenhum warning)
+    -rw-r--r-- 48.890.351 miolo.pdf
+
+### 3. Ghostscript → PDF/X CMYK
+    $ gswin64c -dPDFX -dBATCH -dNOPAUSE -dNOSAFER -sDEVICE=pdfwrite \
+        -sColorConversionStrategy=CMYK -dProcessColorModel=/DeviceCMYK \
+        -dPDFXSETBLEEDBOXTOMEDIABOX -sOutputFile=miolo-grafica.pdf PDFX_def.ps miolo.pdf
+    GPL Ghostscript 10.07.1 (2026-05-19)
+    Processing pages 1 through 48.
+    Page 1 ... Page 48
+    GS_EXIT=0
+    -rw-r--r-- 5.838.520 miolo-grafica.pdf
+
+Tamanho plausível (5,8 MB, ~124× o PDF falso de 1 KB da armadilha) — critério do
+pipeline atendido.
+
+### 4. ICC — armadilha resolvida
+`PDFX_def.ps` apontava para `E:/books/producao/grega/entrega/perfil.icc`, ou seja, o
+**diretório do livro 1**. Existe, mas é dependência cruzada entre livros: se o livro 1 for
+movido/limpo, este livro passa a gerar PDF falso de 1 KB sem avisar.
+
+Resolvido: `producao/grega-equidna/entrega/perfil.icc` criado a partir de
+`/e/tools/gs_extracted/iccprofiles/default_cmyk.icc`
+(md5 `fd199526f0a7e0bceb294a777cd84252`, 187.484 bytes), e a linha 43 do `PDFX_def.ps`
+passou a apontar para o caminho local do próprio livro. `/Title` também corrigido para
+o título deste volume. **Perfil PROVISÓRIO e declarado como tal** dentro do próprio
+`.ps` e no OutputIntent do PDF — o perfil da gráfica troca **um caminho só**.
+
+### 5. Armadilha reproduzida de propósito (para o livro 3 não cair)
+Com a linha 43 devolvida a `(ISO Coated sb.icc)`:
+
+    Last OS error: No such file or directory
+    GPL Ghostscript 10.07.1: Unrecoverable error, exit code 1
+    -rw-r--r-- 1.263 armadilha.pdf
+
+E, na mesma máquina, **chamando o gs dentro de um pipe (`| tail`), o `$?` lido foi `0`**
+enquanto o arquivo saía com 1.263 bytes. Confirmado: **conferir tamanho, nunca só exit code.**
+
+### 6. Verificação por execução (pypdf 6.13.1 — poppler não existe nesta máquina)
+
+    miolo.pdf         | paginas: 48 | mediabox 598.1102 x 598.1102 pts = 21,10 cm
+    miolo-grafica.pdf | paginas: 48 | mediabox 598.1100 x 598.1100 pts = 21,10 cm
+
+Fontes de `miolo-grafica.pdf` (todas `/Type0`, todas com `/FontFile*`, todas com
+prefixo de subset de 6 letras):
+    /DAPYMA+LibertinusSerif-Regular   embutida: True
+    /HXPDCV+LibertinusSerif-Bold      embutida: True
+    /KPKTEH+DejaVuSans                embutida: True
+    /XHNZVD+DejaVuSans-Bold           embutida: True
+    /IGETKE+DejaVuSans-Oblique        embutida: True
+    /SAISFG+DejaVuSansMono            embutida: True
+
+Espaço de cor das imagens:
+    miolo.pdf         → 5 imagens em /ICCBased (RGB)     [origem]
+    miolo-grafica.pdf → 5 imagens em /DeviceCMYK          [convertidas] ✔
+
+OutputIntent presente e com o perfil REALMENTE embutido:
+    /S /GTS_PDFX · /N = 4 · 187.484 bytes de ICC no /DestOutputProfile
+    /OutputCondition "Commercial and specialty printing - perfil generico, pendente grafica"
+    /Info "Ghostscript default_cmyk.icc - substituir pelo perfil da grafica escolhida"
+    DocInfo /GTS_PDFXVersion: PDF/X-3:2002 · /Trapped: /False
+    /Title: Equidna e as portas do mundo - Era Uma Vez um Mito - Grecia I
+
+48 páginas · 48 % 4 == 0 ✔
+
+### 7. DPI real no tamanho impresso — ACHADO QUE NÃO SE MAQUIA
+
+    $ PYTHONIOENCODING=utf-8 python verificar-dpi.py
+    OK (>= 2492px / lado, >=300 DPI efetivo): 0
+    ABAIXO DO PISO: 5
+      ✘ 01-equidna-a-caverna-e-as-portas: 2048x2048px -> 247 DPI efetivo
+      ✘ 02-dragao-da-colquida:            2048x2048px -> 247 DPI efetivo
+      ✘ 03-ortro-o-turno-de-trabalho:     2048x2048px -> 247 DPI efetivo
+      ✘ 04-ladon-e-o-pedido-da-almofada:  2048x2048px -> 247 DPI efetivo
+      ✘ 08c-a-caverna-final:              2048x2048px -> 247 DPI efetivo
+    EXIT=1
+
+Conferido **dentro do PDF gerado**, pela matriz de transformação de cada imagem
+(não pelo arquivo de origem):
+
+    p.10 2048px em 598,11 pts = 21,10 cm -> 247 dpi   (full-bleed)
+    p.14 2048px em 598,11 pts = 21,10 cm -> 247 dpi   (full-bleed)
+    p.18 2048px em 598,11 pts = 21,10 cm -> 247 dpi   (full-bleed)
+    p.22 2048px em 598,11 pts = 21,10 cm -> 247 dpi   (full-bleed)
+    p.40 2048px em 479,06 pts = 16,90 cm -> 308 dpi   (vinheta 08c) ✔
+
+Conta: 21,10 cm = 8,3071 in; 2048 / 8,3071 = **246,5 dpi**. Para 300 dpi seriam
+**2492 px** — o Gemini entrega 2048. **As 4 full-bleeds saem a 82 % do piso de 300 dpi.**
+A única que passa é a vinheta, porque é impressa menor (16,9 cm).
+
+Isso **não se resolve no miolo**. Saídas possíveis, todas fora da alçada do diagramador:
+(a) a gráfica aceitar 240 dpi (piso comum em offset 150 lpi) — decisão dela;
+(b) upscale por IA antes do encaixe — decisão do mito-diretor-arte, e é interpolação,
+    não resolução nativa;
+(c) reduzir o trim (a 17,3 cm de trim as 2048 px dariam 300 dpi) — mudaria a spec física
+    da série inteira.
+Nenhuma foi tomada aqui. Fica `delegado` no checklist.
+
+### 8. Observação de qualidade para a gráfica
+O pdfwrite recomprimiu as 5 imagens de `/FlateDecode` (sem perda) para `/DCTDecode`
+(JPEG, com perda), mantendo os 2048 px (não houve downsample). Se a gráfica reclamar de
+artefato, o parâmetro é `-dAutoFilterColorImages=false -dColorImageFilter=/FlateEncode`
+no mesmo comando — testado como conhecido, NÃO executado neste ensaio.
