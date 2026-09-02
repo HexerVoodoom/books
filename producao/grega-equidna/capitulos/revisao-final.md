@@ -295,6 +295,44 @@ ajustada pelos deltas desta revisão — **a Fase 4 deve recontar os oito por um
 
 ---
 
+## 6-C. Rodada 3 — corte de composição em `aparato/de-onde-vem.md` (Fase 4)
+
+A prova de composição fechou o miolo em **49 páginas**: "De onde vêm estas histórias" ocupava 2
+páginas em vez de 1, com excedente medido de **3 linhas / 17 palavras**. Além do custo de página,
+o estouro jogava a p. 43 (que declara em texto explícito o destino da Esfinge) para a p. 44,
+**de frente para as "Perguntas que as crianças fazem" (p. 45), lidas em voz alta PARA a criança**.
+Com o corte a página volta a ser recto, de frente para o fim do glossário — aparato adulto.
+
+**Cortadas 23 palavras, em dois pontos, ambos retóricos:**
+
+| # | onde | texto removido | palavras | por que é seguro |
+|---|---|---|---|---|
+| 1 | §"A espinha", fim do parágrafo (Virgílio) | *"É outra coisa, e o capítulo 7 conta a outra coisa."* | 11 | Glosa editorial. A declaração de fonte fica inteira: Virgílio (*Geórgicas* 4.481–484) nomeado, e a correção anti-falsificação preservada literalmente — *"Nela, Cérbero não adormece — fica de bocas abertas, pasmo."* |
+| 2 | §"A parentela diverge", fecho | *"Não é delicadeza de estilo. É o que as fontes autorizam dizer."* | 12 | Comentário sobre a regra, não a regra. Permanecem o crux de *Teog.* 326, a divergência de filiação, Apolodoro 3.5.8 e as duas fórmulas exclusivas do livro. |
+
+**Veredito sobre a frase de direitos de texto — MANTIDA, é declaração obrigatória.**
+O diagramador propôs cortar *"Nenhuma linha aqui foi traduzida de edição protegida: os capítulos
+foram recontados a partir do enredo."* Recusado. Ela **não** é redundante com a abertura: a
+abertura (*"recontado a partir do enredo documentado…"*) afirma o **método**; esta afirma o
+**resultado negativo** — que nenhuma linha do miolo deriva de tradução protegida. É a única
+declaração de direitos de texto do livro, e é o eixo transversal do METODO (mito se reconta do
+enredo, que é fato de domínio público; tradução, não). Uma declaração de direitos não se sustenta
+por implicação de método: ou está escrita, ou não existe. Por isso as 20 palavras foram buscadas
+em outro lugar.
+
+**Conferência das obrigatórias — todas continuam na página:** fontes-espinha (Hesíodo, Apolodoro,
+Apolônio, Diodoro/Higino, Píndaro, Virgílio) ✔ · variantes não adotadas *(a)* morte de Ladon,
+*(b)* Medeia em Diodoro 4.48.3, *(c)* Equidna morta por Argos em Apolodoro 2.1.2, *(d)* Esfinge
+em Apolodoro 3.5.8, *(e)* Valério Flaco ✔ · "Ladon" vem da fonte não adotada ✔ · etiologia do cão
+é invenção nossa ✔ · luto de Equidna é invenção nossa ✔ · cabeças não contáveis = adequação
+etária, com a arte grega contável declarada ✔ · nenhuma representação antiga segura de Equidna ✔ ·
+o corte de "comedora de carne crua" ✔ · a parentela diverge e o livro nunca declara grau ✔ ·
+direitos de texto ✔. **Zero declaração perdida; nenhuma mudança de sentido.**
+
+Recompilação a cargo do coordenador.
+
+---
+
 ## 7. Estado
 
 **8 capítulos revisados, em duas rodadas.** Rodada 1: 4 correções de língua no corrido, 3 notas
