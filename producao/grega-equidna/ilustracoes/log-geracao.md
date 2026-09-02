@@ -863,3 +863,23 @@ são 1:1"*, mas os pacotes **A2** e **A3** fecham os dois prompts com `Square 1:
 composition` e a §0.1 do guia trata essa linha como **reprovação automática se ausente**.
 Nenhuma emenda do guia (v2.3 / v2.4) muda a proporção de vinheta. **Segui o pacote (1:1);
 se o diretor quiser outra proporção, ela precisa entrar no guia antes da geração.**
+
+## ❌ 2026-09-02 — Extrair a imagem por dentro da página NÃO funciona (testado, não repetir)
+
+Com o download do Chrome travado, tentei contornar puxando a imagem via `javascript_tool`
+dentro da própria página, onde a sessão autenticada existe. **Fecha por dois motivos
+independentes — nenhum contornável:**
+
+1. **CORS bloqueia.** `fetch()` na `src` exata da imagem gerada devolve `Failed to fetch`, e
+   qualquer variação de sufixo (`=s2048`, `=w2048-h2048`, `=d`) idem. Só o avatar do usuário
+   (1.313 bytes) é fetchável — ele vem de outro caminho. Canvas também não resolve: a imagem
+   taints o canvas pela mesma origem cruzada.
+2. **A resolução não serviria de qualquer forma.** O único URL presente no DOM é o preview
+   **`s1024-rj` (1024×1024)**. O original de 2048 só existe atrás do botão de download. E
+   1024 → 2492 exigiria upscale de **2,43×**, acima do **teto de 2×** que o
+   `estilo-ilustracao.md` §Resolução fixa — ou seja, sairia abaixo do piso de impressão mesmo
+   que o CORS deixasse passar.
+
+**Conclusão:** o botão de download do Chrome é o **único** caminho para o asset em resolução de
+impressão. Sem ele, a Fase 3b não anda. `curl` na URL já estava descartado (403 — exige a sessão
+do navegador); agora o `fetch` de dentro da página também está.
