@@ -1,5 +1,18 @@
 # Estado do livro — *Equidna e as portas do mundo* (`grega-equidna`)
 
+> ## ▶ PARA RETOMAR: uma ação, e é do dono
+>
+> **Feche e reabra o Chrome.** Depois disso, os 5 passos mecânicos no fim do
+> `diagramacao/build.log` fecham o livro.
+>
+> Nada se perde ao reiniciar: as conversas do Gemini ficam no servidor, e as 7 peças que faltam
+> têm prompt pronto. A Esfinge já está gerada e esperando em `e18660aafee4dada`.
+>
+> **Por que não reiniciei eu mesmo:** é o navegador do dono e a hipótese do gerenciador travado
+> é a melhor que tenho, **não** um fato provado — as três causas que eu podia testar já foram
+> eliminadas (permissão, espaço no destino, degradação de aba). Reiniciar o Chrome de outra
+> pessoa com base em palpite fecharia as abas dela por uma aposta minha.
+
 **2026-09-02 · bloqueado na Fase 3b, aguardando o dono.**
 
 ## O que está PRONTO
