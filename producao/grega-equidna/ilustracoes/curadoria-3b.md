@@ -1099,3 +1099,231 @@ forte** do quadro — tirá-lo apagaria a página.
    `01-C-dono`.
 6. Pendência do dono, aberta desde a 1ª sessão (§1.4b): **nomear a criança do teste de nomeação,
    quem aplica e onde o veredito é gravado.** Todo "proxy, sem leitor real" depende dela.
+
+---
+
+## 27. Sessão 5 — veredito das cinco peças
+
+### 27.0 Veredito em uma linha
+
+| Peça | Veredito |
+|---|---|
+| `00-capa-A` | ✅ **APROVADA** (etiqueta §1.4b: *aguardando teste com leitor real*) |
+| `02-dragao-da-colquida-B-umvelo` | ✅ **APROVADA** — substitui `02-A` como asset |
+| `04-ladon-e-o-pedido-da-almofada-A` | ✅ **APROVADA** — encaixar; 1 geração `B` em paralelo, opcional |
+| `05-a-pergunta-da-esfinge-A` | ❌ **REPROVADA** — a Esfinge lê como **estátua** |
+| `07-cerbero-o-abraco-sem-armas-A` | ❌ **REPROVADA** — **dente na cauda** (cláusula do §21.2) + 3 defeitos |
+
+---
+
+### 27.1 ✅ `00-capa-A` — APROVADA. As três travas passam, e a folha `G-REF` ancorou.
+
+**As três travas do §6.1, uma a uma:**
+
+1. **Negro na base e nas laterais ✔.** O único preto de verniz da página é a faixa baixa do
+   umbral e os filetes laterais. **A cabeça nítida se recorta contra a gola creme `#EDD9B4`
+   recebendo luz quente** — não há um pixel escuro atrás do rosto. Trava 1 cumprida na letra.
+2. **Olhar levemente fora do eixo ✔.** Pupilas deslocadas, o foco cai um pouco à direita de
+   quem olha. Presente e atento, sem confronto. A um metro de prateleira ela não trava ninguém.
+3. **Cauda-dragão sem boca, sem dente, sem olho ✔.** A cauda é um S cinza-esverdeado de ponta
+   **cega e fechada**, à direita, no plano da faixa. **Zero cabeça, zero mandíbula, zero pupila.**
+   A cláusula que criei no §21.2 está cumprida.
+
+**Ressalva declarada, e por que ela NÃO reprova:** a trava 3 pedia a cauda *enrolada no arco,
+resolvida como ornamento*. Ela veio **como corpo pintado no chão**, não como padrão no arco.
+Mas a **função** da trava — segregar o perigo e tirar dele qualquer leitura de criatura — está
+inteiramente cumprida: ponta cega, sem face, sem direção de avanço, encostada na base. E o arco
+**tem** a metamorfose autorizada: perfis de serpente estilizados alternando com palmetas e
+meandro no perfil interno, exatamente o que o §6 pede como "assinatura desta família".
+**Não vale gastar a peça mais visível do livro numa regeração para mover a cauda 300 px.**
+
+**O resto do checklist:**
+- **Item 11 (não-contável) ✔** — a fórmula §1.5e entregou: perfis de cão nascendo das voltas da
+  gola, **abertos, sem olho, sem focinho, sem contorno fechado**, correndo um para dentro do
+  outro. Não se chega a número em 10 s.
+- **§1.5a alavancas ✔** — sentado, frontal, **as duas orelhas pretas caídas e pesadas**, boca
+  fechada, sem dente, sem língua, sem coleira. Escala pelo umbral cortado, não por careta.
+- **Continuidade com `sheet-cerbero-G-REF` ✔** — mesma cabeça, mesmas orelhas, mesma gola,
+  mesma cor local. A folha fez o trabalho pelo qual foi editada.
+- **Bandas ✔** — Banda A (meandro) intocada por criatura; Banda B (felinos enfileirados sobre
+  rosetas) em faixa própria, separada por filete.
+- **Sem tipografia ✔**, 2048×2048 ✔, zona do terço superior livre para o Typst ✔.
+- **Proxy de nomeação:** *"cachorro"* — pergunta 1 ✅; pergunta 2 ✅ (postura sentada, orelha
+  caída, luz quente). **Registrar como "proxy, sem leitor real".**
+
+> ⚠️ **A capa vai ao dono etiquetada "aguardando teste com leitor real" (§1.4b).** Ela é
+> tecnicamente aprovada por mim e **não é considerada validada** até o teste do §6.2.
+
+---
+
+### 27.2 ✅ `02-dragao-da-colquida-B-umvelo` — APROVADA. A mudança única funcionou.
+
+Cruzada com `02-A`: **o quadro é o mesmo e só a mão de Jasão mudou.** O bloco `[THE ONE CHANGE]`
+do §24.3 fez exatamente o que se pediu, e o mecanismo de anexo (§11) provou-se pela segunda vez.
+
+- **Um Velo só ✔** — o pendurado no galho, banhado de luz. O segundo Velo, que estava nas mãos
+  de Jasão em `02-A`, **sumiu**. Não há duplicata em nenhum canto do quadro.
+- **Jasão de mãos vazias, alcançando ✔** — braço direito estendido para o galho, mão aberta e
+  vazia; corpo recuado, peso no pé de trás. **Lê "quer e tem medo"**, que era o pedido.
+- **Nada mais quebrou ✔** — Medeia, o toque na cabeça do dragão, o ramo, a mandíbula deitada, os
+  anéis entrando e saindo de quadro, o rio, a floresta fria, a moldura: tudo idêntico à `A`.
+- Anti-sacrifício (§11) **cumprido**: zero perda colateral. É o caso limpo que a regra previa.
+
+**`02-A` vai para `brutos/`.** O asset da p. 14 é a `B`.
+
+---
+
+### 27.3 ✅ `04-ladon-e-o-pedido-da-almofada-A` — APROVADA para encaixe. As quatro travas passam.
+
+**As quatro travas do capítulo, uma a uma:**
+
+1. **D4 — ESFERA, não mapa-múndi ✔.** Atlas segura uma esfera **azul-noite salpicada de
+   estrelas**. **Zero continente, zero meridiano, zero linha de costa.** O anacronismo proibido
+   não está na página. Trava cumprida sem margem de dúvida.
+2. **Almofada NA CABEÇA ✔** (Apolodoro 2.5.11). O coxim ocre está **assentado no alto da cabeça
+   de Héracles**, com as duas mãos subindo para segurá-lo — não no ombro, não na mão pendurada.
+   É a leitura correta do gesto que faz a piada funcionar.
+3. **Ladon não é tocado, uma cabeça nítida ✔.** A cabeça verde nítida está na macieira, **olha a
+   cena sem reagir**, e o resto do corpo entra e sai da folhagem. Ninguém encosta nele; **sem
+   ferida, sem flecha, sem sangue, sem dragão caído.** Cabeça única = a fórmula §1.5e.
+4. **PELE DO LEÃO AUSENTE ✔.** Héracles está de torso nu com uma túnica ocre presa na cintura.
+   **Não há leontê, não há cabeça de leão, não há pelo nenhum na página.** A marca emocional do
+   cap. 6 fica preservada.
+
+**Também confere:** as maçãs douradas contáveis (duas no chão, uma no coxim) — o único ouro puro
+da página ✔ · as Hespérides em silhueta na margem, **explicitamente autorizadas pelo brief do
+capítulo** ("coro em silhueta na margem") ✔ · 5 figuras nítidas, teto R4.2 no limite ✔ · céu de
+extremo norte, não deserto ✔ · aquarela molhada com granulação, cor local saturada ✔ ·
+zero arma erguida, zero arma em uso ✔.
+
+**Dois defeitos de composição, ambos abaixo da linha de reprovação:**
+
+- **O corpo de Ladon atravessa a faixa ornamental** e reaparece no registro de baixo. Pela
+  hierarquia X5 a criatura não deveria cruzar a banda; aqui ela cruza. **Não reprova** — a banda
+  atravessada é a Banda B (figurativa), não a Banda A geométrica, e o §1.2 alavanca 6 autoriza
+  corpo entrando e saindo. Mas é feio e eu registro.
+- **Vazio branco no registro do meio.** O fundo atrás das figuras é papel cru. Lê como
+  inacabado numa full-bleed e conflita com o *"cena com cor"* da direção do dono.
+
+> **Decisão:** **encaixar a `A` agora** — ela cumpre as quatro travas duras e não há defeito de
+> fidelidade, de fonte nem de adequação etária. **1 geração `B` em paralelo, opcional**, com a
+> linha do §27.6. Se a `B` voltar melhor, troca-se o asset sem custo; se não voltar, a `A` fica.
+> **Não bloqueia a diagramação.**
+
+---
+
+### 27.4 ❌ `05-a-pergunta-da-esfinge-A` — REPROVADA. Ela virou monumento.
+
+**O que está certo, e é muito — guardar tudo isto na regeração:**
+- **Esfinge grega, sem discussão ✔**: rosto de mulher com penteado ático, **corpo e cauda de
+  leoa**, **asas de AVE abertas**, penas individuadas. **Zero nemes, zero barba postiça, zero
+  areia, zero deserto.** A confusão com a egípcia não existe nesta página.
+- **Rosto ✔**: calmo, atento, **de quem está perguntando** — não ameaçador, não sedutor. Boca
+  fechada, olhar fora do eixo, **luz de sol alto batendo em cheio no rosto** (§1.2b cumprida).
+- **Linha vermelha ✔**: nenhum viajante devorado, nenhum osso, nenhuma sombra de ameaça, o
+  abismo não é assunto. A estrada larga desce em curva e **Tebas está ao fundo** ✔.
+- Aquarela molhada de verdade, luz atravessando as penas ✔. Moldura e Banda B corretas ✔.
+
+**🔴 O que reprova: a pedra virou uma COLUNA JÔNICA polida, e com ela a criatura virou estátua.**
+
+O brief do cap. 5 pede *"sentada sobre a **pedra alta**, **vista de baixo**"*. A página entrega
+uma **coluna jônica de capitel torneado, base perfeita e fuste liso** — arquitetura acabada, não
+rocha. E o efeito não é decorativo, é **de leitura**: figura simétrica, **asas espelhadas
+milímetro a milímetro**, patas alinhadas, corpo imóvel, **sobre um pedestal**. Todos os sinais
+que uma criança usa para dizer **"estátua"**.
+
+> **Isso reprova pelo item 10 (D7), a trava mais dura do livro.** A pergunta 1 é *"o que é
+> isso?"*, aberta. A resposta provável aqui não é "moça", não é "leão", não é "bicho": é
+> **"estátua"** — e estátua não é nomear a criatura, é nomear o objeto. A cena do enigma é o
+> lugar em que **o livro para e o leitor joga**; se a Esfinge não está viva, não há pergunta.
+
+**Defeito 2 — Édipo sumiu da cena.** O brief pede *"pequeno, **ao pé da pedra**"*. Ele está a
+meia distância, na beira esquerda, **de costas, com uns 4% da altura do quadro**, sem relação
+espacial com ela. Não há dois personagens numa cena: há uma escultura e um transeunte. **O
+enigma precisa de alguém a quem seja feito.**
+
+**Defeito 3 — câmera.** O brief pede **contra-plongée** ("vista de baixo"), que é o que dá a
+altura sem precisar do precipício. A câmera está **à altura dela**, e a altura da pedra
+desaparece junto.
+
+---
+
+### 27.5 ❌ `07-cerbero-o-abraco-sem-armas-A` — REPROVADA. **O dente voltou.** A página reprova sozinha.
+
+Esta é a página-âncora e eu a reprovo em quatro linhas, das quais **a primeira já bastava**.
+
+**🔴 FATAL 1 — A CAUDA-DRAGÃO ESTÁ DE BOCA ABERTA, COM DENTES E COM O OLHO ACESO.**
+No terço direito, entre o manto e a moldura, há uma cabeça de dragão verde-azulada **com a
+mandíbula aberta, uma fileira de dentes desenhada um a um, e um olho laranja com pupila**. É
+exatamente o item que a cláusula do §21.2 tornou obrigatório proibir e que eu declarei como
+**reprovação automática**. Não há discussão de mérito de composição: *"se repetir o dente, a
+página reprova sozinha."* Agrava: a cauda **não está ligada ao cão** (Cérbero tem uma cauda de
+cão comum, lisa, à esquerda) — ela flutua no fundo como **quinta criatura autônoma**, o que é
+pior que a violação da boca, porque cria um bicho que a fonte não tem.
+
+**🔴 FATAL 2 — O ABRAÇO NÃO É NA CABEÇA. É UMA MÃO NO FOCINHO.**
+Apolodoro 2.5.12 e a frase-âncora do livro pedem **os braços em volta da CABEÇA**. A página
+entrega **uma única mão espalmada sob a bochecha e o focinho** do cão, o outro braço fora do
+gesto, e o rosto de Héracles **não encostado no pelo**. Lê "segurar o queixo", não "abraçar" —
+e num livro cuja frase-âncora é essa, o gesto errado esvazia o capítulo inteiro.
+
+**🔴 FATAL 3 — ITEM 11: CONTA-SE, E AS CABEÇAS DE TRÁS TÊM OLHO E FOCINHO.**
+A massa atrás da cabeça nítida não é a fórmula §1.5e: são **seis cabeças de cão fechadas,
+com contorno completo, olho com pupila, focinho e narina** — inclusive duas na base, viradas
+para o leitor. Um adulto chega a **seis** em menos de 5 s. Além do item 11, isto viola a régua
+de adequação etária que a própria fórmula carrega (*"nada atrás da cabeça nítida tem olho,
+pupila, boca ou focinho"*) e **contradiz `sheet-cerbero-G-REF`**, onde a gola é creme, aberta e
+sem uma única face.
+
+**🔴 FATAL 4 — DUAS TÉCNICAS NA MESMA PÁGINA, e é o defeito do §22.2 reincidindo.**
+Héracles e a leontê estão em **vetor chapado com contorno preto de espessura uniforme**; o cão
+está em aquarela lavada com granulação. É literalmente o defeito que reprovou `sheet-heracles-B`
+— **e ele colide com a `DIRECAO-DO-DONO.md` item 1**, que não é minha para flexibilizar. Resposta
+à pergunta desta sessão: **não, as duas técnicas ainda não convivem.**
+
+**O que está certo e tem de sobreviver à regeração:** **arco e clava largados no chão**, baixos,
+nítidos e sem esforço para achar ✔ · nenhuma arma em mão ✔ · **a leontê como manto até o chão,
+com a cabeça do leão em três-quartos e o olhar fora do eixo** (a trava §6(2) generalizada está
+cumprida) ✔ · nenhum dente na boca do cão ✔ · zero sangue, zero ferida, zero dor ✔ · o mundo de
+baixo vazio e quieto ✔ · o rosto do cão **recebendo a luz quente** contra o vão claro do portão
+(§1.2b) ✔.
+
+---
+
+### 27.6 Redirecionamento — uma linha por peça
+
+> **`05` (1 geração, conversa nova, `05-A.jpg` anexada):**
+> `[THE ONE CHANGE]` — `she sits on a HIGH ROUGH BOULDER of cracked limestone, not on a column
+> and not on any built pedestal: no capital, no fluting, no base, no carved stone of any kind.
+> Seen from BELOW, looking up at her. ONE WING IS RAISED HIGHER THAN THE OTHER, mid-movement,
+> never mirrored. Oedipus stands AT THE FOOT OF THE BOULDER, close and clearly visible, a small
+> traveller with a walking staff, looking UP at her.` — manter rosto, asas, paleta, estrada,
+> Tebas, moldura e friso **exatamente** como estão.
+
+> **`07` (1 geração, conversa nova, `sheet-cerbero-G-REF.jpg` + `sheet-leao-nemeia-A.jpg`
+> anexadas):** cauda-dragão **presa ao traseiro do cão**, periférica, `mouth CLOSED, no teeth,
+> no open jaw, no eye looking at the viewer` — **e nenhuma outra criatura na página**; **os DOIS
+> braços de Héracles em volta do ALTO DA CABEÇA do cão, entre as orelhas, o rosto dele encostado
+> no pelo**; a gola atrás **é a da folha anexada** (creme `#EDD9B4`/ocre, perfis abertos, `no
+> eye, no nose, no muzzle, no closed outline on any of them`); e o bloco
+> `[HOW THIS IS PAINTED]` do §22.3 **aplicado a Héracles e à leontê**. Manter arco e clava no
+> chão, a leontê em três-quartos e o portão cortado pela borda.
+
+> **`04` (opcional, 1 geração, `04-A.jpg` anexada):** `[THE ONE CHANGE]` — `PAINT THE MIDDLE
+> GROUND: a cold northern sky and a far horizon behind the two men, wet-on-wet, no bare white
+> paper anywhere inside the border` — e `the dragon's body stays INSIDE the tree band and never
+> crosses the ornamental frieze`. Nada mais muda.
+
+---
+
+### 27.7 O que vai para a Fase 4 nesta sessão
+
+**Encaixar no `imagens-disponiveis.typ` e recompilar:**
+`00-capa-A` (etiquetada) · `02-dragao-da-colquida-B-umvelo` (p. 14) ·
+`04-ladon-e-o-pedido-da-almofada-A` (p. 22).
+
+**Regerar:** `05` (rodada 2 de 3) · `07` (rodada 2 de 3).
+
+**Pendência do dono, aberta desde a 1ª sessão (§1.4b):** nomear a criança do teste de nomeação,
+quem aplica e onde o veredito é gravado. **A capa depende dela para deixar de ser "proxy".**
+
