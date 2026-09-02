@@ -511,3 +511,257 @@ uma **cláusula de precedência** e uma **válvula de escape declarada**: como e
 4. Guia atualizado nesta sessão: emenda **v2.2** (§1.5b), **§1.5d** (escopo dos sheets) e
    **D9-A** (§2.1, anti-sacrifício).
 
+
+---
+
+# CURADORIA 3b — TERCEIRA SESSÃO (2026-09-02, noite)
+
+> Peças julgadas: `sheet-cerbero` A · C-r2 · D-r3 · E-planoB · F-planoB2 ·
+> `sheet-leao-nemeia-A` · `sheet-heracles-A` · `08c-40-a-caverna-ultima-pagina-A` (× `01-C-dono`).
+> Julgado contra `guia-de-estilo.md` v2.2 (§1.2b, §1.3a, §1.5b, §1.5d, §2.1/D9-A, §3.1, §3.2,
+> §3.3, §3.8, §7), `DIRECAO-DO-DONO.md` e o cap. 7 como texto a servir.
+> **O ilustrador não aprova a própria imagem. Estes vereditos são meus.**
+
+## 13. Veredito em uma linha
+
+| Peça | Veredito |
+|---|---|
+| `sheet-cerbero-A` (r1) | ❌ arquivada — camada 2 ausente |
+| `sheet-cerbero-C-r2` | ❌ arquivada — gola lisa, contagem = 3 |
+| `sheet-cerbero-D-r3` | ❌ arquivada — nucas fechadas e contáveis |
+| **`sheet-cerbero-E-planoB`** | ✅ **ESCOLHIDA** — 1 correção de C3 em 1 geração e fecha |
+| `sheet-cerbero-F-planoB2` | ❌ **não escolhida** — limpa e vazia; é a que contradiz o cap. 7 |
+| `sheet-leao-nemeia-A` | ✅ **APROVADA** — a melhor peça da fase |
+| `sheet-heracles-A` | 🟡 **REDIRECIONAR** — 1 geração, e **não** pelo motivo que o ilustrador supôs |
+| `08c-40` (p. 40) | ✅ **APROVADA. D9 CUMPRIDA**, sem fallback |
+
+---
+
+## 14. 🔴 CÉRBERO — a escolha, e o erro de leitura que ela corrige
+
+### 14.1 O ilustrador leu `E` errado, e o erro é compreensível
+
+O relatório da sessão 3 descreve o Plano B como *"uma cabeça nítida"* nas duas folhas, e trata
+`E` e `F` como a mesma solução com defeitos diferentes. **Não são a mesma solução.** Ampliei a
+gola de `E` e o que está pintado ali não é ornamento abstrato:
+
+> **A gola de `E` é feita de CABEÇAS DE CÃO.** Perfis caninos estilizados — focinho, testa,
+> orelha — em silhueta chapada creme/ocre, tecidos dentro das gavinhas, **sem olho, sem boca,
+> sem pupila, sem contorno fechado**, cada um nascendo da volta anterior e morrendo na franja
+> externa. Não é uma juba com desenho por cima: **a juba É o bando.**
+
+Isto não é o Plano B renunciando ao conceito. É **o conceito, finalmente entregue** — pelo único
+caminho que este gerador tinha: o ornamento. `F`, ao contrário, trocou os perfis por **damasco e
+palmeta genéricos**. `F` é um cão grande de juba decorada. `E` é Cérbero.
+
+### 14.2 A pergunta do cap. 7 — respondida, e a resposta é "não contradiz"
+
+> *"mais cabeças do que se consegue contar — algumas bem na frente, nítidas, e outras que se
+> perdem no pelo e na sombra"*
+
+Confronto frase a frase com `E`:
+
+| O texto diz | `E` entrega |
+|---|---|
+| "algumas bem na frente, **nítidas**" | ✅ a cabeça nítida, escura, de orelha caída, olho quente — em todas as vistas |
+| "outras que **se perdem no pelo e na sombra**" | ✅ os perfis da gola, que literalmente se perdem no pelo — é a descrição do que está pintado |
+| "mais cabeças do que **se consegue contar**" | ✅ tentei contar: os perfis se fundem uns nos outros e na franja; não há dois observadores que cheguem ao mesmo número, porque não há fronteira entre "cabeça" e "volta" |
+| box: "é por isso que, neste livro, **ninguém conta**" | ✅ pela primeira vez em 5 candidatas, verdadeiro |
+
+**"Algumas" no plural — o texto exige mais de uma nítida?** Não. Exige que existam nítidas e
+existam perdidas, e que o total não feche. `E` tem uma nítida e um bando indeterminado; o leitor
+adulto lê "muitas"; a criança lê "cachorro". **Nenhuma emenda editorial é necessária.**
+
+> ### 🔴 DECISÃO: `sheet-cerbero-E-planoB` é a folha-âncora de Cérbero.
+> **Não peço emenda ao cap. 7, e retiro a hipótese de emenda da mesa.** O texto está certo e a
+> arte finalmente o cumpre. Quem teria contradito o capítulo é `F` — e `F` não vai.
+>
+> **Registro o meu próprio erro, porque ele é o achado:** o gatilho do §8.3 nomeou o Plano B
+> como *"rebaixamento"* e *"trocar três rostos por um"*. Estava errado. O Plano B não era a
+> renúncia — era a resposta. A não-contabilidade nunca ia sair da **anatomia** (`SWELLING`
+> virou textura, `CROWN AND NAPE` virou objeto contável); ela só podia sair do **ornamento,
+> que é aberto por construção**. O diagnóstico do ilustrador está correto e vira regra do guia
+> (§1.5e). Três rodadas gastas para descobrir que o plano de contingência era o plano.
+
+### 14.3 Checklist de `E` — item a item
+
+| Item | Veredito |
+|---|---|
+| C1 4:3 · C2 2400×1792 · C8 PNG real | ✅ |
+| **C3 texto / rótulo / legenda** | 🔴 **numerais circulados ①–⑤ presentes** — única reprova |
+| C4 hierarquia X5 | ✅ aquarela nas figuras; silhueta chapada só no friso e na gola-ornamento |
+| C5 criatura na faixa geométrica | ✅ meandro e palmeta puros |
+| C6 luz no rosto (§1.2b) | ✅ os três estudos, olhos legíveis, castanho quente |
+| C7 teto ≤5 nítidas | ✅ uma por estudo |
+| **Item 11 — não-contável** | ✅ **ENTREGUE, pela primeira vez** |
+| Camada 2 presente, área maior que a nítida | ✅ com folga |
+| Zero olho / boca / pupila atrás da nítida | ✅ |
+| **Orelha caída, a coisa mais legível da folha** | ✅ pretas, pesadas, dobradas — voltou ao nível da folha A |
+| Serpente no dorso, não no pescoço | ✅ estudo 2 |
+| Cauda-dragão: boca fechada, sem dente, não olha o leitor | ✅ estudos 4 e 5 |
+| Coleira / chama / baba / língua / olho vermelho | ✅ nenhum |
+| Coerência entre vistas | ✅ mesma cabeça, mesmas orelhas, mesma cor |
+| Cor local quente e saturada (§1.5d) | ✅ ocre/terracota; **cinza-bege não voltou** |
+| Nomeação (§1.4a) | ✅ P1 → "cachorro" · P2 → afirmativa — **proxy, sem leitor real** |
+| 🟡 Ressalva | dois **painéis azuis de mar** minúsculos embutidos nas cercaduras lateral esquerda e direita — vão junto na correção |
+
+### 14.4 A correção — UMA geração, e a linha já está provada
+
+**Corrigir os numerais de `E`. Não corrigir `F`.** `F` teria de recuperar os perfis caninos, que
+é mudança de conceito e não de acabamento — outra rodada às cegas. Em `E` falta um item de
+acabamento cuja redação **já foi testada e funcionou na própria sessão**: foi ela que limpou `F`.
+
+> **Direção para a próxima geração (conversa nova, prompt de `S2pb`, 1 variação):**
+>
+> 1. Acrescentar à linha de fechamento, verbatim, o que já provou funcionar em `F`:
+>    `NO NUMBERS OF ANY KIND, no digits, no circled numerals, no figure numbers, no captions, no labels, no annotations, no arrows, no watermark, anywhere on the sheet.`
+> 2. Na mesma linha, matar as vinhetas azuis das cercaduras (defeito de `F` prevenido em `E`):
+>    `NO landscape, NO sea, NO sky, NO scenery anywhere on the sheet, not even as a small panel inside the border: the ground behind every study is flat warm paper #F6EFE2, flat light.`
+> 3. 🔴 **Blindar o que está certo, porque é o que se perde numa regeração** — bloco imperativo
+>    próprio, com o vocabulário que produziu `E`:
+>
+> ```
+> [THE RUFF IS MADE OF DOGS - MANDATORY, KEEP THIS EXACTLY]
+> PAINT THE GREAT RUFF as flat ornamental scrollwork in cream #EDD9B4 and ochre #C88A3D in
+> which STYLISED DOG PROFILES - muzzle, brow and ear only - grow out of the curls and fade
+> back into them: no eye, no pupil, no mouth, no closed outline on any of them, each one
+> running into the next so that where one ends and the next begins can never be told.
+> ONE sharp head only, in front, with heavy black ears hanging folded against the cheek.
+> ```
+>
+> **Se a geração vier limpa de numeral e de mar e a gola mantiver os perfis, `sheet-cerbero`
+> FECHA.** Se os perfis se perderem e voltar juba lisa, **`E` como está vai ao gate** e o dono
+> decide entre `E` com numerais (removíveis na diagramação) e uma geração extra.
+
+---
+
+## 15. `sheet-leao-nemeia-A` — ✅ APROVADA
+
+A melhor peça da fase, e a prova de que a §1.5d é regra e não opinião.
+
+Três estudos do **mesmo** leão (perfil deitado · frontal deitado à altura da criança · cabeça e
+juba grandes, dois olhos legíveis, luz quente) · **os dois estudos de matéria existem e são
+grandes** — a amostra de couro e a amostra de juba, que são o que destrava S3, a vinheta 6.2 e a
+p. 33 · boca fechada, zero dente, zero rugido, zero bote, zero contraluz · cor local **quente e
+saturada** (terracota/ocre), **o cinza-bege não voltou** · moldura em faixa própria, sem criatura
+dentro · zero texto, zero numeral. C1–C9 ✅. Nomeação: P1 → "leão", P2 → afirmativa (proxy).
+
+**Duas ressalvas registradas, nenhuma reprova:**
+
+1. 🟡 O estudo 1 traz uma **lavagem de chão e capim** sob o leão. É ambiente, e o §1.5d pede papel
+   liso. **Não reprova:** é lavagem quente e clara, não paleta de cena, não céu, não mar — não é
+   o defeito de `F`. **Vinculante:** essa lavagem **não migra** para nenhuma página.
+2. 🔴 **Divergência declarada (§3.8), confirmada por mim:** rosto frontal e postura deitada não
+   têm referência antiga possível. É **[NOSSO]**, 100% Mucha/aquarela. Fica no registro.
+
+**Piso de variações 1/2 — dispensado por mim.** O piso existe para dar escolha quando a folha
+está em dúvida. Esta não está: cumpre o pacote S4 item a item e já foi consumida como âncora de
+cor pelo `sheet-heracles`. Gastar uma geração para comparar com algo que não vai ganhar é gasto
+sem pergunta. **Registrado como dispensa consciente, não como pendência.**
+
+---
+
+## 16. `sheet-heracles-A` — 🟡 REDIRECIONAR (1 geração), e o defeito é outro
+
+### 16.1 A pele-pelego: **a chamada do ilustrador está errada, e eu a derrubo**
+
+Ele reprovou por *"pelego curto: cobre ombros e peito e para na cintura, pernas nuas"*. Olhando a
+folha, isso descreve a vista **frontal** e só ela. Nos estudos 4 e 5 a pele **cai do ombro até o
+chão**: a cabeça do leão pousa no ombro/peito, as patas dianteiras cruzam o tórax, e o couro
+desce **por trás e pelos lados** até o tornozelo — no estudo 5 a franja da juba chega abaixo da
+panturrilha, e no 4 o manto se lê como massa cheia atrás das duas pernas.
+
+**As pernas estão nuas de frente porque a pele veste pelos lados e por trás — que é exatamente
+como a leontê é vestida.** Chamar isso de falha seria exigir um poncho fechado, que nem a fonte
+nem o spec pediram. **O item duro do S3 está cumprido.** A marca emocional do livro está lá e é
+legível de longe: **cabeça de leão no ombro, juba escorrendo, patas cruzadas, couro até o chão** —
+e a D3 está cumprida sem exceção (nunca sobre a cabeça, nenhum capuz, nenhum elmo, nenhum escalpo).
+Clava presente e baixa; figura da esquerda sem a pele; zero sangue, zero ferida, zero leão morto
+carregado, zero pose triunfal. **Nada disso volta à geração.**
+
+### 16.2 O que REPROVA é C4 — e o modelo avisou
+
+Verbatim da resposta: *"the facial styling may appear too realistic rather than capturing the
+soft watercolour 'arabesque' look you specified… the faces look somewhat identical across all
+studies."* **Confirmo, e é a chamada séria da peça.** Contra o `sheet-leao-nemeia-A` gerado na
+mesma sessão, esta folha é outra técnica: modelado duro, músculo anatômico renderizado, pele com
+volume fotográfico, rosto de ilustração realista. A hierarquia X5 pede **Mucha e aquarela na
+figura**; o que está aqui é rendering. Héracles divide a p. 33 e o cap. 7 com o leão e com
+Cérbero — **duas técnicas na mesma abertura é o defeito que o leitor vê antes de qualquer outro.**
+
+> **Direção para a próxima geração (1 geração, conversa nova):**
+>
+> 1. **Anexar `sheet-leao-nemeia-A` como cópia `.jpg`** com a instrução:
+>    `take the PAINTING TECHNIQUE of the attached sheet - flat transparent watercolour washes bleeding into one another, visible paper grain, soft contour line, NO photographic modelling, NO rendered muscle, NO shiny skin - and paint this man in exactly that technique.`
+> 2. Bloco imperativo de estilo, com o substantivo desenhável que o §1.5e exige:
+>    `PAINT HIS FACE AND HAIR AS A MUCHA DRAWING: a clean contour line, hair and beard as ORNAMENTAL LOCKS of flowing curls, flat warm washes inside the line, no shading on the cheeks, no realistic skin texture.`
+> 3. Um estudo novo, e só um:
+>    `ONE study seen FROM BEHIND, the lion skin falling from his shoulders TO THE GROUND as one full cloak, read as a SILHOUETTE.` — resolve as duas vistas vestidas repetirem a mesma solução e entrega o manto-silhueta que falta ao acervo.
+> 4. Manter intactos: D3, a clava baixa, a figura sem a pele, a lista negativa, e a cabeça do
+>    leão no ombro. **Não mexer na pele — ela passou.**
+
+⚠️ **Régua D9-A conferida:** a declaração do modelo é de **desvio de estilo**, não de sacrifício
+de personagem. **Não arma a reprova automática.** Registrado, e julgado por mim como C4.
+
+---
+
+## 17. 🔴 p. 40 × p. 10 — O DELTA DA D9. **CUMPRIDA. Sem fallback.**
+
+Cruzei `01-equidna-a-caverna-C-dono.png` e `08c-40-a-caverna-ultima-pagina-A.png`.
+
+| O que a D9 protege | Delta medido |
+|---|---|
+| **Rosto** | **nenhum.** Mesmo desenho de olho e de pálpebra, mesma boca pequena de canto neutro, mesmo nariz, mesmo maxilar, mesma cor de olho. Não há uma ruga a mais |
+| **Idade aparente** | **nenhum.** A mesma adulta jovem serena |
+| **Penteado** | **nenhum.** O mesmo coque alto com as mesmas mechas onduladas nas têmporas |
+| **Veste** | **nenhum.** Mesma túnica creme, mesma manga curta cobrindo o ombro, mesmas dobras |
+| **Corpo-serpente** | **nenhum.** Os mesmos anéis, nas mesmas posições relativas, com as mesmas manchas grandes e arredondadas nas mesmas cores |
+| **Luz** | **nenhum.** O mesmo feixe diagonal, mesmo ângulo, mesmo lugar no chão |
+| **Paleta da caverna** | **nenhum.** Mesmo azul-petróleo, mesmos verdes-cinza, mesmos ocres de beirada |
+| **Moldura** | **nenhum.** Mesmo meandro, mesmas palmetas, mesmos cantos |
+| **A mudança pedida** | ✅ o friso das cinco portas **sumiu inteiro** e virou pedra de caverna; o arco da gruta subiu para ocupar a faixa |
+
+> ### VEREDITO: **é a mesma mulher, no mesmo lugar.** Não é semelhança de família — é
+> continuidade de identidade. **A D9 está CUMPRIDA e o fallback do §2.1 NÃO entra**, nem fica
+> em observação. `08c-40-a-caverna-ultima-pagina-A` está **APROVADA como asset.**
+
+**E a peça carrega a página que o livro precisa:** a p. 40 é a última, e ela é a p. 10 **com o
+mapa apagado** — as cinco portas que o cap. 1 abriu já não estão no alto, e sobrou a pedra. Ela
+continua ali, a mesma, e o mundo que ela guardava saiu de cena. Isso não estava no briefing: é o
+mecanismo da D9 devolvendo significado de graça. **É a última imagem certa para este livro.**
+
+**Piso de 3 conversas — dispensado por mim, pela mesma razão do §15.** O valor de uma peça D9
+é ser idêntica à âncora; variações competem para ver qual diverge menos, o que é competição sem
+prêmio. **Dispensa consciente, registrada.**
+
+⚠️ Pedido à diagramação, herdado da `DIRECAO-DO-DONO.md` e **revalidado nesta peça**: o feixe de
+luz precisa de **+10–15% de contraste** contra a rocha, ou some no papel impresso. Vale para as
+duas páginas.
+
+---
+
+## 18. O que muda no guia — emenda **v2.3**
+
+1. 🔴 **§1.5e NOVA — O NÃO-CONTÁVEL SAI DO ORNAMENTO, NÃO DA ANATOMIA.** A regra que as cinco
+   candidatas de Cérbero compraram, e que vale para as peças poli-cefálicas restantes.
+2. 🆕 **A linha de fechamento de todo sheet ganha `NO NUMBERS OF ANY KIND`** e a proibição de
+   paisagem **dentro da cercadura**.
+3. 🆕 **§0.2b — procedimento de anexo:** `.jfif` é lido como TEXTO; teto de upload de 10 MB;
+   anexar cópia `.jpg` q95.
+4. ✅ **D9-A confirmada empiricamente** (§17) e promovida de regra proposta a regra provada.
+
+---
+
+## 19. Próximos passos (sessão 4)
+
+1. `mito-ilustrador`: **`sheet-cerbero` — 1 geração**, prompt de `S2pb` + a linha anti-numeral e
+   anti-paisagem + o bloco `[THE RUFF IS MADE OF DOGS]` (§14.4). É a única peça de Cérbero que
+   falta; se sair limpa, **fecha**.
+2. `mito-ilustrador`: **`sheet-heracles` — 1 geração**, com `sheet-leao-nemeia-A.jpg` anexado
+   **como referência de TÉCNICA** + o bloco Mucha + o estudo de costas (§16.2).
+3. **Aprovadas e liberadas para a Fase 4:** `sheet-leao-nemeia-A` · `08c-40-a-caverna-ultima-pagina-A`
+   · (`01-C-dono` já estava).
+4. `00-capa` continua não iniciada — **destravada assim que `sheet-cerbero` fechar.**
+5. Pendência do dono, inalterada desde a 1ª sessão (§1.4b): **nomear a criança do teste de
+   nomeação, quem aplica e onde o veredito é gravado.** Todo "proxy, sem leitor real" deste
+   arquivo depende dela.

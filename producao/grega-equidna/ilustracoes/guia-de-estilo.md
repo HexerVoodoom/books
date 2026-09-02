@@ -8,6 +8,13 @@
 > **Congelado.** Nenhuma cena pode ser briefada, gerada ou validada contra outra versão deste
 > arquivo. Toda alteração exige gate.
 >
+> 🔴 **EMENDA v2.3 (Fase 3b, 3ª sessão — `curadoria-3b.md` §13–§18).** Três acréscimos e uma
+> confirmação: **§1.5e** (o não-contável sai do ornamento, não da anatomia — substitui a
+> estratégia das emendas v2.1/v2.2 para o item 11, e institui as duas cláusulas novas da linha
+> de fechamento de sheet) · **§0.2b** (procedimento de anexo: `.jfif` é lido como texto, teto de
+> 10 MB, anexar cópia `.jpg` q95) · **§2.1/D9-A confirmada empiricamente** e promovida de regra
+> proposta a regra provada.
+>
 > **Este guia é um DELTA.** Ele **herda integralmente** `producao/grega/guia-de-estilo.md`
 > (livro 1) — fórmula Mucha + aquarela, camada cultural de cerâmica ática, hierarquia X5
 > ("a cerâmica emoldura; Mucha atua"), paleta hex §2, parâmetros de geração §3, entrega e
@@ -57,6 +64,20 @@ arquivo com `Invalid PNG signature`**. Sem esta linha a Fase 4 quebra na primeir
 
 Dono: `mito-ilustrador` no fim de cada sessão de geração. Verificação: `mito-diagramador`, na
 abertura da Fase 4, reprova o lote inteiro se algum arquivo falhar a assinatura.
+
+### 🔴 0.2b PROCEDIMENTO DE ANEXO — obrigatório em toda peça com imagem anexada (v2.3)
+
+Achado da 3ª sessão, custou **duas gerações** para ser descoberto (`log-geracao.md`, sessão 3).
+
+> 1. 🔴 **Nunca anexar o `.jfif` de `brutos/`.** O Gemini **lê o `.jfif` como TEXTO**, não como
+>    imagem, e responde comentando o binário (*"the raw binary text of a JPEG image file"*).
+>    Só reconhece como imagem o que chega com extensão **`.png` ou `.jpg`**.
+> 2. 🔴 **O teto de upload é 10 MB somados** — os PNGs recodificados deste livro passam disso.
+> 3. ✅ **Procedimento:** gerar uma **cópia `.jpg` q95, em tamanho nativo**, do asset PNG e
+>    anexar **essa cópia**. A cópia é descartável e **não** é asset; não entra em `ilustracoes/`
+>    como peça nem no `miolo.typ`.
+>
+> Vale para todo mecanismo D9/D9-A, para toda referência de acervo e para toda âncora de cor.
 
 ### 0.3 Piso de variações declarado (A6)
 
@@ -492,6 +513,79 @@ sobre papel liso, com luz plana. A regra abaixo é vinculante para os 4 sheets r
 
 ---
 
+### 🔴 1.5e O NÃO-CONTÁVEL SAI DO ORNAMENTO, NÃO DA ANATOMIA (v2.3 — Fase 3b, 3ª sessão)
+
+**A regra mais cara do livro: cinco candidatas de `sheet-cerbero` e três rodadas.** Ela substitui
+a estratégia das emendas v2.1 e v2.2 para o **item 11 (não-contável)**. Os blocos daquelas
+emendas continuam válidos como **método de redação** (bloco imperativo, verbo `PAINT`,
+quantidade positiva, critério de área) — o que muda é **o que se manda pintar**.
+
+#### O histórico, que é a prova
+
+| Rodada | Substantivo | O que aconteceu | Por quê |
+|---|---|---|---|
+| piloto 1 | `MASS` | virou anatomia contável | substantivo abstrato → o modelo o rebaixa a acabamento |
+| r1 | `MASS` dentro de parágrafo | camada 2 **ausente** | idem |
+| r2 | `RUFF` + `SWELLING` | gola existiu, **lisa**; conta-se 3 | `SWELLING` é topologia, não coisa desenhável |
+| r3 | `RUFF` + `CROWN AND NAPE` | nucas existiram e **conta-se 7** | desenhável ⇒ **desenhada fechada** ⇒ contável |
+| **Plano B** | **ornamento** | ✅ **não-contável entregue** | ornamento é **aberto por construção** |
+
+#### A regra
+
+> **Este gerador desenha TUDO FECHADO.** Toda coisa que ele sabe desenhar, ele termina: dá
+> contorno, dá silhueta, separa do vizinho. Portanto **toda instrução de "muitos, sem contar"
+> feita em vocabulário ANATÔMICO produz objetos discretos — e objeto discreto é exatamente o que
+> se conta.** A saída não é achar um substantivo anatômico melhor. **Não existe.**
+>
+> **O não-contável só sai do ORNAMENTO**, que é a única classe de desenho que este gerador
+> executa **aberta**: gavinha que vira gavinha, volta que nasce da volta anterior, forma sem
+> começo nem fim. **Peça a criatura repetida COMO MOTIVO ORNAMENTAL dentro da massa, não como
+> corpo atrás dela.**
+>
+> **A fórmula, que `sheet-cerbero-E-planoB` provou:**
+> **UMA** cabeça nítida, amável, aquarelada, na frente — **+** a massa (gola / emaranhado /
+> folhagem) pintada como **scrollwork chapado** em que **perfis estilizados da própria criatura**
+> — *só o contorno externo: focinho, testa, orelha* — **nascem das voltas e voltam a se dissolver
+> nelas**, sem olho, sem pupila, sem boca, **sem contorno fechado**, cada um correndo para dentro
+> do seguinte, `so that where one ends and the next begins can never be told`.
+>
+> **Continua valendo integralmente a régua de adequação etária:** nada atrás da cabeça nítida tem
+> olho, pupila, boca ou focinho aberto. **Nada olha para a criança.**
+
+#### Consequências imediatas
+
+1. 🔴 **O "Plano B" deixa de se chamar rebaixamento e vira a FÓRMULA PADRÃO das peças
+   poli-cefálicas deste livro.** O §1.5b e o gatilho do §0.7 dos pacotes ficam como histórico;
+   nenhuma peça nova gasta rodadas com `SWELLING` ou `CROWN AND NAPE`.
+2. **Não há contradição com o texto.** O cap. 7 (*"algumas bem na frente, nítidas, e outras que
+   se perdem no pelo e na sombra… ninguém conta"*) é **cumprido literalmente** pela fórmula: a
+   nítida na frente, os perfis perdidos no pelo. **Nenhuma emenda editorial é necessária, e a
+   hipótese está encerrada** (`curadoria-3b.md` §14.2).
+3. **O substantivo por criatura:**
+
+| Criatura | Massa (aberta) | O motivo repetido dentro dela |
+|---|---|---|
+| **Cérbero** (sheet, capa, p. 33, 8A/8B) | `RUFF` de scrollwork | `STYLISED DOG PROFILES - muzzle, brow and ear only` |
+| **Tifão** | `THICKET OF COILS` de scrollwork | `STYLISED SERPENT COILS AND SNAKE BROWS growing out of the curls` — nenhuma boca, nenhuma língua |
+| **Ladon** | `FOLIAGE` | `STYLISED COILS SLIDING BEHIND THE LEAVES` — já era esta fórmula desde §3.5 |
+
+#### 🆕 A linha de fechamento de TODO character sheet ganha duas cláusulas
+
+Descoberta na mesma sessão: `no labels, no annotations` **não segura** a legenda numerada — o
+gerador entregou **numerais circulados ①–⑤**. E paisagem reaparece **dentro da cercadura**,
+onde o `[SHEET LAYOUT]` não estava olhando.
+
+```
+NO NUMBERS OF ANY KIND, no digits, no circled numerals, no figure numbers, no captions,
+no labels, no annotations, no arrows, no watermark, anywhere on the sheet.
+NO landscape, NO sea, NO sky, NO scenery anywhere on the sheet, not even as a small panel
+inside the border: the ground behind every study is flat warm paper #F6EFE2, flat light.
+```
+
+**Obrigatórias nos 3 sheets restantes e em toda regeração de sheet.** Verificadas em C3 e §1.5d.
+
+---
+
 ## 2. As 9 decisões de arte fixadas — incorporadas como regras duras
 
 Vêm de `producao/state/grega-equidna.json` §`decisoes_de_arte_fixadas`. **Não são reabertas
@@ -580,6 +674,26 @@ Never change her body to make the composition work.
    a desobediência **duas vezes por escrito**. **Resposta que declara ter sacrificado o
    personagem = REPROVA AUTOMÁTICA, sem olhar a imagem**; a conversa seguinte reforça o bloco
    `[WHO SHE IS]` em vez de repetir a mudança. Transcrever o verbatim no `log-geracao.md`.
+
+> ### ✅ D9-A CONFIRMADA EMPIRICAMENTE (v2.3 — Fase 3b, 3ª sessão)
+>
+> **A regra deixa de ser proposta e passa a ser regra provada.** Prova, com controle:
+>
+> | | Sessão 2, geração 10 (**sem** D9-A) | Sessão 3, geração 16 (**com** D9-A) |
+> |---|---|---|
+> | Mecanismo | anexo + "uma mudança só" | idêntico |
+> | Classe da mudança | esvaziar uma faixa do quadro | idêntica |
+> | Texto da resposta | *"there is an inherent contradiction… I have focused on the placement constraints"* | **nenhum texto. Só a imagem.** |
+> | Anatomia canônica | 🔴 **pernas humanas, pés e sandálias** | ✅ **zero pernas, zero pés, zero joelhos, zero sandálias** |
+>
+> **A única variável entre as duas é o bloco de precedência `[WHO SHE IS]` + a válvula de escape
+> `[IF THEY DO NOT FIT]`.** A válvula é o achado fino: como este gerador **declara** o conflito
+> em vez de escondê-lo, mandá-lo **declarar em vez de resolver** remove o incentivo de sacrificar
+> o personagem. **A D9-A é obrigatória e não é negociável em nenhuma peça com anexo.**
+>
+> **E o delta que a D9 pedia foi medido e é nulo** (`curadoria-3b.md` §17): entre `01-C-dono` e
+> a p. 40 não há delta perceptível em rosto, idade, penteado, veste, corpo-serpente, luz, paleta
+> nem moldura. **É a mesma mulher, no mesmo lugar. O fallback do §2.1 continua desarmado.**
 
 ---
 
