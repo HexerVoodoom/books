@@ -592,3 +592,186 @@ degradação no fim (timeouts de CDP no screenshot e no `type`; o menu de anexo 
 - **`NO NUMBERS OF ANY KIND, no digits, no circled numerals`** resolveu a legenda numerada que
   `no labels, no annotations` não segurava. Vale acrescentar à linha de fechamento de todo sheet.
 
+
+---
+
+# SESSÃO 5 — 2026-09-02, abas `368136967` (7 gerações) → `368136970` → `368136973`
+
+> ⚠️ **A sessão 4 não deixou registro neste arquivo** (morreu por limite de sessão da API).
+> Os assets dela existem em disco e continuam **pendentes de curadoria**:
+> `02-dragao-da-colquida-A.png`, `03-ortro-o-turno-de-trabalho-A.png` (**aprovada pela
+> curadoria §§20–26**), `sheet-cerbero-G-planoB3.png` (**aprovada**), `sheet-heracles-B.png`
+> (**reprovada por C4 — vetor chapado**). Não regerar `03`.
+
+## Direção nova incorporada nesta sessão
+
+- **`sheet-cerbero-G-REF.png`** (errata do diretor: estudo pequeno da cauda apagado) é a
+  **única** cópia que vai anexada. Gerada a cópia `.jpg` q95 em `referencias/`. A
+  `-planoB3.jpg` foi apagada de `referencias/` para não haver engano.
+- **Cláusula obrigatória da cauda-dragão** (`MOUTH CLOSED ... It COILS AROUND AND HOLDS; it
+  does not bite.`) acrescentada aos prompts da capa, `07`, `08b`.
+- **Fórmula do ornamento (§1.5e)** aplicada como padrão: **UMA cabeça nítida** em Cérbero
+  (capa, `07`, `08b`), em Tifão e na Hidra. 🔴 **Chamada do diretor:** o pacote F10 pedia
+  **duas** cabeças nítidas na capa; usei **uma**, para bater com a folha aprovada e com a
+  consequência 1 do §1.5e. Se o diretor quiser duas, é uma regeração.
+- **Bloco `[HOW THIS IS PAINTED]` positivo** (§22.3 da curadoria) acrescentado a `07`, `05`
+  e `06`, contra o modo de falha "vetor chapado com contorno preto uniforme".
+
+## Prompts novos criados (`prompts/`)
+
+`F7v2-07-cerbero-abraco.txt` · `F8v2-08a-tifao.txt` · `F9v2-08b-retrato-de-origem.txt` ·
+`F10v2-00-capa.txt` — todos com header do dono (aquarela molhada) + fórmula do ornamento +
+linha de fechamento com `NO NUMBERS OF ANY KIND`.
+
+## Gerações
+
+| # | Peça | Conversa | Asset | Dim | PNGreal | MD5 PNG |
+|---|---|---|---|---|---|---|
+| 1 | `04` tentativa 1 | `94c3f801b2425c68` | 🔴 **só texto, sem imagem** | — | — | — |
+| 2 | `04-ladon` | `3be803b16626fd11` | `04-ladon-e-o-pedido-da-almofada-A.png` | 2048² (1:1 ✔) | ✔ | `16562301AF474772FA2DBBE7F6B56935` |
+| 3 | `00-capa` | `2bd0064e54b3d982` | `00-capa-A.png` | 2048² ✔ | ✔ | `710335DE0AB3FCF80453B6D01869CD37` |
+| 4 | `02` correção D9-A | `7c1c5205f4165938` | `02-dragao-da-colquida-B-umvelo.png` | 2048² ✔ | ✔ | `BB6E35EC8B2B6C1C7FB721EDC571185B` |
+| 5 | `07` abraço | `2737b83b328c5825` | `07-cerbero-o-abraco-sem-armas-A.png` | 2048² ✔ | ✔ | `F2D054D80C096B3803A9F0A9847DFECD` |
+| 6 | `05` esfinge | `35eb432e89058438` | `05-a-pergunta-da-esfinge-A.png` | 2048² ✔ | ✔ | `370255A60BE5E9C591A3EAA8E1750A05` |
+| 7 | `06` leão antes | `4ec9cd82a68958b2` | 🔴 **gerada e renderizada, NÃO BAIXADA** | — | — | — |
+
+**Anexos usados:** capa → `sheet-cerbero-G-REF.jpg` · `02` → a própria página `A` ·
+`07` → `sheet-cerbero-G-REF.jpg` + `sheet-heracles-B.jpg` · `06` → `sheet-leao-nemeia-A.jpg` ·
+`04` e `05` → nenhum (pacote não pede).
+
+## Texto da resposta — checagem obrigatória, peça a peça
+
+- **`04-ladon`:** *"I was able to correct the previous coloring error with the serpent... However,
+  please note that Heracles is balancing a **woven container** on his head in this generation,
+  rather than the specific soft cushion requested."* → **desvio declarado de adereço** (cesto em
+  vez de almofada). Não é sacrifício de personagem. **Chamada do diretor.**
+  Conferido a olho: esfera celeste **estrelada, sem continentes** ✔ · almofada **na cabeça** ✔ ·
+  uma cabeça de Ladon nítida na folhagem ✔ · Hespérides em silhueta ✔ · 2 maçãs no chão ✔ ·
+  🔴 **a terceira maçã NÃO está na mão dele** (as mãos estão no cesto e na clava baixa).
+- **`00-capa-A`:** *"I have corrected the previous issues by ensuring the dog's gaze is now
+  off-axis and the dragon tail is featureless. **However, please note that there are some
+  distinct eyes visible on the ornamental profiles within the ruff**, which deviates from your
+  requirement that these heads remain strictly non-anatomical. **Additionally, the upper third of
+  the composition is a bit busier** than the quiet space you might need for later typography."*
+  → 🔴 **DOIS desvios declarados que reprovam a capa:** olhos dentro da gola (§1.5e / item 11) e
+  terço superior ocupado (reserva de tipografia). Trava 1 (cabeça contra creme) ✔ e trava 3
+  (cauda sem boca/dente/olho) ✔ pela declaração dele; trava 2 (olhar fora de eixo) ✔ declarada.
+  **A capa precisa de uma 2ª rodada** — o piso é 3 conversas e só houve 1.
+- **`02-B-umvelo`:** **SEM TEXTO NENHUM** → zero declaração de sacrifício, D9-A limpa.
+  Conferido a olho: **UM único Velo, o pendurado** ✔ · **Jasão de mãos vazias, alcançando o
+  galho, rosto voltado ao dragão, com medo** ✔ · dragão de olhos fechados, mandíbula no chão ✔ ·
+  Medeia no centro, mão no focinho, zimbro legível, cantando ✔ · zero arma ✔.
+  🟡 **Três pontos para o diretor:** (a) a página clareou — o "escuro quente" da `A` virou uma
+  floresta azul mais luminosa; (b) risco **C4** de novo: contorno escuro contínuo e preenchimento
+  mais chapado do que a lavagem molhada do dono; (c) há **uma presa clara** aparecendo no canto
+  da mandíbula inferior — checar contra o item "zero dente".
+- **`07-A`:** *"I wasn't able to fully align with some of your complex anatomical constraints for
+  Cerberus. While the overall look fits the description, **the additional heads are rendered as
+  anatomical, radial figures rather than the 'woven ornament' you specified without eyes or
+  mouths**. Furthermore, **the tail appears separated from the creature's body** rather than the
+  tail being a dragon itself."* → 🔴 **desvio declarado que reprova o item 11** (a gola virou
+  cabeças anatômicas com olho e boca) **e** quebra a continuidade da cauda. **`07` precisa de
+  2ª rodada.** O piso do pacote é 2 conversas e só houve 1.
+- **`05-A`:** **SEM TEXTO NENHUM** → zero declaração de sacrifício. Ainda **não conferida item a
+  item** (a sessão parou no bloqueio antes da varredura).
+- **`06`:** **SEM TEXTO NENHUM**, imagem renderizada, **sem asset** (bloqueio).
+
+## 🔴 BLOQUEIO DE DOWNLOAD — a sessão parou aqui
+
+**Medido:** os 5 primeiros downloads da sessão caíram normalmente (11:02 → 11:36). A partir do
+`06` **nada mais cai**.
+
+Sequência exata na peça `06` (conversa `4ec9cd82a68958b2`), imagem **renderizada**:
+1. clique por `ref` na aba de origem `368136970` → nenhum arquivo (o script recodificou o
+   arquivo ANTERIOR: **MD5 idêntico ao do `05`** — o asset falso foi apagado);
+2. aba **nova** `368136973`, conversa aberta pela URL, clique por `ref` → nada;
+3. **reload pela URL** + `scroll_to` + clique por `ref` → nada.
+
+**3 cliques, 2 reloads, 2 abas distintas, esperas de 18–20 s cada.** Nenhum `.crdownload`,
+nenhum erro na página, o botão responde. É ponto por ponto o bloqueio já documentado no
+`CLAUDE.md` do dono. **Não insisti** — a instrução da sessão manda parar e reportar.
+
+### O que o dono precisa fazer (nenhum agente resolve)
+
+1. Olhar a **barra de downloads** do Chrome e confirmar/descartar qualquer prompt nativo de
+   "Manter/Descartar" para `.jfif`.
+2. Liberar downloads automáticos para `gemini.google.com` em
+   `chrome://settings/content/automaticDownloads`.
+3. A conversa `4ec9cd82a68958b2` continua aberta com a imagem do `06` pronta — **dá para baixar
+   sem regerar.**
+
+## Achados de processo — sessão 5
+
+- 🆕 **`Generate this illustration as an image now.` no início do prompt resolve a resposta
+  só-de-texto.** A 1ª tentativa do `04` (sem a linha) veio só com texto descritivo; com a linha,
+  **6 de 6** conversas entregaram imagem. Vale acrescentar a toda peça.
+- 🆕 **Verificar o MD5 do bruto contra o download anterior ANTES de recodificar** — nesta sessão
+  o download falho reentregou o arquivo já obtido **duas vezes** e os dois assets falsos só foram
+  pegos pelo hash. Sem o hash, `05` e `06` teriam entrado no miolo como cópias do `07`.
+- 🆕 **Abrir a conversa numa ABA NOVA destravou um download parado uma vez** (o `05` caiu assim
+  depois de 2 falhas na aba de origem). **Não** funcionou no `06` — não é solução geral.
+- **O `type` falha em silêncio com muita frequência nesta UI.** Procedimento que funcionou 100%:
+  clicar por `ref` → digitar **um caractere** de sonda → screenshot → `ctrl+a` → digitar o
+  prompt inteiro. Sem a sonda, três prompts foram perdidos.
+- **O `type` de prompt longo estoura o timeout do CDP (30 s) mas o texto ENTRA.** Nunca repetir
+  a digitação por causa desse erro — esperar 20 s e conferir por screenshot.
+- **O botão `Envio e ferramentas` continua um toggle instável:** de 1 a 5 cliques por `ref` até
+  o `<input type=file>` existir no DOM. Confirmado de novo.
+- **Tempo de geração: 90–180 s**, mais longo que nas sessões anteriores.
+
+## Estado ao parar — sessão 5
+
+| Peça | Status |
+|---|---|
+| `04-ladon...-A` | ✔ baixada, PNG real, 1:1 — **pendente do diretor** (cesto em vez de almofada; 3ª maçã não está na mão) · piso 1/2 |
+| `00-capa-A` | ✔ baixada, PNG real, 1:1 — 🔴 **dois desvios declarados (olhos na gola; terço superior ocupado)**; travas 1–3 declaradas cumpridas · piso 1/3 |
+| `02-...-B-umvelo` | ✔ baixada, PNG real, 1:1 — **a mudança pedida foi executada, sem declaração de sacrifício** · risco C4 e presa no canto da mandíbula, para o diretor |
+| `07-...-A` | ✔ baixada, PNG real, 1:1 — 🔴 **item 11 reprovado por declaração** (gola virou cabeças anatômicas) · piso 1/2 |
+| `05-...-A` | ✔ baixada, PNG real, 1:1 — **pendente de varredura e do diretor** · piso 1/2 |
+| `06-o-leao-antes` | 🔴 **gerada, renderizada, NÃO baixada** — bloqueio de download |
+| `08a-tifao` · `08b-retrato` | **não iniciadas** — prompts prontos (`F8v2`, `F9v2`), bloqueadas pelo download |
+| `sheet-heracles` r3 | **não iniciada** — bloqueada pelo download |
+| vinhetas `06v1` / `06v2` | **não iniciadas** |
+
+
+## Curadoria §27 chegou depois do bloqueio — fila da próxima sessão
+
+**Aprovadas e já no miolo (não regerar):** `00-capa-A` · `02-dragao-da-colquida-B-umvelo` ·
+`04-ladon-e-o-pedido-da-almofada-A`. Livro em 48pp / 46,6 MB, 5 das 12 posições.
+
+🔴 **`05-a-pergunta-da-esfinge` REPROVADA** (lê "estátua", item 10 / D7). Regerar com: **rocha
+alta e rachada no lugar da coluna jônica** (sem capitel, sem base) · **câmera de baixo** ·
+**uma asa mais alta que a outra** · **Édipo ao pé da pedra olhando para cima**. Manter rosto,
+asas, paleta, estrada, Tebas e moldura.
+
+🔴 **`07-cerbero-o-abraco-sem-armas` REPROVADA** por 4 motivos: cauda-dragão de **boca aberta,
+dentes e olho aceso** e **solta do cão** · gesto de **uma mão no focinho** em vez de abraço ·
+**seis cabeças fechadas** atrás · **Héracles em vetor chapado** contra o cão em aquarela.
+Regerar com: cauda **presa ao traseiro do cão** + a cláusula `MOUTH CLOSED` · **nenhuma outra
+criatura na página** · **os DOIS braços em volta do alto da cabeça, entre as orelhas, rosto no
+pelo** · gola idêntica à de `sheet-cerbero-G-REF` (anexar) · bloco `[HOW THIS IS PAINTED]`
+aplicado **a Héracles e à leontê**. Arco e clava continuam no chão.
+
+🟡 **Opcional em `04`** (já aprovada): pintar o meio-campo (céu frio e horizonte, sem papel
+branco dentro da cercadura) e manter o corpo de Ladon dentro da banda da árvore.
+
+**Nada disso pôde ser executado:** o bloqueio de download acima impede recuperar qualquer
+imagem nova. **4º clique e 3º reload testados depois da curadoria — continua sem arquivo.**
+
+## ⚠️ 2026-09-02 — O "bloqueio de download do Chrome" tem outra causa
+
+Reportado como bloqueio do Chrome **três vezes** neste run (sessões 1, 4 e 5). Nas três, o
+orquestrador testou clicando no botão logo depois e **o arquivo caiu de primeira**.
+
+**A causa real é degradação de aba/CDP, não a proteção do Chrome contra downloads automáticos.**
+Na sessão 5 havia **7 abas do Gemini abertas** quando o download parou; fechadas as abas, o
+mesmo botão da mesma conversa baixou sem erro.
+
+**Procedimento novo (substitui "PARE e reporte" como primeira reação):**
+1. **Fechar cada aba com `tabs_close_mcp` assim que a peça termina.** Nunca mais de 2 abertas.
+2. Se um download falhar: **fechar as abas, abrir aba nova, tentar de novo.**
+3. Só declarar bloqueio do Chrome **depois** disso — e aí sim é o dono que resolve.
+
+Isso não revoga o alerta do `CLAUDE.md` (a proteção do Chrome existe e já mordeu na sessão 1,
+quando o dono precisou liberar `chrome://settings/content/automaticDownloads`). O que muda é a
+**ordem de diagnóstico**: aba degradada é muito mais frequente, e custa 3 cliques descartar.
