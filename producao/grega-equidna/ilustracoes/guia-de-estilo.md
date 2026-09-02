@@ -267,6 +267,70 @@ Três exigências que a redação carrega e que a validação confere:
 - ⛔ **PROIBIDO escrever "menos detalhada", "less defined", "blurred", "in the background".**
   Foi assim que a camada 2 virou anatomia contável no piloto.
 
+##### 🔴 EMENDA v2.1 (Fase 3b, `curadoria-3b.md`) — a camada 2 vira BLOCO IMPERATIVO PRÓPRIO
+
+**O que a rodada 1 do `sheet-cerbero` provou:** descrita **dentro do parágrafo** de
+`[CHARACTERS]`, a camada 2 falhou **duas vezes, de dois modos opostos** — no piloto virou
+anatomia contável; na rodada 1 **desapareceu** (três cabeças limpas e nada atrás). O gerador leu
+`one single continuous mass … no outline … dissolves into the light` como **tratamento de borda
+do que ele já tinha desenhado**, não como **volume a mais**. **Ele pinta técnica; volume só se
+você mandar PINTAR e disser QUANTO.**
+
+Isto contradiz o texto aprovado do cap. 7 (*"mais cabeças do que se consegue contar — algumas
+bem na frente, nítidas, e outras que se perdem no pelo e na sombra"*) e o box (*"é por isso que,
+neste livro, ninguém conta"*). **A camada 2 não é enfeite: é a metade da imagem que sustenta a
+página.**
+
+> **A camada 2 deixa de morar no `[CHARACTERS]` e passa a ser bloco próprio**, com cabeçalho e
+> verbo de desenho, colado **depois** de `[SHEET LAYOUT]` / `[SCENE]` e **antes** de
+> `[ORNAMENTAL BAND]` — a mesma receita que fez a camada 3 passar de 0/1 para 2/2.
+
+**Redação verbatim (versão cão; ver a tabela de substantivos abaixo):**
+```
+[THE FUR BEHIND — MANDATORY, PAINT THIS]
+PAINT A GREAT RUFF behind the three sharp heads: one single continuous body of wet-on-wet
+watercolour fur, as WIDE as two more dogs and as TALL as the sharp heads themselves, filling
+the whole space behind them so that no empty paper and no dark gap is ever seen between one
+head and the next. OUT OF THIS RUFF, PAINT FOUR OR FIVE SOFT ROUNDED SWELLINGS of fur that
+rise and sink — the shape of a shoulder, the shape of a muzzle turning away — and let EACH ONE
+BLEED BACK INTO THE RUFF before it is finished: no outline, no ear, no eye, no nose, no face
+on any of them. Paint the ruff in warm cream #EDD9B4 and ochre #C88A3D, dissolving INTO THE
+LIGHT, never into black. THE RUFF MUST COVER MORE OF THE PICTURE THAN THE THREE SHARP HEADS
+TOGETHER.
+```
+
+**As três alavancas que este bloco usa, e por quê:** (1) **bloco imperativo com verbo de
+desenho** — provado 2/2 na banda ornamental; (2) **contagem positiva com teto**, aqui aplicada
+aos **inchaços** e não a cabeças — provado 3/3 na camada 1, e inchaço não vira inventário;
+(3) **critério de ÁREA verificável a olho nu** (`MUST COVER MORE … THAN THE THREE SHARP HEADS
+TOGETHER`) — "tem camada 2?" deixa de ser opinião na validação.
+
+**A palavra concreta muda por criatura; o esqueleto do bloco, nunca:**
+
+| Criatura | Substantivo a pintar |
+|---|---|
+| Cérbero (sheet, capa, p. 33, 8A) | **`RUFF`** — a gola de pelo larga atrás das cabeças |
+| Tifão | **`THICKET` / `NEST OF COILS`** — o emaranhado de anéis nascendo dos ombros |
+| Ladon | **`FOLIAGE`** — a folhagem da macieira já é o corpo (variante mais fácil) |
+
+⛔ As proibições de vocabulário do bloco anterior continuam valendo integralmente.
+
+#### 🆕 "CAMADA 2 AUSENTE" é falha nomeada — e NÃO arma o Plano B
+
+O gatilho do Plano B dispara com **duas reprovas pelo item 11, por EXCESSO de contagem**. Uma
+peça que entrega o número pedido na camada 1 e **não entrega camada 2 nenhuma** reprova por
+**camada 2 ausente**, volta a rodada com o bloco acima, e **essa rodada não conta para o
+gatilho**. Rebaixar essa peça ao desenho de Ladon seria trocar três rostos bons por um para
+consertar um erro de redação. A distinção é registrada no `log-geracao.md`.
+
+#### 🆕 Folha de modelo: todas as vistas com o MESMO número de cabeças
+
+`sheet-cerbero-B` foi reprovada por entregar **3 / 2 / 4** cabeças nas três vistas (e uma quarta
+face nítida, item do `[MUST NOT APPEAR]`). Uma folha que não sabe quantas cabeças o animal tem
+não ancora capa nem cena. **Item de checklist de toda folha poli-cefálica**, ao lado do que S1 já
+exigia de Equidna. Redação a acrescentar ao `[SHEET LAYOUT]`: `every study on this sheet shows
+the same animal with the same three sharp heads and the same ruff behind them.`
+
 **Camada 3 — BLOCO IMPERATIVO SEPARADO no prompt.**
 No piloto ela foi **ignorada por completo** por estar diluída como terceiro item de uma lista.
 Passa a ser um bloco próprio, com cabeçalho próprio, colado **depois** de `[SCENE]`:
@@ -423,7 +487,8 @@ tunic WITH SLEEVES THAT COVER THE SHOULDERS and NO marked waist, from the neck d
 the human body meets the serpent; that junction is ALWAYS hidden by the falling cloth or by
 the shadow of the cave, and is NEVER the subject of the image. From the waist down she is a
 HUGE snake, great and awful, with SPECKLED skin — LARGE, ROUNDED, SOFT PATCHES, never
-realistic reptile scales and NEVER a diamond or zigzag pattern along the back. The serpent
+realistic reptile scales and NEVER a diamond or zigzag pattern along the back; the serpent skin
+is WARM: clay ochre #C88A3D over clay cream #EDD9B4, never grey and never cold. The serpent
 body lies BESIDE AND BEHIND her, going INWARD into the cave: it never comes toward the
 viewer and never crosses the bottom edge of the frame, and it ENTERS AND LEAVES THE FRAME so
 the whole length is never measurable. She is always framed at medium or American shot, AT A
