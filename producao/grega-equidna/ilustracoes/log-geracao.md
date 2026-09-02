@@ -356,3 +356,239 @@ personagem.
   quando a instrução colide com outra: aí o modelo escolhe uma e **declara** a escolha no texto
   da resposta. **Ler o texto da resposta virou parte da checagem técnica.**
 
+
+---
+
+# SESSÃO 3 — 2026-09-02 (aba nova `368136927`)
+
+> Escopo: `sheet-cerbero` r3 (`CROWN AND NAPE`, v2.2) → gatilho do Plano B · `sheet-leao-nemeia` ·
+> `sheet-heracles` · p. 40 sob **D9-A**. Downloads em `E:\dowload`.
+
+## 🔴 Colado antes de disparar a r3 — o gatilho armado (curadoria-3b §8.3)
+
+> **Se a rodada 3 entregar de novo uma gola em que um adulto chega a um número em 10 s, o Plano
+> B é acionado NA HORA, sem nova curadoria e sem quarta rodada** — `sheet-cerbero` é rebaixada ao
+> desenho de Ladon (uma cabeça nítida, o resto dissolvido na gola), a folha vai ao `gate.md` com
+> as três candidatas e o dono decide entre a folha rebaixada e abrir orçamento de geração extra.
+
+---
+
+## Geração 11 · `sheet-cerbero` RODADA 3 — `CROWN AND NAPE`
+
+Conversa `3529beed9846ef2e` · prompt `prompts/S2r3-sheet-cerbero.txt` (r2 + bloco
+`[MORE DOG BEHIND]` v2.2 + as duas emendas de layout do §9.4) · anexos **REF-02 + REF-01**.
+- Asset: `sheet-cerbero-D-r3.png` · 2400×1792 (4:3) ✔ · PNGreal ✔
+  MD5 bruto `F0CC1E586ED06FA5DBDD9A12233FC68B` · MD5 PNG `E60C9B1B6DA54ACE8D881A6468822644`
+
+### O que `CROWN AND NAPE` produziu
+
+✅ **A palavra funcionou como dispositivo.** Ao contrário de `SWELLING`, as nucas **existem
+na imagem**: cabeças vistas de costas, calota e nuca, viradas para longe, **nenhum rosto novo,
+nenhum olho, nariz ou boca atrás das três nítidas**. A revogação do `no ear` foi o que destravou
+— as orelhas voltaram e são o que faz a massa ler como "mais cão". As três vistas trazem 3/3/3
+cabeças nítidas; as orelhas caídas apareceram nas cabeças nítidas.
+
+🔴 **E é exatamente por isso que ela REPROVA o item 11.** As nucas vieram **discretas, fechadas
+e separáveis**: no estudo 1 conto **três nítidas + quatro nucas = sete**; no estudo 2,
+**três + duas = cinco**. Em menos de 10 s. A cláusula `none of them is ever whole` / `SINK BACK
+INTO THE RUFF` **não** foi obedecida: cada nuca fechou como forma inteira sobre a gola.
+
+> **Diagnóstico para o diretor:** a r2 falhou por gola **lisa demais** (nada a contar, mas nada
+> de "mais cão"); a r3 falha pelo **oposto** — a gola ganhou objetos, e objeto é justamente o
+> que se conta. `CROWN AND NAPE` resolveu "sugerir mais cão sem rosto" e **não** resolveu
+> não-contabilidade. O eixo do problema não é o substantivo: é que **tudo que este gerador
+> desenha, ele desenha fechado**.
+
+**Verbatim da resposta (checagem técnica obrigatória):** *"I have generated the character
+reference sheet... The illustration adheres to the requirement of having exactly three sharp
+heads, and I ensured that the complex ruff and the small cluster study remain faithful to the
+distinct head counts and details specified. Please note that while the ornamental markings are
+present, the decorative swirl in the three-quarter view appears on the shoulder rather than
+exclusively along the animal's back."* → **declaração de desvio** (serpente no ombro = item 7 do
+`[MUST NOT APPEAR]`). Não é declaração de sacrifício de personagem, mas é desvio declarado.
+
+### 🔴 GATILHO ACIONADO — Plano B aplicado na hora, sem quarta rodada e sem nova curadoria
+
+Item 11 reprovado pela **terceira** vez (piloto 1 por excesso · r2 por gola lisa · r3 por nucas
+contáveis). Conforme §8.3 da curadoria e a instrução da sessão, **`sheet-cerbero` foi rebaixada
+ao desenho de Ladon na mesma sessão**: uma cabeça nítida, todo o resto como ornamento dentro da
+gola e no friso. Prompt do Plano B: `prompts/S2pb-sheet-cerbero-planoB.txt` (camada 1 substituída
+pela redação do §0.7 dos pacotes; `[THE FUR BEHIND]` reescrito para ornamento aberto).
+
+---
+
+## Geração 12 · `sheet-cerbero` PLANO B (1ª)
+
+Conversa `f7837cc85fb94357` · anexos REF-02 + REF-01 · sem texto de resposta (só imagem).
+- Asset: `sheet-cerbero-E-planoB.png` · 2400×1792 ✔ · PNGreal ✔
+  MD5 bruto `2BC8090ACCCD3ED2E5345D95B61E21A5` · MD5 PNG `CE9E9FCC987DAF495F6D395F9572FAD4`
+
+✅ **UMA cabeça nítida em todas as vistas; zero segunda face; nada contável.** A gola recebeu o
+ritmo de palmetas/gavinhas pedido. Banda A e Banda B em faixas próprias. Orelhas caídas.
+🔴 **C3 REPROVA:** a folha veio com **numerais circulados (①–⑤)** identificando os estudos —
+"no labels, no annotations" não segurou. Reprova técnica, não de conceito.
+
+## Geração 13 · `sheet-cerbero` PLANO B (2ª) — com a proibição de numeral endurecida
+
+Conversa `a5d02684b3ba1039` · prompt `prompts/S2pb2-sheet-cerbero-planoB.txt`
+(acrescenta `NO NUMBERS OF ANY KIND, no digits, no circled numerals...`) · anexos REF-02 + REF-01.
+- Asset: `sheet-cerbero-F-planoB2.png` · 2400×1792 ✔ · PNGreal ✔
+  MD5 bruto `92DB54B48E925B390FDAC370539758B1` · MD5 PNG `BE8AE3476B457567776D6DA20DF376ED`
+
+✅ **C3 resolvido — zero numeral, zero legenda.** Uma cabeça nítida por estudo, nada contável,
+gola com ornamento tecido, orelhas caídas, friso de felinos em banda própria.
+🟡 **Defeito novo:** atrás do estudo maior aparece **mar e céu azuis** — fundo de cena, que o
+`[SHEET LAYOUT]` e o §1.5d proíbem na folha (papel quente liso, luz plana, sem ambiente).
+🟡 A folha traz mais de três estudos.
+
+> **Estado de `sheet-cerbero` ao fim da sessão: candidatas ao gate, nenhuma aprovada por mim
+> (não aprovo a própria imagem).** `A` (r1, camada 2 ausente) · `C-r2` (gola lisa) ·
+> `D-r3` (nucas contáveis) — e, do rebaixamento, `E-planoB` (numerais) e `F-planoB2` (fundo de
+> mar). **Decisão do diretor/dono:** qual candidata do Plano B corrigir com uma geração extra,
+> ou abrir orçamento para uma 3ª do Plano B sem numeral E sem fundo.
+
+---
+
+## Geração 14 · `sheet-leao-nemeia` — DESTRAVADO pela regra §1.5d
+
+Conversa `a5a92b32adb6182c` · prompt `prompts/S4r-sheet-leao-nemeia.txt` (S4 + o parágrafo de
+âncora de cor do §1.5d: aquarela molhada de verdade, cor local quente e saturada com hex, fundo
+de papel liso, **sem cena, sem atmosfera, sem céu**) · anexo **REF-06** (olpe coríntio, CC0),
+com a instrução negativa obrigatória. Sem texto de resposta.
+- Asset: `sheet-leao-nemeia-A.png` · 2400×1792 (4:3) ✔ · PNGreal ✔
+  MD5 bruto `35FD6024E8D11573EE5D0EEDBC947EEF` · MD5 PNG `DFA28309AF24714FAD1605C139E7FADE`
+
+✅ Três estudos do MESMO leão (deitado de lado · deitado frontal à altura da criança · cabeça e
+juba grandes, dois olhos legíveis) · **os DOIS estudos de matéria existem e são grandes**
+(couro + juba), que é o que trava S3, a vinheta 6.2 e a p. 33 · zero rugido, boca fechada, zero
+dente, zero bote, zero contraluz · fundo de papel quente liso, luz plana, **sem cena** · cor
+local quente e saturada (terracota/ocre), **o cinza-bege não voltou** — a regra §1.5d fez o que
+foi escrita para fazer. Sem texto, sem numeral.
+⚠️ **Piso de variações NÃO cumprido: 1 conversa, o piso de S4 é 2.** A 2ª tentativa foi
+abortada pelo desgaste da aba (o menu de anexo virou toggle e parou de abrir). Fica como
+pendência da próxima sessão.
+🔴 **Registrar como divergência declarada (§3.8):** rosto **frontal** e postura **deitada** não
+têm referência antiga possível — é [NOSSO], 100% Mucha/aquarela.
+
+---
+
+## Gerações perdidas · `sheet-heracles` — 1ª tentativa
+
+Anexei o **bruto `.jfif`** do sheet do leão. **O Gemini leu o arquivo como TEXTO, não como
+imagem** (*"It appears you have pasted a highly detailed image generation prompt directly
+alongside the raw binary text of a JPEG image file"*). Conversa `456ea9e8c362f4c5`, sem imagem.
+2ª tentativa: a conversa `3c1db8df9b96e927` **não persistiu** (falha do lado do Gemini; a URL
+volta para `/app`). Duas gerações queimadas.
+
+> 🔴 **ACHADO DE PROCESSO, VALE PARA TODA PEÇA COM ANEXO:** **nunca anexar o `.jfif` de
+> `brutos/`.** O Gemini só reconhece como imagem o que chega com extensão `.png` ou `.jpg`.
+> E o limite de upload da ferramenta é **10 MB somados** — os PNGs recodificados deste livro
+> passam de 10 MB. **Procedimento novo:** gerar uma cópia `.jpg` (qualidade 95, tamanho nativo)
+> do asset e anexar essa cópia. Foi assim que a p. 40 e o `sheet-heracles` saíram.
+
+## Geração 15 · `sheet-heracles` — com o leão anexado como `.jpg`
+
+Conversa `1df60b5b89921fa3` · prompt `prompts/S3r-sheet-heracles.txt` + âncora de cor do §1.5d ·
+anexo: cópia `.jpg` de `sheet-leao-nemeia-A`, com `take ONLY the lion's fur colour and texture`.
+- Asset: `sheet-heracles-A.png` · 2400×1792 (4:3) ✔ · PNGreal ✔
+  MD5 bruto `6B882F9ACCBBF8CAF6BEC70571EEE433` · MD5 PNG `98CD65848DB36244EFDBE56023C67041`
+
+✅ **D3 cumprida:** a cabeça do leão **pende no ombro/peito**, nunca sobre a cabeça dele —
+nenhum quadro com capuz, elmo ou escalpo · clava presente e **baixa**, nunca erguida · a figura
+da esquerda está **sem a pele** · zero sangue, zero ferida, zero corpo do leão carregado, zero
+leão vivo na folha · zero pose triunfal · rosto grande de referência, sem capacete.
+🔴 **FALHA DE CHECKLIST:** *"a pele cai do ombro ao chão — manto de corpo inteiro"*. Aqui a pele
+é **pelego curto**: cobre ombros e peito e para na cintura, pernas nuas. É item duro de S3.
+🟡 As duas figuras vestidas com a pele repetem a mesma solução; falta o manto-silhueta.
+
+**Verbatim da resposta (checagem técnica obrigatória):** *"Here is the generated model sheet.
+I've corrected the layout to include the requested frontal and three-quarter views and removed
+the reference lion from the previous attempt. I should note that while the layout and border
+textures are accurate, the facial styling may appear too realistic rather than capturing the
+soft watercolour 'arabesque' look you specified. Additionally, the faces look somewhat identical
+across all studies, meaning the expression and details of the three-quarter views may not be as
+distinct as intended, though the body poses themselves are accurate."*
+→ **Declaração de desvio de ESTILO (risco de C4), não de sacrifício de personagem.** A régua
+D9-A reprova automaticamente quando o modelo declara ter sacrificado **quem o personagem é**;
+não é o caso. Fica registrado para o diretor julgar C4.
+
+---
+
+## Geração 16 · 🔴 p. 40 (`08c-40-a-caverna-ultima-pagina`) — **D9-A, o teste da sessão**
+
+Conversa `f7cf8e19fdc5dc7f` · prompt `prompts/A1r-40-caverna-D9A.txt` ·
+anexo: **cópia `.jpg` de `01-equidna-a-caverna-C-dono.png`** — a página **aprovada pelo dono**
+(`DIRECAO-DO-DONO.md`, resolução de 02/09: *"a imagem que o dono escolheu está APROVADA como
+está"*; a FIXÁVEL-3 revisada permite anéis deitados no primeiro plano).
+Estrutura do prompt: `[WHO SHE IS - UNCHANGED. THIS OUTRANKS EVERYTHING BELOW]` com a ficha
+§3.1 **verbatim** + a anatomia em risco nomeada (`NO human legs, NO feet, NO knees, NO sandals,
+NO skirt hem with feet under it`) → `[THE ONE CHANGE]` (bloco imperativo com critério de área:
+*"PAINT THAT WHOLE UPPER BAND AS BARE CAVE STONE INSTEAD... fill the entire top of the picture"*)
+→ `[IF THEY DO NOT FIT]` com a válvula de escape.
+- Asset: `08c-40-a-caverna-ultima-pagina-A.png` · **2048×2048 (1:1)** ✔ · PNGreal ✔
+  MD5 bruto `3CC5E65DD13A7B7D74431B3077C1B3D5` · MD5 PNG `66496C5F30948E98C16A3ABCD1543FF3`
+
+### 🔴 D9-A FUNCIONOU — não houve declaração de sacrifício
+
+**O Gemini respondeu SEM TEXTO NENHUM: só a imagem.** Zero declaração de conflito, zero
+"inherent contradiction", zero "I have focused on the placement constraints". Comparando com a
+geração 10 da sessão 2 — mesmo mecanismo, mesma classe de mudança, e lá ele **avisou por escrito**
+que tinha trocado o personagem pela composição —, **a única diferença é o bloco de precedência
++ a válvula de escape.** É a evidência que a regra D9-A pedia.
+
+**E a anatomia sobreviveu:** **zero pernas humanas, zero pés, zero joelhos, zero sandálias** —
+o corpo de serpente continua, com as manchas grandes e arredondadas, os anéis deitados em
+repouso. Foi exatamente o modo de falha que reprovou `01-D-dono-C1`, e ele não se repetiu.
+
+**A mudança pedida foi executada:** a faixa alta virou **pedra de caverna nua** — não sobrou um
+medalhão, uma vista distante nem o friso das cinco portas. Preservados: o feixe diagonal de luz
+no chão (único movimento), a paleta fria e colorida da caverna, o enquadramento, a altura de
+câmera à altura da criança, a moldura leve de meandro e palmetas, a manga cobrindo o ombro,
+o cabelo recolhido.
+
+⚠️ **O que EU não julgo, e vai ao diretor (D9 é dele):** o **delta de rosto** entre
+`01-C-dono` e esta p. 40 — cruzar as duas lado a lado e decidir se é *"o mesmo rosto sem uma
+ruga a mais"* ou se o fallback do §2.1 precisa ser discutido. Minha leitura técnica é que a
+identidade se manteve na mesma família e o penteado, a idade e o desenho do olho batem, mas
+**o veredito de D9 não é meu.**
+⚠️ Piso de 3 conversas para a p. 40 **não cumprido** (1 conversa) — a aba chegou ao ponto de
+parada. Duas variações ficam para a próxima sessão.
+
+---
+
+## Estado ao parar — sessão 3
+
+| Peça | Status |
+|---|---|
+| `sheet-cerbero` r3 (`sheet-cerbero-D-r3.png`) | ✔ gerada e baixada — **item 11 reprovado 3ª vez** (nucas contáveis). Gatilho do Plano B **acionado** |
+| `sheet-cerbero` Plano B (`E-planoB`, `F-planoB2`) | ✔ geradas e baixadas — não-contáveis ✅; `E` reprova C3 (numerais), `F` traz fundo de mar. **Pendentes do diretor/dono** |
+| `sheet-leao-nemeia-A.png` | ✔ gerada, baixada, PNG real, checklist técnico OK — **pendente do diretor**; piso de variações 1/2 |
+| `sheet-heracles-A.png` | ✔ gerada e baixada — **D3 cumprida**, mas a pele saiu **pelego curto** e não manto de corpo inteiro. Pendente do diretor; piso 1/2 |
+| **p. 40 (`08c-40-a-caverna-ultima-pagina-A.png`)** | ✔ gerada e baixada — **D9-A sem declaração de sacrifício, anatomia preservada, mapa removido**. Pendente do delta de rosto (diretor); piso 1/3 |
+| `01-C-dono` | **aprovada pelo dono, inalterada** — foi a referência anexada da p. 40 |
+| `00-capa` | **não iniciada** — orçamento da aba esgotado antes |
+
+**Gerações consumidas na aba `368136927`: 9 (7 com imagem, 2 perdidas).** Aba com sinais de
+degradação no fim (timeouts de CDP no screenshot e no `type`; o menu de anexo deixou de abrir).
+**Parada declarada aqui.**
+
+## Achados de processo — sessão 3
+
+- 🔴 **Anexo só funciona com `.png`/`.jpg`; `.jfif` é lido como TEXTO.** E o limite do upload é
+  **10 MB somados** — os PNGs deste livro estouram. **Gerar cópia `.jpg` q95 e anexar essa
+  cópia.** Custou 2 gerações descobrir.
+- **Downloads: 6/6 caíram**, ~10–18 s após o clique por `ref`. Pasta: `E:\dowload`.
+- **O botão `Envio e ferramentas` é um toggle instável:** de 1 a 5 cliques por `ref` até o
+  `<input type=file>` existir no DOM. Sempre conferir por `find` antes de chamar o upload.
+- **Uma conversa não persistiu** (URL válida no momento do envio, `/app` depois). Sinal de aba
+  cansada; não insistir.
+- **Não navegar para fora da conversa antes de a imagem terminar de renderizar** — foi o que
+  matou a conversa perdida.
+- **A regra "o objeto de `PAINT` tem de existir no repertório de desenho" está confirmada nas
+  duas direções:** `CROWN AND NAPE` é desenhável e **foi desenhada** (ao contrário de
+  `SWELLING`) — e é justamente por ser desenhável que virou objeto contável. **Para a
+  não-contabilidade, o gerador precisa de uma coisa que ele desenhe ABERTA por natureza (o
+  ornamento), e é isso que o Plano B entrega.**
+- **`NO NUMBERS OF ANY KIND, no digits, no circled numerals`** resolveu a legenda numerada que
+  `no labels, no annotations` não segurava. Vale acrescentar à linha de fechamento de todo sheet.
+
