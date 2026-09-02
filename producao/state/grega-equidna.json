@@ -4,18 +4,59 @@
   "titulo_anterior": "Equidna e seus filhos (título de trabalho, descartado na Fase 2 por declarar grau de parentesco)",
   "mitologia": "grega",
   "posicao_serie": "2 (spin-off da Grécia)",
-  "fase_atual": "ilustracao",
+  "fase_atual": "ilustracao-aguardando-imagens",
   "capitulos": [
-    {"slug": "equidna-caverna", "cap": 1, "status": "gate-aprovado", "palavras": 519},
-    {"slug": "dragao-colquida", "cap": 2, "status": "gate-aprovado", "palavras": 513},
-    {"slug": "ortro", "cap": 3, "status": "gate-aprovado", "palavras": 532},
-    {"slug": "ladon", "cap": 4, "status": "gate-aprovado", "palavras": 561},
-    {"slug": "esfinge", "cap": 5, "status": "gate-aprovado", "palavras": 512},
-    {"slug": "leao-nemeia", "cap": 6, "status": "gate-aprovado", "palavras": 511},
-    {"slug": "cerbero", "cap": 7, "status": "gate-aprovado", "palavras": 532},
-    {"slug": "tifao-geral", "cap": 8, "status": "gate-aprovado", "palavras": 791}
+    {
+      "slug": "equidna-caverna",
+      "cap": 1,
+      "status": "gate-aprovado",
+      "palavras": 519
+    },
+    {
+      "slug": "dragao-colquida",
+      "cap": 2,
+      "status": "gate-aprovado",
+      "palavras": 513
+    },
+    {
+      "slug": "ortro",
+      "cap": 3,
+      "status": "gate-aprovado",
+      "palavras": 532
+    },
+    {
+      "slug": "ladon",
+      "cap": 4,
+      "status": "gate-aprovado",
+      "palavras": 561
+    },
+    {
+      "slug": "esfinge",
+      "cap": 5,
+      "status": "gate-aprovado",
+      "palavras": 512
+    },
+    {
+      "slug": "leao-nemeia",
+      "cap": 6,
+      "status": "gate-aprovado",
+      "palavras": 511
+    },
+    {
+      "slug": "cerbero",
+      "cap": 7,
+      "status": "gate-aprovado",
+      "palavras": 532
+    },
+    {
+      "slug": "tifao-geral",
+      "cap": 8,
+      "status": "gate-aprovado",
+      "palavras": 791
+    }
   ],
   "pendencias": [
+    "DONO: nomear a crianca de 4 anos para o teste de aceitacao (quem, idade, quem aplica, onde registra) - capa etiquetada aguardando teste com leitor real",
     "Seção 'Perguntas que as crianças fazem' ainda não escrita (aparato da Fase 4)",
     "Propagar o título novo: capa, lombada, serie-padroes.md",
     "serie-padroes.md: rotulagem de spin-off; transferência do gancho Pégaso; formato de quarta capa da série; regra 'paratexto não usa a redação literal da 1ª nem da última frase do miolo'",
@@ -34,7 +75,18 @@
     "Teste do cap. 7: o leitor de 4 anos deve dizer 'cachorro'. 'Monstro' ou 'fofinho' = refazer",
     "Última página = a caverna aberta com Equidna, no enquadramento do cap. 1 (contrato feito com a criança no cap. 3)"
   ],
-  "gates": {"fundacao": "aprovado", "pesquisa": "aprovado", "escrita": "aprovado"},
+  "gates": {
+    "fundacao": "aprovado",
+    "pesquisa": "aprovado",
+    "escrita": "aprovado",
+    "ilustracao-3a": "aprovado"
+  },
   "checkpoint": null,
-  "nota": "Fase 2 aprovada em 2026-09-01: 8 capítulos (4.471 palavras), quarta capa, título decidido. Loop adversarial quádruplo: nenhum capítulo reprovado; 5 FATAIS e ~30 fixáveis aplicadas. Fase 3a aberta."
+  "nota": "Fase 2 aprovada em 2026-09-01: 8 capítulos (4.471 palavras), quarta capa, título decidido. Loop adversarial quádruplo: nenhum capítulo reprovado; 5 FATAIS e ~30 fixáveis aplicadas. Fase 3a aberta.",
+  "ilustracoes": {
+    "pecas": 22,
+    "geradas": 0,
+    "orcamento": "35-45 conversas em 4+ sessoes",
+    "poli_cefalicas_de_risco": 7
+  }
 }
