@@ -41,17 +41,31 @@ inexpresso ou mascarado. O motivo é de público, não de gosto: 4–7 anos lê 
 rosto. **A cerâmica emoldura; Mucha atua.**
 
 ### 1.3 Referências de acervo
-Todas do **Met Museum Open Access (CC0)**, citadas por título e acesso conhecidos.
-⚠️ **Pendência herdada do livro-spec:** a API `collectionapi.metmuseum.org` estava bloqueada
-pelo proxy da sessão de fundação; `objectID` e link direto **continuam por verificar** —
-tarefa do `mito-ilustrador` no início da Fase 3b, com a rede em "Full".
+> 🔧 **CORREÇÃO APLICADA EM 2026-09-01** — arquivo congelado, edição **autorizada pelo
+> orquestrador** na Fase 3a do livro 2 (`grega-equidna`). Verificação feita pelo
+> `mito-historiador-arte` (`producao/grega-equidna/ilustracoes/referencias-visuais.md` §5) e
+> registrada em `producao/grega-equidna/ilustracoes/guia-changelog-3a.md`.
+> **A pendência de verificação dos `objectID` está FECHADA.**
+>
+> **Causa do bloqueio original, para não voltar:** `14.130.12` e `14.130.14` são **NÚMEROS DE
+> ACESSO, não `objectID`**. A API `collectionapi.metmuseum.org/public/collection/v1/objects/`
+> só aceita `objectID` numérico e devolve **HTTP 400** para número de acesso. Metade da
+> "pendência de proxy" era, na verdade, erro de tipo de identificador.
+>
+> **Duas das quatro linhas abaixo não eram referências utilizáveis, e ninguém notou em dois
+> livros:** a nº 3 **nunca foi uma obra — era uma instrução de busca**, e passou por dois
+> gates; a nº 4 estava listada sob "todas do Met Open Access", mas **o Met não tem Mucha**.
+> Nenhuma das quatro estava inventada.
 
-| # | Obra | Acervo · acesso | Licença | Serve a |
+Todas as peças do Met são **Met Museum Open Access (CC0)**, agora com `objectID` verificado
+via API (`isPublicDomain: true`).
+
+| # | Obra | Acervo · `objectID` · acesso | Licença | Serve a |
 |---|---|---|---|---|
-| 1 | Ânfora panatenaica de prêmio (Atena Promachos entre colunas), Pintor de Euphiletos, figuras negras, ca. 530 a.C. | Met, 14.130.12 | CC0 | proporção de figura, drapeado geométrico *(estudo de borda apenas)* |
-| 2 | Cratera funerária geométrica, Oficina de Hirschfeld, ca. 750 a.C. | Met, 14.130.14 | CC0 | **meandros e frisos das molduras** |
-| 3 | Kylix / lekythos de figuras vermelhas com cenas de deuses (busca: Hermes, Atena, Perseu) | Met Open Access | CC0 | atributos, gesto, ornamento |
-| 4 | Obra de Alphonse Mucha (m. 1939, domínio público) | — | DP | moldura, arabesco, arco decorativo |
+| 1 | Ânfora panatenaica de prêmio (Atena Promachos entre colunas), Pintor de Euphiletos, figuras negras, ca. 530 a.C. | Met · **`objectID` 248902** · acesso 14.130.12 | CC0 ✅ verificada | proporção de figura, drapeado geométrico *(estudo de borda apenas)* |
+| 2 | Cratera funerária geométrica, Oficina de Hirschfeld, ática, ca. 750–735 a.C. | Met · **`objectID` 248904** · acesso 14.130.14 | CC0 ✅ verificada | **meandros e frisos das molduras** |
+| 3 | ~~"Kylix / lekythos de figuras vermelhas com cenas de deuses (busca: Hermes, Atena, Perseu)"~~ 🔴 **NÃO ERA UMA OBRA — era uma instrução de busca.** **Substituída por:** *Terracotta calyx-krater*, Pintor de Spreckles, ática de figuras vermelhas, ca. 450 a.C. | Met · **`objectID` 247946** · acesso 07.286.66 | CC0 ✅ verificada | atributos, gesto, ornamento |
+| 4 | Alphonse Mucha, *Zodiac* (litografia, 1896) — 🔴 **NÃO É DO MET** (o Met não tem Mucha); a rubrica do cabeçalho estava errada, não o objeto | **Wikimedia Commons** — `File:Alphonse_Mucha_-_Zodiac,_1869.jpg` *(o "1869" é erro de quem subiu o arquivo; a obra é de 1896)* | DP (Mucha m. 1939) ✅ verificada | moldura, arabesco, arco decorativo |
 
 **Extensão arqueológica declarada** (não é fonte literária, e a p. 53 registra): a régia de
 **Minos** (cornos estilizados no diadema, *lábrys* no encosto do trono) e o **traje minoico de
