@@ -395,7 +395,7 @@ Longe, na ponta mais a oeste do mar — tão a oeste que era ali que o sol ia se
 
 O gado era de Gerião, e Gerião quase nunca aparecia.
 
-Quem aparecia todo dia eram dois. Euritião, o boieiro, com o cajado no ombro. E Órtro, o cão de duas cabeças.
+Quem aparecia todo dia eram dois. Euritião, o boieiro, com o cajado no ombro. E Órtro, o cão de duas cabeças, castanho avermelhado, cor de folha seca no sol.
 
 De manhã, as duas cabeças acordavam ao mesmo tempo. Uma olhava o caminho da água. A outra olhava o caminho do mato. Depois trocavam, só para variar.
 
@@ -661,11 +661,11 @@ O portão do mundo de baixo fica no fim de uma escada muito comprida.
 
 Não tem tranca. Não precisa. Tem Cérbero (Kérberos).
 
-Ele fica sentado ali, de frente para quem chega. É um cão enorme, com mais cabeças do que se consegue contar — algumas bem na frente, nítidas, e outras que se perdem no pelo e na sombra. Ao longo das costas, cabeças de serpentes de toda sorte. E a cauda dele é de dragão, e se mexe sozinha, com vontade própria.
+Ele fica sentado ali, de frente para quem chega. É um cão enorme, com três cabeças — uma, duas, três, todas olhando para a mesma escada. Ao longo das costas, cabeças de serpentes de toda sorte. E a cauda dele é de dragão, e se mexe sozinha, com vontade própria.
 
 Quando ele avisa, não late. Ressoa. A voz é de bronze.
 
-Aquele portão já tinha ouvido música uma vez. Um homem chamado Orfeu desceu cantando, e o mundo de baixo inteiro ficou pasmo. As bocas de Cérbero ficaram abertas e paradas, sem som nenhum. Longe dali, uma roda que girava desde sempre parou de girar. Por um tempo, ninguém no mundo de baixo se mexeu.
+Aquele portão já tinha ouvido música uma vez. Um homem chamado Orfeu desceu cantando, e o mundo de baixo inteiro ficou pasmo. As três bocas de Cérbero ficaram abertas e paradas, sem som nenhum. Longe dali, uma roda que girava desde sempre parou de girar. Por um tempo, ninguém no mundo de baixo se mexeu.
 
 Depois a música acabou, e cada coisa voltou para o lugar. E Cérbero continuou sentado no portão. É o que ele faz.
 
@@ -713,7 +713,7 @@ Héracles subiu a escada sozinho. O arco e a clava continuavam no chão, onde el
 Não voltou para pegar.
 
 #voce-sabia[
-Ninguém nunca combinou quantas cabeças Cérbero tinha. Um poeta grego escreveu um número. Um poeta romano escreveu outro, muito maior. E Apolodoro escreveu outro, bem menor, mais as cabeças de serpente das costas. Cada poeta contou um número diferente, e nenhum bateu com o outro. É por isso que, neste livro, ninguém conta.
+Ninguém nunca combinou quantas cabeças Cérbero tinha. Hesíodo escreveu cinquenta. Um poeta romano escreveu cem. Apolodoro escreveu três, mais as cabeças de serpente das costas. Este livro escolheu três — que é o número que os gregos antigos desenhavam nos vasos, quando pintavam o cão do portão.
 
 _(Fontes: Hesíodo, _Teogonia_ 312; Horácio, _Odes_ 2.13; Apolodoro 2.5.12.)_
 ]
@@ -810,7 +810,7 @@ _(Fonte: Apolodoro, Biblioteca 2.5.2.)_
 
   *caverna gloriosa* — a expressão é do próprio poema grego: a caverna de Equidna não é um esconderijo, é um presente que os deuses lhe deram.
 
-  *Cérbero* (_Kérberos_, "CÉR-be-ro") — o cão enorme sentado no portão do mundo de baixo. Tem mais cabeças do que se consegue contar, serpentes ao longo das costas e uma cauda de dragão que se mexe sozinha.
+  *Cérbero* (_Kérberos_, "CÉR-be-ro") — o cão enorme sentado no portão do mundo de baixo. Tem três cabeças, serpentes ao longo das costas e uma cauda de dragão que se mexe sozinha.
 
   *clava* (_CLA-va_) — pedaço de madeira grosso e pesado, mais largo numa ponta. Era a arma que Héracles carregava no ombro para todo lado — e que largou no chão, no capítulo 7.
 
@@ -910,7 +910,7 @@ _(Fonte: Apolodoro, Biblioteca 2.5.2.)_
 
   *O que é invenção nossa, declarada.* Três coisas neste livro não vêm de fonte nenhuma. _(1)_ *O luto de Equidna* — nenhum texto antigo registra reação dela à morte de filho algum. A frase do capítulo 3 é moldura da nossa narração, não coisa que os gregos contavam. _(2)_ *O cão que dorme com um ouvido acordado* — nada em Hesíodo, Apolodoro ou Píndaro liga Órtro a hábito de cão vivo; é comparação do narrador com o mundo de hoje, e por isso o capítulo nunca diz "é por isso que" nem "desde então". _(3)_ *A ternura da devolução de Cérbero* — a volta ao portão é fato de Apolodoro; o afeto é imagem nossa.
 
-  *As cabeças que não se contam.* Hesíodo escreveu um número para Cérbero, Horácio escreveu outro muito maior, Apolodoro escreveu outro bem menor. Nenhum bate com o outro. A arte grega antiga, por sua vez, desenhava Cérbero com duas ou três cabeças, sempre contáveis: *a não-contabilidade é escolha nossa, de adequação à idade*, e não achado de fonte. O mesmo vale para Ladon e a Hidra.
+  *As cabeças de Cérbero.* Hesíodo escreveu cinquenta, Horácio escreveu cem, Apolodoro escreveu três. Nenhum bate com o outro. A arte grega antiga, por sua vez, desenhava Cérbero com duas ou três cabeças, sempre contáveis — e é a ela que este livro segue: *as três cabeças destas páginas vêm da iconografia antiga*, não do número de Hesíodo. Para Ladon e a Hidra, sem número contável, a escolha é nossa, de adequação à idade.
 
   *O rosto de Equidna.* Não existe representação antiga segura dela. O rosto destas páginas é reconstrução a partir do texto de Hesíodo — metade mulher, de faces bonitas; metade serpente enorme —, não citação de uma imagem que exista.
 
@@ -973,7 +973,7 @@ _(Fonte: Apolodoro, Biblioteca 2.5.2.)_
 
   *— O Cérbero é bravo?* Não. Ele é um guarda. Um guarda avisa quando alguém chega, e é isso que ele faz — não late, ressoa. Quando Héracles o abraçou, ele reagiu; quando voltou para o portão, deu três passos, sentou e baixou as orelhas. Cão bravo não baixa as orelhas.
 
-  *— Quantas cabeças ele tem?* Ninguém nunca combinou. Um poeta grego escreveu um número, um poeta romano escreveu outro muito maior, e Apolodoro escreveu outro bem menor. Nenhum bateu com o outro. Por isso, neste livro, ninguém conta — e você pode desenhar quantas quiser.
+  *— Quantas cabeças ele tem?* Neste livro, três. Os poetas antigos nunca combinaram: Hesíodo escreveu cinquenta, um poeta romano escreveu cem, e Apolodoro escreveu três. Os gregos que pintavam vasos desenhavam duas ou três — e é por isso que o cão destas páginas tem três.
 
   *— A cauda mordeu de verdade? Ele se machucou?* A cauda de dragão mordeu, sim, e Héracles não soltou. A história antiga não diz que ele se machucou nem que doeu — diz só que ele aguentou até o cão parar. E que largou o arco e a clava no chão antes, e não voltou para pegar.
 

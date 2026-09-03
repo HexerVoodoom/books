@@ -3,7 +3,7 @@
 > Tipo: **específico** (CAPÍTULO-ÂNCORA) · Dossiê: `pesquisa/dossie-cerbero.md` ·
 > Livro: `grega-equidna` · pp. 31–34 · Teto (livro-spec): **500–600 palavras** de texto
 > corrido + **1 box, máx. 80**.
-> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-onda 1): texto corrido = 527 · box = 53.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-direção do dono nº 2): texto corrido = 517 · box = 46.** ✔
 > (teto 500–600 · box ≤80.)
 > Estrutura declarada: **viagem de ida e volta** · **Cérbero NÃO morre — é devolvido**
 > (Apolodoro 2.5.12, literal) · 2ª metade da rima "música vence monstro"
@@ -18,11 +18,11 @@ O portão do mundo de baixo fica no fim de uma escada muito comprida.
 
 Não tem tranca. Não precisa. Tem Cérbero (Kérberos).
 
-Ele fica sentado ali, de frente para quem chega. É um cão enorme, com mais cabeças do que se consegue contar — algumas bem na frente, nítidas, e outras que se perdem no pelo e na sombra. Ao longo das costas, cabeças de serpentes de toda sorte. E a cauda dele é de dragão, e se mexe sozinha, com vontade própria.
+Ele fica sentado ali, de frente para quem chega. É um cão enorme, com três cabeças — uma, duas, três, todas olhando para a mesma escada. Ao longo das costas, cabeças de serpentes de toda sorte. E a cauda dele é de dragão, e se mexe sozinha, com vontade própria.
 
 Quando ele avisa, não late. Ressoa. A voz é de bronze.
 
-Aquele portão já tinha ouvido música uma vez. Um homem chamado Orfeu desceu cantando, e o mundo de baixo inteiro ficou pasmo. As bocas de Cérbero ficaram abertas e paradas, sem som nenhum. Longe dali, uma roda que girava desde sempre parou de girar. Por um tempo, ninguém no mundo de baixo se mexeu.
+Aquele portão já tinha ouvido música uma vez. Um homem chamado Orfeu desceu cantando, e o mundo de baixo inteiro ficou pasmo. As três bocas de Cérbero ficaram abertas e paradas, sem som nenhum. Longe dali, uma roda que girava desde sempre parou de girar. Por um tempo, ninguém no mundo de baixo se mexeu.
 
 Depois a música acabou, e cada coisa voltou para o lugar. E Cérbero continuou sentado no portão. É o que ele faz.
 
@@ -70,7 +70,7 @@ Não voltou para pegar.
 
 ## Você sabia?
 
-Ninguém nunca combinou quantas cabeças Cérbero tinha. Um poeta grego escreveu um número. Um poeta romano escreveu outro, muito maior. E Apolodoro escreveu outro, bem menor, mais as cabeças de serpente das costas. Cada poeta contou um número diferente, e nenhum bateu com o outro. É por isso que, neste livro, ninguém conta.
+Ninguém nunca combinou quantas cabeças Cérbero tinha. Hesíodo escreveu cinquenta. Um poeta romano escreveu cem. Apolodoro escreveu três, mais as cabeças de serpente das costas. Este livro escolheu três — que é o número que os gregos antigos desenhavam nos vasos, quando pintavam o cão do portão.
 
 *(Fontes: Hesíodo, *Teogonia* 312; Horácio, *Odes* 2.13; Apolodoro 2.5.12.)*
 
@@ -85,12 +85,11 @@ Ninguém nunca combinou quantas cabeças Cérbero tinha. Um poeta grego escreveu
 - **A pele de leão** sobre os ombros dele: **manto/silhueta, nunca rosto-sobre-rosto**
   (restrição aprovada do spec — o rosto do Leão não aparece sobre a cabeça dele). Sem comentar
   o eco do cap. 6: a criança não precisa, o adulto pega.
-- **Cérbero:** 2–3 cabeças em foco nítido, as demais dissolvendo em pelo, sombra e movimento —
-  **não contáveis**. Serpentes **no dorso**, não no pescoço. Postura de cão que **reage e
-  cede**, jamais em bote nem em investida. Se der para mostrar **uma orelha começando a
-  baixar**, é o melhor sinal de docilidade que existe para um leitor de 4 anos. ⚠️ **Onda 1:
-  é ESCOLHA DE ARTE, não fato de fonte** — o crédito a Horácio 2.13.34–35 sai daqui (aquela ode
-  tem por cantores Safo e Alceu, não Orfeu, e o latim não foi lido em edição).
+- **Cérbero:** **TRÊS cabeças nítidas e contáveis** (direção do dono nº 2, 2026-09-02 — que
+  devolve a criatura à iconografia antiga). **Marrom escuro, orelhas em pé.** Serpentes **no
+  dorso**, não no pescoço. Postura de cão que **reage e cede**, jamais em bote nem em investida.
+  A docilidade vem da **postura sentada, do olhar fora do eixo e da luz quente no rosto** — a
+  orelha caída saiu com a direção nº 2.
 - **A cauda de dragão é a válvula do perigo:** é o **único agente hostil** do quadro, mordendo
   o braço ou o flanco de Héracles. **Sem sangue, sem ferimento visível, sem dor no rosto dele.**
   Todo o risco visual mora na cauda; as cabeças ficam livres para ser legíveis e amáveis.
@@ -113,7 +112,7 @@ Ninguém nunca combinou quantas cabeças Cérbero tinha. Um poeta grego escreveu
 ## Termos para o glossário
 
 - **Cérbero** (*Kérberos*, "CÉR-be-ro") — o cão enorme que fica sentado no portão do mundo de
-  baixo. Tem mais cabeças do que se consegue contar e uma cauda de dragão.
+  baixo. Tem três cabeças e uma cauda de dragão.
 - **Euristeu** (*Eurystheús*, "eu-ris-TEU") — o rei que mandava em Héracles e lhe impunha os
   serviços. Nunca desceu para buscar nenhum deles.
 - **clava** — pedaço grosso de madeira usado como arma. Héracles carregava uma; neste capítulo,
@@ -133,9 +132,11 @@ degraus, portão.
   **A cena de Orfeu é de Virgílio, sozinho** (*Geórgicas* 4.481–484): Horácio sai da atribuição
   e fica só no box, como fonte das cem cabeças. **Eurídice fora** — do episódio entra só o
   efeito no portão. Orfeu é **flashback curto na ida**, o que resolve a cronologia sem nota.
-- **Zero número de bocas ou cabeças no corrido.** "As bocas", "mais cabeças do que se consegue
-  contar". Os três números só existem no box, creditados aos poetas que os escreveram — que é
-  exatamente o que autoriza a arbitragem "não contáveis".
+- ⚠️ **Direção do dono nº 2 (2026-09-02) — TRÊS cabeças, contáveis.** A regra "cabeças não
+  contáveis" está **revogada** para Cérbero (e a cor de Órtro mudou no cap. 3). O corrido diz
+  **três** duas vezes ("com três cabeças — uma, duas, três", "as três bocas"), e o box mantém os
+  números dos poetas e declara a escolha do livro. **Hidra e Ladon não mudam** (decisão do dono
+  no gate).
 - ⚠️ **Onda 1 (fidelidade) — o abraço é NA CABEÇA, não no pescoço** (Apolodoro 2.5.12). Era o
   mesmo desvio do cap. 4 (almofada: cabeça → ombro), agora corrigido nos dois lugares e no
   brief de ilustração. Sendo esta a **frase-âncora do livro**, não pode voltar a derivar: a
@@ -145,11 +146,10 @@ degraus, portão.
   *"Então Héracles desceu a escada outra vez, com o cão do lado."*
 - ⚠️ **Onda 1 (tom) — "onde não havia mais ninguém" → "onde não havia ninguém"**: o "mais"
   insinuava que houvera alguém.
-- ⚠️ **Onda 1 (adequação) — BOX SEM NUMERAIS.** O box entregava três números contáveis
-  (cinquenta, cem, três) e depois proibia contar: a criança ficava com "três", que é
-  justamente o que o brief manda **não** desenhar. Agora: *"cada poeta contou um número
-  diferente, e nenhum bateu com o outro"*, com as três fontes creditadas na linha de rodapé,
-  fora do corpo do box. **53 palavras ≤ 80 ✔.**
+- **BOX (direção nº 2).** A objeção da onda 1 caiu junto com a premissa: agora a criança **deve**
+  ficar com "três", que é o que o brief manda desenhar. O box mantém o fato (Hesíodo cinquenta ·
+  um poeta romano cem · Apolodoro três) e troca o fecho pela escolha declarada do livro, ancorada
+  na iconografia antiga (§F3 da Fase 3a). **46 palavras ≤ 80 ✔.**
 - **Piada de Euristeu diferenciada (tom):** o "olhou" fica **só aqui**, e aqui ele é sobre
   **o rei que nunca desceu** ("que estava lá em cima, e não tinha descido nenhum degrau").
   No cap. 4 a piada passou a ser sobre o objeto impossível de possuir.

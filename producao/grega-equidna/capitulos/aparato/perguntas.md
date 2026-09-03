@@ -125,9 +125,9 @@ ressoa. Quando Héracles o abraçou, ele reagiu; quando voltou para o portão, d
 sentou e baixou as orelhas. Cão bravo não baixa as orelhas.
 
 **— Quantas cabeças ele tem?**
-Ninguém nunca combinou. Um poeta grego escreveu um número, um poeta romano escreveu outro muito
-maior, e Apolodoro escreveu outro bem menor. Nenhum bateu com o outro. Por isso, neste livro,
-ninguém conta — e você pode desenhar quantas quiser.
+Neste livro, três. Os poetas antigos nunca combinaram: Hesíodo escreveu cinquenta, um poeta
+romano escreveu cem, e Apolodoro escreveu três. Os gregos que pintavam vasos desenhavam duas ou
+três — e é por isso que o cão destas páginas tem três.
 
 **— A cauda mordeu de verdade? Ele se machucou?**
 A cauda de dragão mordeu, sim, e Héracles não soltou. A história antiga não diz que ele se

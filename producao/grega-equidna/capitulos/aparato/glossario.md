@@ -39,8 +39,7 @@ Euritião era o boieiro de Gerião, e trabalhava ao lado de Órtro.
 esconderijo, é um presente que os deuses lhe deram.
 
 **Cérbero** (*Kérberos*, "CÉR-be-ro") — o cão enorme sentado no portão do mundo de baixo. Tem
-mais cabeças do que se consegue contar, serpentes ao longo das costas e uma cauda de dragão que
-se mexe sozinha.
+três cabeças, serpentes ao longo das costas e uma cauda de dragão que se mexe sozinha.
 
 **clava** (*CLA-va*) — pedaço de madeira grosso e pesado, mais largo numa ponta. Era a arma que
 Héracles carregava no ombro para todo lado — e que largou no chão, no capítulo 7.

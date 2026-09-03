@@ -1533,3 +1533,1238 @@ Não é preferência de proporção: **é a peça inteira sendo jogada fora na d
    `04-B` opcional.
 5. Pendência do dono, aberta desde a 1ª sessão (§1.4b): **nomear a criança do teste de nomeação,
    quem aplica e onde o veredito é gravado.**
+
+---
+
+# CURADORIA 3b — SÉTIMA SESSÃO (2026-09-02, noite) · as três peças da retomada
+
+> Peças julgadas: `07-cerbero-o-abraco-sem-armas-B-r2` (cap. 7, p. 33 — **rodada 2 de 3**),
+> `08a-tifao-A` (cap. 8, p. 36 — **rodada 1 de 3**), `05-a-pergunta-da-esfinge-B-r2`
+> (cap. 5, p. 26 — **rodada 2 de 3**).
+> Julgado contra `guia-de-estilo.md` v2.5 (§0.1, §1.2 alavancas, §1.2b, §1.3a, §1.4, §1.5a,
+> §1.5e), `DIRECAO-DO-DONO.md` (vence o guia em tratamento), `capitulos/cap-05`, `cap-07`,
+> `cap-08-tifao-geral.md` §Cenas das ilustrações, `pacotes-de-geracao.md` e os §§21.2, 27.4,
+> 27.5, 27.6 desta curadoria.
+
+## 31. Veredito em uma linha
+
+| Peça | Rodada | Veredito |
+|---|---|---|
+| `05-a-pergunta-da-esfinge-B-r2` | 2 de 3 | ✅ **APROVADA** — encaixar. A rocha matou a estátua; o desvio declarado é cosmético e eu o absorvo por escrito (§31.3) |
+| `07-cerbero-o-abraco-sem-armas-B-r2` | 2 de 3 | ❌ **REPROVADA** — 3 dos 4 fatais caíram; **a gola voltou a ser contável** (item 11). Rodada 3, **uma mudança só** |
+| `08a-tifao-A` | 1 de 3 | ❌ **REPROVADA** — **Tifão não tem corpo**: sem mãos, sem pés, sem ombros. Não é a cena que o cap. 8 §8.1 pede |
+
+---
+
+## 31.1 ❌ `07-cerbero-o-abraco-sem-armas-B-r2` — três fatais caíram, o quarto voltou pela gola
+
+### O que a rodada 2 CONSERTOU — e que não pode se perder na rodada 3
+
+**1. FATAL 1 — A CAUDA. ✅ RESOLVIDA, na letra da cláusula do §21.2.**
+Item a item, com a peça ampliada:
+- **Presa ao cão ✔** — a cauda-dragão azul-esverdeada nasce atrás do traseiro do cão, à direita,
+  e a curva desce por trás da anca. **Não flutua.** A quinta criatura autônoma da `A` acabou.
+- **Boca FECHADA ✔** — o focinho é uma cunha fechada. **Zero dente**, zero mandíbula aberta,
+  zero língua, zero fogo, zero baba.
+- **Olho ao leitor ✔ (cumprido) / ⚠️ ressalva registrada** — há **um** olho, em **perfil
+  estrito**, virado para a direita e para fora do quadro, sem pupila dirigida a ninguém. A
+  cláusula que eu escrevi diz *"sem olho ao leitor"* e está cumprida. Mas a `00-capa-A`
+  entregou a cauda com **zero olho**, e esse é o piso melhor. **Entra na rodada 3 como cláusula
+  de uma linha** (custo zero: é deixar 20 px sem pintar).
+- **Periférica ✔** — mora no terço direito, no plano do fundo, encostada na moldura. Não
+  disputa o gesto.
+
+**2. FATAL 2 — O ABRAÇO. ✅ RESOLVIDO. É a frase-âncora, e agora ela está na página.**
+A `A` entregava uma mão espalmada sob o focinho. A `B-r2` entrega **os dois braços fechando em
+volta da cabeça**: a mão esquerda **assentada no alto do crânio, entre as duas orelhas**, dedos
+abertos e relaxados; o braço direito **contornando por baixo da mandíbula e do pescoço**, o
+antebraço cruzando o peito do cão. E — o que a `A` não tinha — **o rosto de Héracles está
+encostado no pelo do cão**, olhos baixos, boca fechada, expressão inteira de quem abraça.
+
+> **Chamada de arbitragem, declarada:** o §27.6 pedia os **dois** braços *"em volta do ALTO DA
+> CABEÇA, entre as orelhas"*. A página entrega **um** ali e o outro **no pescoço, por baixo da
+> mandíbula**. **Eu dou por CUMPRIDA.** A cláusula existia para matar "mão no focinho"
+> (Apolodoro 2.5.12 pede braços em volta da cabeça, não da boca): o que a página entrega é um
+> abraço que **encerra a cabeça** entre os dois braços, com o rosto colado. Um leitor de 4 anos
+> lê "abraço" e nada mais. Pedir os dois braços literalmente entre as orelhas produziria uma
+> anatomia de mata-leão, que é pior. **Não gasto rodada nisto.**
+
+**3. FATAL 4 — DUAS TÉCNICAS. ✅ RESOLVIDO.** O bloco `[HOW THIS IS PAINTED]` do §22.3 pegou:
+Héracles, a leontê e o cão estão **na mesma aquarela lavada, com granulação, linha marrom fina e
+uniforme e cor local saturada**. Não há um pixel de vetor chapado com contorno preto grosso.
+A colisão com `DIRECAO-DO-DONO.md` item 1 acabou. **Resposta à pergunta que ficou aberta na 5ª
+sessão: sim — as duas técnicas agora convivem, e o mecanismo que fez isso foi o §22.3.**
+
+**Também confere:** clava largada no chão, baixa, à esquerda ✔ · nenhuma arma em mão ✔ · leontê
+como manto até o chão, cabeça de leão em três-quartos, olhar fora do eixo ✔ · o rosto do cão
+**recebendo luz quente** contra o vão claro do portão, dois olhos legíveis (§1.2b) ✔ · **as duas
+orelhas pretas caídas, pesadas, dobradas contra a bochecha** (§1.5a-1) ✔ · boca do cão fechada,
+sem dente, sem língua, sem coleira ✔ · zero sangue, ferida, dor ✔ · Banda A (meandro + palmetas)
+sem uma criatura dentro, Banda B (felinos sobre rosetas) em faixa própria ✔ · 2048×2048 ✔.
+
+### 🔴 O QUE REPROVA — FATAL 3 sobreviveu: a gola voltou a ser CONTÁVEL
+
+A massa atrás da cabeça nítida **não é a fórmula §1.5e** e **não é a gola de `sheet-cerbero-G-REF`
+nem a de `00-capa-A`**. São **cabeças de cão/lobo desenhadas FECHADAS**, em creme sobre creme:
+uma no alto (duas orelhas pontudas eretas, testa, focinho longo, **marca triangular de olho**),
+uma à direita no meio (idem), uma terceira embaixo à direita, e o começo de uma quarta.
+**Um adulto chega a "três ou quatro" em menos de 10 segundos.**
+
+Três violações, empilhadas:
+1. **Item 11 (não-contável).** Reprovação mecânica do guia, sem discussão de mérito.
+2. **A régua de adequação etária que a própria fórmula carrega:** *"nada atrás da cabeça nítida
+   tem olho, pupila, boca ou focinho"*. Aqui há **focinho desenhado e marca de olho** — em
+   creme claro, muito mais suaves que as seis cabeças da `A`, mas presentes.
+3. **Contradiz a folha anexada.** `G-REF` e `00-capa-A` (a peça mais visível do livro, já
+   aprovada) resolvem a gola como **scrollwork aberto**: perfis que nascem da volta e voltam a
+   se dissolver nela, **sem contorno fechado**, `so that where one ends and the next begins can
+   never be told`. A `B-r2` desenhou **retratos**, não voltas.
+
+**Agravante de leitura, e é o que me tira a dúvida:** as orelhas dessas cabeças vêm **eretas e
+pontudas**. Orelha em pé lê **"alerta"** — é exatamente o sinal que o §1.5a-1 gasta uma alavanca
+inteira para eliminar da cabeça nítida. Ter a orelha caída na frente e seis orelhas em pé atrás
+desfaz metade do trabalho da página.
+
+**Diagnóstico da causa, para o ilustrador:** o modelo recebeu a folha anexada e leu a gola como
+*"desenhe mais cães aí atrás"* — voltou ao erro de `sheet-cerbero-D-r3` (`CROWN AND NAPE`),
+provado no §1.5e: **coisa desenhável ⇒ desenhada fechada ⇒ contável.** A rodada 3 não pode pedir
+"cabeças"; tem de pedir **ORNAMENTO**, com o verbo de desenho de ornamento.
+
+**Registro que NÃO reprova:** há uma serpente malhada cinza-e-creme subindo do dorso do cão, à
+direita. É **fato de fonte** (Apolodoro 2.5.12 — as cabeças de serpente do dorso), é periférica,
+tem a ponta **cega** e não olha para ninguém. **Fica.** Só não pode ganhar cabeça, olho ou boca.
+
+---
+
+## 31.2 ❌ `08a-tifao-A` (p. 36) — a fórmula do ornamento é um triunfo. **Falta o Tifão.**
+
+Esta é a peça mais bonita da sessão e eu a reprovo assim mesmo, porque ela não conta a cena.
+
+### O teto do fogo — CUMPRIDO, com folga (a trava mais temida da peça)
+
+Confiro item a item o que a 6ª sessão armou:
+- **Brilho em no máximo UMA cabeça:** há **zero** fogo na página. Zero < um. **Cumprido.**
+- **Âmbar nunca vermelho:** não há vermelho em lugar nenhum do quadro. **Cumprido.**
+- **Jamais um par de pontos legível como rosto olhando para fora:** a camada dissolvida não tem
+  **nenhum** ponto, nenhum olho, nenhuma pupila, nenhuma boca. **Cumprido.**
+- **Nada perto da cabeça que ganie:** a cabeça nítida está sozinha, em ocre quente, longe da
+  massa. **Cumprido.**
+- **Etna:** ausente — e é assim que tem de ser. ⚠️ **Correção de briefing, para o registro:** o
+  cap. 8 §8.1 diz, verbatim, *"Nada de Etna nesta página"*. A instrução que circulou nesta
+  sessão ("o Etna é contido e não pode dominar a página") **inverte a regra do capítulo**; o
+  vulcão, se entrar, é vinheta de canto **da página seguinte**, nunca desta e nunca da final.
+  A ausência do Etna aqui é **acerto**, não omissão.
+- **Combate com Zeus:** zero Zeus, zero raio, zero arma, zero ferida, zero corpo caído. ✔
+
+### 🏆 O item 11 — a fórmula §1.5e entregue no seu melhor exemplar até agora
+
+A massa é **scrollwork de verdade**: voltas verde-oliva, azul-petróleo, ocre e creme que nascem
+umas das outras, sobem em gavinhas art nouveau e se dissolvem no céu **sem contorno fechado, sem
+começo e sem fim**. **Nenhum olho, nenhuma boca, nenhuma língua, nenhum focinho em nenhuma
+volta.** Ninguém chega a número nenhum, em nenhum tempo. É a prova mais limpa que este livro já
+produziu de que **o não-contável sai do ornamento** — arquivar como referência ao lado de
+`sheet-cerbero-E-planoB`.
+
+**E a cabeça nítida é excelente:** ocre quente saturado, aquarela molhada com granulação, pescoço
+curvado para baixo e para perto do chão, **olho grande, redondo, com pupila e brilho**,
+sobrancelha macia, **boca fechada — sem presa, sem língua bífida, sem veneno**. Recebe a luz alta
+e quente em cheio (§1.2b ✔). Teste de nomeação, proxy: pergunta 1 → *"cobra"* ✅; pergunta 2 →
+✅ (postura deitada, olhar manso, nada avançando). Tratamento do dono ✔ integralmente.
+
+### 🔴 O QUE REPROVA — FATAL: Tifão não tem corpo
+
+O cap. 8 §8.1 abre a cena com, verbatim: *"**Tifão** ocupando a página em altura: **mãos grandes
+e firmes, pés plantados**. **Cabeças de serpente nascendo dos ombros** (não do pescoço, não
+humanas — *Teog.* 824–825)"*. E o texto que a criança ouve na página ao lado diz: *"Tinha as
+**mãos** fortes e os **pés** que não cansavam nunca. **Dos ombros** lhe nasciam cabeças de
+serpente."*
+
+A página entrega **um monte de anéis brotando de um gramado**. Sem mãos. Sem pés. Sem ombros.
+Sem torso. **Não há de quem as cabeças nasçam.** Arte e texto não contam a mesma coisa — e a
+regra de casamento arte/texto é do próprio guia (§1.5b, *"Texto casado"*).
+
+**FATAL 2 — a escala sumiu junto com o corpo.** A alavanca 4 (*escala em vez de careta*) manda o
+tamanho vir **da criatura e da altura do cenário**. Aqui a peça flutua sobre um campo verde raso,
+sem nada que dê medida: o maior de todos, o único que quis o céu inteiro, ficou do tamanho de um
+arbusto. O capítulo inteiro pende dessa frase.
+
+**DEFEITO 3 — a cabeça que ganie não olha para a criança.** O §8.1 é explícito: ela é *"a chave
+da inversão de arte deste livro"* e *"**é a única cabeça que olha para a criança**"* (*Teog.* 833
+— é a fonte do "pai amável"). A cabeça da página olha **para baixo e para a direita**, para fora
+do gesto. Está mansa, e é meio caminho — mas o olhar que faz o capítulo é o que falta.
+
+**DEFEITO 4 — Banda B com língua bífida.** O friso de baixo são serpentes negras em silhueta
+chapada sobre campo de rosetas — a gramática orientalizante está **certa** (§1.3a) — mas cada uma
+traz **olho branco e língua bífida saindo da boca**. `língua bífida` é item nominal da lista
+negativa dura do livro. Em silhueta ornamental o peso é pequeno e sozinho não reprovaria; com a
+peça já voltando, **cai junto**.
+
+---
+
+## 31.3 ✅ `05-a-pergunta-da-esfinge-B-r2` (p. 26) — APROVADA. **A rocha matou a estátua.**
+
+### A decisão de método, primeiro — porque ela cria precedente
+
+O gerador **declarou o desvio por escrito**: *"the wings remain perfectly mirrored rather than
+showing one raised higher, and the camera is a direct head-on view instead of the low-angle
+shot"*. Dois dos quatro redirecionamentos falharam, e **pela régua declaração de desvio
+reprova**.
+
+> **Eu absorvo o desvio e aprovo. Com o racional por escrito, porque é uma exceção:**
+>
+> A régua de desvio declarado é um **proxy** para *"a peça não foi consertada"*. Ela não é um fim
+> em si. Aqui, **os dois redirecionamentos que carregavam o motivo da reprovação da `A` caíram
+> os dois**, e os dois que falharam **não eram o motivo** — eram os dois reforços.
+>
+> A `A` reprovou por **um** motivo nomeado (item 10 / D7): *"a pedra virou uma coluna jônica e
+> com ela a criatura virou estátua"*. Esse motivo **não existe mais na página**. Gastar a rodada
+> 3 nas asas e no ângulo é gastar a última rodada da peça em dois itens cosméticos, contra a
+> regra anti-sacrifício (§11): **toda regeração por anexo arrisca o que já está certo**, e o que
+> está certo nesta página é caro (rocha, Édipo, luz no rosto, estrada, Tebas, moldura).
+>
+> **Precedente, deliberadamente estreito:** desvio declarado **não** reprova quando (a) o motivo
+> escrito da reprovação anterior está integralmente resolvido, **e** (b) o item desviado é
+> reforço, não causa. Em qualquer outro caso a régua vale inteira.
+
+### Por que ela deixou de ler "estátua" — os quatro sinais que viraram
+
+1. **A rocha ✅.** É um **matacão calcário rachado**, cinza-azulado, de topo irregular e fendas
+   pintadas uma a uma. **Zero capitel, zero fuste, zero base, zero canelura, zero pedra
+   trabalhada.** Ninguém põe uma escultura num pedregulho torto. A trava caiu na letra.
+2. **Ela não é da cor da pedra ✅ — e este é o sinal mais forte, o que a `A` não tinha.**
+   O corpo de leoa é **ocre-laranja saturado e quente**, pelo com lavagem molhada e granulação,
+   contra o cinza frio do matacão. Na `A`, figura pálida sobre pedra polida = **um material
+   só** = escultura. Aqui são dois materiais, e um deles é bicho.
+3. **Édipo ✅, e ele resolve sozinho metade do problema.** Está **ao pé da rocha**, perto, grande
+   o bastante para se ver o rosto, de manto e bordão, **olhando para cima, para ela**. Ninguém
+   olha para uma estátua com aquele pescoço. **Agora há dois personagens e há uma pergunta sendo
+   feita a alguém** — que era o segundo defeito nomeado no §27.4, e caiu.
+4. **A cauda ✅.** Curva em S assimétrica, com o tufo levantado e solto. É o único elemento que
+   quebra a simetria da pose — e basta: cauda de pedra não faz aquela volta.
+
+**As asas espelhadas continuam ali e eu registro que continuam.** Elas custam à página um pouco
+de vida — mas com rocha bruta, cor de bicho, cauda solta e um homem olhando para cima, **a
+resposta provável à pergunta 1 não é mais "estátua"**. Proxy de nomeação: *"moça com asas"* /
+*"leão com cara de moça"* → ✅ (nomeia criatura). Pergunta 2 → ✅ (rosto calmo, boca fechada, sol
+alto batendo em cheio, nenhum dente, nenhuma garra erguida, nenhum osso, nenhum abismo).
+
+**O resto do checklist, mantido da `A` e preservado inteiro:** Esfinge **grega** — rosto de mulher
+com penteado ático, corpo de leoa, **asas de ave** com penas individuadas; **zero nemes, zero
+barba postiça, zero areia, zero deserto** ✔ · luz alta no rosto, dois olhos legíveis (§1.2b) ✔ ·
+estrada larga descendo em curva e **Tebas ao fundo, com colunata** ✔ · nenhum viajante devorado,
+nenhum osso, nenhuma ameaça ✔ · aquarela molhada com granulação, cena com cor, cor local saturada
+(tratamento do dono) ✔ · Banda A (meandro + palmetas) sem criatura dentro; Banda B (panteras
+enfileiradas sobre rosetas) em faixa própria separada por filete ✔ · sem tipografia ✔ ·
+2048×2048 ✔ · teto R4.2: 2 figuras nítidas ✔.
+
+**Defeito abaixo da linha, registrado:** Édipo é cortado na cintura pela borda inferior do campo
+de imagem. Fica desconfortável, mas ele está inteiro de rosto e de gesto, e a diagramação não
+depende daquele trecho. **Não reprova.**
+
+---
+
+## 31.4 Redirecionamento — uma linha por peça
+
+> **`07` (rodada 3 de 3 — a última; conversa nova; anexar `07-B-r2.jpg` + `00-capa-A.jpg`):**
+> `[THE ONE CHANGE]` — `KEEP THE WHOLE PICTURE EXACTLY AS IT IS - the man, the embrace, both his
+> arms around the dog head, his face against the fur, the lion cloak, the club on the ground,
+> the gate, the frame, the friezes - and REPAINT ONLY THE PALE MASS BEHIND THE DOG HEAD. There
+> are NO MORE DOGS back there. PAINT THAT MASS AS FLAT ORNAMENTAL SCROLLWORK, exactly like the
+> ruff in the second attached picture: long curls of cream #EDD9B4 and ochre #C88A3D that grow
+> out of one another, and OUT OF THE CURLS let STYLISED DOG PROFILES appear - the OUTER EDGE
+> ONLY: a brow, a soft hanging ear, the line of a muzzle - each one running into the next and
+> dissolving back into the curl before it closes, so that where one ends and the next begins can
+> never be told. NO closed outline, NO eye, NO eye-mark, NO nose, NO nostril, NO mouth, NO
+> pricked or pointed ear on any of them, and not one of them is ever a whole head. Also leave the
+> dragon tail exactly where it is but PAINT NO EYE ON IT AT ALL.`
+
+> **`08a` (rodada 2 de 3; conversa nova; anexar `08a-tifao-A.jpg`):**
+> `[THE ONE CHANGE]` — `GIVE HIM A BODY. Paint a huge standing figure filling the height of the
+> picture: broad SHOULDERS, a bare chest, two GREAT HANDS, and two FEET PLANTED FIRMLY on the
+> ground - and it is FROM HIS SHOULDERS, not from the grass, that the whole nest of coils grows.
+> Keep the coils EXACTLY as they are painted now - the same flat ornamental scrollwork, the same
+> greens, ochres and creams dissolving into the sky, no eye, no mouth, no tongue anywhere in
+> them. He stands still and calm, arms down, not advancing, no weapon, no fire, no volcano, no
+> Zeus. Put a LOW HORIZON and small distant hills far below his feet so that he is enormous.
+> ONE single sharp serpent head, the ochre one, hangs LOW on a curved neck near his knee and
+> LOOKS STRAIGHT OUT AT THE VIEWER with big soft gentle eyes and a small closed mouth - it is the
+> only face in the picture. In the bottom frieze the serpents are PLAIN FLAT BLACK SILHOUETTES:
+> no forked tongue and no eye on any of them.`
+
+> **`05`:** nenhum. **APROVADA como está** — encaixar `05-a-pergunta-da-esfinge-B-r2.png`.
+
+---
+
+## 31.5 O que vai para a Fase 4 nesta sessão
+
+**Encaixar no `imagens-disponiveis.typ` e recompilar:**
+`05-a-pergunta-da-esfinge-B-r2` (p. 26). **É a única peça nova aprovada nesta sessão.**
+
+**Regerar:** `07` (rodada **3 de 3** — se falhar, vai ao `gate.md` com as três candidatas, pelo
+teto do §Barra de Qualidade) · `08a` (rodada 2 de 3).
+
+**Fila anterior inalterada:** `sheet-heracles` (rodada 3 de 3) · `06-o-leao-antes` (rodada 2) ·
+`06v1`, `06v2` · `04-B` opcional · `08b` (retrato de origem) · p. 40.
+
+**Pendência do dono, aberta desde a 1ª sessão (§1.4b):** nomear a criança do teste de nomeação,
+quem aplica e onde o veredito é gravado.
+
+---
+
+# CURADORIA 3b — OITAVA SESSÃO (2026-09-02, madrugada) · as quatro peças do fechamento
+
+> Peças julgadas: `07-cerbero-o-abraco-sem-armas-C-r3` (cap. 7, p. 33 — **rodada 3 de 3, a
+> última**), `08a-tifao-B-r2` (cap. 8, p. 36 — **rodada 2 de 3**),
+> `06v1-as-duas-bocas` (cap. 6, vinheta 24 mm — **rodada 1**),
+> `06v2-a-pele` (cap. 6, vinheta 44 mm — **rodada 1**).
+> Julgado contra `guia-de-estilo.md` v2.5 (§0.1c, §1.2 alavancas, §1.2b, §1.3a, §1.4, §1.5a,
+> §1.5e), `DIRECAO-DO-DONO.md`, `capitulos/cap-06-leao-nemeia.md` §Cenas das ilustrações,
+> `cap-07`, `cap-08-tifao-geral.md` §8.1, e os §§29 e 31 desta curadoria (as duas redações de
+> correção do §31.4 são minhas — este julgamento afere o que elas produziram).
+
+## 32. Veredito em uma linha
+
+| Peça | Rodada | Veredito |
+|---|---|---|
+| `06v1-as-duas-bocas` | 1 | ✅ **APROVADA** — encaixar |
+| `06v2-a-pele` | 1 | ✅ **APROVADA** — encaixar. É a marca emocional do livro e ela está na página |
+| `08a-tifao-B-r2` | 2 de 3 | ❌ **REPROVADA** — o corpo veio **sem cabeça**, e a cabeça-chave nasce da virilha, não do ombro. Rodada 3, última |
+| `07-cerbero-...-C-r3` | **3 de 3** | ❌ **REPROVADA** — a gola virou scrollwork **e mesmo assim entrega três cabeças inteiras, fechadas, com olho e orelha em pé**. Teto de rodadas atingido → **vai ao `gate.md` com as três candidatas** |
+
+---
+
+## 32.1 ❌ `07-cerbero-o-abraco-sem-armas-C-r3` (p. 33) — o ornamento chegou; as cabeças ficaram
+
+**A rodada 3 preservou tudo o que eu mandei preservar, e falhou na única coisa que eu mandei
+mudar.** Registro a preservação primeiro, porque ela é o ativo desta candidata.
+
+### O que a `[THE ONE CHANGE]` protegeu — íntegro, item a item
+
+Homem, abraço com os dois braços fechando a cabeça do cão, rosto encostado no pelo ✔ · leontê
+como manto até o chão, cabeça de leão em três-quartos, olhar fora do eixo ✔ · clava largada no
+chão, baixa, à esquerda ✔ · nenhuma arma em mão ✔ · portão, moldura, Banda A (meandro +
+palmetas) sem criatura dentro, Banda B (felinos sobre rosetas) em faixa própria ✔ · técnica
+unificada — aquarela lavada, granulação, linha marrom fina, cor local saturada, zero vetor
+chapado (`DIRECAO-DO-DONO` item 1) ✔ · rosto do cão na luz quente, **dois olhos legíveis**
+(§1.2b) ✔ · **as duas orelhas pretas caídas, pesadas, dobradas contra a bochecha** (§1.5a-1) ✔ ·
+boca fechada, sem dente, sem língua, sem coleira ✔ · serpente malhada do dorso mantida, cega,
+periférica ✔ · zero sangue, ferida, dor ✔ · 2048×2048 ✔. **A regra anti-sacrifício (§11) foi
+respeitada na letra: nada do que estava certo se perdeu.**
+
+**E a massa MUDOU de gramática.** Ela é hoje, de fato, **scrollwork ornamental art nouveau**:
+voltas grandes de creme `#EDD9B4` e ocre `#C88A3D` que nascem umas das outras, sem contorno
+duro, dissolvendo para a luz. O vocabulário que eu pedi entrou. **Isto é progresso real sobre a
+`B-r2`, e é a razão de esta candidata ser a melhor das três.**
+
+### 🔴 O QUE REPROVA — item 11, terceira vez, e agora com agravante
+
+Dentro do scrollwork há **três cabeças de cão/lobo inteiras**, em creme sobre creme:
+uma no alto (perfil completo), uma no meio à direita, uma embaixo à direita. Ampliadas, cada uma
+tem, verificado:
+
+1. **CONTORNO FECHADO** — a linha corre da orelha, pela testa, desce o focinho, volta pela
+   mandíbula e fecha no pescoço. É uma cabeça **terminada**, não um perfil que se dissolve.
+   A minha redação dizia `the OUTER EDGE ONLY … dissolving back into the curl before it closes`
+   e `not one of them is ever a whole head`. **São três cabeças inteiras.**
+2. **OLHO** — as três trazem a marca de olho desenhada (traço/crescente na órbita). A redação
+   dizia `NO eye, NO eye-mark`. **Violado nas três.**
+3. **NARINA** — duas trazem o ponto de narina. `NO nose, NO nostril`. **Violado.**
+4. 🔴 **ORELHAS ERETAS E PONTUDAS** — as três têm **duas** orelhas em pé, triangulares, agudas.
+   `NO pricked or pointed ear on any of them`. **Violado nas três, e este é o agravante de
+   leitura do §31.1 repetido inteiro:** orelha em pé lê **"alerta"**. A página gasta a alavanca
+   §1.5a-1 para baixar as orelhas da cabeça nítida e depois põe **seis orelhas em pé** logo
+   atrás dela. Metade do trabalho da amabilidade se desfaz sozinha.
+
+**Um adulto chega a "três" em menos de três segundos** — mais rápido que na `B-r2`, porque agora
+elas estão mais limpas, mais claras e mais separadas. Reprovação mecânica do item 11, sem
+discussão de mérito.
+
+> **Diagnóstico, e é o achado desta sessão — a regra §1.5e precisa de uma linha a mais.**
+> Eu escrevi `PAINT THAT MASS AS FLAT ORNAMENTAL SCROLLWORK … and OUT OF THE CURLS let STYLISED
+> DOG PROFILES appear`. O gerador **obedeceu a primeira metade e desobedeceu a segunda**: fez o
+> scrollwork **e depois desenhou cães em cima dele**. O §1.5e já sabia que *coisa desenhável ⇒
+> desenhada fechada ⇒ contável*; o que a `C-r3` acrescenta é que **`DOG PROFILE` ainda é coisa
+> desenhável**, mesmo dentro de um comando de ornamento. **A palavra `DOG` no bloco é o defeito.**
+> A formulação que teria chance é ornamental **de ponta a ponta**, sem nomear o animal: voltas
+> que apenas *insinuam* focinho e orelha caída, descritas como **volutas e gavinhas**, não como
+> perfis de cão. Registro para o guia e para o livro 3 — **não gasto rodada nisto aqui, porque
+> não há rodada.**
+
+**Defeito menor, registrado e não determinante:** o olho da cauda-dragão **NÃO foi apagado**.
+A instrução era `PAINT NO EYE ON IT AT ALL` e a cauda traz um olho amendoado com pupila, em
+perfil estrito, virado para fora do quadro. Cumpre a cláusula original do §21.2 (*sem olho ao
+leitor*) e fica **abaixo da linha de reprovação** — mas é o segundo desvio da mesma redação.
+
+### VEREDITO: ❌ **REPROVADA — teto de 3 rodadas atingido (§Barra de Qualidade)**
+
+> **`07` vai ao `gate.md` com as três candidatas: `A`, `B-r2`, `C-r3`.**
+> **Minha recomendação ao dono, declarada:** encaixar a **`C-r3`**. Ela é a melhor das três em
+> tudo o que não é a gola (abraço, técnica unificada, cauda presa e de boca fechada, orelhas
+> caídas na cabeça nítida, luz no rosto) e o seu defeito — três perfis ornamentais claros,
+> creme sobre creme, de olho apenas insinuado e nenhum dente — é **o menos danoso dos três
+> defeitos disponíveis**: a `A` tinha uma quinta criatura autônoma solta e duas técnicas
+> brigando; a `B-r2` tinha a mesma contagem com focinhos mais escuros e sem o ganho ornamental.
+> **É decisão do dono, não minha:** o item 11 é regra de gate e eu não a afrouxo por conta
+> própria. Levo as três e a recomendação.
+
+---
+
+## 32.2 ❌ `08a-tifao-B-r2` (p. 36) — o corpo chegou. **Sem cabeça, e curvado.**
+
+### O que a rodada 2 ENTREGOU, e que não pode se perder
+
+- **Ombros, peito, duas mãos grandes, dois pés plantados** ✔ — a FATAL da rodada 1 caiu.
+- 🏆 **Os anéis nascem DOS OMBROS**, não do gramado ✔ — verificado na ampliação: as voltas
+  emergem da linha do trapézio, dos dois lados. Era o pedido exato.
+- **Os anéis sobreviveram à regeração** ✔ — continuam scrollwork ornamental chapado, verde-oliva,
+  azul-petróleo, ocre e creme, nascendo uns dos outros e dissolvendo no céu, **sem contorno
+  fechado, sem olho, sem boca, sem língua em nenhuma volta**. A fórmula §1.5e segue de pé.
+  ⚠️ Ficaram **mais ralos e mais simétricos** que na `A` (leem quase como penteado espelhado) —
+  não reprova, mas a `A` era mais rica e a rodada 3 deve pedir volume e assimetria de volta.
+- **Horizonte baixo com colinas distantes** ✔ · **zero fogo, zero vulcão, zero Etna, zero Zeus,
+  zero raio, zero arma** ✔ · tratamento do dono (aquarela molhada, granulação, cor local
+  saturada) ✔ · 2048×2048 ✔.
+- 🏆 **A cabeça-chave da inversão: CUMPRIDA.** Uma única cabeça de serpente nítida, baixa, em
+  pescoço curvado, ocre-creme, **olhando direto para a criança**, **olhos grandes, redondos, com
+  pupila e brilho, sobrancelha macia, boca pequena e fechada**, sem presa, sem língua bífida.
+  É a única face do quadro. Nomeação (proxy): pergunta 1 → *"cobra"* ✅ · pergunta 2 → ✅.
+  **É o melhor rosto de criatura que este livro produziu depois da capa.**
+
+### 🔴 O QUE REPROVA
+
+**FATAL 1 — o corpo é um TORSO SEM CABEÇA.** O tronco termina na linha dos ombros: não há
+pescoço e não há cabeça humana nenhuma. Um corpo humano decapitado numa página infantil é
+**pior que a ausência de corpo da rodada 1** — é a única imagem deste livro que um adulto teria
+de explicar. A adequação etária não precisa ser consultada para isto. O §8.1 pede *"Tifão
+ocupando a página em altura"* como **figura**, e figura tem cabeça.
+
+**FATAL 2 — a cabeça de serpente nasce da VIRILHA, não do ombro.** *Teog.* 824–825 e o texto
+que a criança ouve (*"Dos ombros lhe nasciam cabeças de serpente"*) são explícitos, e a minha
+própria redação dizia `it is FROM HIS SHOULDERS … that the whole nest of coils grows`. Os anéis
+ornamentais obedeceram; **a cabeça nítida, não**: o pescoço sai do baixo-ventre, entre as duas
+pernas, e a cabeça pousa na altura dos joelhos. Colocação infeliz por si só, e arte/texto
+deixam de contar a mesma coisa (§1.5b, *Texto casado*).
+
+**FATAL 3 — a postura.** Ele está **curvado para a frente, ombros à frente do peito, os dois
+braços pendendo até o chão e as mãos abertas apoiadas na grama**. A leitura é de bruto pesado
+prestes a avançar — o oposto exato da alavanca 1 (*parado, calmo, cedendo, nunca em investida*).
+Minha redação pedia `He stands still and calm, arms down, not advancing`. Braço pendendo até o
+solo não é "arms down": é quadrúpede. **Os braços têm de ficar em pé, retos ao lado do corpo, e
+os ombros atrás do peito.**
+
+**DEFEITO 4 — a Banda B continua com olho e língua bífida, pelo segundo julgamento seguido.**
+As serpentes do friso são silhueta chapada negra (gramática orientalizante ✔), mas cada uma
+traz **olho branco e língua bífida saindo da boca**. A instrução era literal: `PLAIN FLAT BLACK
+SILHOUETTES: no forked tongue and no eye on any of them`. `língua bífida` é item nominal da
+lista negativa dura do livro. Sozinho não reprovaria; com a peça voltando, **cai junto**.
+
+**DEFEITO 5 — a escala ainda não chega.** O horizonte baixo entrou, mas as colinas são pálidas e
+minúsculas e o capim do primeiro plano está na escala de um homem: ele lê grande, não
+**enorme**. A rodada 3 precisa de **uma coisa pequena e reconhecível ao pé dele** (um bosque
+inteiro, um casario) para a alavanca 4 funcionar.
+
+### VEREDITO: 🟡 **REPROVADA — rodada 3 de 3, uma geração, conversa nova, anexar `08a-tifao-B-r2.jpg`**
+
+---
+
+## 32.3 ✅ `06v1-as-duas-bocas` (cap. 6, vinheta 24 mm) — APROVADA
+
+**2000 × 284 px, 7,04:1** — recorte na proporção exata do destino (§0.1c/5). ✔
+
+**A elipse está desenhada, e é isto que a peça tinha de fazer.** A encosta corre na horizontal ao
+longo da faixa; **as duas bocas estão na mesma imagem**, separadas por um vão claro de capim: à
+**esquerda**, a boca aberta em **negro chapado — a nota mais escura da faixa**, e **nada legível
+lá dentro** (nenhuma silhueta, nenhum olho, nenhum movimento no negro) ✔; à **direita**, a boca
+**entulhada com pedras empilhadas por mão humana**, cada pedra pintada uma a uma ✔. **A clava
+está no chão, largada**, baixa, no vão entre as duas ✔ — **nunca em golpe** ✔. **O leão não
+aparece** ✔. **Nenhum rosto** ✔ (§0.1c/6).
+
+🔴 **O contrato duro de série (D5) — as duas cavernas são inconfundíveis. Confiro contra
+`01-equidna-a-caverna-e-as-portas`:**
+
+| | Caverna de Equidna (caps. 1, 8) | Esta (cap. 6) |
+|---|---|---|
+| Formato | vão **vertical**, abóbada alta, **uma boca** | encosta **horizontal**, duas bocas rasas |
+| Câmera | de **dentro**, olhando o fundo | de **fora**, à distância, de lado |
+| Cor | **azul-petróleo e verdes-cinza**, luz fria | **ocre, terracota e creme**, luz alta e seca |
+| Leitura | **descer** | **atravessar** |
+
+**Nenhuma criança de 4 anos acha que é a mesma casa.** Contrato cumprido nas quatro variáveis
+que o capítulo nomeia (rocha, cor, ângulo, formato do vão).
+
+**Legibilidade a 24 mm:** exatamente **dois elementos nítidos** — o negro da boca e o muro de
+pedras — separados por vão claro, lidos **por silhueta e valor**, não por detalhe fino ✔. **Sem
+banda ornamental** ✔ (correto: a 24 mm ela comeria a imagem). A clava é o terceiro elemento e é
+o mais frágil no papel — vai ler como um traço marrom baixo, e **isso basta**: ela é conteúdo de
+cena, não elemento de carga. **Não reprova.**
+
+**Tratamento do dono ✔:** lavagens transparentes que sangram uma na outra, granulação do papel
+visível na encosta e no capim, cor local saturada nos ocres e terracotas. **Zero preenchimento
+chapado** — exceto o negro da boca, que é chapado **de propósito** e é o acerto da peça.
+
+**Nota de registro, abaixo da linha:** o alto das duas bocas encosta na borda superior do
+recorte. Nada essencial é decapitado — as duas bocas estão inteiras e dentro — e o asset já é a
+faixa final, então `fit: "cover"` não corta mais nada (§29.2/4). **Não reprova.**
+
+---
+
+## 32.4 ✅ `06v2-a-pele` (cap. 6, vinheta 44 mm) — APROVADA. **A marca emocional está na página.**
+
+**2000 × 520 px, 3,85:1** — recorte na proporção exata do destino ✔.
+
+**Héracles de costas, descendo a colina, a pele do leão como MANTO de corpo inteiro**, do ombro
+ao chão ✔ — é a cena que o cap. 6 declara obrigatória, e ela chegou inteira.
+
+🔴 **A restrição fatal — NUNCA rosto-sobre-rosto — está cumprida, e cumprida com elegância.**
+A cabeça do leão está **no ombro/alto das costas dele, em perfil**, claramente **ao lado e
+abaixo** da cabeça dele; **a cabeça dele está descoberta**, cabelo escuro preso. Não há elmo, não
+há escalpo, não há sobreposição de eixo. A fórmula proibida (Apolodoro 2.4.10, *outro* leão) não
+foi tocada nem de longe. A juba do leão lê como **gola do manto** — que é exatamente a leitura
+que o capítulo quer.
+
+**Os telhados de Cleonas** estão lá: baixinhos no horizonte, à direita, **no rumo em que ele
+desce**, com o caminho claro levando até eles ✔. É o destino da página e ele está legível.
+
+**Legibilidade a 44 mm:** **dois elementos nítidos** — a figura encapotada (silhueta escura
+dominante contra a colina clara) e o casario ✔. Leitura por **silhueta e valor** ✔. **Nenhum
+rosto legível** — ele está de costas e o que se lê é o manto como silhueta, exatamente o §0.1c/6
+✔. **Sem banda ornamental** ✔. Nada essencial toca as bordas laterais ✔.
+
+**Contrato de luz do cap. 6:** céu **alto, seco e pálido**, azul lavado no topo, colinas em ocre
+e terracota. É o contrário da luz da caverna de Equidna, como o capítulo pede — e resolve, de
+quebra, a ressalva 🟡 do §28.4 (*"o alto do céu está frio demais"*) **no lado desta peça**.
+
+**Fora de quadro, obrigatoriamente ✔:** nenhum contato entre os dois corpos, nenhum gesto de
+aperto, nenhum sangue, **nenhum esfolamento**, nenhum corpo de leão sendo carregado. A pele já
+é manto, e a página nunca mostra como ela chegou lá. **A elipse do cap. 6 é respeitada nas duas
+vinhetas.**
+
+**Tratamento do dono ✔:** aquarela molhada de verdade, granulação viva no capim e no céu,
+bordas sangradas, cor local saturada no manto terracota e na juba ocre.
+
+**Nota de emoção, porque é o mandato da peça:** uma figura pequena, de costas, descendo sozinha
+para um casario distante, vestindo o bicho que ela conheceu. **É a imagem mais silenciosa do
+livro e ela funciona.** Encaixar.
+
+---
+
+## 32.5 O que vai para a Fase 4 nesta sessão
+
+**Encaixar no `imagens-disponiveis.typ` e recompilar:** `06v1-as-duas-bocas` (2000×284) ·
+`06v2-a-pele` (2000×520). **Com estas duas, o cap. 6 fecha nas suas 4 pp.**
+
+**Regerar:** `08a` (**rodada 3 de 3** — a última).
+
+**Ao gate, com candidatas:** `07-cerbero-o-abraco-sem-armas` — `A`, `B-r2`, `C-r3`, com a
+recomendação declarada no §32.1 (encaixar a `C-r3`).
+
+**🔴 O miolo NÃO fecha nesta sessão.** Faltam `07` (decisão do dono no gate) e `08a` (rodada 3),
+e as duas são páginas de capítulo-âncora. Fila anterior: `sheet-heracles` (rodada 3 de 3) ·
+`06-o-leao-antes` (rodada 2) · `04-B` opcional · `08b` · p. 40.
+
+**Pendência do dono, aberta desde a 1ª sessão (§1.4b):** nomear a criança do teste de nomeação,
+quem aplica e onde o veredito é gravado.
+
+## 32.6 Redirecionamento — uma linha
+
+> **`08a` (rodada 3 de 3; conversa nova; anexar `08a-tifao-B-r2.jpg`):**
+> `[THE ONE CHANGE]` — `KEEP THE COILS, THE HANDS, THE FEET AND THE GENTLE SNAKE FACE EXACTLY AS
+> THEY ARE, and fix the figure: GIVE HIM A CALM HUMAN HEAD AND NECK above the shoulders, bearded
+> and quiet, looking softly down; he STANDS UPRIGHT AND STILL, shoulders back, both arms hanging
+> STRAIGHT DOWN AT HIS SIDES and NOT touching the ground, not stooping, not leaning forward. MOVE
+> the one sharp ochre serpent head so its neck grows FROM HIS SHOULDER and curves down beside his
+> chest, still looking straight out at the viewer with the same big soft eyes and small closed
+> mouth. Make the nest of coils FULLER and UNEVEN again, not mirrored. Put a tiny village and a
+> small wood far below on the low horizon so that he is enormous. In the bottom frieze the
+> serpents are PLAIN FLAT BLACK SILHOUETTES with NO white eye and NO forked tongue at all.`
+
+> **`07`:** nenhum — **rodadas esgotadas.** Vai ao `gate.md`.
+
+---
+
+## 33. ❌ `08b-o-retrato-de-origem-A` (p. 38) — REPROVADA. **A D9 segurou a mulher; o elenco caiu.**
+
+**Peça avulsa, curada fora de rodada** (baixada pelo orquestrador depois da sessão 6).
+2048×2048 ✔ · quadrada ✔ · rodada 1 de 3 · piso de variações do pacote F9 = 2 conversas.
+
+### 33.1 O que PASSOU — e passou bem
+
+| Trava | Veredito |
+|---|---|
+| **D9 / p. 10 — é a mesma mulher?** | ✅ **SIM, sem delta.** Cruzei com `01-equidna-a-caverna-C-dono.png`: mesmo rosto (mesmo olho, mesma pálpebra, mesmo nariz, mesma boca pequena de canto neutro), mesma idade aparente, **mesmo coque alto com as mesmas mechas nas têmporas**, mesma túnica creme de **manga curta cobrindo o ombro** (C2 cumprida), mesmas manchas grandes e arredondadas nos mesmos ocres/ardósia/laranja-queimado. É continuidade de identidade, não semelhança de família. Bate também com a p. 40 |
+| 🔴 **D9-A / anatomia (o risco conhecido)** | ✅ **NÃO houve sacrifício.** Metade mulher, metade serpente: **zero perna humana, zero pé, zero joelho, zero sandália.** A cauda sai da túnica e entra e sai de quadro. O defeito que custou uma geração na p. 40 **não se repetiu** |
+| **Régua D6 (não-sensualização)** | ✅ item a item: sem decote, sem cintura marcada, sem quadril, sem boca entreaberta, sem olhar de canto, sem pose sinuosa, ombro coberto, cabelo recolhido, drapeado solto. Rosto de retrato, calmo, sem adorno |
+| **FIXÁVEL-3 (anéis)** | ✅ anéis **deitados**, eixo paralelo à base, contidos na moldura, sem cabeça de serpente de frente, sem bote, sem losango |
+| **Moldura temporal / gate N1** | ✅ nada declara que nasceram juntos, **zero tristeza, zero presságio, zero ar de despedida**, sem porta, sem portão, sem paisagem externa, sem mapa. Ninguém guarda nada. Nenhuma hierarquia composta: ela está **entre** eles, não acima deles — a composição não afirma o grau que o texto se recusa a afirmar |
+| **Tratamento do dono** | ✅ aquarela molhada, granulação, caverna fria azul-petróleo/verdes-cinza com ocres de beirada, cor local saturada |
+| **Luz no rosto (§1.2b)** | ✅ Equidna e Órtro com os dois olhos legíveis, na luz. ⚠️ exceção no item 33.2.b |
+| **Tifão fora de quadro** | ✅ |
+
+### 33.2 O que REPROVA — quatro fatais, e três deles são o elenco
+
+**a) 🔴 CÉRBERO NÃO ESTÁ NA PÁGINA.** A contagem R4.2 exige **5 nítidos exatos** e um deles é
+Cérbero — *"o mesmo desenho, mais novo"*, com a cauda de dragão. Há **dois** cães na imagem, e
+eles são **as duas cabeças de Órtro** (uma dormindo, uma acordada — Órtro está correto e bonito).
+Não há terceiro cão, não há cauda-dragão, não há gola. **A folha `sheet-cerbero-G-planoB3`, que
+custou cinco candidatas, não chegou nesta página.** Falha de contagem por ausência, não por
+excesso.
+
+**b) 🔴 A HIDRA TEM UMA CABEÇA SÓ.** O pacote pede `EXACTLY THREE sharp heads rising like reeds
+from the water` + massa contínua dissolvendo na luz da água. O que veio é **um único dragãozinho
+de pescoço longo entre juncos** — e, pior, **o olho dele é claro e sem pupila** (§1.2, alavanca 3:
+*olho sem pupila = monstro*), o único olho da página que fura a régua. Como a Hidra **só existe
+aqui no livro inteiro**, entregar uma cabeça é entregar outra criatura. Não é caso de Plano B: o
+Plano B (uma nítida + ornamento) exige a massa ornamental, e **não há massa nenhuma atrás dela**.
+
+**c) 🔴 A QUIMERA ESTÁ NA FORMA EXPRESSAMENTE VETADA.** O checklist reprova em letras vermelhas
+*"cabeça de cabra num terceiro pescoço ao lado da do leão"*. É exatamente o que está na página:
+um leão deitado e, **encostada ao pescoço dele, uma cabra separada** — e **nenhuma cauda
+terminando em cabeça de serpente**. Um adulto lê "um leão e uma cabra"; uma criança de 4 lê dois
+bichos. **A Quimera, que também só existe aqui, não está na página** — está desmontada em duas
+peças. Item 6 do `[MUST NOT APPEAR]`, violado literalmente.
+
+**d) 🔴 A BANDA ORNAMENTAL (Banda B) NÃO FOI DESENHADA.** Só existe a faixa geométrica (Banda A:
+meandro + palmetas, essa correta e bonita). O bloco `[ORNAMENTAL BAND — MANDATORY, DRAW THIS]` é
+obrigatório **justamente** numa página com duas criaturas poli-cefálicas — sem ele, a multidão
+das duas cai na anatomia, que é precisamente o que aconteceu em (a) e (b).
+
+### 33.3 Dois defeitos menores, que entram na mesma rodada
+
+- **A Esfinge está de touca EGÍPCIA (*nemes*) listrada.** A Esfinge deste livro é grega e já tem
+  desenho aprovado em `05-a-pergunta-da-esfinge-B-r2`. Erro de camada cultural num livro
+  construído sobre precisão de fonte — e ela e o Leão estão menores e mais atrás ✔, mas **nítidos
+  demais** para "menos definidos".
+- **Equidna está EM PÉ; o pacote pede SENTADA.** Não reprova sozinho (o retrato funciona, e a
+  postura ereta é a da p. 10, o que ajuda a D9), mas com ela sentada sobra altura para Cérbero e
+  para a Hidra, que é onde a página está faltando. **Recomendo sentada na rodada 2.**
+
+### 33.4 Teste de nomeação (§1.4a — proxy, sem leitor real)
+
+- **"o que é isso?"** → *"uma moça com uma cobra grande, dois cachorros, um leão, uma cabra e um
+  dragãozinho"*. Nomeia animais ✔, **não diz "monstro" ✔** — a amabilidade do tratamento está
+  funcionando. **Mas nomeia a página errada:** não há Cérbero, não há Hidra, não há Quimera.
+- **"você ia querer ficar perto dele?"** → sim para Equidna, Órtro e o leão; **hesitação no
+  dragãozinho de olho branco**.
+
+### 33.5 VEREDITO
+
+> ## ❌ **REPROVADA. NÃO ENCAIXAR.** Rodada 1 de 3.
+>
+> A parte cara e delicada da peça — **a mulher** — está perfeita: a D9 e a D9-A passaram sem um
+> milímetro de delta, e a régua D6 passou item a item. **O que falhou foi o elenco:** a página
+> que existe para ser o único lugar do livro onde a Hidra e a Quimera vivem **não tem nenhuma das
+> duas**, e perdeu o Cérbero no caminho. Três das cinco figuras nítidas obrigatórias estão
+> ausentes ou desmontadas.
+>
+> **Esta peça não vai ao gate; ela volta ao gerador.** O caminho é D9-A sobre **esta própria
+> imagem** (que já carrega a mulher certa, a caverna certa e a paleta certa), pedindo **só o
+> elenco** — nunca regenerar do zero e arriscar o rosto que está correto.
+
+### 33.6 Redirecionamento — a correção em UMA linha
+
+> **`08b` (rodada 2 de 3; conversa nova; anexar `08b-o-retrato-de-origem-A.jpg` q95 + o bloco
+> `[WHO SHE IS - UNCHANGED]` verbatim com `NO human legs, NO feet, NO knees, NO sandals`):**
+> `[THE ONE CHANGE]` — `KEEP THE WOMAN, HER FACE, HER SERPENT HALF, THE CAVE, THE LIGHT, THE
+> PALETTE AND THE BORDER EXACTLY AS THEY ARE, and fix the animals around her: (1) TURN THE
+> LONG-NECKED DRAGON AT THE RIGHT INTO THE HYDRA - PAINT THREE SHARP HEADS side by side and
+> overlapping, rising out of the water like reeds, each with a small closed mouth and BIG DARK
+> EYES WITH CLEAR PUPILS, and behind them ONE SINGLE CONTINUOUS WASH of wet-on-wet watercolour
+> with soft bleeding edges, no outline and NO eyes, dissolving into the pale light of the water,
+> never into black; (2) JOIN THE GOAT AND THE LION AT THE BOTTOM LEFT INTO ONE ANIMAL - the goat
+> is NOT a second neck: PAINT THE GOAT'S HEAD GROWING OUT OF THE MIDDLE OF THE LION'S BACK, from
+> the spine itself, turned to the side, and END THE LION'S TAIL IN A SMALL QUIET SERPENT'S HEAD
+> lying low on the ground, with one thin thread of smoke and NO flame; (3) ADD ONE MORE DOG,
+> CERBERUS, sitting to her left as a younger dog, with TWO sharp readable faces side by side and
+> overlapping, black ears hanging down, and A DRAGON TAIL curling quietly on the ground behind
+> him; (4) the small SPHINX high at the back wears NO EGYPTIAN HEADCLOTH and NO STRIPES - give
+> her plain dark greek hair, and paint her and the small lion FAINTER AND SOFTER, half lost in
+> the shadow of the cave; (5) SEAT THE WOMAN on the cave floor so the animals have room, keeping
+> her face, her tunic and her coils exactly as they are; (6) DRAW THE ORNAMENTAL BAND: a separate
+> horizontal band inside the plain fillet, an ORIENTALIZING ANIMAL FRIEZE in the Corinthian
+> manner - repeated animal profiles in flat silhouette, all walking the same way, over a dense
+> field of rosettes; ornament, never anatomy.`
+> `[MUST NOT APPEAR]` reforçado: `no goat's head on a neck beside the lion's head; no three heads
+> in a row; no single-headed hydra; no pale eye without a pupil on any creature; no egyptian
+> nemes headdress; no door, no gate, no outside landscape.`
+> `[IF THEY DO NOT FIT]` obrigatório, verbatim (§11).
+
+**Se a rodada 2 devolver de novo Quimera desmontada ou Hidra de uma cabeça:** a rodada 3 troca a
+referência anexada por **REF-05 (Quimera de Arezzo, ETRUSCA ca. 400 a.C., FORMA e nunca estilo)**,
+com as negativas do pacote F9 — e, esgotadas as 3, a peça vai ao `gate.md` com as candidatas.
+
+
+---
+
+## 34. 🔴 DECISÃO FINAL DO `07-cerbero-o-abraco-sem-armas` (p. 33) — **`C-r3` ENTRA, com errata de edição**
+
+> **Quem decidiu, e por quê:** no §32.1 eu levei a peça ao gate com recomendação e escrevi
+> *"é decisão do dono, não minha"*. **O dono delegou a decisão à squad**, sob o objetivo
+> permanente de entregar o livro completo, e não está disponível para decidir peça a peça.
+> **Registro a delegação e decido.** Nenhuma outra regra de gate é afrouxada por este ato.
+
+### 34.1 Veredito
+
+| Peça | Decisão |
+|---|---|
+| `07-...-A` | ❌ descartada — 4 fatais, inclusive quinta criatura solta e duas técnicas |
+| `07-...-B-r2` | ❌ descartada — mesma contagem da `C-r3` com focinhos mais escuros e sem ganho ornamental |
+| **`07-...-C-r3`** | ✅ **APROVADA COM ERRATA DE EDIÇÃO** → encaixar como `07-cerbero-o-abraco-sem-armas-D-REF.png` |
+
+**"Nenhuma" não é opção.** A p. 33 é o full-bleed do capítulo-âncora; sem imagem, o livro vai
+à gráfica com placeholder na página que carrega a frase-âncora. O custo de publicar a `C-r3`
+retocada é estritamente menor que o custo de não publicar nada.
+
+### 34.2 O teste contra o TEXTO — que é o critério final, e ele **absolve** a `C-r3`
+
+O cap. 7 diz: *"um cão enorme, com mais cabeças do que se consegue contar — **algumas bem na
+frente, nítidas**, e outras que se perdem no pelo e na sombra"*. E o brief pede *"2–3 cabeças em
+foco nítido, as demais dissolvendo"*.
+
+- O texto **autoriza cabeças legíveis na frente**. O que ele proíbe é um **total** contável.
+  Na `C-r3` há 1 cabeça nítida + 3 pálidas + uma massa de volutas que continua para além delas
+  e não fecha em número nenhum. **O total segue incontável**; o que ficou contável foi o
+  subconjunto *"algumas na frente"* — que o corrido pede por escrito.
+- Portanto o defeito real da `C-r3` **não é a contagem**. É outra coisa, mais estreita e mais
+  grave: dentro do ornamento há **rostos** — olho, narina — e rosto atrás da cabeça nítida é o
+  que a régua de adequação etária do §1.5e proíbe (*"nada atrás da cabeça nítida tem olho,
+  pupila, boca ou focinho"*). **E rosto é exatamente o que a edição alcança.**
+- **Precedente da Esfinge (§31.3), aplicado — e o teste passa nos dois membros:** (a) o motivo
+  escrito da reprovação anterior estava na **gramática** da massa (retratos fechados em vez de
+  ornamento), e ele **caiu**: a massa é hoje scrollwork art nouveau de verdade; (b) o que restou
+  — as marcas de rosto dentro do scrollwork — é **acabamento sobre a gramática correta**, não a
+  causa. O precedente vale aqui. Registro que o uso é o **segundo**, e que ele continua estreito.
+
+### 34.3 O olho da cauda — **errata de edição, não reprovação**
+
+Precedente direto: `sheet-cerbero-G-REF`, em que um defeito localizado foi anulado por errata de
+edição (apagar e gravar `-REF`), **sem gastar geração**. É o mesmo caso, e é mais fácil: o olho
+da cauda-dragão é um losango escuro de ~24×20 px sobre cinza-esverdeado chapado e uniforme.
+Apagar é preencher com a cor vizinha. **A cláusula-piso passa a ser a da `00-capa-A`: cauda com
+ZERO olho.**
+
+### 34.4 A ERRATA — 7 marcas, todas de preenchimento local (executar com Pillow)
+
+Imagem-fonte `07-cerbero-o-abraco-sem-armas-C-r3.png`, **2048×2048**; coordenadas em px da
+original. **Nada mais na página pode ser tocado** (regra anti-sacrifício, §11).
+
+| # | Marca | Centro | Caixa (x0,y0,x1,y1) | Preencher com |
+|---|---|---|---|---|
+| 1 | Olho da **cauda-dragão** (losango preto com pupila) | (1779,1036) | 1767,1024,1793,1048 | cinza-esverdeado do corpo da cauda, amostrado em (1770,1062) |
+| 2 | Olho da cabeça pálida do **TOPO** (crescente) | (1296,425) | 1283,412,1311,438 | creme do plano da têmpora, amostrado em (1270,455) |
+| 3 | Narina/focinho da do **TOPO** | (1374,446) | 1360,432,1392,460 | creme claro do dorso do focinho, amostrado em (1352,470) |
+| 4 | Olho da cabeça do **MEIO** (folha com contorno) | (1470,616) | 1450,598,1494,634 | creme da testa, amostrado em (1440,650) |
+| 5 | Ponta de focinho da do **MEIO** (bulbo escuro) | (1534,682) | 1514,660,1554,702 | creme do focinho, amostrado em (1500,660) |
+| 6 | Olho da cabeça de **BAIXO** (triângulo escuro) | (1487,869) | 1468,843,1504,892 | creme da bochecha, amostrado em (1455,900) |
+| 7 | Ponta de focinho da de **BAIXO** (bulbo escuro) | (1516,960) | 1496,940,1538,980 | creme do focinho, amostrado em (1490,930) |
+
+**Método, por marca:** amostrar a **mediana** de um anel de 6 px em volta da caixa, restrito aos
+pixels mais claros que a marca (para não herdar a própria linha); preencher a caixa com essa cor;
+aplicar `GaussianBlur(radius=2)` no retalho; compor com máscara elíptica de borda difusa
+(feather ~3 px) para não deixar quina. **Não apagar as orelhas nem as linhas de contorno** — sem
+olho e sem narina, a forma deixa de ser rosto e as "orelhas" leem como **pétalas de palmeta**,
+que é o vocabulário da Banda A. Este é o ponto inteiro da errata.
+
+**Verificação obrigatória após o retoque** (ampliação 4× nas 7 caixas): nenhuma quina visível,
+nenhum halo, nenhuma das três formas com par de pontos legível como rosto olhando para fora
+(§1.5e), cauda com zero olho. **Gravar como `07-cerbero-o-abraco-sem-armas-D-REF.png`**; a
+`C-r3` fica no histórico. O arquivo que vai à Fase 4 é o `-REF`.
+
+### 34.5 O que sai daqui para o guia (v2.6) e para o livro 3
+
+**A palavra `DOG` no bloco é o defeito** (§32.1). Emenda ao §1.5e, vinculante: o bloco de gola
+**nunca nomeia o animal**. Descrever apenas volutas, gavinhas e pétalas que *insinuam* um focinho
+e uma orelha caída, com o verbo de ornamento; `NO eye, NO eye-mark, NO nostril` **na mesma
+frase** da voluta, não em bloco separado. Se ainda assim vier rosto, **a saída é errata de
+edição, não rodada** — apagar um olho custa 20 px; regerar arrisca a página inteira.
+
+---
+
+## §36 — Decisão do `08a-tifao` (delegada, orquestrador)
+
+**Contexto:** o `mito-diretor-arte` foi despachado para curar esta peça e **caiu no limite de
+sessão da API antes de julgar** (reseta 20:40). O teto de 3 rodadas já estava atingido e a peça
+é a última posição do miolo além do retrato de origem. Sob o objetivo permanente do dono
+("entregar o livro completo"), decido e registro — **reversível a pedido**.
+
+**ENTRA a `08a-tifao-C-r3`.** É, com folga, a melhor das três: a `A` não tem corpo nenhum (os
+anéis brotam do gramado) e a `B-r2` tem o torso decapitado com as cabeças nascendo da virilha.
+
+**Verificado na imagem, item a item do §32.6:**
+- ✅ **Cabeça humana** barbada, serena, olhar baixo, sobre pescoço e ombros. A decapitação caiu.
+- ✅ **Os anéis nascem dos OMBROS**, não do gramado nem da cintura — a colisão com *Teog.* 824–825 caiu.
+- ✅ **Friso resolvido**: serpentes em silhueta chapada sobre roseta, **sem olho branco e sem
+  língua bífida** — a instrução ignorada duas vezes foi finalmente obedecida.
+- ✅ **Ornamento intacto**: volutas verde-oliva e creme, sem olho, sem boca, sem língua. Continua
+  sendo o melhor exemplar da fórmula do ornamento que o livro produziu.
+- ✅ **A cabeça-chave olha para a criança**, com olhos grandes e macios e boca fechada — a
+  alavanca da inversão, e o único rosto de criatura da página.
+- ✅ **Zero fogo, zero vulcão, zero Zeus.** O teto do fogo passou com folga.
+- ✅ **Escala**: colinas pequenas e distantes na linha do horizonte, atrás dos pés.
+- 🟡 **Postura**: os braços seguem arqueados para fora, com as mãos chegando ao chão. **É o
+  defeito residual** e está declarado.
+
+**Por que a postura não reprova aqui** — aplico o **precedente estreito da Esfinge (§31.3)**, que
+passa nos dois membros: (a) os motivos **escritos** da reprovação da r2 eram a cabeça ausente e
+as cabeças na virilha, e os dois estão resolvidos; (b) a postura era **um de cinco itens** da
+lista de correção, não a causa da reprovação — e a alavanca 1 pede criatura **em repouso**, que
+é o que a figura faz: está parada, de braços baixos, sem arma e sem ameaça. Não lê como fera em
+bote; lê como gigante grande e quieto.
+
+**O que fica registrado como risco:** um adulto pode achar a postura simiesca. É defeito de
+acabamento, não de leitura infantil, e o custo da alternativa era um **placeholder na p. 36 de um
+livro indo à gráfica**.
+
+**Pendência de ficha, herdada e ainda aberta:** o §32.6 exigiu **cabeça humana barbada**,
+revogando o `NEVER a whole man's face` da ficha §3.6 do guia. **A ficha canônica de Tifão precisa
+da emenda**, senão a contradição volta no livro 3. Dono: `mito-diretor-arte`, na retomada.
+
+---
+
+## §37 — As três peças da DIREÇÃO-DO-DONO-2 (Cérbero de três cabeças)
+
+> **Peças julgadas:** `sheet-cerbero-H-3cabecas.png` (2400×1792) · `00-capa-B-3cabecas.png`
+> (2048×2048) · `07-cerbero-o-abraco-sem-armas-E-3cabecas.png` (2048×2048).
+> **Não reabro a decisão do dono.** Três cabeças contáveis, marrom escuro, orelhas em pé são
+> ordem, e a ordem está cumprida no atributo nas três peças. **O que julgo é a execução.**
+
+### 37.1 Veredito
+
+| peça | veredito |
+|---|---|
+| `sheet-cerbero-H-3cabecas` | 🟡 **APROVADA COMO ANATOMIA, REPROVADA COMO ÂNCORA** — vira `-REF` de contagem/cor; **não ancora capa nem cena** enquanto o tratamento não voltar à aquarela |
+| `00-capa-B-3cabecas` | ❌ **REPROVADA** — fura duas das três travas do §6.1 (olhar no eixo; cauda-criatura de boca aberta) |
+| `07-cerbero-o-abraco-sem-armas-E-3cabecas` | ❌ **REPROVADA** — fura a trava §1.2b (cabeças contra o vão negro) e a alavanca 1 (cão em pé, de corpo inteiro, atravessando a página) |
+
+### 37.2 A resposta à pergunta central: **a amabilidade NÃO sobreviveu — e a culpa não é do dono**
+
+O teste §1.4 tem duas perguntas, e as peças se separam exatamente entre elas.
+
+- **Pergunta 1 — "o que é isso?" → PASSA, e passa bem.** "Cachorro" é a única resposta possível
+  diante das três peças. Nenhuma delas lê "monstro" por ambiguidade de forma, nenhuma lê
+  "fofinho". A direção do dono **melhorou** este eixo: cão contável é cão, e a iconografia antiga
+  concorda (§3.2 [ICONOGRAFIA]).
+- **🔴 Pergunta 2 — "você ia querer ficar perto dele?" → FALHA.** E falha pelo motivo que o
+  ilustrador nomeou corretamente: **o cão saiu dobermann.** Focinho longo e afilado, pelo curto
+  e chapado, contorno preto fechado, peito de guarda, **e a orelha cortada em ponta de faca**.
+
+**O achado desta curadoria, e é o único que importa:** o dono pediu **orelhas em pé**. O
+ilustrador entregou **orelha de dobermann cortada** — que é uma coisa diferente. A orelha ereta
+natural (base larga, ponta arredondada, pelo visível, mobilidade legível) obedece à ordem do dono
+inteira e **não** carrega a semiótica de cão de guarda. A ponta reta e afilada carrega, sozinha,
+metade da leitura de ameaça das três peças. **Não é o dono que precisa ceder; é o desenho da
+orelha que foi executado errado dentro da ordem dele.**
+
+O segundo motor da falha é de **tratamento, não de raça**: as três peças são **preenchimento
+chapado com line-art preto**, não aquarela molhada. Isso viola a `DIRECAO-DO-DONO.md` (que
+**continua valendo** — o dono nº 2 mudou anatomia e cor, não tratamento) e o §1.3: *"a doçura
+nunca é um traço de desenho, é um tratamento de pintura"*. Chapado + contorno duro é a gramática
+de mascote esportivo e de cão de guarda; a lavagem aquarelada tira o gume de exatamente as mesmas
+formas. **A mesma anatomia, pintada molhada, muda de veredito.**
+
+**Conclusão formal:** a direção do dono foi **cumprida no atributo e perdida no efeito**, e as
+duas causas — orelha cortada e pintura chapada — são **de execução**, ambas corrigíveis **dentro**
+da direção dele, sem mexer em cabeça, cor ou orelha em pé.
+
+### 37.3 A correção — uma linha por peça
+
+- **`sheet-cerbero-H`** → refazer com **orelha ereta NATURAL** (base larga, ponta arredondada,
+  pelo na borda — *"upright ears with a WIDE BASE and a SOFT ROUNDED TIP, furred, never cropped,
+  never a straight knife point"*), **focinho mais curto e mais macio** (stop marcado, bochecha
+  cheia — nunca a cunha reta do dobermann), e **aquarela molhada de verdade** (lavagem
+  transparente, granulação, borda molhada, **sem contorno preto fechado**) sobre a mesma paleta
+  marrom escuro; mantidas as três cabeças, as três vistas com a mesma contagem e o friso da
+  Banda B.
+- **`00-capa-B`** → refazer com **o olhar das três cabeças levemente fora do eixo** (§6.1-2 — a
+  cabeça central hoje encara o leitor de frente, e é a peça que age à distância da prateleira),
+  **cauda-dragão de boca fechada, sem dente e sem olho voltado ao leitor** (§6.1-3 — hoje ela
+  abre a boca em primeiro plano), postura sentada mantida, e as mesmas correções de orelha,
+  focinho e aquarela do sheet. **O desvio das duas cabeças do pacote F10 fica EMENDADO: a capa
+  passa a levar TRÊS**, por força da direção do dono; o §6 do guia é corrigido junto.
+- **`07-E`** → refazer com **Cérbero SENTADO** (alavanca 1 — hoje está em pé, de quatro apoios,
+  atravessando a página como cão que avança) e **as três cabeças recortadas contra o creme
+  `#EDD9B4` com luz quente no rosto, nunca contra o vão negro** (§1.2b, trava sem discussão de
+  composição — hoje as três se recortam contra o azul-quase-preto do umbral); o abraço continua
+  na **cabeça**, a cauda continua de **boca fechada** (hoje está aberta), e valem as mesmas
+  correções de orelha, focinho e aquarela.
+
+### 37.4 Desvios declarados pelo ilustrador — decididos
+
+1. **Capa com três cabeças em vez das duas do pacote F10:** ✅ **emenda aceita.** A direção do
+   dono é posterior ao pacote e vence; as "duas cabeças" do §6 eram a forma econômica da fórmula
+   das três camadas, que caiu para Cérbero. O guia §6 é corrigido nesta passada.
+2. **REF-11 (Mucha, *Zodiac*) inexistente em `referencias/`:** ⚠️ **registrado como causa provável
+   do desvio de tratamento.** O arco Mucha saiu por descrição e o resultado é line-art chapado —
+   que é exatamente o que a ausência de âncora produz. **Ação:** anexar
+   `DIRECAO-APROVADA-DONO.jpg` como âncora de **tratamento** (ela é o padrão de aquarela molhada
+   aprovado pelo dono) em todas as três regerações, pelo procedimento §0.2b. Sem âncora de
+   aquarela anexada, nenhuma das três volta à curadoria.
+
+### 37.5 O que fica valendo, e as fichas
+
+- Hidra e Ladon **não mudam** (decisão do dono). §1.5e continua íntegro para eles e para Tifão.
+- Fichas **§3.2 (Cérbero)** e **§3.4 (Órtro)** emendadas nesta passada — descreviam o revogado.
+- ⚠️ A regra de amabilidade de Cérbero perde a orelha caída e passa a se apoiar em: **postura
+  sentada · olhar fora do eixo · luz quente no rosto · focinho macio · orelha ereta de base larga
+  e ponta arredondada · aquarela lavada em vez de chapada.** São seis, e nenhuma delas contraria
+  o dono.
+
+---
+
+# CURADORIA 3b — NONA SESSÃO (2026-09-02, madrugada) · **CURADORIA FINAL DO MIOLO**
+
+## §38 — As cinco peças do fechamento. **As doze posições do miolo ficam preenchidas.**
+
+> **Quem decidiu, e por quê.** O dono delegou a decisão à squad sob o objetivo permanente de
+> **entregar o livro completo**, e não está disponível para decidir peça a peça. O teto de
+> rodadas está **esgotado** em Cérbero (5+ candidatas) e o retrato está na **3ª**. Um
+> *placeholder* na p. 33, na capa ou na p. 38 de um livro indo à gráfica é pior que um defeito
+> **declarado**. **Registro a delegação e decido.** Nenhuma outra regra de gate é afrouxada por
+> este ato, e cada peça que entra com defeito entra com **o defeito nomeado**, nunca em silêncio.
+
+### 38.0 Veredito em uma linha
+
+| # | peça | veredito | defeito nomeado que entra com ela |
+|---|---|---|---|
+| 1 | `sheet-cerbero-I` (2400×1792) | ✅ **APROVADA — âncora** | pelo castanho-avermelhado **médio**, não marrom escuro (§38.4) |
+| 2 | `00-capa-C` (2048²) | ✅ **APROVADA COM ERRATA DE EDIÇÃO E1–E5** | cabeça central **no eixo** (§6.1-2), declarada e não editável |
+| 3 | `07-cerbero-o-abraco-sem-armas-F` (2048²) | ✅ **APROVADA — a peça mais limpa do lote** | o braço direito cruza o pescoço da cabeça central |
+| 4 | `03-ortro-o-turno-de-trabalho-B-castanho` (2048²) | ✅ **APROVADA, sem ressalva material** | — |
+| 5 | `08b-o-retrato-de-origem-C` (2048²) | ✅ **APROVADA** | **Banda B não desenhada**; cabra presa na cernelha, não no meio do dorso |
+
+**Cinco de cinco entram. O miolo fecha em 12/12.**
+
+---
+
+### 38.1 🔴 O achado desta curadoria: **o relatório do ilustrador está errado em dois pontos, e os dois pesavam contra a peça**
+
+Não aceitei o laudo; abri as imagens e cruzei em resolução plena. Dois dos três defeitos que o
+ilustrador reportou no `08b-C` **não existem na imagem**.
+
+**a) A D9 NÃO ESTÁ QUEBRADA.** Recortei cabeça e torso das duas páginas na mesma escala
+(`01-equidna-a-caverna-C-dono.png` × `08b-o-retrato-de-origem-C.png`) e comparei lado a lado:
+
+| atributo | p. 10 | p. 38 (`08b-C`) |
+|---|---|---|
+| penteado | coque alto, ondas nas têmporas | **o mesmo coque alto, as mesmas ondas nas têmporas** |
+| olho | cinza-azulado, pálpebra alta | **idêntico** |
+| nariz · boca | reto e curto · boca pequena, canto neutro, tom laranja-queimado | **idênticos** |
+| decote | barco, com **uma** linha de drapeado | **barco, com a mesma linha de drapeado** |
+| manga | **curta, reta, cobrindo o ombro** (C2) | **curta, reta, cobrindo o ombro** — C2 cumprida |
+| cauda | manchas grandes e arredondadas em ocre / ardósia / laranja-queimado | **as mesmas manchas, nas mesmas cores** |
+| idade aparente | — | **a mesma** |
+
+O ilustrador reportou *"rosto mais jovem, cabelo em ondas soltas presas, túnica com decote
+drapeado em vez da manga curta reta"*. **Nenhuma das três descrições bate com o arquivo.** O que
+existe de delta é de **renderização**, não de identidade: a massa do cabelo está um fio mais
+cheia e o rosto um fio mais redondo — dentro da variância que o próprio par p. 10 ↔ p. 40 já
+carrega e que o gate da 3a aceitou. **É a mesma mulher, e ela está em pé nas duas — o que ajuda,
+não atrapalha.** A recomendação antiga de sentá-la (§33.3) fica **revogada**: sentada, ela
+perderia a rima de postura que é metade do que faz a D9 ser lida por uma criança.
+
+**b) A QUIMERA NÃO ESTÁ PARCIAL — ESTÁ MONTADA.** Ampliei o canto inferior esquerdo a 4×. O
+pescoço da cabra **sobe por trás da cernelha do leão**, em corpo contínuo — não há terceiro
+pescoço ao lado da cabeça do leão, que era o item 6 do `[MUST NOT APPEAR]` e o fatal (c) do §33.
+E a **cauda do leão termina numa pequena cabeça de serpente**, deitada no chão, **de boca
+fechada**, com pupila. Os dois fatais de §33.2(c) caíram.
+O que resta é **um defeito de ponto de inserção**: a cabra brota da **cernelha** e não do meio do
+dorso, então num *thumbnail* um leitor apressado ainda pode ver dois bichos. **Nomeado, não
+fatal** — e não é corrigível por edição.
+
+> **Por que isto importa além desta peça:** duas rodadas de geração teriam sido gastas contra
+> defeitos inexistentes. **Emenda de método (§38.6f):** o veredito do diretor de arte nunca é
+> emitido sobre o relatório do ilustrador — é emitido sobre **o arquivo, aberto e ampliado**.
+
+---
+
+### 38.2 🔴 O defeito que o ilustrador NÃO reportou — e está **na capa**
+
+Ampliei a juba de serpentes no peito do Cérbero da `00-capa-C` a 4×:
+
+- a serpente do topo está de **BOCA ABERTA, com presas visíveis, goela escura e LÍNGUA BÍFIDA**;
+- as **três** serpentes têm **olho de réptil**: esclera clara com **pupila em fenda vertical**.
+
+Isto fura, na peça que age sozinha na prateleira, **duas** travas ao mesmo tempo: a §6.1-3 da capa
+(*cauda-criatura de boca fechada, sem dente*) e o vocabulário da FIXÁVEL-3 (*boca aberta, língua
+bífida, presa, olho de réptil*), que até hoje só estava escrito para o corpo de Equidna e **nunca
+para a juba de serpentes nem para a serpente ornamental**. É uma lacuna do guia, não desobediência
+do ilustrador — e ela é fechada no §38.6c.
+
+**É integralmente alcançável por edição.** Ver §38.3.
+
+---
+
+### 38.3 A ERRATA DE EDIÇÃO da `00-capa-C` — 5 marcas, todas de preenchimento local (Pillow)
+
+Imagem-fonte `00-capa-C.png`, **2048×2048**; coordenadas em px da original. **Nada mais na página
+pode ser tocado** (regra anti-sacrifício, §11). Terceiro uso da errata de edição; precedentes
+`sheet-cerbero-G-REF` e §34.4.
+
+| # | Marca | Caixa (x0,y0,x1,y1) | Operação |
+|---|---|---|---|
+| **E1** | **Língua bífida** da serpente do topo, sobre papel | `630,1185,678,1205` | preencher com o **creme do papel**, amostrado em `(628,1222)` |
+| **E2** | **Boca aberta** da serpente do topo (goela escura + presas + maxilar inferior) | `660,1163,721,1200` | preencher com o **creme do corpo da serpente**, amostrado em `(706,1151)`; o contorno escuro do maxilar **superior**, que já desce até a ponta do focinho em `~(657,1172)`, passa a ser a linha da **boca fechada** |
+| **E3** | **Pupila em fenda** — serpente do **topo** | `679,1151,695,1168` | preencher **o olho inteiro** (esclera + fenda) com o **marrom escuro do contorno**, amostrado em `(674,1149)` → vira olho grande, redondo e escuro |
+| **E4** | **Pupila em fenda** — serpente do **meio** | `612,1251,629,1268` | idem E3, contorno amostrado em `(608,1249)` |
+| **E5** | **Pupila em fenda** — serpente **verde-azulada** (inferior) | `556,1369,574,1383` | idem E3, contorno amostrado em `(552,1367)` |
+
+**Método, por marca** (o mesmo do §34.4): amostrar a **mediana** de um anel de 6 px em volta da
+caixa, restrito aos pixels mais claros que a marca; preencher; `GaussianBlur(radius=2)` no
+retalho; compor com máscara elíptica de borda difusa (*feather* ~3 px) para não deixar quina.
+
+⚠️ **Em E2 a máscara precisa de duas regiões:** a parte do antigo maxilar que ficava **fora** da
+silhueta da cabeça fechada recebe o **creme do papel** (amostrado em `(640,1215)`), não o creme do
+corpo — senão a cabeça ganha um calombo.
+
+⚠️ **E3–E5 são o OPOSTO de apagar um olho:** aqui o olho **fica** e **escurece**. Olho grande e
+escuro **com pupila** é a alavanca 3 do §1.2 (*olho sem pupila, ou de réptil, = monstro*). **Não
+preencher com creme.**
+
+**Verificação obrigatória após o retoque** (ampliação 6× nas 5 caixas): nenhuma quina, nenhum
+halo; **zero língua** na página; a cabeça do topo lendo como focinho **fechado**; **zero fenda
+vertical** nos três olhos. **Gravar como `00-capa-D-REF.png`**; a `-C` fica no histórico. O arquivo
+que vai à Fase 4 é o `-REF`.
+
+---
+
+### 38.4 Peça a peça — o que passou, e o que entra declarado
+
+#### 1. ✅ `sheet-cerbero-I` — APROVADA como **a âncora** de Cérbero
+
+O que o §37 reprovou **caiu inteiro**:
+
+- ✅ **Aquarela molhada de verdade** — lavagem transparente, granulação de papel, bordas
+  molhadas, cor local sangrando. O `line-art` chapado da `-H` acabou. Sobra um **contorno escuro
+  fino**, mas ele é **linha de pincel úmido**, não traço fechado de desenho: varia de espessura,
+  abre e some. Passa no §1.3.
+- ✅ **Orelha ereta NATURAL** — base larga, pelo visível na borda, ponta arredondada e não a
+  cunha reta de faca. **A ordem do dono cumprida no atributo E no efeito.** O dobermann sumiu.
+- ✅ **Focinho mais curto, com *stop* marcado e bochecha cheia.**
+- ✅ **Três cabeças** contáveis nas três vistas, mesma contagem; cauda emplumada de cão; a
+  serpente estudada à parte; Banda A (meandro) e **Banda B (friso orientalizante de felinos sobre
+  campo de rosetas)** ambas presentes e corretas.
+- ✅ Teste §1.4a, pergunta 1: *"cachorro"* é a única resposta possível. Pergunta 2: **sim** — a
+  postura sentada, o olhar fora do eixo e a lavagem quente devolveram a amabilidade que o §37.2
+  dava por perdida.
+
+> 🟡 **DEFEITO NOMEADO:** o pelo saiu **castanho-avermelhado médio**, não **marrom escuro**, que é
+> a palavra do dono. **Entra assim mesmo, e a razão é aritmética:** o motivo pelo qual a cor
+> importa é **separar Cérbero de Órtro**, e essa separação é **relativa**, não absoluta. Ver o
+> item 5 abaixo: na p. 38 os dois estão **na mesma página**, e a distância de valor é de sobra. O
+> requisito real está cumprido. Ver a emenda §38.6d.
+>
+> 🟡 Menor: na vista frontal as duas cabeças laterais estão um pouco menores que a central.
+> Escala, não anatomia. **Não sobe ao dono.**
+
+#### 2. ✅ `00-capa-C` — APROVADA **com a errata E1–E5**, e um defeito declarado que **não** é editável
+
+- ✅ **Creme atrás das três cabeças** (§1.2b) — a trava que reprovou a `07-E` está cumprida aqui:
+  as três cabeças se recortam contra papel claro, com luz quente no rosto.
+- ✅ Três cabeças, marrom, **orelhas eretas naturais**, boca fechada, **postura sentada**.
+- ✅ Aquarela molhada; Banda A dupla nas laterais; friso inferior de serpentes e rosetas.
+- ✅ Íris **âmbar quente**, grande, com pupila.
+
+> 🔴 **DEFEITO NOMEADO E DECLARADO — a cabeça central está NO EIXO** (§6.1-2 pede o olhar
+> levemente fora). É a terceira candidata de capa (`A`, `B`, `C`) e o teto está esgotado.
+>
+> **Decido que ela entra, e argumento em vez de afrouxar em silêncio.** A §6.1-2 nasceu contra o
+> **encarar** — a cabeça de criatura que fixa a criança e a mede. O que está na página é outra
+> coisa: **um cão sentado, de boca fechada, orelhas em repouso, íris âmbar quente e macia,
+> olhando para quem abre o livro.** É a gramática do **retrato de capa**, que endereça o leitor
+> por convenção, e não a do bote. E a assimetria existe: as **duas cabeças laterais estão fora do
+> eixo**, uma para cada lado — a página **não** é uma parede de três olhares frontais.
+>
+> ⚠️ **Este é o único item das cinco peças que sobe ao dono como decisão dele, não minha**
+> (`gate.md`), porque a capa é a peça que o teste de aceitação com leitor real deveria julgar — e
+> **esse leitor continua não existindo** (pendência aberta desde o gate da 3a).
+
+> 🟡 Menor, declarado: **a cauda lê como serpente longa emoldurando o arco, não como padrão.** Não
+> reprova — ela é contínua com o corpo, sobe pelas duas laterais como laçada ornamental (REF-01) e
+> **não tem cabeça voltada ao leitor** nas pontas. É o vocabulário certo, aplicado em escala maior
+> que a pedida.
+
+#### 3. ✅ `07-cerbero-o-abraco-sem-armas-F` — APROVADA. **A peça mais limpa que este livro produziu.**
+
+Cada um dos fatais que derrubaram `A`, `B-r2`, `C-r3`, `D` e `E` está resolvido — e **sem errata
+nenhuma**:
+
+- ✅ **Cérbero SENTADO** (alavanca 1) — a `E` estava em pé, de quatro apoios, atravessando a página.
+- ✅ **As três cabeças recortadas contra o creme**, com luz quente no rosto (§1.2b). O vão negro
+  do umbral sumiu.
+- ✅ **Cauda-dragão: ZERO OLHO E ZERO BOCA.** Verifiquei a 4×: é voluta cinza-esverdeada com
+  crista de gavinhas, ornamento puro. **Cumpre a cláusula-piso da §34.3 sem gastar um pixel de
+  errata** — a `C-r3` precisou de 7 marcas para chegar aqui.
+- ✅ **Arco e clava no chão**, à direita, largados; a pele de leão vestida, a cabeça do leão
+  quieta e de olhos semicerrados; **Héracles de olhos fechados**, rosto no pelo. Sem arma na mão.
+- ✅ **Uma técnica só** nos dois corpos — o defeito das duas técnicas (§32.1) não voltou.
+- ✅ Serpente do ombro de **boca fechada**, com pupila. Banda A e friso inferior de serpentes em
+  silhueta sobre rosetas, **sem olho branco e sem língua** (a regra que o §36 finalmente fixou).
+
+> 🟡 **DEFEITO NOMEADO:** o braço direito **cruza o pescoço** da cabeça central e a mão pousa no
+> **alto da cabeça esquerda** — num relance rápido o abraço pode ler como gravata. **Entra assim.**
+> A leitura se desfaz em meio segundo: o rosto está **enterrado no pelo**, os olhos estão
+> **fechados**, o corpo está **relaxado** e as armas estão **no chão**. É a página do
+> capítulo-âncora e ela conta a cena certa — *o abraço sem armas*. **Não é corrigível por edição.**
+
+#### 4. ✅ `03-ortro-o-turno-de-trabalho-B-castanho` — APROVADA, sem ressalva material
+
+- ✅ **Castanho avermelhado/dourado**, exatamente a palavra do dono. **Duas** cabeças (Teog. 309).
+- ✅ Orelhas eretas naturais; focinho macio; boca fechada; aquarela molhada com granulação.
+- ✅ A cena do §23 intacta: o gado vermelho, o vaqueiro com o cajado, o mar e o sol baixo. O cão
+  **de pé, parado, olhando a paisagem** — turno de trabalho, não guarda em bote.
+- ✅ Nenhuma trava de adequação etária tocada.
+- ✅ **A mitigação de cor funciona:** confrontado com `07-F` e com a `00-capa-C`, o dourado de
+  Órtro e o castanho de Cérbero **não se confundem em nenhuma das duas leituras**, nem à distância.
+
+#### 5. ✅ `08b-o-retrato-de-origem-C` (p. 38) — APROVADA. **A última posição vazia do miolo fecha.**
+
+Os **quatro fatais** do §33.2 e os **dois menores** do §33.3 caíram, quase todos:
+
+| Fatal do §33 | Estado na `-C` |
+|---|---|
+| (a) Cérbero ausente | ✅ **presente** — 3 cabeças, **marrom escuro**, orelhas eretas naturais, **cauda-dragão** enrolada atrás |
+| (b) Hidra de uma cabeça, olho sem pupila | ✅ **três cabeças** saindo da água como juncos, **pupila em todas**, sobre lavagem contínua |
+| (c) Quimera desmontada | ✅ **montada** — cabra pelo dorso, **cauda em cabeça de serpente** de boca fechada (§38.1b) |
+| (d) Banda B não desenhada | 🟡 **continua não desenhada** — ver defeito nomeado |
+| Esfinge de *nemes* egípcio | ✅ **grega**, cabelo escuro liso, sem touca, sem listra, com o leão menor ao lado, ao fundo |
+| Equidna em pé | ✅ **em pé, e agora é virtude** (§38.1a) — revoga a recomendação de sentá-la |
+
+E o que já estava certo continua certo: **D9 ✔ · D9-A (zero perna humana, zero pé, zero joelho,
+zero sandália) ✔ · régua D6 item a item ✔ · FIXÁVEL-3 (anéis deitados, eixo paralelo à base,
+contidos na moldura, sem cabeça de frente, sem bote, sem losango) ✔ · moldura temporal / gate N1
+(zero tristeza, zero presságio, zero porta, ninguém guarda nada, ela está ENTRE eles e não acima)
+✔ · Tifão fora de quadro ✔ · tratamento do dono ✔.**
+
+**A contagem R4.2 fecha: cinco nítidos exatos** — Equidna, Cérbero, Órtro, Quimera, Hidra; Esfinge
+e Leão menores e mais atrás, na sombra.
+
+**Teste §1.4a (proxy, sem leitor real):** *"o que é isso?"* → *"uma moça com uma cobra grande, um
+cachorro de três cabeças, um cachorro de duas, um leão com uma cabra nas costas e um dragão de
+três cabeças na água."* **Nomeia a página certa**, nomeia animais, **não diz "monstro"**, e o
+dragãozinho de olho branco que causava hesitação **não existe mais**.
+
+> 🟡 **DEFEITO NOMEADO 1 — a Banda B (friso orientalizante) não foi desenhada.** Só há a Banda A
+> (meandro + palmetas), correta e bonita. **Entra assim, e a razão é que o dispositivo ficou
+> discutível:** a Banda B era obrigatória **como anti-anatomia** — o lugar para onde a multidão
+> das criaturas poli-cefálicas escorreria em vez de virar bicho. Nesta página **a anatomia saiu
+> certa sem ela**: a Hidra tem três e só três, a Quimera é um animal, o Cérbero tem três. O
+> dispositivo protegia contra uma falha que **não ocorreu**.
+>
+> 🟡 **DEFEITO NOMEADO 2 — a cabra brota da cernelha, não do meio do dorso** (§38.1b). Não editável.
+
+---
+
+### 38.5 A pergunta da D9 na p. 38 — **o rigor pertence ao par 10 ↔ 40**
+
+A pergunta foi feita, e ela merece resposta doutrinária mesmo que **não decida esta peça** — porque
+esta peça passa também na leitura estrita (§38.1a). Respondo para o guia, para o livro 3 e para que
+ninguém gaste uma rodada com isto de novo.
+
+**A D9 não é uma regra de semelhança; é o mecanismo de uma promessa.** A promessa é a frase que o
+cap. 3 faz à criança: *"a caverna continua aberta até a última página"*. Uma criança de quatro anos
+**não verifica** essa promessa comparando atributos — ela a verifica por **retorno**: a mesma
+mulher, no mesmo lugar, no mesmo enquadramento, nas **duas pontas do livro**. É o retorno que prova
+que nada se fechou. Por isso a D9 nasceu com mecanismo de execução (anexar a p. 10 aprovada) e por
+isso ela custou um piloto inteiro na Fase 3a.
+
+**A p. 38 não é o retorno.** É outro **gênero** (retrato de família, não cena), noutro **tempo** (o
+tempo de origem, antes de tudo), noutra **moldura**, com um **elenco inteiramente diferente**
+ocupando a página. A pergunta que a criança faz diante da p. 38 não é *"é ela de novo?"* — é *"quem
+são esses?"*. A p. 38 é a página do **elenco**, e a mulher está lá como **mãe**, não como âncora
+temporal.
+
+> ## **VEREDITO DOUTRINÁRIO: a D9 alcança a p. 38 em REGIME DE RECONHECIBILIDADE, não de trava de identidade.**
+>
+> Na p. 40 ela é **trava de identidade**: qualquer deriva legível é **FATAL**, porque a deriva
+> desmonta a promessa. Em qualquer outra página que carregue a personagem — p. 38 inclusive — ela é
+> **reconhecibilidade**: a mulher precisa ser identificável como a mesma pessoa, e uma deriva de
+> renderização é **defeito nomeado**, nunca fatal.
+>
+> **O contrato do cap. 3 está cumprido pelo par 10 ↔ 40, e ele já fechou** (§17: *"CUMPRIDA. Sem
+> fallback."*). Estender o rigor do retorno a uma página que não é retorno é **régua sem leitura** —
+> o anti-padrão que a `mito-adequacao-etaria` nomeou na `DIRECAO-DO-DONO.md` e que já custou caro
+> uma vez a este livro.
+>
+> ⚠️ **E registro o limite da própria regra, para que ela não vire folga:** este rebaixamento vale
+> **só** para a personagem que já tem o par de retorno cumprido, **só** fora dele, e **nunca** como
+> autorização para gerar uma peça sem anexar a referência canônica. O mecanismo de execução da D9
+> (anexar a p. 10 aprovada) **continua obrigatório em toda peça com Equidna**, sem exceção — foi ele
+> que produziu o acerto da `08b-C`.
+
+---
+
+### 38.6 O que sai daqui para o guia — emenda **v2.7**
+
+- **a) §D9 passa a ter dois regimes**, redigidos: **trava de identidade** no par de retorno
+  (p. 10 ↔ p. 40) · **reconhecibilidade** em toda outra peça. O **mecanismo** (anexar a peça
+  canônica aprovada) é obrigatório nos dois regimes.
+- **b) §6.1-2 (eixo do olhar na capa) — emendada.** O olhar fora do eixo continua **obrigatório
+  para cabeça de criatura dentro de cena**. **Na capa**, um olhar frontal da cabeça central é
+  **permitido** se e só se cumprir **as quatro condições juntas**: íris quente e grande **com
+  pupila** · **boca fechada** · **orelhas em repouso** · **postura sentada** — e as cabeças
+  laterais fora do eixo. Decidida sob teto delegado; **reversível a pedido do dono**.
+- **c) FIXÁVEL-3 e §1.5e — ESTENDIDAS A TODA SERPENTE DA PÁGINA.** Era a lacuna do §38.2. Passa a
+  valer, vinculante, para **qualquer serpente do livro** — corpo de Equidna, **juba de serpentes de
+  Cérbero**, cauda-criatura, serpente ornamental e friso: **proibidos boca aberta, presa, língua
+  bífida e pupila em fenda vertical.** Olho de serpente é **redondo e escuro, com pupila**, ou não
+  existe. Redigir **na mesma frase** da descrição da serpente, nunca em bloco separado (a lição do
+  §34.5).
+- **d) §3.2 (Cérbero) — a cor vira DELTA, não valor absoluto.** "Marrom escuro" continua sendo a
+  palavra do dono e o alvo. Mas o **critério de aceitação** passa a ser a **distância de valor
+  contra o dourado de Órtro**, medida **na peça em que os dois dividem a página** (hoje a p. 38).
+  Registro que **na `08b-C` a distância é de sobra** e que nenhuma criança confundirá os dois. Um
+  castanho-avermelhado médio que mantém o delta **cumpre o requisito**; um que o perde, não.
+- **e) A errata de edição é ferramenta permanente, com fronteira escrita.** Terceiro uso
+  (`sheet-cerbero-G-REF` · §34.4 · §38.3). **Só** para **apagar ou escurecer um traço local dentro
+  de uma gramática já correta**. **Nunca** para construir o que está ausente, nunca para mover
+  figura, nunca para mudar composição. Se a gramática está errada, é rodada — não é errata.
+- **f) 🔴 Emenda de MÉTODO, e é a mais importante desta sessão.** O veredito do `mito-diretor-arte`
+  **nunca** é emitido sobre o relatório do ilustrador: é emitido sobre **o arquivo aberto e
+  ampliado**. O relatório é **pista**, não prova. Nesta sessão o laudo apontou dois defeitos
+  inexistentes (D9 e Quimera) e **deixou de apontar o único defeito de capa que havia** (boca
+  aberta e olho de réptil na juba). Confiar no laudo teria custado duas rodadas **e publicado a
+  capa com a língua bífida**.
+- **g) Pendência de ficha herdada, ainda aberta:** **§3.6 (Tifão)** precisa da emenda que revoga o
+  `NEVER a whole man's face` (§36). Vai ao gate como pendência, não como bloqueio.
+
+### 38.7 O que vai para a Fase 4
+
+| posição | arquivo que segue |
+|---|---|
+| capa | **`00-capa-D-REF.png`** (após a errata §38.3) |
+| p. 33 | `07-cerbero-o-abraco-sem-armas-F.png` — **substitui** a `D-REF` do §34, que fica no histórico |
+| p. 18 | `03-ortro-o-turno-de-trabalho-B-castanho.png` |
+| p. 38 | `08b-o-retrato-de-origem-C.png` |
+| âncora de personagem | `sheet-cerbero-I.png` |
+
+**Nenhuma peça do miolo fica em aberto. A Fase 3b encerra.**
+
+---
+
+## §39 — A errata da capa (§38.3) NÃO é executável por edição. Registro do fracasso.
+
+O orquestrador tentou a errata **duas vezes**, com os dois métodos que já haviam funcionado
+antes (preenchimento por mediana de anel, e troca seletiva por luminância dentro da caixa).
+**As duas falharam, e falharam de modos diferentes:**
+
+1. **Preenchimento por caixa** (o método do `sheet-cerbero-G-REF` e do §34.4): o creme do corpo
+   **vazou para fora da silhueta da cabeça** — exatamente o "calombo" que o §38.3 previu — e os
+   três olhos viraram **borrões**, porque escurecer uma caixa inteira apaga a forma do olho junto.
+2. **Troca seletiva por luminância**: os olhos ficaram com **quadrado escuro visível** (a fronteira
+   da caixa aparece, porque a esclera clara e o papel claro têm luminância parecida) e a boca
+   ficou com **rastro borrado** onde estavam as presas.
+
+**Por que este caso é diferente dos dois que deram certo:** nas erratas anteriores a operação era
+**subtrair** uma marca pequena sobre fundo homogêneo (um olho dentro de pelo creme; um estudo
+inteiro sobre papel liso). Aqui há **três operações distintas na mesma vizinhança** — apagar sobre
+papel, apagar sobre corpo, e **escurecer preservando forma** —, com a silhueta da cabeça passando
+no meio. Preenchimento chapado não resolve forma; só pintura resolve.
+
+**Regra que sai daqui, para o guia:** a errata de edição serve para **remover marca pequena sobre
+fundo homogêneo**. Quando a correção exige **preservar ou criar forma** (um olho que continua
+sendo olho, uma boca que passa a estar fechada), **é geração, não edição** — e insistir custa mais
+que uma rodada.
+
+**Encaminhamento:** a capa vai a **uma rodada de geração** com a instrução explícita da serpente
+da juba (boca fechada, sem língua, sem presa, e olho redondo escuro com pupila, nunca fenda
+vertical). A `00-capa-C.png` fica como candidata viva: se a rodada nova piorar qualquer outra
+coisa, ela entra com o defeito nomeado.

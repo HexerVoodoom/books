@@ -1,0 +1,6 @@
+
+# PDFs intermediários de diagramação: artefatos de build, regeráveis com
+# `typst compile --root .. miolo.typ miolo.pdf`. Passam de 100 MB (o teto do
+# GitHub) porque carregam as ilustrações a 300 dpi sem compressão.
+# O que VAI para o repositório é o PDF/X final (miolo-grafica.pdf, ~14 MB).
+producao/*/diagramacao/miolo.pdf

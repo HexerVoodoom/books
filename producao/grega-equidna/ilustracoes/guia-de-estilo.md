@@ -22,6 +22,52 @@
 > `06v2` 169×44 mm ≈ 4:1). Corrige a contradição entre os pacotes A2/A3 e o §0.1. A full-bleed
 > de página continua `Square 1:1`, intocada.
 >
+> 🔴 **EMENDA v2.7 (Fase 3b, 9ª sessão — CURADORIA FINAL — `curadoria-3b.md` §38).** A emenda de
+> fechamento do miolo. **Sete itens, e o (c) e o (f) são os que mudam o livro 3:**
+>
+> **(a) §D9 passa a ter DOIS REGIMES.** A D9 não é regra de semelhança, é o mecanismo de uma
+> promessa — *"a caverna continua aberta até a última página"* — e a criança verifica essa promessa
+> por **retorno**, não por comparação de atributos. Logo: **trava de identidade** no par de retorno
+> (p. 10 ↔ p. 40), onde qualquer deriva legível é **FATAL**; **reconhecibilidade** em toda outra
+> peça que carregue a personagem (p. 38 inclusive), onde a mulher precisa ser identificável como a
+> mesma pessoa e uma deriva de renderização é **defeito nomeado, nunca fatal**. ⚠️ O **mecanismo**
+> (anexar a peça canônica aprovada) continua **obrigatório nos dois regimes**, sem exceção — o
+> rebaixamento é do critério de julgamento, **nunca** da disciplina de execução.
+>
+> **(b) §6.1-2 (eixo do olhar) — restringida ao interior.** O olhar fora do eixo continua
+> **obrigatório para cabeça de criatura dentro de cena**. **Na capa**, o olhar frontal da cabeça
+> central é **permitido** se e só se cumprir **as quatro condições juntas** — íris quente e grande
+> **com pupila** · **boca fechada** · **orelhas em repouso** · **postura sentada** — e as cabeças
+> laterais estiverem fora do eixo. É a gramática do retrato de capa, não a do bote. Decidida sob
+> teto de rodadas esgotado e delegação do dono; **reversível a pedido dele**.
+>
+> **(c) 🔴 FIXÁVEL-3 e §1.5e — ESTENDIDAS A TODA SERPENTE DA PÁGINA.** Era a lacuna que quase
+> publicou a capa com uma língua bífida. O vocabulário proibido estava escrito **só para o corpo de
+> Equidna**; passa a valer, **vinculante, para qualquer serpente do livro** — corpo de Equidna,
+> **juba de serpentes de Cérbero**, cauda-criatura, serpente ornamental e friso: **proibidos boca
+> aberta, presa, língua bífida e pupila em fenda vertical.** Olho de serpente é **redondo e escuro,
+> com pupila**, ou não existe. Redigir **na mesma frase** da descrição da serpente, nunca em bloco
+> separado (a lição do §34.5).
+>
+> **(d) §3.2 (Cérbero) — a cor vira DELTA, não valor absoluto.** *"Marrom escuro"* continua sendo a
+> palavra do dono e o alvo. O **critério de aceitação**, porém, passa a ser a **distância de valor
+> contra o dourado de Órtro**, medida **na peça em que os dois dividem a página** (a p. 38). Um
+> castanho-avermelhado médio que mantém o delta **cumpre o requisito**; um que o perde, não.
+>
+> **(e) A errata de edição é ferramenta permanente, com fronteira escrita.** Terceiro uso
+> (`sheet-cerbero-G-REF` · §34.4 · §38.3). **Só** para **apagar ou escurecer um traço local dentro
+> de uma gramática já correta**. **Nunca** para construir o que está ausente, mover figura ou mudar
+> composição. Gramática errada é rodada — não é errata.
+>
+> **(f) 🔴 EMENDA DE MÉTODO.** O veredito do `mito-diretor-arte` **nunca** é emitido sobre o
+> relatório do ilustrador: é emitido sobre **o arquivo, aberto e ampliado**. O relatório é **pista,
+> não prova**. Na 9ª sessão o laudo apontou **dois defeitos inexistentes** (D9 quebrada, Quimera
+> parcial) e **omitiu o único defeito de capa que havia**; confiar nele teria custado duas rodadas
+> e publicado a capa com a língua bífida.
+>
+> **(g) Pendência aberta:** a ficha **§3.6 (Tifão)** ainda precisa da emenda que revoga o
+> `NEVER a whole man's face` (§36). Não bloqueia a Fase 4; **bloqueia o livro 3**.
+>
 > **Este guia é um DELTA.** Ele **herda integralmente** `producao/grega/guia-de-estilo.md`
 > (livro 1) — fórmula Mucha + aquarela, camada cultural de cerâmica ática, hierarquia X5
 > ("a cerâmica emoldura; Mucha atua"), paleta hex §2, parâmetros de geração §3, entrega e
@@ -818,18 +864,30 @@ determinable age — never a girl, never an old woman, and IDENTICAL in every ap
 
 `character-sheets/sheet-cerbero.png` · caps. **7, 8A (mais novo), CAPA**
 
+> 🔴 **EMENDA v2.6 — `DIRECAO-DO-DONO-2.md` (2026-09-02), curadoria §37.** Ordem do dono:
+> **três cabeças contáveis, marrom escuro, orelhas em pé.** Isto **revoga, para Cérbero e só
+> para ele:** a não-contabilidade (D2 · §1.5e), a **orelha caída** como alavanca principal
+> (§1.5a-1) e a fórmula das três camadas / do ornamento. **Hidra, Ladon e Tifão não mudam.**
+> 🔴 **Precisão de execução, comprada com três peças reprovadas (§37.2): "orelha em pé" é
+> orelha ereta NATURAL — base larga, ponta arredondada, pelo na borda. NÃO é a orelha cortada
+> em ponta reta do dobermann**, que carrega sozinha metade da leitura de cão de guarda.
+> A amabilidade de Cérbero passa a se apoiar em **seis alavancas**: postura sentada · olhar
+> fora do eixo · luz quente no rosto · focinho curto e macio · orelha ereta de base larga e
+> ponta arredondada · **aquarela lavada, nunca preenchimento chapado com contorno preto**.
+
 ```
-CERBERUS: an enormous dog sitting at the gate of the world below. EXACTLY THREE sharp heads
-in front, side by side and overlapping, each with a fully readable and likeable dog face in
-art nouveau watercolour, each face receiving the warm light. BEHIND them, ONE SINGLE
-CONTINUOUS MASS of wet-on-wet watercolour fur: one silhouette, one body of paint, soft
-bleeding edges everywhere, NO outline anywhere, NO eyes at all in that mass; it dissolves
-INTO THE LIGHT, into warm cream and ochre, never into black and never into a dark gap. Along
-his BACK, not his neck, run the heads of snakes of all sorts, resolved as ornamental rhythm.
-His TAIL IS A DRAGON and it moves with a will of its own — the tail carries all the danger of
-the picture, and it has no open mouth, no visible teeth and no eye turned to the viewer. His
-ears are black and heavy and CAN FALL — a lowered ear is the sign of a dog that yields. His
-voice is bronze: he does not bark, he resounds. He SITS. That is what he does.
+CERBERUS: an enormous dog sitting at the gate of the world below. He has EXACTLY THREE HEADS
+- three, countable, side by side and overlapping - each with a fully readable and likeable dog
+face in art nouveau WET watercolour, each face receiving the warm light. His coat is DARK
+BROWN, painted in transparent washes that bleed into one another, with the grain of the paper
+showing; never flat fill, never a hard black outline. His EARS STAND UP: upright ears with a
+WIDE BASE and a SOFT ROUNDED TIP, furred at the edge - never cropped, never a straight knife
+point. His MUZZLE IS SHORT AND SOFT, with a marked stop and full cheeks - never the straight
+wedge of a guard dog. Along his BACK, not his neck, run the heads of snakes of all sorts,
+resolved as ornamental rhythm. His TAIL IS A DRAGON and it moves with a will of its own - the
+tail carries all the danger of the picture, and it has NO open mouth, NO visible teeth and NO
+eye turned to the viewer. His voice is bronze: he does not bark, he resounds. He SITS. That is
+what he does.
 ```
 - **[FONTE]:** cauda de dragão · serpentes **no dorso** (Apolod. 2.5.12) · voz de bronze
   (*Teog.* 311) · orelhas pretas que baixam (Hor. *Odes* 2.13.34–35) · sentado no portão ·
@@ -839,12 +897,11 @@ voice is bronze: he does not bark, he resounds. He SITS. That is what he does.
   a ânfora do Pintor de Andokides, Louvre F 204 (REF-02), mostram exatamente isso. A ideia de
   "cabeças demais para contar" **não existe na imagem antiga**; ela existe só no eixo
   literário, onde o número varia entre fontes.
-- 🔴 **[NOSSO], com o motivo declarado:** a não-contabilidade **não é fidelidade
-  iconográfica — é ADEQUAÇÃO ETÁRIA**, e tem precedente próprio na coleção (o Cem-Mãos do
-  livro 1 foi reprovado justamente por ficar contável). A regra D2 continua valendo por
-  inteiro; o que se corrige aqui é o **rótulo**. Página de Fontes, verbatim:
-  *"a arte grega desenhava Cérbero com duas ou três cabeças; aqui ele tem tantas que ninguém
-  conta — foi escolha nossa, para este livro."*
+- 🔴 **[FONTE + ICONOGRAFIA], v2.6:** as **três cabeças** deste livro **voltam à iconografia
+  antiga** (REF-01, REF-02) e ao número clássico. ~~A não-contabilidade como escolha nossa~~
+  **caiu** por decisão do dono — e a decisão é **mais fiel, não menos**. Página de Fontes,
+  verbatim novo: *"a arte grega desenhava Cérbero com duas ou três cabeças, e é assim que ele
+  está aqui; Hesíodo, num poema, escreveu cinquenta."*
 - **[NOSSO]:** cor e textura do pelo · a leitura "cão grande esperando" · quais cabeças ficam
   nítidas.
 - ✂️ **Cortado:** "come carne crua" (*Teog.* 311), mesma régua de Equidna.
@@ -897,12 +954,18 @@ HANDS, never in his face and never in the face of the creature he touches.
 `character-sheets/sheet-ortro.png` · caps. **3, 8A**
 
 ```
-ORTHUS: a large dog with TWO HEADS — exactly two, this is the one countable creature in the
-book. Art nouveau watercolour, both faces readable and likeable to a four-year-old without
+ORTHUS: a large dog with TWO HEADS - exactly two. He is BUILT LIKE HIS BROTHER CERBERUS - the
+same dog, the same coat, the same upright ears with a WIDE BASE and a SOFT ROUNDED TIP, never
+cropped and never a knife point, the same SHORT SOFT MUZZLE - but his coat is LIGHTER: a warm
+REDDISH-GOLDEN CHESTNUT, painted in transparent wet watercolour washes, never flat fill and
+never a hard black outline. Both faces readable and likeable to a four-year-old without
 becoming a cartoon, both faces receiving the warm light. The two heads do DIFFERENT THINGS AT
 THE SAME TIME: one lowered, counting the herd; the other raised, turned to the horizon of the
 sea. He is a working dog on his shift, never a beast. He has NO serpent tail.
 ```
+> 🔴 **EMENDA v2.6 — `DIRECAO-DO-DONO-2.md`.** Ordem do dono: Órtro **parecido com Cérbero,
+> em castanho avermelhado/dourado (marrom mais claro)**. A cor deixa de ser [NOSSO] livre e
+> passa a ser **ficha**; a rima de família deixa de ser opção e passa a ser **construção**.
 - **[FONTE]:** duas cabeças (Apolod. 2.5.10). **É o único número explícito da fonte no livro,
   e por isso a única criatura contável** — a regra D2 não se aplica a ele.
 - **[ICONOGRAFIA]:** a cerâmica antiga desenha Órtro **com cauda de serpente**, com frequência.
@@ -916,7 +979,8 @@ sea. He is a working dog on his shift, never a beast. He has NO serpent tail.
   "cachorro" na primeira olhada, e uma cauda de serpente reintroduz a leitura de híbrido
   monstruoso na única página que é sobre rotina. **Proibida por adequação, não por falta de
   lastro.**
-- **[NOSSO]:** porte, cor, pelo, e a leitura "duas cabeças fazendo coisas diferentes" — a
+- **[NOSSO]:** porte, pelo (**a cor agora é ficha, não escolha livre — v2.6**), e a leitura
+  "duas cabeças fazendo coisas diferentes" — a
   fonte é **muda** sobre isso, e é justamente esse silêncio que autoriza a expressão.
 - ⚠️ **Continuidade cap. 8A:** o mesmo cão, **uma cabeça dormindo**.
 - 🎨 **Rima de família autorizada (declarada como [NOSSO]):** Órtro e Cérbero são irmãos
@@ -1375,13 +1439,14 @@ meandro** — o arco é o elemento serial; **o que muda por livro é o ornamento
 
 **Composição:**
 
-- **Figura única, frontal, dentro do arco: Cérbero SENTADO no umbral do portão**, de frente,
-  ocupando a altura do arco. **Duas cabeças nítidas e legíveis** (a fórmula das três camadas
-  na sua forma mais econômica — a capa é onde a legibilidade importa mais), e atrás delas a
-  **massa contínua molhado-sobre-molhado** do §1.5(b), sem contorno, sem olhos, dissolvendo
-  para o creme.
-- **Uma orelha começando a baixar.** É a alavanca principal da amabilidade (Horácio), é
-  fonte, e é o traço que faz o leitor de 4 anos dizer "cachorro" à distância de uma prateleira.
+- **Figura única, dentro do arco: Cérbero SENTADO no umbral do portão**, ocupando a altura do
+  arco. 🔴 **TRÊS cabeças nítidas e contáveis (emenda v2.6 — o pacote F10 pedia duas; a direção
+  do dono vence e o pacote fica emendado).** ~~A massa contínua atrás delas~~ **sai**: não há
+  camada 2 em Cérbero.
+- 🔴 **As três orelhas EM PÉ, eretas naturais** — base larga, ponta arredondada, pelo na borda.
+  ~~Uma orelha começando a baixar~~ **revogada** pela direção do dono. A amabilidade à distância
+  da prateleira passa a vir do **focinho curto e macio, da aquarela lavada e do olhar fora do
+  eixo** — e **jamais** da orelha cortada em ponta reta, que reprova a capa sozinha (§37.2).
 - **A escala faz o trabalho do susto:** o portão atrás dele é **cortado pela borda de cima** e
   o alto do arco. O adulto entende que a coisa é enorme; a criança vê um cachorro esperando.
 - **A cauda de dragão** aparece **enrolada em torno do ARCO MUCHA, virando ornamento** — o

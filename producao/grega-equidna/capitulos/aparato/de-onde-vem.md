@@ -54,11 +54,11 @@ hábito de cão vivo; é comparação do narrador com o mundo de hoje, e por iss
 diz "é por isso que" nem "desde então". *(3)* **A ternura da devolução de Cérbero** — a volta ao
 portão é fato de Apolodoro; o afeto é imagem nossa.
 
-**As cabeças que não se contam.** Hesíodo escreveu um número para Cérbero, Horácio escreveu
-outro muito maior, Apolodoro escreveu outro bem menor. Nenhum bate com o outro. A arte grega
-antiga, por sua vez, desenhava Cérbero com duas ou três cabeças, sempre contáveis: **a
-não-contabilidade é escolha nossa, de adequação à idade**, e não achado de fonte. O mesmo vale
-para Ladon e a Hidra.
+**As cabeças de Cérbero.** Hesíodo escreveu cinquenta, Horácio escreveu cem, Apolodoro escreveu
+três. Nenhum bate com o outro. A arte grega antiga, por sua vez, desenhava Cérbero com duas ou
+três cabeças, sempre contáveis — e é a ela que este livro segue: **as três cabeças destas
+páginas vêm da iconografia antiga**, não do número de Hesíodo. Para Ladon e a Hidra, sem número
+contável, a escolha é nossa, de adequação à idade.
 
 **O rosto de Equidna.** Não existe representação antiga segura dela. O rosto destas páginas é
 reconstrução a partir do texto de Hesíodo — metade mulher, de faces bonitas; metade serpente

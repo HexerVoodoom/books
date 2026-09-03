@@ -3,7 +3,7 @@
 > Tipo: **específico** · Dossiê: `pesquisa/dossie-ortro.md` ·
 > Teto vigente (livro-spec `grega-equidna`): **500–600 palavras** de texto corrido +
 > **1 box, máx. 80**.
-> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-revisão final): texto corrido = 525 · box = 55.** ✔
+> **Contagem RECONTADA POR EXECUÇÃO (R4.4, pós-direção do dono nº 2): texto corrido = 533 · box = 55.** ✔
 > (teto 500–600 · box ≤80.)
 > **MORTE EM CENA 1 de 2 do livro** — regra-de-luto cumprida: **uma** frase de elipse digna,
 > uma única vez, dentro deste capítulo. Estrutura: **ROTINA DE TRABALHO**.
@@ -20,7 +20,7 @@ Longe, na ponta mais a oeste do mar — tão a oeste que era ali que o sol ia se
 
 O gado era de Gerião, e Gerião quase nunca aparecia.
 
-Quem aparecia todo dia eram dois. Euritião, o boieiro, com o cajado no ombro. E Órtro, o cão de duas cabeças.
+Quem aparecia todo dia eram dois. Euritião, o boieiro, com o cajado no ombro. E Órtro, o cão de duas cabeças, castanho avermelhado, cor de folha seca no sol.
 
 De manhã, as duas cabeças acordavam ao mesmo tempo. Uma olhava o caminho da água. A outra olhava o caminho do mato. Depois trocavam, só para variar.
 
@@ -80,8 +80,10 @@ sombra ameaçadora, não há sangue nem corpo.
   (número obrigatório — Apolod. 2.5.10), porte grande, **amável na primeira olhada** para o
   leitor de 4 anos, sem virar desenho animado. **Uma cabeça baixa, contando o rebanho; a outra
   erguida, virada para o horizonte do mar.** É a expressão que carrega o capítulo inteiro.
-  Nada mais é descrito na fonte antiga: porte, cor e pelo são licença de arte, **e a cauda de
-  serpente dos vasos NÃO deve ser usada** (sem lastro textual).
+  **Cor: castanho avermelhado/dourado** (direção do dono nº 2, 2026-09-02) — mesma construção de
+  cão que o Cérbero do cap. 7, um tom mais claro. Nada disso é descrito na fonte antiga: porte,
+  cor e pelo são licença de arte, **e a cauda de serpente dos vasos NÃO deve ser usada** (sem
+  lastro textual).
 - **O gado vermelho**: a única cor nomeada do capítulo, e o título vive dela — **vermelho de
   fim de tarde**, não terracota apagado. Em friso descendo para a água, **sem número legível**
   (a fonte não diz quantas, e a imagem não afirma o que o texto não afirma).
